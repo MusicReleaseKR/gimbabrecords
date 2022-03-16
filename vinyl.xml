@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ Vinyl</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 16 Mar 2022 05:10:59 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Mar 2022 06:13:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Big Sean / Finally Famous (10th Anniversary Deluxe Edition, 2LP) *구매시 유의사항을 확인하세요.]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=18422&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=18422&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Wed, 16 Mar 2022 06:10:45 GMT</pubDate>
+            <content:encoded><![CDATA[42,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202203/f53578321248ab4f2e9336ca5a50e64d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[OST (Various Artists) / Songs From the Aristocats 아리스토캣 (Vinyl, Picture Disc)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=18420&amp;cate_no=25&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Sun, 13 Mar 2022 07:07:59 GMT</pubDate>
             <content:encoded><![CDATA[32,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202203/25ce8e16bfe12688dac4edf32873946e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Cat Power / Covers (Black Vinyl + Download)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=18407&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=18407&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Sun, 13 Mar 2022 07:07:59 GMT</pubDate>
-            <content:encoded><![CDATA[37,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202203/cf15444dea2d12f3545529ad17481751.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
