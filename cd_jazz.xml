@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ CD ─ Jazz</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Mar 2022 06:13:45 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Mar 2022 07:19:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Ornette Coleman / Genius of Genius: The Contemporary Albums (Deluxe 2CD Boxset)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=18489&amp;cate_no=46&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=18489&amp;cate_no=46&amp;display_group=1</guid>
+            <pubDate>Mon, 21 Mar 2022 07:18:00 GMT</pubDate>
+            <content:encoded><![CDATA[30,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202203/7249dbcc504e310546d4db2a5bc30109.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Bill Evans / Smile With Your Heart: The Best of Bill Evans on Resonance (CD) *할인상품]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=18361&amp;cate_no=46&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Sat, 12 Mar 2022 16:25:45 GMT</pubDate>
             <content:encoded><![CDATA[19,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202202/9d9f8db1f521cdbe2064f82f5d7f75c3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Johnny Griffin / The Congregation (CD, Blue Note 80주년 기념 More 60 Works 시리즈, JPN Import) *마지막 재고]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=18272&amp;cate_no=46&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=18272&amp;cate_no=46&amp;display_group=1</guid>
-            <pubDate>Sat, 12 Mar 2022 16:25:45 GMT</pubDate>
-            <content:encoded><![CDATA[19,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202202/985fc17e61139fdacac829fcff1e7a31.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
