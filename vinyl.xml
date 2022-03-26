@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ Vinyl</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 26 Mar 2022 14:09:17 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Mar 2022 15:11:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Barrie / Dig / Frankie (Limited Clear 7" Vinyl) *300매 한정제작 / 할인상품]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=18535&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=18535&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Sat, 26 Mar 2022 15:08:45 GMT</pubDate>
+            <content:encoded><![CDATA[16,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202203/0f9177597c1b90b64e37b517f4cda20c.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Hermeto Pascoal / Planetário da Gávea (Vinyl, 2LP) *할인상품]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=18532&amp;cate_no=25&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Fri, 25 Mar 2022 06:11:05 GMT</pubDate>
             <content:encoded><![CDATA[35,100원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202203/457c51182e617a00a18fda65d6405d11.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Enrico Pieranunzi, Thomas Fonnesbaek / The Real You (180g Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=18518&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=18518&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Fri, 25 Mar 2022 06:11:05 GMT</pubDate>
-            <content:encoded><![CDATA[33,800원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202203/bfb53dc91fa072f6277d7509df36c9a7.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
