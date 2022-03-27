@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 27 Mar 2022 18:11:27 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Mar 2022 19:09:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -104,6 +104,14 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202203/dbda8790592bf078aabb2f0231636b24.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Various Artists / V4 Visions: Of Love & Androids (Rotary Heart Red Vinyl, 2xLP, NUMERO 194) (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=18556&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=18556&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Sun, 27 Mar 2022 19:07:08 GMT</pubDate>
+            <content:encoded><![CDATA[45,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202203/ce38fcab8a243bbf9572ce4059efc4c6.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Mono 모노 / Before The Past • Live From Electrical Audio (Limited Clear w/ Pink Smoke Vinyl) *할인상품 (김밥레코즈 ─ Vinyl)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=18555&amp;cate_no=25&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=18555&amp;cate_no=25&amp;display_group=1</guid>
@@ -190,14 +198,6 @@
             <pubDate>Sat, 26 Mar 2022 13:14:05 GMT</pubDate>
             <content:encoded><![CDATA[39,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202203/d6f3f55d7362fecb089638ecef0ef742.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[My Morning Jacket / Evil Urges (Vinyl, 45rpm 2LP, Newly Remastered) *한정수량 할인 (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=18526&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=18526&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Sat, 26 Mar 2022 13:14:05 GMT</pubDate>
-            <content:encoded><![CDATA[39,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202203/82216cdb0e30020a085b371a4799a298.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Barrie / Barbara (Blue Cassette) *한정수량 할인 (김밥레코즈 ─ Cassette)]]></title>
