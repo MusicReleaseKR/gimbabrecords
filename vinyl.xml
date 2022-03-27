@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ Vinyl</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 27 Mar 2022 14:10:48 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Mar 2022 15:10:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Branko Mataja / Over Fields And Mountains (White Blossom Colored Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=18551&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=18551&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Sun, 27 Mar 2022 15:08:20 GMT</pubDate>
+            <content:encoded><![CDATA[34,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202203/4dc1da7f31d307d91f832666a7647890.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Suede / Coming Up (Limited Clear Vinyl, 25th Anniversary) *할인상품 (모서리에 작은 눌림자국이 있습니다.)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=18550&amp;cate_no=25&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Sat, 26 Mar 2022 05:08:09 GMT</pubDate>
             <content:encoded><![CDATA[34,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202203/27457f896385ca5985e18304830ca1ef.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Big Runga / Close Your Eyes (Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=18521&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=18521&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Sat, 26 Mar 2022 05:08:09 GMT</pubDate>
-            <content:encoded><![CDATA[29,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202203/84b578a99bf4d9e49f6a8cea9385d398.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
