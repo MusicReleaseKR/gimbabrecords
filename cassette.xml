@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ Cassette</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Apr 2022 17:15:30 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Apr 2022 18:12:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Father John Misty / Chloë and the Next 20th Century (Cassette)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=18623&amp;cate_no=26&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=18623&amp;cate_no=26&amp;display_group=1</guid>
+            <pubDate>Thu, 07 Apr 2022 18:10:13 GMT</pubDate>
+            <content:encoded><![CDATA[15,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202204/a798f3f842ec406c067897ef6942a1d3.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Khruangbin & Leon Bridges / Texas Moon (Blue Cassette)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=18570&amp;cate_no=26&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Sat, 12 Mar 2022 16:24:40 GMT</pubDate>
             <content:encoded><![CDATA[18,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202201/b84450c67741c26b33ec60cb07abae15.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Ty Segall / Harmonizer (Cassette)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=18108&amp;cate_no=26&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=18108&amp;cate_no=26&amp;display_group=1</guid>
-            <pubDate>Sat, 12 Mar 2022 16:24:40 GMT</pubDate>
-            <content:encoded><![CDATA[18,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202201/bd66955b304742784369593f4730103f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
