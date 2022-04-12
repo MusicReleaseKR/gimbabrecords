@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ CD</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Apr 2022 17:17:16 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Apr 2022 18:12:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[OST (Justin Hurwitz) / Whiplash 위플래시 (2CD Deluxe) *할인상품 (모서리 작은 눌림자국)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=18654&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=18654&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Tue, 12 Apr 2022 18:10:23 GMT</pubDate>
+            <content:encoded><![CDATA[25,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202204/82d5bdbb657aaf7ee14961e5cc422cbc.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[David Lynch & Alan R. Splet / Eraserhead (Original Soundtrack Plus) 이레이저헤드 사운드트랙 (CD)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=18653&amp;cate_no=24&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Fri, 08 Apr 2022 03:28:31 GMT</pubDate>
             <content:encoded><![CDATA[14,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202204/ea4cb4a65dfc6d46af8ab53456671d35.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[OST (Vangelis) / Blade Runner 블레이드 러너 (CD, EU Import) *한정수량 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=18628&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=18628&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Fri, 08 Apr 2022 03:28:31 GMT</pubDate>
-            <content:encoded><![CDATA[14,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202204/01c73f1ce67e5a62d1af2f5082086729.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
