@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Apr 2022 06:13:07 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Apr 2022 07:11:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -560,6 +560,14 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202011/f6203aea11ec580d307f6b502491a066.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
+            <title><![CDATA[Post Malone / Hollywood's Bleeding (CD, UK/EU Import) *한정수량 할인 (김밥레코즈 ─ Bargain Bin)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=14446&amp;cate_no=43&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=14446&amp;cate_no=43&amp;display_group=1</guid>
+            <pubDate>Tue, 12 Apr 2022 07:09:43 GMT</pubDate>
+            <content:encoded><![CDATA[14,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/20200113/fde3632f3326bde742d1d6a0a37e1d6b.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Paul McCartney / Tug Of War (180g Vinyl w/ download) *2021 블랙프라이데이 할인 (김밥레코즈 ─ Bargain Bin)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=14076&amp;cate_no=43&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=14076&amp;cate_no=43&amp;display_group=1</guid>
@@ -574,14 +582,6 @@
             <pubDate>Sun, 20 Mar 2022 20:09:00 GMT</pubDate>
             <content:encoded><![CDATA[15,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/201801/9584_shop1_592958.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Julie Fowlis / Gach Sgeul - Every Story (CD) *추석할인 (김밥레코즈 ─ Bargain Bin)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=13799&amp;cate_no=43&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=13799&amp;cate_no=43&amp;display_group=1</guid>
-            <pubDate>Sun, 27 Mar 2022 09:09:39 GMT</pubDate>
-            <content:encoded><![CDATA[14,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/201909/306b26a032c843271416819667a26288.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[윤숭 / 그 방을 열고 나올 사람은 나밖에 없네 (EP, CD) (김밥레코즈 ─ CD ─ Korean)]]></title>
