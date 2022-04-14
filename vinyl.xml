@@ -4,9 +4,33 @@
         <title>김밥레코즈 ─ Vinyl</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Apr 2022 18:12:44 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Apr 2022 19:11:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[The Coral / Coral Island (Black Vinyl, 2LP)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=18672&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=18672&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Thu, 14 Apr 2022 19:08:47 GMT</pubDate>
+            <content:encoded><![CDATA[36,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202204/c15352f9fa5a06336e8beb06b7ee71f2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Coral / Coral Island (Limited Lime Green Color, 2LP)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=18671&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=18671&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Thu, 14 Apr 2022 19:08:47 GMT</pubDate>
+            <content:encoded><![CDATA[43,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202204/8e414077419ef77ee5d7fcdeef12367e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Tahiti 80 / Here With You (Vinyl) *추가 할인상품 (쟈켓 옅은 주름)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=18670&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=18670&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Thu, 14 Apr 2022 19:08:47 GMT</pubDate>
+            <content:encoded><![CDATA[31,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202204/804be4189b4ed63d0a1c0c9fa3fb8fb4.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Tahiti 80 / Here With You (Vinyl) *할인상품]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=18668&amp;cate_no=25&amp;display_group=1</link>
@@ -78,30 +102,6 @@
             <pubDate>Wed, 13 Apr 2022 08:16:32 GMT</pubDate>
             <content:encoded><![CDATA[35,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202204/1e8c735884c4581682df3026aa1acdab.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[OST / 벌새 House of Hummingbird (180g Ivory + Light Blue Swirl Vinyl, US 북미지역 한정 배포분) *1인 1매만 구매 가능 / 별도의 입금기한 설정]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=18650&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=18650&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Wed, 13 Apr 2022 06:11:12 GMT</pubDate>
-            <content:encoded><![CDATA[45,900원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202204/ceae2a07086245f9ff7cb4509f2fab15.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Al Johnson / Peaceful (Vinyl) *예약판매 (4월말 배송 예정)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=18649&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=18649&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Mon, 11 Apr 2022 17:18:33 GMT</pubDate>
-            <content:encoded><![CDATA[43,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202204/f149aa79aefbabb704a74806444ebadf.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Jeff Redd / Down Low (Vinyl, Limited Edition)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=18648&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=18648&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Mon, 11 Apr 2022 17:18:33 GMT</pubDate>
-            <content:encoded><![CDATA[43,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202204/f7ffc42bf3ba388e8ab20c1b2580f765.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
