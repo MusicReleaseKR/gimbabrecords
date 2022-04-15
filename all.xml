@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Apr 2022 10:11:32 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Apr 2022 11:09:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -56,7 +56,7 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202204/acfa340634ed35927662fe9e0a2f3e82.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[후하 HooHah / Spring (EP, CD) (김밥레코즈 ─ CD)]]></title>
+            <title><![CDATA[후하 HooHaa / Spring (EP, CD) (김밥레코즈 ─ CD)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=18661&amp;cate_no=24&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=18661&amp;cate_no=24&amp;display_group=1</guid>
             <pubDate>Wed, 13 Apr 2022 10:13:55 GMT</pubDate>
@@ -102,6 +102,38 @@
             <pubDate>Mon, 11 Apr 2022 06:12:01 GMT</pubDate>
             <content:encoded><![CDATA[24,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202204/7deb5bb1723ef133030df1da92a77515.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Thug Life (2Pac) / Thug Life, Vol.1 (25th Anniversary 180g Vinyl) (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=18685&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=18685&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Fri, 15 Apr 2022 11:07:29 GMT</pubDate>
+            <content:encoded><![CDATA[37,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202204/1b7625d1d2f7c227d26cc29dcaf81290.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Red Hot Chili Peppers / Unlimited Love (2LP Vinyl) (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=18684&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=18684&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Fri, 15 Apr 2022 11:07:30 GMT</pubDate>
+            <content:encoded><![CDATA[50,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202204/eb76e78bd9979e36851e0a77d6a959b0.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[OST (Various Artists) / Mamma Mia! Here We Go Again 맘마미아 2 (Picture Disc, 2LP) *할인상품 (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=18683&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=18683&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Fri, 15 Apr 2022 11:07:30 GMT</pubDate>
+            <content:encoded><![CDATA[52,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202204/307475e6a4eda669724ffba6d5b04d6c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Johnny Marr / Fever Dreams Pt.1-4 (Indie Exclusive Limited Turquoise 2LP Vinyl) (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=18682&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=18682&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Fri, 15 Apr 2022 11:07:30 GMT</pubDate>
+            <content:encoded><![CDATA[50,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202204/88677a27c2f317bf4b2b1c3ea666e751.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[The Coral / Coral Island (Black Vinyl, 2LP) (김밥레코즈 ─ Vinyl)]]></title>
@@ -166,38 +198,6 @@
             <pubDate>Wed, 13 Apr 2022 08:16:32 GMT</pubDate>
             <content:encoded><![CDATA[54,300원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202204/fa24735943b0d27622de6a2a4abbd1af.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Peter Doherty & Frederic Lo / The Fantasy Life of Poetry & Crime (Limited White Vinyl) (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=18658&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=18658&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Wed, 13 Apr 2022 08:16:32 GMT</pubDate>
-            <content:encoded><![CDATA[38,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202204/67d5a114bc39c9db44a4c04d6ae40ad9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Peter Doherty & Frederic Lo / The Fantasy Life of Poetry & Crime (Limited Red Vinyl) (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=18657&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=18657&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Wed, 13 Apr 2022 08:16:32 GMT</pubDate>
-            <content:encoded><![CDATA[38,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202204/82ff2d127d0204135c9991a166b8e2a8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sylvan Esso / Free Love (Sky Blue Colored Vinyl) (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=18656&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=18656&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Wed, 13 Apr 2022 08:16:32 GMT</pubDate>
-            <content:encoded><![CDATA[37,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202204/1b55800fe4efb97ade657e8b4a140b82.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Charli XCX / Crash (Red Opaque & Black Marbled Vinyl) *할인상품 (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=18655&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=18655&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Wed, 13 Apr 2022 08:16:32 GMT</pubDate>
-            <content:encoded><![CDATA[35,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202204/1e8c735884c4581682df3026aa1acdab.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[The Beths / Jump Rope Gazers (Green Cassette) (김밥레코즈 ─ Cassette)]]></title>
@@ -304,7 +304,7 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202204/8d56d378cf50f231a771a15ec7647ae7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[후하 HooHah / Camp Cap (One size) (김밥레코즈 ─ Movies/Merch)]]></title>
+            <title><![CDATA[후하 HooHaa / Camp Cap (One size) (김밥레코즈 ─ Movies/Merch)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=18660&amp;cate_no=27&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=18660&amp;cate_no=27&amp;display_group=1</guid>
             <pubDate>Wed, 13 Apr 2022 10:14:21 GMT</pubDate>
@@ -583,7 +583,7 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/201910/481e64974f13280319bab3b28de6255e.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[후하 HooHah / Spring (EP, CD) (김밥레코즈 ─ CD ─ Korean)]]></title>
+            <title><![CDATA[후하 HooHaa / Spring (EP, CD) (김밥레코즈 ─ CD ─ Korean)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=18661&amp;cate_no=29&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=18661&amp;cate_no=29&amp;display_group=1</guid>
             <pubDate>Wed, 13 Apr 2022 10:14:48 GMT</pubDate>
