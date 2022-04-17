@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 17 Apr 2022 06:12:33 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Apr 2022 07:11:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Destroyer / Labyrinthitis (CD) (김밥레코즈 ─ CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=18695&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=18695&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Sun, 17 Apr 2022 07:08:35 GMT</pubDate>
+            <content:encoded><![CDATA[17,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202204/fd55e6c60ccadb555bb2083deb045661.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Beirut / Artifacts (2CD) *할인상품 (김밥레코즈 ─ CD)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=18693&amp;cate_no=24&amp;display_group=1</link>
@@ -96,12 +104,12 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202204/f8be5679aa9fcd91772fa78eb0a7a000.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[OST (Hildur Guðnadóttir) / Joker 조커 (CDR, US Import - CDR로 제작되었습니다.) (김밥레코즈 ─ CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=18652&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=18652&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Tue, 12 Apr 2022 17:15:00 GMT</pubDate>
-            <content:encoded><![CDATA[21,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202204/265b6b9e68c955bb8d764b630ab3792d.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[Destroyer / Labyrinthitis (Black Vinyl + Standard) *할인상품 (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=18694&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=18694&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Sun, 17 Apr 2022 07:08:44 GMT</pubDate>
+            <content:encoded><![CDATA[27,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202204/c4208031c6c5c7dac57eda17adde3d42.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Beirut / Artifacts (Vinyl, 2LP) *한정수량 할인 (김밥레코즈 ─ Vinyl)]]></title>
@@ -190,14 +198,6 @@
             <pubDate>Thu, 14 Apr 2022 19:08:47 GMT</pubDate>
             <content:encoded><![CDATA[36,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202204/c15352f9fa5a06336e8beb06b7ee71f2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Coral / Coral Island (Limited Lime Green Color, 2LP) (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=18671&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=18671&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Thu, 14 Apr 2022 19:08:47 GMT</pubDate>
-            <content:encoded><![CDATA[43,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202204/8e414077419ef77ee5d7fcdeef12367e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[The Beths / Jump Rope Gazers (Green Cassette) (김밥레코즈 ─ Cassette)]]></title>
@@ -679,6 +679,14 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202202/8fd3b43ae8dd16d7969151e6fed314b7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Destroyer / Labyrinthitis (CD) (김밥레코즈 ─ CD ─ Pop/Rock)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=18695&amp;cate_no=30&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=18695&amp;cate_no=30&amp;display_group=1</guid>
+            <pubDate>Sun, 17 Apr 2022 07:09:36 GMT</pubDate>
+            <content:encoded><![CDATA[17,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202204/fd55e6c60ccadb555bb2083deb045661.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Beirut / Artifacts (2CD) *할인상품 (김밥레코즈 ─ CD ─ Pop/Rock)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=18693&amp;cate_no=30&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=18693&amp;cate_no=30&amp;display_group=1</guid>
@@ -765,14 +773,6 @@
             <pubDate>Sun, 27 Mar 2022 09:09:54 GMT</pubDate>
             <content:encoded><![CDATA[19,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202203/a6a0fb898b0b7ede65dc6b87927f0060.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Queen / Sheer Heart Attack (2CD Deluxe) *한정수량 할인 (김밥레코즈 ─ CD ─ Pop/Rock)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=18546&amp;cate_no=30&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=18546&amp;cate_no=30&amp;display_group=1</guid>
-            <pubDate>Sun, 27 Mar 2022 09:09:54 GMT</pubDate>
-            <content:encoded><![CDATA[19,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202203/fd10afd26fc096c9cbe632e2c54bfa60.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Jon Hopkins / Piano Versions (CD) (김밥레코즈 ─ CD ─ Electronic/Dance)]]></title>
