@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ CD ─ Pop/Rock</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Apr 2022 05:32:41 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Apr 2022 06:13:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Glass Animals / Dreamland (CD, Digi-sleeve) *한정수량 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=18730&amp;cate_no=30&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=18730&amp;cate_no=30&amp;display_group=1</guid>
+            <pubDate>Thu, 21 Apr 2022 06:11:44 GMT</pubDate>
+            <content:encoded><![CDATA[14,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202204/96afadfe221b486071781c13a426ad57.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Arthur Russell / Another Thought (CD)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=18723&amp;cate_no=30&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Sat, 02 Apr 2022 12:13:10 GMT</pubDate>
             <content:encoded><![CDATA[14,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202204/9f3600a6c66a86dbd6a39dd808f9c899.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Khruangbin & Leon Bridges / Texas Moon (CD, Digipak)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=18571&amp;cate_no=30&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=18571&amp;cate_no=30&amp;display_group=1</guid>
-            <pubDate>Thu, 31 Mar 2022 06:11:38 GMT</pubDate>
-            <content:encoded><![CDATA[14,300원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202203/ec8c5420750630a82660aba9568f046b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
