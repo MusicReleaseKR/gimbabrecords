@@ -4,9 +4,57 @@
         <title>김밥레코즈 ─ CD</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Apr 2022 10:16:36 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Apr 2022 11:15:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Bill LaBounty / Bill LaBounty (CD, AOR City Series, JPN Import)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=18757&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=18757&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Thu, 21 Apr 2022 11:13:16 GMT</pubDate>
+            <content:encoded><![CDATA[14,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202204/44b0adc9a84ed91739cf1dfdf7d4bd3f.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Bill LaBounty / This Night Won't Last Forever (CD, AOR City Series, JPN Import)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=18756&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=18756&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Thu, 21 Apr 2022 11:13:16 GMT</pubDate>
+            <content:encoded><![CDATA[14,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202204/5e13199e49327efe0351ff96df914d22.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Aimyon / Shunkan Teki Sixth Sense 瞬間的シックスセンス (CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=18755&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=18755&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Thu, 21 Apr 2022 11:13:16 GMT</pubDate>
+            <content:encoded><![CDATA[33,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202204/d9f8a8a5a53d4d6ef12352df0c003dee.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Aimyon / Oishii Pasta Ga Aru To Kiite おいしいパスタがあると聞いて (1CD, Standard Edition)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=18754&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=18754&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Thu, 21 Apr 2022 11:13:16 GMT</pubDate>
+            <content:encoded><![CDATA[33,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202204/ecd7c9ba1f3d5c5a76423fe4c1e9f3e5.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Aimyon / Oishii Pasta Ga Aru To Kiite おいしいパスタがあると聞いて (2CD Limited Edition)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=18753&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=18753&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Thu, 21 Apr 2022 11:13:16 GMT</pubDate>
+            <content:encoded><![CDATA[47,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202204/fc1e51f22d6d0e88f9a80295a2535f17.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Paolo Fresu / Tempo Di Chet (CD, JPN Import)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=18752&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=18752&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Thu, 21 Apr 2022 11:13:16 GMT</pubDate>
+            <content:encoded><![CDATA[31,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202204/b717e326eb8a1cceb2462c86cfb9b545.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[John Farrar / John Farrar (CD, AOR City Series, JPN Import)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=18751&amp;cate_no=24&amp;display_group=1</link>
@@ -54,54 +102,6 @@
             <pubDate>Thu, 21 Apr 2022 10:14:18 GMT</pubDate>
             <content:encoded><![CDATA[14,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202204/50a8d6b7052c03c7d2f9f3625f11dea7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[John Valenti / I Won't Change (CD, AOR City Series, JPN Import)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=18745&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=18745&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Thu, 21 Apr 2022 10:14:18 GMT</pubDate>
-            <content:encoded><![CDATA[14,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202204/4fcfb3793b7b206b5f9e982131176247.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Boy Meets Girl / Reel Life (CD, AOR City Series, JPN Import)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=18744&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=18744&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Thu, 21 Apr 2022 10:14:18 GMT</pubDate>
-            <content:encoded><![CDATA[14,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202204/cf9492eab1bf788c3b863058d8bd53a3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Frank Weber / As The Time Flies (CD, AOR City Series, JPN Import)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=18743&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=18743&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Thu, 21 Apr 2022 10:14:18 GMT</pubDate>
-            <content:encoded><![CDATA[14,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202204/fe70a040d28fa8dab407bbccf49d11fa.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Kinks / Something Else By The Kinks (CD + Bonus tracks, EU Import) *한정수량 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=18742&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=18742&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Thu, 21 Apr 2022 08:16:50 GMT</pubDate>
-            <content:encoded><![CDATA[17,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202204/19482a2c4d8ebb95b15e494f5f225a88.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Kinks / Face To Face (CD + Bonus tracks, EU Import) *한정수량 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=18741&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=18741&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Thu, 21 Apr 2022 08:16:50 GMT</pubDate>
-            <content:encoded><![CDATA[17,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202204/5072a0d7306b8dd47295e137727e799f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Kinks / Arthur Or The Decline And Fall Of The British Empire (CD + Bonus Tracks, EU Import) *한정수량 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=18740&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=18740&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Thu, 21 Apr 2022 08:16:50 GMT</pubDate>
-            <content:encoded><![CDATA[17,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202204/5362a993e3e53a8c7edcb265e9e55c03.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
