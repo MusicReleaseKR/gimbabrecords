@@ -4,9 +4,33 @@
         <title>김밥레코즈 ─ Vinyl</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Apr 2022 18:18:42 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Apr 2022 19:12:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Night Tempo / Ladies In The City (Clear Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=18856&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=18856&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Thu, 28 Apr 2022 19:10:22 GMT</pubDate>
+            <content:encoded><![CDATA[51,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202204/d9a718d752462b0ffa95c95f0885a02f.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Mondo Grosso / Mondo Grosso Official Best 2 (Vinyl, 2LP)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=18855&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=18855&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Thu, 28 Apr 2022 19:10:22 GMT</pubDate>
+            <content:encoded><![CDATA[61,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202204/a6137707f444af0bc73175f3ef3231e4.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Mondo Grosso / Mondo Grosso Official Best 1 (Vinyl, 2LP)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=18854&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=18854&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Thu, 28 Apr 2022 19:10:22 GMT</pubDate>
+            <content:encoded><![CDATA[61,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202204/cc2c5d41fe529c712752d97b6a13629f.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[OST (Roel A. Garcia & Frankie Chan Fan-Kei) / Ashes Of Time Redux 동사서독 (Black Vinyl, 택동영화사 30주년 기념 ARS Series, 접이식 포스터 및 Booklet 포함) *1인 1매만 구매가 가능하고, 별도의 입금기한이 설정되어 있습니다.]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=18853&amp;cate_no=25&amp;display_group=1</link>
@@ -78,30 +102,6 @@
             <pubDate>Tue, 26 Apr 2022 05:12:51 GMT</pubDate>
             <content:encoded><![CDATA[53,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202204/a946142349d3ee64846b0b9abfaaf460.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Doors / L.A. Woman Sessions (4LP, Limited Numbered Box Set, 2022 RSD Exclusive)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=18844&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=18844&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Tue, 26 Apr 2022 05:12:51 GMT</pubDate>
-            <content:encoded><![CDATA[118,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202204/62d35be23c6e01f7799319e1fed2a908.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[David Bowie / Brilliant Adventure EP (Limited Vinyl, 2022 RSD Exclusive)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=18843&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=18843&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Tue, 26 Apr 2022 05:12:51 GMT</pubDate>
-            <content:encoded><![CDATA[34,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202204/0af8635b7e46dfcedfe1293a85b2778c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Czarface / Czarmageddon (Vinyl w/ trading cards, 2022 RSD Exclusive)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=18842&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=18842&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Tue, 26 Apr 2022 05:12:51 GMT</pubDate>
-            <content:encoded><![CDATA[46,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202204/c47c65ac965147a38c3e5f6574b8fbfe.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
