@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Apr 2022 03:00:03 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Apr 2022 03:50:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -104,6 +104,14 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202204/a2252cde51e40c7182a17d3d464cde10.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Eric Clapton / One More Car, One More Rider (Black Vinyl, 3LP) (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=18858&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=18858&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Fri, 29 Apr 2022 03:48:27 GMT</pubDate>
+            <content:encoded><![CDATA[61,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202204/b043ceb1595ba58986ed431523d9f3e0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Night Tempo / Ladies In The City (Clear Vinyl) (김밥레코즈 ─ Vinyl)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=18856&amp;cate_no=25&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=18856&amp;cate_no=25&amp;display_group=1</guid>
@@ -190,14 +198,6 @@
             <pubDate>Tue, 26 Apr 2022 05:12:51 GMT</pubDate>
             <content:encoded><![CDATA[36,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202204/54bcf2764a2dd3bcc0dafb4307cfbd02.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Jessie Ware / Devotion: The Gold Edition (10th Anniversary, Limited Edition 2LP, 2022 RSD Exclusive) (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=18845&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=18845&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Tue, 26 Apr 2022 05:12:51 GMT</pubDate>
-            <content:encoded><![CDATA[53,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202204/a946142349d3ee64846b0b9abfaaf460.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Sonic Youth / Daydream Nation (Cassette) (김밥레코즈 ─ Cassette)]]></title>
