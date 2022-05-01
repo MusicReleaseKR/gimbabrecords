@@ -4,9 +4,25 @@
         <title>김밥레코즈 ─ Vinyl</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 01 May 2022 10:13:34 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 May 2022 11:12:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Caribou / Start Breaking My Heart (Vinyl, 20th Anniversary Limited Repress)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=18868&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=18868&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Sun, 01 May 2022 11:10:01 GMT</pubDate>
+            <content:encoded><![CDATA[29,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202205/aff97a0c9dd5c47fed65395e6110749d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Caribou / The Milk Of Human Kindness (Vinyl, 2021 Limited Repress)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=18867&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=18867&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Sun, 01 May 2022 11:10:01 GMT</pubDate>
+            <content:encoded><![CDATA[29,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202205/50dacf1bae94b0a3d4870ef601448189.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Gary Moore / Live From London (Vinyl, 2LP)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=18866&amp;cate_no=25&amp;display_group=1</link>
@@ -86,22 +102,6 @@
             <pubDate>Thu, 28 Apr 2022 19:10:22 GMT</pubDate>
             <content:encoded><![CDATA[51,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202204/d9a718d752462b0ffa95c95f0885a02f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Mondo Grosso / Mondo Grosso Official Best 2 (Vinyl, 2LP)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=18855&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=18855&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Thu, 28 Apr 2022 19:10:22 GMT</pubDate>
-            <content:encoded><![CDATA[61,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202204/a6137707f444af0bc73175f3ef3231e4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Mondo Grosso / Mondo Grosso Official Best 1 (Vinyl, 2LP)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=18854&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=18854&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Thu, 28 Apr 2022 19:10:22 GMT</pubDate>
-            <content:encoded><![CDATA[61,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202204/cc2c5d41fe529c712752d97b6a13629f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
