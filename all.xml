@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 01 May 2022 08:13:09 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 May 2022 09:12:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -104,6 +104,22 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202204/a2252cde51e40c7182a17d3d464cde10.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Gary Moore / Live From London (Vinyl, 2LP) (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=18866&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=18866&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Sun, 01 May 2022 09:10:17 GMT</pubDate>
+            <content:encoded><![CDATA[41,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202205/379b7754297ce177070d8c8a740ba7bb.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Sayonara Ponytail / Momyu No Ki No Mukou Gawa (Vinyl, Remastered, Limited Edition) *1인 1매 구매 가능 (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=18865&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=18865&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Sun, 01 May 2022 09:10:17 GMT</pubDate>
+            <content:encoded><![CDATA[43,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202205/22a3a460075e62501ff722b099574702.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Bebo & Cigala (Bebo Valde & Diego El Cigala) / Lágrimas Negras (Lagrimas Negras) (Vinyl) *할인상품 (쟈켓 모서리 작은 눌림) (김밥레코즈 ─ Vinyl)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=18864&amp;cate_no=25&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=18864&amp;cate_no=25&amp;display_group=1</guid>
@@ -182,22 +198,6 @@
             <pubDate>Thu, 28 Apr 2022 19:10:22 GMT</pubDate>
             <content:encoded><![CDATA[61,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202204/cc2c5d41fe529c712752d97b6a13629f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[OST (Roel A. Garcia & Frankie Chan Fan-Kei) / Ashes Of Time Redux 동사서독 (Black Vinyl, 택동영화사 30주년 기념 ARS Series, 접이식 포스터 및 Booklet 포함) *1인 1매만 구매가 가능하고, 별도의 입금기한이 설정되어 있습니다. (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=18853&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=18853&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Wed, 27 Apr 2022 05:22:38 GMT</pubDate>
-            <content:encoded><![CDATA[92,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202204/4d36893aa59d91985304c31b840dae0c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Pixies / Doolittle (Vinyl) *할인상품 (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=18852&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=18852&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Tue, 26 Apr 2022 15:09:00 GMT</pubDate>
-            <content:encoded><![CDATA[37,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202204/03f7a40cd0d880ec09142df2ecf71941.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Sonic Youth / Daydream Nation (Cassette) (김밥레코즈 ─ Cassette)]]></title>
