@@ -4,7 +4,7 @@
         <title>김밥레코즈 ─ Vinyl ─ Korean</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 03 May 2022 11:15:45 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 May 2022 12:22:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -68,7 +68,7 @@
             <link>http://gimbabrecords.com/product/detail.html?product_no=18712&amp;cate_no=52&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=18712&amp;cate_no=52&amp;display_group=1</guid>
             <pubDate>Wed, 20 Apr 2022 06:29:04 GMT</pubDate>
-            <content:encoded><![CDATA[44,600원]]></content:encoded>
+            <content:encoded><![CDATA[44,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202204/863b09802a426a5d642e92ad753f1891.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
