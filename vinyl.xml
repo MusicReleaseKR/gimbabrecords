@@ -4,9 +4,25 @@
         <title>김밥레코즈 ─ Vinyl</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 06 May 2022 07:11:39 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 May 2022 08:13:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[OST (David Lynch & Jack Cruz) / The Flame Of Love (7" Bursting Purple Big Bang Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=18928&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=18928&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Fri, 06 May 2022 08:11:12 GMT</pubDate>
+            <content:encoded><![CDATA[17,200원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202205/442b2d7832a8fd80c0e0e43c598d21bd.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Bill Fay & Julia Jacklin / Just To Be A Part (7"Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=18927&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=18927&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Fri, 06 May 2022 08:11:12 GMT</pubDate>
+            <content:encoded><![CDATA[14,300원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202205/9fe8227fe4ecbd1faf0bff48f10619bb.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Sharon Van Etten / We've Been Going About This All Wrong (Marble Smoke Vinyl)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=18925&amp;cate_no=25&amp;display_group=1</link>
@@ -86,22 +102,6 @@
             <pubDate>Mon, 02 May 2022 09:09:37 GMT</pubDate>
             <content:encoded><![CDATA[51,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202205/232e0d59b6e1dd488b62bda9c258507f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[도라에몽 주제가 "꿈을 꾸고 도라에몽" 夢をかなえてドラえもん (Limited Colored 7", 2022 RSD Japan Exclusive)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=18897&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=18897&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Mon, 02 May 2022 09:09:37 GMT</pubDate>
-            <content:encoded><![CDATA[29,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202205/413501c9691a9a7db4515751b8fd15f9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[All That Jazz / Ghibli Jazz 2 스튜디오 지브리 음악들을 재즈로 해석한 앨범 Vol. 2 (Vinyl, 2022 RSD Japan Exclusive)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=18896&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=18896&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Mon, 02 May 2022 09:09:37 GMT</pubDate>
-            <content:encoded><![CDATA[44,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202205/39d2bea8b1142c98a66c08d8c993a4b7.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
