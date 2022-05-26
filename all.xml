@@ -4,9 +4,41 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 26 May 2022 05:16:48 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 May 2022 06:13:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Gregory Porter / All Rise (CD, Digibook Deluxe) (김밥레코즈 ─ CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19085&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19085&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Thu, 26 May 2022 06:11:34 GMT</pubDate>
+            <content:encoded><![CDATA[28,600원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202205/f3c6d608664a08d5c53b1be12b502e96.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Gregory Porter / Water (CD, paper-sleeve) (김밥레코즈 ─ CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19084&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19084&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Thu, 26 May 2022 06:11:34 GMT</pubDate>
+            <content:encoded><![CDATA[17,200원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202205/0747dd41895a9e7e9f9dd16953051bf7.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Melody Gardot, Philippe Powell / Entre Eux Deux (CD + Booklet) (김밥레코즈 ─ CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19083&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19083&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Thu, 26 May 2022 06:11:34 GMT</pubDate>
+            <content:encoded><![CDATA[17,900원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202205/73d48c8389859c4969681d00388e00d5.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Joel Ross / The Parable Of The Poet (CD, paper-sleeve) (김밥레코즈 ─ CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19081&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19081&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Thu, 26 May 2022 06:11:34 GMT</pubDate>
+            <content:encoded><![CDATA[17,200원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202205/6f03b4430b8e9b899c696d4c022ec923.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Robert Glasper / Black Radio III (CD) (김밥레코즈 ─ CD)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=19073&amp;cate_no=24&amp;display_group=1</link>
@@ -72,36 +104,36 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202205/e129d7426d7b1920529df0569726846a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Chai / Wink (CD) (김밥레코즈 ─ CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19032&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19032&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Tue, 24 May 2022 02:54:06 GMT</pubDate>
-            <content:encoded><![CDATA[19,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202205/314bacec407f269caf33b914ac4515cf.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[Arcade Fire / We (Black Vinyl, 스티커 및 포스터 포함) *할인상품 (모서리에 작은 자국이 있습니다.) (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19087&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19087&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Thu, 26 May 2022 06:11:42 GMT</pubDate>
+            <content:encoded><![CDATA[42,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202205/cfae8913bcf156d13bac25c05b8fc62c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Colin Blunstone / One Year (CD, 50th Anniversary, 14곡의 미공개곡 추가) (김밥레코즈 ─ CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19029&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19029&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Tue, 24 May 2022 02:54:06 GMT</pubDate>
-            <content:encoded><![CDATA[25,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202205/3580f1c88149ae4229d56a89993934f4.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[Arcade Fire / We (Standard Black Vinyl, 스티커 및 포스터 포함) (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19086&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19086&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Thu, 26 May 2022 06:11:42 GMT</pubDate>
+            <content:encoded><![CDATA[44,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202205/cc6dbc49e8beafc011ddf6d879fd15e6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[José Roberto Trio (Jose Roberto Trio) / José Roberto Trio (CD) (김밥레코즈 ─ CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19020&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19020&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Tue, 24 May 2022 02:54:06 GMT</pubDate>
-            <content:encoded><![CDATA[20,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202205/2e1c7311ce9be73cfd43fef66016ebf2.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[Melody Gardot, Philippe Powell / Entre Eux Deux (Gatefold Vinyl) (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19082&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19082&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Thu, 26 May 2022 06:11:42 GMT</pubDate>
+            <content:encoded><![CDATA[38,600원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202205/bc330ce5cafc32eacb71d783fbce7486.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Os Tatuis / Os Tatuis (CD) (김밥레코즈 ─ CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19018&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19018&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Tue, 24 May 2022 02:54:06 GMT</pubDate>
-            <content:encoded><![CDATA[20,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202205/2f102af1bfac251848473319d64ec179.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[Joel Ross / The Parable Of The Poet (Vinyl, 2LP, Gatefold) (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19080&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19080&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Thu, 26 May 2022 06:11:42 GMT</pubDate>
+            <content:encoded><![CDATA[40,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202205/307a7d1bf0454e2d319e03b87c4ec838.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Tears For Fears / The Tipping Point (Gatefold Vinyl) (김밥레코즈 ─ Vinyl)]]></title>
@@ -166,38 +198,6 @@
             <pubDate>Tue, 24 May 2022 02:54:16 GMT</pubDate>
             <content:encoded><![CDATA[38,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202205/dcc99aa08b7732ba3738b31b11fa4a0d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Cream / BBC Sessions (Limited Numbered Colored Vinyl - White & Cream, 2LP) *한정수량 할인 (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19066&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19066&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Tue, 24 May 2022 02:54:16 GMT</pubDate>
-            <content:encoded><![CDATA[36,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202205/d35532b7b4b3e3803ee65610a1df3b9b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Van Halen / 1984 (Vinyl) (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19065&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19065&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Tue, 24 May 2022 02:54:16 GMT</pubDate>
-            <content:encoded><![CDATA[28,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202205/0ee66dd18f028422eded073d0c907189.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[UFO / Strangers In The Night (2020 Remaster Vinyl, 2LP, Limited Clear Vinyl) (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19064&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19064&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Tue, 24 May 2022 02:54:16 GMT</pubDate>
-            <content:encoded><![CDATA[42,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202205/bc429c76a4d94943b3955ca852e93563.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[UFO / Phenomenon (Deluxe Vinyl, 2LP) (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19063&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19063&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Tue, 24 May 2022 02:54:16 GMT</pubDate>
-            <content:encoded><![CDATA[41,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202205/8c8e6aee38fbf9ca1cc57ebf0eb1b0c9.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Nancy Sinatra & Lee Hazelwood / Nancy & Lee (Cassette) (김밥레코즈 ─ Cassette)]]></title>
@@ -1064,6 +1064,38 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202112/f91da0ff9d295ddc79b22647247434bf.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
+            <title><![CDATA[Gregory Porter / All Rise (CD, Digibook Deluxe) (김밥레코즈 ─ CD ─ Jazz)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19085&amp;cate_no=46&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19085&amp;cate_no=46&amp;display_group=1</guid>
+            <pubDate>Thu, 26 May 2022 06:12:44 GMT</pubDate>
+            <content:encoded><![CDATA[28,600원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202205/f3c6d608664a08d5c53b1be12b502e96.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Gregory Porter / Water (CD, paper-sleeve) (김밥레코즈 ─ CD ─ Jazz)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19084&amp;cate_no=46&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19084&amp;cate_no=46&amp;display_group=1</guid>
+            <pubDate>Thu, 26 May 2022 06:12:44 GMT</pubDate>
+            <content:encoded><![CDATA[17,200원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202205/0747dd41895a9e7e9f9dd16953051bf7.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Melody Gardot, Philippe Powell / Entre Eux Deux (CD + Booklet) (김밥레코즈 ─ CD ─ Jazz)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19083&amp;cate_no=46&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19083&amp;cate_no=46&amp;display_group=1</guid>
+            <pubDate>Thu, 26 May 2022 06:12:44 GMT</pubDate>
+            <content:encoded><![CDATA[17,900원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202205/73d48c8389859c4969681d00388e00d5.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Joel Ross / The Parable Of The Poet (CD, paper-sleeve) (김밥레코즈 ─ CD ─ Jazz)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19081&amp;cate_no=46&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19081&amp;cate_no=46&amp;display_group=1</guid>
+            <pubDate>Thu, 26 May 2022 06:12:44 GMT</pubDate>
+            <content:encoded><![CDATA[17,200원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202205/6f03b4430b8e9b899c696d4c022ec923.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Robert Glasper / Black Radio III (CD) (김밥레코즈 ─ CD ─ Jazz)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=19073&amp;cate_no=46&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=19073&amp;cate_no=46&amp;display_group=1</guid>
@@ -1126,38 +1158,6 @@
             <pubDate>Tue, 24 May 2022 02:55:37 GMT</pubDate>
             <content:encoded><![CDATA[14,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202205/762f000396e24696a38f78f2eb1b8e6e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Jakob Bro, Arve Henriksen & Jorge Rossy / Uma Elmo (CD) (김밥레코즈 ─ CD ─ Jazz)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=18924&amp;cate_no=46&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=18924&amp;cate_no=46&amp;display_group=1</guid>
-            <pubDate>Wed, 04 May 2022 12:19:56 GMT</pubDate>
-            <content:encoded><![CDATA[21,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202205/00ccc5a5685cab8082b803958a8cbf4a.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Great Jazz Trio (Hank Jones, Ron Carter, Tony Williams) / At The Village Vanguard Again (CD, JPN Import, "비장의 재즈명반" 시리즈, Limited Edition) (김밥레코즈 ─ CD ─ Jazz)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=18923&amp;cate_no=46&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=18923&amp;cate_no=46&amp;display_group=1</guid>
-            <pubDate>Tue, 03 May 2022 19:13:47 GMT</pubDate>
-            <content:encoded><![CDATA[14,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202205/5db3fdf831d40a4da0ed244606fa9d7f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Lou Donaldson / Quartet / Quintet / Sextet (CD, JPN Import, "비장의 재즈명반" 시리즈, Limited Edition) (김밥레코즈 ─ CD ─ Jazz)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=18922&amp;cate_no=46&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=18922&amp;cate_no=46&amp;display_group=1</guid>
-            <pubDate>Tue, 03 May 2022 19:13:47 GMT</pubDate>
-            <content:encoded><![CDATA[14,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202205/2cc2fa287309ec63edf747cfee6a18b2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Lou Donaldson / The Time Is Right (CD, JPN Import, "비장의 재즈명반" 시리즈, Limited Edition) (김밥레코즈 ─ CD ─ Jazz)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=18921&amp;cate_no=46&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=18921&amp;cate_no=46&amp;display_group=1</guid>
-            <pubDate>Tue, 03 May 2022 19:13:47 GMT</pubDate>
-            <content:encoded><![CDATA[14,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202205/12fc96592dc5e384b473361098153eb0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[The Lions / Soul Riot (CD) (김밥레코즈 ─ CD ─ Reggae)]]></title>
