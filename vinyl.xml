@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ Vinyl</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 30 May 2022 15:12:15 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 May 2022 16:13:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Ponderosa Twins Plus One / 2+2+1= (Ponderosa Plum Colored Vinyl) *할인상품]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19146&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19146&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Mon, 30 May 2022 16:12:10 GMT</pubDate>
+            <content:encoded><![CDATA[34,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202205/0af9208ffe384f562f5587ebc3caa678.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[Com Truise / Galactic Melt (10th Anniversary Edition, Limited Orange & Black Color 2LP, 45rpm) *할인상품 (쟈켓 하단에 눌림자국이 있습니다.)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=19145&amp;cate_no=25&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Sun, 29 May 2022 07:08:55 GMT</pubDate>
             <content:encoded><![CDATA[34,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202205/b49f6458c14d935c8c02f9470c1cc044.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Fennesz Sakamoto (Fennesz & Ryuichi Sakamoto) / Cendre (Double 10" Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19123&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19123&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Sat, 28 May 2022 14:08:44 GMT</pubDate>
-            <content:encoded><![CDATA[41,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202205/6bd5ddfda6f41d87daf30aba20891623.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
