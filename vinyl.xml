@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ Vinyl</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 30 May 2022 12:18:22 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 May 2022 13:37:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Com Truise / Galactic Melt (10th Anniversary Edition, Limited Orange & Black Color 2LP, 45rpm) *할인상품 (쟈켓 하단에 눌림자국이 있습니다.)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19145&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19145&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Mon, 30 May 2022 13:35:46 GMT</pubDate>
+            <content:encoded><![CDATA[36,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202205/bb75c7eebfe6558b34f62ab1b2533e72.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Fontaines D.C. / Skinty Fia (Limited Red Vinyl, Indie Store Edition)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=19141&amp;cate_no=25&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Sat, 28 May 2022 14:08:44 GMT</pubDate>
             <content:encoded><![CDATA[41,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202205/6bd5ddfda6f41d87daf30aba20891623.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Roxy Music / Stranded (180g Vinyl, Half Speed Master)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19121&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19121&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Fri, 27 May 2022 08:12:07 GMT</pubDate>
-            <content:encoded><![CDATA[49,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202205/e43d53363681fe51888e1ef772f43a5d.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
