@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Jun 2022 12:18:31 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Jun 2022 13:40:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -104,6 +104,13 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202205/887a934038cccd9ba69975605d987607.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Ed Sheeran 의 다른 상품들 --> gimbabrecords2.com 에서 구매 혹은 구매 신청이 가능합니다. (상품을 클릭하시면 구매 가능한 링크를 보실 수 있습니다.) (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19159&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19159&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Thu, 02 Jun 2022 13:38:14 GMT</pubDate>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202206/49e22a8702721fe8abf099325718fb60.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[Paolo Nutini / Sunny Side Up (Vinyl) (김밥레코즈 ─ Vinyl)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=19148&amp;cate_no=25&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=19148&amp;cate_no=25&amp;display_group=1</guid>
@@ -192,14 +199,6 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202205/9e2f1a57eff83a3a71a576f9ddcbf01d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Various Artists / 순수하고 담백한 포크 가수의 노래들 Vol.2: Voices in Poetry (140g 컬러 Vinyl) (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19126&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19126&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Mon, 30 May 2022 08:12:26 GMT</pubDate>
-            <content:encoded><![CDATA[44,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202205/869277cb04f1c02165c758300f32baa5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Warpaint / Radiate Like This (Clear Cassette) (김밥레코즈 ─ Cassette)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=19110&amp;cate_no=26&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=19110&amp;cate_no=26&amp;display_group=1</guid>
@@ -240,7 +239,7 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202205/2828845a99e8ccfdefd60c6583d9f331.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Rolling Blackouts Coastal Fever / Endless Rooms (Cassette) *예약상품 (김밥레코즈 ─ Cassette)]]></title>
+            <title><![CDATA[Rolling Blackouts Coastal Fever / Endless Rooms (Cassette) *예약상품 / 한정수량 할인 (김밥레코즈 ─ Cassette)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=19034&amp;cate_no=26&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=19034&amp;cate_no=26&amp;display_group=1</guid>
             <pubDate>Tue, 24 May 2022 02:54:24 GMT</pubDate>
@@ -392,6 +391,30 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202108/53ac4b10170f97b92d4e006db72d29fb.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
+            <title><![CDATA[Kurt Rosenwinkel / Heartcore (Vinyl, 2LP) *예약상품 (6월 9일 배송시작) (김밥레코즈 ─ Pre-Order)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19026&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19026&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Tue, 24 May 2022 02:54:39 GMT</pubDate>
+            <content:encoded><![CDATA[83,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202205/a57d600c24d9e7a72bddb9d5f9e82d30.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Rolling Blackouts Coastal Fever / Endless Rooms (CD) *예약상품 / 한정수량 할인 (김밥레코즈 ─ Pre-Order)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19033&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19033&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Tue, 24 May 2022 02:54:39 GMT</pubDate>
+            <content:encoded><![CDATA[15,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202205/e129d7426d7b1920529df0569726846a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Rolling Blackouts Coastal Fever / Endless Rooms (Cassette) *예약상품 / 한정수량 할인 (김밥레코즈 ─ Pre-Order)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19034&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19034&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Tue, 24 May 2022 02:54:39 GMT</pubDate>
+            <content:encoded><![CDATA[16,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202205/4cded9affaaa08a2be4dc79a3c7ea777.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[업타운 / 1집 Represent (Vinyl, 180g) *예약상품 (12월 3일 경 발송 예정) (김밥레코즈 ─ Pre-Order)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=19107&amp;cate_no=42&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=19107&amp;cate_no=42&amp;display_group=1</guid>
@@ -416,36 +439,12 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202205/c00a0234799a84c3824dff32acf446d9.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Rolling Blackouts Coastal Fever / Endless Rooms (CD) *예약상품 / 한정수량 할인 (김밥레코즈 ─ Pre-Order)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19033&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19033&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Tue, 24 May 2022 02:54:39 GMT</pubDate>
-            <content:encoded><![CDATA[15,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202205/e129d7426d7b1920529df0569726846a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[삐삐롱스타킹 / 3집 One Way Ticket (140g Colored Vinyl) & 바보버스 (42g Colored 7" Vinyl) 합본반 *예약상품 (6월 24일 발송 예정) (김밥레코즈 ─ Pre-Order)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=17924&amp;cate_no=42&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=17924&amp;cate_no=42&amp;display_group=1</guid>
             <pubDate>Thu, 26 May 2022 07:10:00 GMT</pubDate>
             <content:encoded><![CDATA[64,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202112/3eeaff234c61bdaff5b23083b915e8ad.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Rolling Blackouts Coastal Fever / Endless Rooms (Cassette) *예약상품 (김밥레코즈 ─ Pre-Order)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19034&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19034&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Tue, 24 May 2022 02:54:39 GMT</pubDate>
-            <content:encoded><![CDATA[16,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202205/4cded9affaaa08a2be4dc79a3c7ea777.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Kurt Rosenwinkel / Heartcore (Vinyl, 2LP) *예약상품 (6월 9일 배송시작) (김밥레코즈 ─ Pre-Order)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19026&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19026&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Tue, 24 May 2022 02:54:39 GMT</pubDate>
-            <content:encoded><![CDATA[83,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202205/a57d600c24d9e7a72bddb9d5f9e82d30.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[All That Jazz / Ghibli Jazz 스튜디오 지브리 음악들을 재즈로 해석한 앨범 (Vinyl, 2022 RSD Japan Exclusive) / 예약상품 (7월말 배송 예정) (김밥레코즈 ─ Pre-Order)]]></title>
