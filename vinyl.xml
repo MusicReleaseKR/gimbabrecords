@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ Vinyl</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 04 Jun 2022 13:18:21 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Jun 2022 14:10:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Adele / 30 (Vinyl, 2LP Black, EU Pressing) *한정수량 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19178&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19178&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Sat, 04 Jun 2022 14:07:35 GMT</pubDate>
+            <content:encoded><![CDATA[39,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202206/0f0513ddbdbc5cb968b39396fabc3057.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[The Microphones / Mount Eerie (Vinyl + Poster)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=19177&amp;cate_no=25&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Fri, 03 Jun 2022 20:09:35 GMT</pubDate>
             <content:encoded><![CDATA[42,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202206/0b979b3a03601cf5aee61396527f6277.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[St. Vincent / The Nowhere Inn (Official Soundtrack) (Limited Orange Colored Vinyl, 2022 RSD Exclusive)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19166&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19166&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Fri, 03 Jun 2022 20:09:35 GMT</pubDate>
-            <content:encoded><![CDATA[47,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202206/1449ff514401c24bd86fe3147b5e4a2b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
