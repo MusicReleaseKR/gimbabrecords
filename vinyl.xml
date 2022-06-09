@@ -4,9 +4,25 @@
         <title>김밥레코즈 ─ Vinyl</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Jun 2022 16:13:17 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Jun 2022 17:16:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Connan Mockasin / Caramel (Limited Splatter Colored Vinyl) *구매시 유의사항을 확인하세요.]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19231&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19231&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Thu, 09 Jun 2022 17:14:27 GMT</pubDate>
+            <content:encoded><![CDATA[37,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202206/e5fe25a0e5811e20ff88cad27371b2c5.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Connan Mockasin / Forever Dolphin Love (Limited Splatter Vinyl) *구매시 유의사항을 확인하세요.]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19230&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19230&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Thu, 09 Jun 2022 17:14:27 GMT</pubDate>
+            <content:encoded><![CDATA[37,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202206/aaf8e2867759f63548ba916b436424f3.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Harry Styles / Harry's House (Limited Yellow Vinyl) *판매 가능한 수량이 제한되어 있어 구매 제한 및 별도의 입금기한이 설정되어 있습니다.]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=19229&amp;cate_no=25&amp;display_group=1</link>
@@ -86,22 +102,6 @@
             <pubDate>Thu, 09 Jun 2022 09:09:55 GMT</pubDate>
             <content:encoded><![CDATA[34,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202206/fd4902810bfeef79c05ec814c9dbebfb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Enid / In The Region Of The Summer Stars (Heavyweight Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19219&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19219&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Thu, 09 Jun 2022 08:15:06 GMT</pubDate>
-            <content:encoded><![CDATA[33,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202206/ee3607f0b24a9a654149b338ece3d2d7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Brand New Heavies / Shibuya 357: Live in Tokyo 1992 (Baby Blue Vinyl, 2LP)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19218&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19218&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Thu, 09 Jun 2022 08:15:06 GMT</pubDate>
-            <content:encoded><![CDATA[38,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202206/315f091330b6e1ebbc92c34508d8accf.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
