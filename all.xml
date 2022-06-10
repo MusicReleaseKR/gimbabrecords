@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Jun 2022 06:13:27 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Jun 2022 07:11:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -104,6 +104,30 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202205/4bb0d48f314f921ff760e5d8eeb13563.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Yellow Ostrich / The Mistress (10th Anniversary Deluxe Edition - Limited Black-Yellow Splatter Vinyl plus 28 track download) (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19236&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19236&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Fri, 10 Jun 2022 07:09:34 GMT</pubDate>
+            <content:encoded><![CDATA[34,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202206/dbad861335bd0419daed56ca37b54f53.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Zara Mcfarlane / Songs Of An Unknown Tongue (Vinyl) *한정수량 할인 (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19235&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19235&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Fri, 10 Jun 2022 07:09:34 GMT</pubDate>
+            <content:encoded><![CDATA[30,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202206/46e65c008ef6fadb29eb5a2f44df2053.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Zulu / Zulu (Vinyl) (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19234&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19234&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Fri, 10 Jun 2022 07:09:34 GMT</pubDate>
+            <content:encoded><![CDATA[37,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202206/11a30a624c998a97ee6f260148a29efa.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Connan Mockasin / Caramel (Limited Splatter Colored Vinyl) *구매시 유의사항을 확인하세요. (김밥레코즈 ─ Vinyl)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=19231&amp;cate_no=25&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=19231&amp;cate_no=25&amp;display_group=1</guid>
@@ -174,30 +198,6 @@
             <pubDate>Thu, 09 Jun 2022 09:09:55 GMT</pubDate>
             <content:encoded><![CDATA[36,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202206/19ff38e1fd13c939f61426155152ec6a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Kills / Little Bastards (Limited Neon Yellow Vinyl, 2LP) *할인상품 (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19222&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19222&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Thu, 09 Jun 2022 09:09:55 GMT</pubDate>
-            <content:encoded><![CDATA[36,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202206/68dc36731c3b4d7eb28248b77a10fe94.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The High Water Marks / Ecstasy Rhymes (Litmited Edition Blue Vinyl) (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19221&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19221&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Thu, 09 Jun 2022 09:09:55 GMT</pubDate>
-            <content:encoded><![CDATA[29,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202206/caf04e50095fc6339e8570ec3554e0a0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Go! Team / Thunder, Lightening, Strike (15th Anniversary, Limited Silver Vinyl - 현재 절판) (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19220&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19220&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Thu, 09 Jun 2022 09:09:55 GMT</pubDate>
-            <content:encoded><![CDATA[34,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202206/fd4902810bfeef79c05ec814c9dbebfb.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Men I Trust / Men I Trust & Headroom (2 Cassettes Box Set) (김밥레코즈 ─ Cassette)]]></title>
