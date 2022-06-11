@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ Vinyl</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 11 Jun 2022 04:15:14 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Jun 2022 05:10:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[OST (Various Artists) / Songs From Snow White And The Seven Dwarfs 백설공주와 일곱 난쟁이 (85th Anniversary: Red Color Vinyl) *할인상품 (쟈켓 하단 작은 눌림자국)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19269&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19269&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Sat, 11 Jun 2022 05:08:03 GMT</pubDate>
+            <content:encoded><![CDATA[42,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202206/89b943d652f127530b0d31eeb0482364.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[OST (Various Artists) / Songs From Aladdin 알라딘 (30th Anniversary: Ocean Blue Color Vinyl)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=19268&amp;cate_no=25&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Fri, 10 Jun 2022 09:08:53 GMT</pubDate>
             <content:encoded><![CDATA[42,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202206/a4c4674d0d2f3f2ea5f409f06f89a951.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Scritti Politti / Cupid & Psyche 85 (Vinyl, US Import) *한정수량 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19257&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19257&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Fri, 10 Jun 2022 09:08:53 GMT</pubDate>
-            <content:encoded><![CDATA[34,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202206/ab8ca85ce7c56a211003637071b9eba8.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
