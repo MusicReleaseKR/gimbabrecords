@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 12 Jun 2022 04:18:15 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Jun 2022 05:10:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -104,6 +104,14 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202206/902b91fb104e778d2280eb90d441f42e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[The Cranberries / Stars: The Best Of 1992-2002 (Vinyl, 2LP) (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19275&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19275&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Sun, 12 Jun 2022 05:08:03 GMT</pubDate>
+            <content:encoded><![CDATA[45,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202206/35733901eb1261aada4f1862240b5d81.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Earth And Fire / Song Of The Marching Children (Limited Gold Colored Vinyl, 일련번호 표기, 750매 한정반) *할인상품 (김밥레코즈 ─ Vinyl)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=19274&amp;cate_no=25&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=19274&amp;cate_no=25&amp;display_group=1</guid>
@@ -190,14 +198,6 @@
             <pubDate>Fri, 10 Jun 2022 10:09:30 GMT</pubDate>
             <content:encoded><![CDATA[25,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202206/d755724af484ae6de9170c122baab72f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Stef Chura / Midnight (Vinyl + Download card) *한정수량 할인 (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19261&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19261&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Fri, 10 Jun 2022 10:09:30 GMT</pubDate>
-            <content:encoded><![CDATA[25,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202206/b009f35f8912e668f54432547e09104a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Men I Trust / Men I Trust & Headroom (2 Cassettes Box Set) (김밥레코즈 ─ Cassette)]]></title>
