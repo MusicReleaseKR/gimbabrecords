@@ -4,7 +4,7 @@
         <title>김밥레코즈 ─ Vinyl</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Jun 2022 04:43:51 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Jun 2022 05:25:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,6 +30,14 @@
             <pubDate>Mon, 13 Jun 2022 07:08:32 GMT</pubDate>
             <content:encoded><![CDATA[34,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202206/cbc5d8a201a3edf44f34cece9df70f9f.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[지누션 JINUSEAN / JINUSEAN (180g Vinyl) *예약상품 (7월초 발송 예정)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19277&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19277&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Tue, 14 Jun 2022 05:23:28 GMT</pubDate>
+            <content:encoded><![CDATA[44,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202206/aef6c15517455864e2ba83e31f872bd3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[The Cranberries / Stars: The Best Of 1992-2002 (Vinyl, 2LP)]]></title>
@@ -94,14 +102,6 @@
             <pubDate>Fri, 10 Jun 2022 20:11:16 GMT</pubDate>
             <content:encoded><![CDATA[45,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202206/a17d507bf3c1b1fdfd945e151a2739a0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sigrid / How To Let Go (Black Vinyl) *할인상품]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19265&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19265&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Fri, 10 Jun 2022 20:11:16 GMT</pubDate>
-            <content:encoded><![CDATA[37,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202206/08d6ce1aca26e30f2664a03119791920.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
