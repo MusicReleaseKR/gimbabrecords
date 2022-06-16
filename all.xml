@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Jun 2022 08:15:26 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Jun 2022 09:14:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Oasis / (What's The Story) Morning Glory? (CD, 배철수의 음악캠프 20주년 기획 100대 음반) (김밥레코즈 ─ CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19304&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19304&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Thu, 16 Jun 2022 09:11:43 GMT</pubDate>
+            <content:encoded><![CDATA[9,900원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202206/abfab3b2266e971a0889715f439d1926.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Sigrid / How To Let Go (CD, Jewel Case) (김밥레코즈 ─ CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19303&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19303&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Thu, 16 Jun 2022 09:11:43 GMT</pubDate>
+            <content:encoded><![CDATA[20,800원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202206/b8d6d952d37a91ef702fcc08fcd33ea5.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Florence + The Machine / Dance Fever (CD, Digipak) (김밥레코즈 ─ CD)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=19302&amp;cate_no=24&amp;display_group=1</link>
@@ -86,22 +102,6 @@
             <pubDate>Sat, 11 Jun 2022 19:06:52 GMT</pubDate>
             <content:encoded><![CDATA[18,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202206/68bb42592a0b973151a43a545da87f94.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Various Artists / Mr Bongo Record Club Volume 4 (CD) (김밥레코즈 ─ CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19271&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19271&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Sat, 11 Jun 2022 19:06:52 GMT</pubDate>
-            <content:encoded><![CDATA[18,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202206/909f884e82a950c62f4551230128e04e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Pink Floyd / Wish You Were Here: Immersion Box Set (2CD + 2DVD + Blu-Ray + 40p 책자 + 스카프 + 아트 프린트 등) *한정수량 할인 (김밥레코즈 ─ CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19233&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19233&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Thu, 09 Jun 2022 19:08:27 GMT</pubDate>
-            <content:encoded><![CDATA[120,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202206/8bca493a23c0291f5fe7b261ee26ab94.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[시나위 / 6집 은퇴선언 (180g Vinyl, 2LP, 한정반) (김밥레코즈 ─ Vinyl)]]></title>
@@ -680,6 +680,14 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202203/6bba9857582c0bc8aa457a8a08734d51.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Oasis / (What's The Story) Morning Glory? (CD, 배철수의 음악캠프 20주년 기획 100대 음반) (김밥레코즈 ─ CD ─ Pop/Rock)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19304&amp;cate_no=30&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19304&amp;cate_no=30&amp;display_group=1</guid>
+            <pubDate>Thu, 16 Jun 2022 09:12:40 GMT</pubDate>
+            <content:encoded><![CDATA[9,900원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202206/abfab3b2266e971a0889715f439d1926.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
             <title><![CDATA[Sigrid / How To Let Go (CD, Jewel Case) (김밥레코즈 ─ CD ─ Pop/Rock)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=19303&amp;cate_no=30&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=19303&amp;cate_no=30&amp;display_group=1</guid>
@@ -766,14 +774,6 @@
             <pubDate>Tue, 31 May 2022 07:10:50 GMT</pubDate>
             <content:encoded><![CDATA[22,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202205/dbc9c8c9a63c09479bfe5240cc7df98c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Caravan / In The Land Of Grey And Pink (CD, EU Import) *한정수량 할인 (김밥레코즈 ─ CD ─ Pop/Rock)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19151&amp;cate_no=30&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19151&amp;cate_no=30&amp;display_group=1</guid>
-            <pubDate>Tue, 31 May 2022 06:12:56 GMT</pubDate>
-            <content:encoded><![CDATA[14,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202205/890ab44ce0a85c63ef8d08a1af7b80df.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Beverly Glenn-Copeland / Keyboard Fantasies Reimagined (CD, Digi-sleeve) (김밥레코즈 ─ CD ─ Electronic/Dance)]]></title>
