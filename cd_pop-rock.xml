@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ CD ─ Pop/Rock</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Jun 2022 06:12:41 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Jun 2022 07:10:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Arcade Fire / We (CD, Digipak)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19296&amp;cate_no=30&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19296&amp;cate_no=30&amp;display_group=1</guid>
+            <pubDate>Thu, 16 Jun 2022 07:09:25 GMT</pubDate>
+            <content:encoded><![CDATA[22,200원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202206/6de310ae25ad75df6131fb4c7084833d.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Tom Waits / Heartattack And Vine (Remastered CD, Digipak) *할인상품]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=19282&amp;cate_no=30&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Mon, 30 May 2022 12:17:04 GMT</pubDate>
             <content:encoded><![CDATA[19,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202205/887a934038cccd9ba69975605d987607.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Fontaines D.C. / Skinty Fia (CD, Digipak)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19142&amp;cate_no=30&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19142&amp;cate_no=30&amp;display_group=1</guid>
-            <pubDate>Mon, 30 May 2022 11:08:52 GMT</pubDate>
-            <content:encoded><![CDATA[19,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202205/f527e414caf8abbee3aadcaf93c8c274.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
