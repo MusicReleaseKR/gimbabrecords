@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ CD</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Jun 2022 07:10:49 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Jun 2022 08:15:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Florence + The Machine / Dance Fever (CD, Digipak)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19302&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19302&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Thu, 16 Jun 2022 08:13:15 GMT</pubDate>
+            <content:encoded><![CDATA[20,800원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202206/62fd05c4ea4da661324ef5866e1d2ce7.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Arcade Fire / We (CD, Digipak)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=19296&amp;cate_no=24&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Thu, 09 Jun 2022 19:08:27 GMT</pubDate>
             <content:encoded><![CDATA[120,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202206/8bca493a23c0291f5fe7b261ee26ab94.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Warpaint / Radiate Like This (CD, Digisleeve)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19205&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19205&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Tue, 07 Jun 2022 12:15:31 GMT</pubDate>
-            <content:encoded><![CDATA[22,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202206/d72d5482dded0d23e994a07968b66837.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
