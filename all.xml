@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Jun 2022 14:10:18 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Jun 2022 15:15:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Sons of Kemet / Black to the Future (CD) *한정수량 할인 (김밥레코즈 ─ CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19314&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19314&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Fri, 17 Jun 2022 15:13:24 GMT</pubDate>
+            <content:encoded><![CDATA[15,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202206/6e4b6c263efd7c064e7b8038c6f39391.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[The Smile / A Light For Attracting Attention (CD, Digipak) (김밥레코즈 ─ CD)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=19308&amp;cate_no=24&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Mon, 13 Jun 2022 08:10:53 GMT</pubDate>
             <content:encoded><![CDATA[19,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202206/aa6c6fc7c967fc3709ea7523a78ed6ff.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Tom Waits / Nighthawks At The Dinner (Remastered CD, Digipak) *할인상품 (김밥레코즈 ─ CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19281&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19281&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Mon, 13 Jun 2022 08:10:53 GMT</pubDate>
-            <content:encoded><![CDATA[19,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202206/6a5eb9d879dbaccea81b9b2b8b4747ad.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[김신일 / Soul Soul Soul (Vinyl) (김밥레코즈 ─ Vinyl)]]></title>
@@ -1064,6 +1064,14 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202201/d868bef4a6d34903547d92d79ab97dab.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Sons of Kemet / Black to the Future (CD) *한정수량 할인 (김밥레코즈 ─ CD ─ Jazz)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19314&amp;cate_no=46&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19314&amp;cate_no=46&amp;display_group=1</guid>
+            <pubDate>Fri, 17 Jun 2022 15:14:45 GMT</pubDate>
+            <content:encoded><![CDATA[15,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202206/6e4b6c263efd7c064e7b8038c6f39391.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Marcin Wasilewski Trio / En Attendant (CD) (김밥레코즈 ─ CD ─ Jazz)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=19295&amp;cate_no=46&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=19295&amp;cate_no=46&amp;display_group=1</guid>
@@ -1150,14 +1158,6 @@
             <pubDate>Fri, 27 May 2022 10:13:46 GMT</pubDate>
             <content:encoded><![CDATA[16,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202205/361f18b2de49e83a6f3356a90fd24e6b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Gilad Hekselman / Far Star (CD, Digipak) (김밥레코즈 ─ CD ─ Jazz)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19102&amp;cate_no=46&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19102&amp;cate_no=46&amp;display_group=1</guid>
-            <pubDate>Fri, 27 May 2022 07:11:04 GMT</pubDate>
-            <content:encoded><![CDATA[22,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202205/a9a188d99007361ffa5a5ee77099f151.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[The Lions / Soul Riot (CD) (김밥레코즈 ─ CD ─ Reggae)]]></title>
