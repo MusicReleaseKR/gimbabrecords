@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ Vinyl</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Jun 2022 08:14:02 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Jun 2022 09:12:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[The Smile / A Light For Attracting Attention (12” Standard Black Vinyl, 2LP)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19309&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19309&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Fri, 17 Jun 2022 09:10:01 GMT</pubDate>
+            <content:encoded><![CDATA[54,300원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202206/cc46114afc28cc2db727189cd98c19f1.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Let's Eat Grandma / Two Ribbons (Vinyl, 2LP, Limited Deluxe Edition - Bonus 7" / Gatefold)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=19305&amp;cate_no=25&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Wed, 15 Jun 2022 06:10:41 GMT</pubDate>
             <content:encoded><![CDATA[44,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202206/8c0661269ec262baaed0333b5c4bc518.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Jorge Ben / Dádiva (Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19287&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19287&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Wed, 15 Jun 2022 05:13:58 GMT</pubDate>
-            <content:encoded><![CDATA[39,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202206/68b52c9881f7dc82c5bf2b4580e8d531.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
