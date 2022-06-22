@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ CD</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Jun 2022 00:48:39 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Jun 2022 03:03:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[곽푸른하늘 / Nearly (T)here (CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19327&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19327&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Wed, 22 Jun 2022 03:01:10 GMT</pubDate>
+            <content:encoded><![CDATA[15,600원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202206/5a7e89c8a07670fbe1a521777b5c9380.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Naoya Matsuoka & Wesing / Majorca "Romantic Version" (SHM-CD, J-Fusion 40주년 시리즈, JPN Import)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=19325&amp;cate_no=24&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Thu, 16 Jun 2022 08:13:15 GMT</pubDate>
             <content:encoded><![CDATA[20,800원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202206/62fd05c4ea4da661324ef5866e1d2ce7.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Arcade Fire / We (CD, Digipak)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19296&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19296&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Thu, 16 Jun 2022 07:08:28 GMT</pubDate>
-            <content:encoded><![CDATA[22,200원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202206/6de310ae25ad75df6131fb4c7084833d.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
