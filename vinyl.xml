@@ -4,9 +4,25 @@
         <title>김밥레코즈 ─ Vinyl</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Jun 2022 14:11:11 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Jun 2022 15:12:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Bill Evans / At the Montreux Jazz Festival (Vinyl, 2022 Limited Gatefold Edition)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19337&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19337&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Thu, 23 Jun 2022 15:10:13 GMT</pubDate>
+            <content:encoded><![CDATA[42,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202206/e70f20322eac0dc9b793827adea0339c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Bill Evans / You Must Believe In Spring (45rpm 2LP, 케빈 그레이의 새로운 마스터링)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19336&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19336&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Thu, 23 Jun 2022 15:10:13 GMT</pubDate>
+            <content:encoded><![CDATA[63,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202206/85792ad6166939ef1f3a54c873145a91.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Yaeji / EP 1​+​2 (Black Vinyl) *예약상품 (7월 1일부터 배송 시작) / 한정수량 할인]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=19335&amp;cate_no=25&amp;display_group=1</link>
@@ -86,22 +102,6 @@
             <pubDate>Sat, 18 Jun 2022 12:13:45 GMT</pubDate>
             <content:encoded><![CDATA[63,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202206/6e6a6f582dbe7854d32e4aa74fc36ec3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Puffy / amiyumi (Limited Clear Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19317&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19317&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Sat, 18 Jun 2022 12:13:45 GMT</pubDate>
-            <content:encoded><![CDATA[48,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202206/c7c0a500142c0058e16582c9b0911b45.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Henri Salvador / Homme Studio -1970​/​1975 (Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19316&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19316&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Fri, 17 Jun 2022 19:07:09 GMT</pubDate>
-            <content:encoded><![CDATA[32,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202206/4114fd3f55d47f0480bf5ffb5aca318f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
