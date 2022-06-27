@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Jun 2022 21:10:28 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Jun 2022 22:10:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -104,6 +104,14 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202206/0b85b5a795edaef9731d71b55cc3e76a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[OST (Vladimir Cosma) / La Boum 라붐 (Vinyl) (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19353&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19353&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Mon, 27 Jun 2022 22:08:21 GMT</pubDate>
+            <content:encoded><![CDATA[33,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202206/41eca5afaebe8fc3d466eee9a3ebf94c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Toto / IV (Limited Colored Vinyl, RSD Essential) (김밥레코즈 ─ Vinyl)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=19352&amp;cate_no=25&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=19352&amp;cate_no=25&amp;display_group=1</guid>
@@ -190,14 +198,6 @@
             <pubDate>Thu, 23 Jun 2022 17:15:09 GMT</pubDate>
             <content:encoded><![CDATA[39,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202206/f03a4142fe6c09978ab3b30ca7bd81fc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Bill Evans / At the Montreux Jazz Festival (Vinyl, 2022 Limited Gatefold Edition) (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19337&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19337&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Thu, 23 Jun 2022 15:10:13 GMT</pubDate>
-            <content:encoded><![CDATA[42,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202206/e70f20322eac0dc9b793827adea0339c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Men I Trust / Men I Trust & Headroom (2 Cassettes Box Set) (김밥레코즈 ─ Cassette)]]></title>
