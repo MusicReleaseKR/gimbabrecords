@@ -4,9 +4,33 @@
         <title>김밥레코즈 ─ Vinyl</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Jun 2022 15:43:27 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Jun 2022 16:30:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[John Norum / Live In Stockholm (Limited Colored Vinyl, 일련번호 표기, 1000매 한정반) (2022 RSD Exclusive)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19379&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19379&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Wed, 29 Jun 2022 16:28:01 GMT</pubDate>
+            <content:encoded><![CDATA[35,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202206/f1fd264024dfc9420eef0f9bd06fc0df.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Sun's Signature / Sun's Signature (Vinyl, Limited to 8,000) (2022 RSD Exclusive)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19378&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19378&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Wed, 29 Jun 2022 16:28:01 GMT</pubDate>
+            <content:encoded><![CDATA[33,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202206/1991133feaff29787a8c04031c125a06.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Field Music / Plumb (Limited Clear Plumb Vinyl) (2022 RSD Exclusive)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19377&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19377&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Wed, 29 Jun 2022 16:28:01 GMT</pubDate>
+            <content:encoded><![CDATA[39,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202206/1aa5d331880b6410ad3d1e5885bad398.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Collective Soul / Disciplined Breakdown (25th Anniversary, Limited Red Vinyl) (2022 RSD)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=19376&amp;cate_no=25&amp;display_group=1</link>
@@ -78,30 +102,6 @@
             <pubDate>Wed, 29 Jun 2022 15:41:12 GMT</pubDate>
             <content:encoded><![CDATA[41,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202206/a3386f8d53a3b183e7550beda38a8012.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Various Artists / Jazz Dispensary: Super Skunk (Limited Red Vinyl, 2022 RSD Exclusive)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19367&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19367&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Wed, 29 Jun 2022 15:41:12 GMT</pubDate>
-            <content:encoded><![CDATA[46,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202206/dbef7c88090c25f4cd4ac1ffaebbe50f.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Emerson, Lake & Palmer / Tarkus (Vinyl, Gatefold sleeve, Remastered) *한정수량 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19357&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19357&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Tue, 28 Jun 2022 08:13:05 GMT</pubDate>
-            <content:encoded><![CDATA[35,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202206/18685494a3982e245ca331efaa77ad07.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Emerson, Lake & Palmer / Works Volume 1 (Vinyl, 2LP-set, Trifold sleeve, Remastered) *한정수량 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19356&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19356&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Tue, 28 Jun 2022 08:13:05 GMT</pubDate>
-            <content:encoded><![CDATA[46,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202206/661de90a5bc14c65fd835ee6d5883aff.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
