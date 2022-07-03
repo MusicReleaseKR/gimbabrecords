@@ -4,9 +4,33 @@
         <title>김밥레코즈 ─ Vinyl</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 03 Jul 2022 16:12:33 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Jul 2022 17:11:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Arcade Fire / We (Limited White Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19405&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19405&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Sun, 03 Jul 2022 17:09:35 GMT</pubDate>
+            <content:encoded><![CDATA[47,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/048311941950b1b7f645bbb3ce9d12a1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[George Duke / Faces In Reflection (Vinyl, All-Analogue 방식으로 제작된 리마스터 바이닐)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19404&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19404&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Sun, 03 Jul 2022 17:09:35 GMT</pubDate>
+            <content:encoded><![CDATA[35,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/3684bd08ced37f5ec0c2e009c666456f.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[George Duke / Liberated Fantasies (Vinyl, All-analogue remaster)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19403&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19403&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Sun, 03 Jul 2022 17:09:35 GMT</pubDate>
+            <content:encoded><![CDATA[35,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/ee8202ba47c564ad17c0095858bf2a92.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Kelly Lee Owens / LP 8 (White Vinyl)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=19400&amp;cate_no=25&amp;display_group=1</link>
@@ -78,30 +102,6 @@
             <pubDate>Fri, 01 Jul 2022 10:09:47 GMT</pubDate>
             <content:encoded><![CDATA[58,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202207/e540ad548a0538545de02021d7b1c5a0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Tsuyoshi Yamamoto (Yama & Jiro's Wave)/ Girl Talk (Vinyl, Limited Edition) *1인 1매만 구매 가능]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19388&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19388&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Fri, 01 Jul 2022 10:09:47 GMT</pubDate>
-            <content:encoded><![CDATA[58,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/1d3ebfa0aac7ef53f85ed46d7181ba74.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Tsuyoshi Yamamoto / Misty (Vinyl, Limited Edition) *1인 1매만 구매 가능]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19387&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19387&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Fri, 01 Jul 2022 09:09:00 GMT</pubDate>
-            <content:encoded><![CDATA[58,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/6f3880b770fe599a21a9a2861b46a6f0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Tsuyoshi Yamamoto / Midnight Sugar (Vinyl, Limited Edition) *1인 1매만 구매가 가능합니다.]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19386&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19386&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Fri, 01 Jul 2022 09:09:00 GMT</pubDate>
-            <content:encoded><![CDATA[58,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/a7afe94ec32e87c73984fd8c7f8ac546.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
