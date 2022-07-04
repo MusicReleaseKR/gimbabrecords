@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ Vinyl</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Jul 2022 08:14:23 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Jul 2022 09:11:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Say Sue Me 세이수미 / The Last Thing Left (Black Vinyl) *7월 8일 발송 예정]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19407&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19407&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Mon, 04 Jul 2022 09:09:05 GMT</pubDate>
+            <content:encoded><![CDATA[45,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/0a5579020620e054cb7d3d3710958b0c.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Arcade Fire / We (Limited White Vinyl)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=19405&amp;cate_no=25&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Sat, 02 Jul 2022 04:27:46 GMT</pubDate>
             <content:encoded><![CDATA[55,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202207/8adcaaceb8d0804a47f7507acc9ebae6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Isao Suzuki Quartet +1 / Blue City (Vinyl, Limited Edition) *1인 1매만 구매 가능]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19389&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19389&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Fri, 01 Jul 2022 10:09:47 GMT</pubDate>
-            <content:encoded><![CDATA[58,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/e540ad548a0538545de02021d7b1c5a0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
