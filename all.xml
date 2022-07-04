@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Jul 2022 15:11:03 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Jul 2022 16:13:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -104,6 +104,14 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202206/0fcb525c5c3cf90a292058a38ee25305.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
+            <title><![CDATA[Daft Punk + Various Artists / TRON: Legacy 트론: 새로운 시작 Reconfigured (Vinyl, 2LP) 리믹스 앨범 *할인상품 (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19412&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19412&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Mon, 04 Jul 2022 16:11:34 GMT</pubDate>
+            <content:encoded><![CDATA[51,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/dd583f182f1abfc326a92c58a355492c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Various Artists / Super Hits of the 70s (Deep Heat Red Vinyl) *한정수량 할인 (김밥레코즈 ─ Vinyl)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=19411&amp;cate_no=25&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=19411&amp;cate_no=25&amp;display_group=1</guid>
@@ -190,14 +198,6 @@
             <pubDate>Sat, 02 Jul 2022 14:07:35 GMT</pubDate>
             <content:encoded><![CDATA[28,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202207/94b2e46106ad95a958051cb4f97f5205.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Espers / Espers (Vinyl) (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19397&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19397&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Sat, 02 Jul 2022 13:18:33 GMT</pubDate>
-            <content:encoded><![CDATA[28,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/9e5e4a99bf3752ef9d1d9714ec098b97.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Mort Garson / Mother Earth's Plantasia (Cassette) (김밥레코즈 ─ Cassette)]]></title>
