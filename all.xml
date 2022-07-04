@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Jul 2022 18:12:57 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Jul 2022 19:11:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -104,6 +104,22 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202206/0fcb525c5c3cf90a292058a38ee25305.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
+            <title><![CDATA[Kylie Minogue / Fever (2022 Black Vinyl Reissue) (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19414&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19414&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Mon, 04 Jul 2022 19:09:10 GMT</pubDate>
+            <content:encoded><![CDATA[39,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/c4c0e9b2d6af28999c155bf94f796654.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Toro Y Moi / Mahal (Black Vinyl) (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19413&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19413&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Mon, 04 Jul 2022 19:09:10 GMT</pubDate>
+            <content:encoded><![CDATA[36,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/2bca46bb0bf801a6f28498b8f9af797c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Daft Punk + Various Artists / TRON: Legacy 트론: 새로운 시작 Reconfigured (Vinyl, 2LP) 리믹스 앨범 *할인상품 (김밥레코즈 ─ Vinyl)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=19412&amp;cate_no=25&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=19412&amp;cate_no=25&amp;display_group=1</guid>
@@ -182,22 +198,6 @@
             <pubDate>Sun, 03 Jul 2022 06:10:51 GMT</pubDate>
             <content:encoded><![CDATA[29,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202207/44fa27265eec745f3e3924ae92be12b9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Dan Fogelberg / Nether Lands (Limited Clear Vinyl, 일련번호 표기, 1,000매 한정) *할인상품 (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19399&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19399&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Sat, 02 Jul 2022 14:07:35 GMT</pubDate>
-            <content:encoded><![CDATA[34,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/5d23b5f2406030b7932799aee5b1e83e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Espers / The Weed Tree (Vinyl) (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19398&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19398&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Sat, 02 Jul 2022 14:07:35 GMT</pubDate>
-            <content:encoded><![CDATA[28,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/94b2e46106ad95a958051cb4f97f5205.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Mort Garson / Mother Earth's Plantasia (Cassette) (김밥레코즈 ─ Cassette)]]></title>
