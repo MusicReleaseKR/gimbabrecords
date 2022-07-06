@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Jul 2022 07:11:09 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Jul 2022 08:23:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -448,14 +448,6 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202207/5bc0d43938dfebf8a1f788363e517ece.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[김목인 / 저장된 풍경 (CD) *예약상품 (7월 6일 발송 예정) (김밥레코즈 ─ Pre-Order)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19380&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19380&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Thu, 30 Jun 2022 05:18:29 GMT</pubDate>
-            <content:encoded><![CDATA[17,800원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202206/6e19ec8ad9b7f5593ebc002b9fd61884.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
             <title><![CDATA[백예린 / 물고기 (CD + 원통형 박스 + 북클릿 + 마그넷) *CD ONLY / 예약상품 (7월 11일 주문 마감) (김밥레코즈 ─ Pre-Order)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=19348&amp;cate_no=42&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=19348&amp;cate_no=42&amp;display_group=1</guid>
@@ -486,6 +478,14 @@
             <pubDate>Fri, 27 May 2022 09:10:14 GMT</pubDate>
             <content:encoded><![CDATA[46,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202205/5573092228f6d6487466ffe17550a409.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[백아 / 우주선 (140g 투명 베이비 핑크 Vinyl) *예약상품 (10월 7일 배송 예정) (김밥레코즈 ─ Pre-Order)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=18712&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=18712&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Wed, 06 Jul 2022 08:21:49 GMT</pubDate>
+            <content:encoded><![CDATA[44,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202204/863b09802a426a5d642e92ad753f1891.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[김정미 / 최신가요집 (1집) + 간다고 하지마오 (2집, 컴필레이션) + 바람 (3집) (일본에서 제작된 3장의 컬러바이닐 한정수량 묶음판매, Limited Edition) *할인판매 (김밥레코즈 ─ Bargain Bin)]]></title>
@@ -592,7 +592,7 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202207/468e0aecd6853fd97b12dc53b2370ea9.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[김목인 / 저장된 풍경 (CD) *예약상품 (7월 6일 발송 예정) (김밥레코즈 ─ CD ─ Korean)]]></title>
+            <title><![CDATA[김목인 / 저장된 풍경 (CD) (김밥레코즈 ─ CD ─ Korean)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=19380&amp;cate_no=29&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=19380&amp;cate_no=29&amp;display_group=1</guid>
             <pubDate>Thu, 30 Jun 2022 05:18:44 GMT</pubDate>
