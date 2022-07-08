@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ CD ─ Pop/Rock</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Jul 2022 06:14:33 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Jul 2022 07:10:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Sharon Van Etten / We've Been Going About This All Wrong (CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19442&amp;cate_no=30&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19442&amp;cate_no=30&amp;display_group=1</guid>
+            <pubDate>Fri, 08 Jul 2022 07:09:01 GMT</pubDate>
+            <content:encoded><![CDATA[17,200원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/ae64ba555c51cf47a1551c199fad0f6c.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Prince / The Gold Experience (CD, Digipak)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=19435&amp;cate_no=30&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Thu, 16 Jun 2022 08:14:10 GMT</pubDate>
             <content:encoded><![CDATA[20,800원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202206/62fd05c4ea4da661324ef5866e1d2ce7.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Arcade Fire / We (CD, Digipak)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19296&amp;cate_no=30&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19296&amp;cate_no=30&amp;display_group=1</guid>
-            <pubDate>Thu, 16 Jun 2022 07:09:25 GMT</pubDate>
-            <content:encoded><![CDATA[22,200원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202206/6de310ae25ad75df6131fb4c7084833d.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

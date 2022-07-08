@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Jul 2022 06:14:33 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Jul 2022 07:10:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Sharon Van Etten / We've Been Going About This All Wrong (CD) (김밥레코즈 ─ CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19442&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19442&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Fri, 08 Jul 2022 07:08:04 GMT</pubDate>
+            <content:encoded><![CDATA[17,200원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/ae64ba555c51cf47a1551c199fad0f6c.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Prince / The Gold Experience (CD, Digipak) (김밥레코즈 ─ CD)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=19435&amp;cate_no=24&amp;display_group=1</link>
@@ -96,12 +104,28 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202207/2b1514d002400d2137ae23483dd855aa.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Elza Soares / Nos Bracos Do Samba (CD, Limited Edition) *Brasilian Music Love Affair 시리즈 (김밥레코즈 ─ CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19416&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19416&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Tue, 05 Jul 2022 17:18:31 GMT</pubDate>
-            <content:encoded><![CDATA[14,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/d9166a3b2c3eecb10fad723ada8e56ce.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[Flying Lotus / Presents INFINITY “Infinitum”: Maida Vale Session (Vinyl + Download Code) (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19441&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19441&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Fri, 08 Jul 2022 07:08:11 GMT</pubDate>
+            <content:encoded><![CDATA[25,700원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/ee302ae1d1257890057400bb9c519854.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Bibio / WXAXRXP Session (Vinyl, Download Code) (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19440&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19440&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Fri, 08 Jul 2022 07:08:11 GMT</pubDate>
+            <content:encoded><![CDATA[25,700원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/4fdb38752f7f94e74797f164b05f1c81.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Aphex Twin / Peel Session 2 (Vinyl + Download Code) (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19439&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19439&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Fri, 08 Jul 2022 07:08:11 GMT</pubDate>
+            <content:encoded><![CDATA[25,700원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/6666429ce4d66b04afa157867780425f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Foals / Antidotes (Recycled Colored Vinyl, Limited Edition) (김밥레코즈 ─ Vinyl)]]></title>
@@ -174,30 +198,6 @@
             <pubDate>Wed, 06 Jul 2022 11:08:24 GMT</pubDate>
             <content:encoded><![CDATA[40,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202207/f398c9f117b78c68cf98d7325e5192fd.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Garbage / Garbage (180g Vinyl, 2LP, Remastered) (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19428&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19428&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Wed, 06 Jul 2022 07:08:54 GMT</pubDate>
-            <content:encoded><![CDATA[39,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/d580e87a04661bc5c7f6c060624a139e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[OST (Various Artists) / The Greatest Showman: Reimagined 위대한 쇼맨: Reimagined (Vinyl) (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19427&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19427&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Wed, 06 Jul 2022 07:08:54 GMT</pubDate>
-            <content:encoded><![CDATA[34,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/9ef3112781e69e7f1560105936265d76.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Jack White / Fear Of The Dawn (Black Vinyl) (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19415&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19415&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Mon, 04 Jul 2022 20:09:13 GMT</pubDate>
-            <content:encoded><![CDATA[34,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/be304ce93a0b3dbb8e18845921a93d7e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Green-House / Music For Living Space (Cassette) *비닐포장이 없는 제품입니다. (김밥레코즈 ─ Cassette)]]></title>
@@ -680,6 +680,14 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202204/e46fef84f1a15caf329faec71d9a8709.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Sharon Van Etten / We've Been Going About This All Wrong (CD) (김밥레코즈 ─ CD ─ Pop/Rock)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19442&amp;cate_no=30&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19442&amp;cate_no=30&amp;display_group=1</guid>
+            <pubDate>Fri, 08 Jul 2022 07:09:01 GMT</pubDate>
+            <content:encoded><![CDATA[17,200원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/ae64ba555c51cf47a1551c199fad0f6c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Prince / The Gold Experience (CD, Digipak) (김밥레코즈 ─ CD ─ Pop/Rock)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=19435&amp;cate_no=30&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=19435&amp;cate_no=30&amp;display_group=1</guid>
@@ -766,14 +774,6 @@
             <pubDate>Thu, 16 Jun 2022 08:14:10 GMT</pubDate>
             <content:encoded><![CDATA[20,800원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202206/62fd05c4ea4da661324ef5866e1d2ce7.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Arcade Fire / We (CD, Digipak) (김밥레코즈 ─ CD ─ Pop/Rock)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19296&amp;cate_no=30&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19296&amp;cate_no=30&amp;display_group=1</guid>
-            <pubDate>Thu, 16 Jun 2022 07:09:25 GMT</pubDate>
-            <content:encoded><![CDATA[22,200원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202206/6de310ae25ad75df6131fb4c7084833d.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[Polo & Pan / Cyclorama (CD, EU import) *한정수량 할인 (김밥레코즈 ─ CD ─ Electronic/Dance)]]></title>
