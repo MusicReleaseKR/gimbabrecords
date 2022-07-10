@@ -4,9 +4,25 @@
         <title>김밥레코즈 ─ Vinyl</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 10 Jul 2022 17:11:44 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Jul 2022 18:11:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[OST (Ennio Morricone) / Space: 1999 (Vinyl, 2LP Black) *한정수량 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19461&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19461&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Sun, 10 Jul 2022 18:09:49 GMT</pubDate>
+            <content:encoded><![CDATA[43,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/6cc2f56a58dcadf58a2f033d8c96b841.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[OST (Ennio Morricone) / My Dear Killer (Limited Red Vinyl) *할인상품 / 마지막 재고 (1인 1매만 구매 가능)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19460&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19460&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Sun, 10 Jul 2022 18:09:49 GMT</pubDate>
+            <content:encoded><![CDATA[39,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/b54c70a9ff712a9b0694009d8975a812.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Japan / Quiet Life (3CD + LP Box Set, Limited, 180g Half-speed Master Vinyl) *한정수량 할인]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=19459&amp;cate_no=25&amp;display_group=1</link>
@@ -86,22 +102,6 @@
             <pubDate>Fri, 08 Jul 2022 07:08:11 GMT</pubDate>
             <content:encoded><![CDATA[25,700원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202207/ee302ae1d1257890057400bb9c519854.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Bibio / WXAXRXP Session (Vinyl, Download Code)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19440&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19440&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Fri, 08 Jul 2022 07:08:11 GMT</pubDate>
-            <content:encoded><![CDATA[25,700원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/4fdb38752f7f94e74797f164b05f1c81.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Aphex Twin / Peel Session 2 (Vinyl + Download Code)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19439&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19439&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Fri, 08 Jul 2022 07:08:11 GMT</pubDate>
-            <content:encoded><![CDATA[25,700원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/6666429ce4d66b04afa157867780425f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
