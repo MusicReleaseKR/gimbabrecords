@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Jul 2022 05:16:55 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Jul 2022 06:14:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -104,6 +104,38 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202207/802ffb13aebc3023897e64e1d70892b7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Europe / The Final Countdown (Purple Clear Vinyl) (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19489&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19489&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Wed, 13 Jul 2022 06:12:29 GMT</pubDate>
+            <content:encoded><![CDATA[32,200원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/47d82d709f037327f3a51dabe12ec1ec.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Nothing But Thieves / Moral Panic: The Complete Edition (Transparent Plum Vinyl, 2LP, Gatefold) (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19488&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19488&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Wed, 13 Jul 2022 06:12:29 GMT</pubDate>
+            <content:encoded><![CDATA[47,900원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/247ed9bce7873f7d08ab66f9920855c8.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[OST (Simon & Garfunkel, Dave Grusin) / The Graduate 졸업 (Vinyl) (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19487&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19487&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Wed, 13 Jul 2022 06:12:29 GMT</pubDate>
+            <content:encoded><![CDATA[27,900원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/d4dbf6882ece5bbd16ee3b495ff1b334.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[시나위 / 7집 Psychedelos (180g Vinyl, 2LP, 한정반) (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19486&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19486&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Wed, 13 Jul 2022 06:12:29 GMT</pubDate>
+            <content:encoded><![CDATA[56,400원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/8270e22e9b8343c665920fa82eaa69b7.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[빅베이비드라이버 / Leftover & Remainder (White Colored Vinyl) *예약상품 (7월 20일 발송 예정) (김밥레코즈 ─ Vinyl)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=19485&amp;cate_no=25&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=19485&amp;cate_no=25&amp;display_group=1</guid>
@@ -166,38 +198,6 @@
             <pubDate>Sun, 10 Jul 2022 19:07:09 GMT</pubDate>
             <content:encoded><![CDATA[39,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202207/6bff13698aec57a399bd7ca46c56f7e0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[OST (Ennio Morricone) / Space: 1999 (Vinyl, 2LP Black) *한정수량 할인 (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19461&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19461&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Sun, 10 Jul 2022 18:09:49 GMT</pubDate>
-            <content:encoded><![CDATA[43,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/6cc2f56a58dcadf58a2f033d8c96b841.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[OST (Ennio Morricone) / My Dear Killer (Limited Red Vinyl) *할인상품 / 마지막 재고 (1인 1매만 구매 가능) (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19460&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19460&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Sun, 10 Jul 2022 18:09:49 GMT</pubDate>
-            <content:encoded><![CDATA[39,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/b54c70a9ff712a9b0694009d8975a812.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Japan / Quiet Life (3CD + LP Box Set, Limited, 180g Half-speed Master Vinyl) *한정수량 할인 (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19459&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19459&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Sun, 10 Jul 2022 07:08:31 GMT</pubDate>
-            <content:encoded><![CDATA[46,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/7e140ba87ace54d76eef7a472e4d9b03.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Various Artists / Brazilian Beats Brooklyn (Vinyl, 2LP) (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19458&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19458&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Sun, 10 Jul 2022 07:08:31 GMT</pubDate>
-            <content:encoded><![CDATA[39,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/f4b9c49a680f66335c2412f1b02e5b92.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Green-House / Music For Living Space (Cassette) *비닐포장이 없는 제품입니다. (김밥레코즈 ─ Cassette)]]></title>
@@ -1728,6 +1728,14 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202202/75d15153f386b9c2b11f42d53328b262.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[시나위 / 7집 Psychedelos (180g Vinyl, 2LP, 한정반) (김밥레코즈 ─ Vinyl ─ Korean)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19486&amp;cate_no=52&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19486&amp;cate_no=52&amp;display_group=1</guid>
+            <pubDate>Wed, 13 Jul 2022 06:14:45 GMT</pubDate>
+            <content:encoded><![CDATA[56,400원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/8270e22e9b8343c665920fa82eaa69b7.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[빅베이비드라이버 / Leftover & Remainder (White Colored Vinyl) *예약상품 (7월 20일 발송 예정) (김밥레코즈 ─ Vinyl ─ Korean)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=19485&amp;cate_no=52&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=19485&amp;cate_no=52&amp;display_group=1</guid>
@@ -1814,14 +1822,6 @@
             <pubDate>Wed, 22 Jun 2022 16:13:06 GMT</pubDate>
             <content:encoded><![CDATA[33,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202206/5063cbc641ab831995abd882e3be42a1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김신일 / Soul Soul Soul (Vinyl) (김밥레코즈 ─ Vinyl ─ Korean)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19313&amp;cate_no=52&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19313&amp;cate_no=52&amp;display_group=1</guid>
-            <pubDate>Fri, 17 Jun 2022 10:11:19 GMT</pubDate>
-            <content:encoded><![CDATA[45,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202206/b4f671ff769827594f94835e3b279f8c.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[Keith Jarrett / The Art Of Improvisation (Documentary) (Blu-ray) (김밥레코즈 ─ Movies/Merch ─ DVD/Blu-Ray)]]></title>
