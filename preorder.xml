@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ Pre-Order</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Jul 2022 09:11:34 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Jul 2022 10:14:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김동률 / 1집 The Shadow Of Forgetfulness (White Colored Vinyl) *예약상품 (10월 첫째주 발송 예정)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19484&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19484&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Wed, 13 Jul 2022 04:27:32 GMT</pubDate>
+            <content:encoded><![CDATA[52,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/b589cfc845329c967c5891d5d6ef03ef.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[백예린 / 물고기 (CD + 원통형 박스 + 북클릿 + 마그넷) *CD ONLY / 예약상품 (7월 11일 주문 마감)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=19348&amp;cate_no=42&amp;display_group=1</link>
@@ -30,14 +38,6 @@
             <pubDate>Wed, 13 Jul 2022 05:15:05 GMT</pubDate>
             <content:encoded><![CDATA[43,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202207/f9fb09c13cad7750ed7d7e03481e5f8f.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[김동률 /1집 The Shadow Of Forgetfulness (White Colored Vinyl) *예약상품 (10월 첫째주 발송 예정)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19484&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19484&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Wed, 13 Jul 2022 04:27:32 GMT</pubDate>
-            <content:encoded><![CDATA[52,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/b589cfc845329c967c5891d5d6ef03ef.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[보수동쿨러 / 모래 / 고무 (Limited 7" Vinyl, K-Indies Series) *예약상품 (9월 첫째주 발송 예정)]]></title>
