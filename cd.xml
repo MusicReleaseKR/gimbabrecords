@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ CD</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Jul 2022 08:14:31 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Jul 2022 09:11:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[더 바스타즈 / 정규 1집 CARNIVAL (CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19491&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19491&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Wed, 13 Jul 2022 09:09:17 GMT</pubDate>
+            <content:encoded><![CDATA[13,400원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/403a33607413505cfc717cc79ce388c0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Strawberry Guy / Sun Outside My Window (CD, EU Import, Limited)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=19483&amp;cate_no=24&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Mon, 11 Jul 2022 09:10:25 GMT</pubDate>
             <content:encoded><![CDATA[26,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202207/3597c4648daf0a0b643db6ae0d2936d7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Dokken / Original Album Series (5CD Box Set) *한정수량 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19472&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19472&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Mon, 11 Jul 2022 09:10:25 GMT</pubDate>
-            <content:encoded><![CDATA[26,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/802ffb13aebc3023897e64e1d70892b7.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
