@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Jul 2022 11:10:41 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Jul 2022 12:17:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Rigmor Gustafsson (w/ Nils Landgren) / I Will Wait For You (CD) (김밥레코즈 ─ CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19492&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19492&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Wed, 13 Jul 2022 12:15:18 GMT</pubDate>
+            <content:encoded><![CDATA[20,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/20b69d4cbe76e94dc21643b4db3e39ea.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[더 바스타즈 / 정규 1집 CARNIVAL (CD) (김밥레코즈 ─ CD)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=19491&amp;cate_no=24&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Mon, 11 Jul 2022 09:10:25 GMT</pubDate>
             <content:encoded><![CDATA[15,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202207/d769962e1809e5b1310014addabbcdc1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[a-ha / Original Album Series (5CD Box Set) *한정수량 할인 (김밥레코즈 ─ CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19473&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19473&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Mon, 11 Jul 2022 09:10:25 GMT</pubDate>
-            <content:encoded><![CDATA[26,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/3597c4648daf0a0b643db6ae0d2936d7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Steve Vai / Passion And Warfare (Vinyl, 180g MOV Pressing) *한정수량 할인 (김밥레코즈 ─ Vinyl)]]></title>
@@ -1064,6 +1064,14 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202202/8bc1ee8b938d54ef64c74021b212cef9.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Rigmor Gustafsson (w/ Nils Landgren) / I Will Wait For You (CD) (김밥레코즈 ─ CD ─ Jazz)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19492&amp;cate_no=46&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19492&amp;cate_no=46&amp;display_group=1</guid>
+            <pubDate>Wed, 13 Jul 2022 12:16:29 GMT</pubDate>
+            <content:encoded><![CDATA[20,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/20b69d4cbe76e94dc21643b4db3e39ea.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Nina Simone / Wild Is The Wind (CD, EU Import) (김밥레코즈 ─ CD ─ Jazz)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=19482&amp;cate_no=46&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=19482&amp;cate_no=46&amp;display_group=1</guid>
@@ -1150,14 +1158,6 @@
             <pubDate>Thu, 16 Jun 2022 05:13:49 GMT</pubDate>
             <content:encoded><![CDATA[21,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202203/457c51182e617a00a18fda65d6405d11.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Anja Lechner & François Couturier (Francois Couturier) / Lontano (CD) (김밥레코즈 ─ CD ─ Jazz)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19294&amp;cate_no=46&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19294&amp;cate_no=46&amp;display_group=1</guid>
-            <pubDate>Thu, 16 Jun 2022 05:13:49 GMT</pubDate>
-            <content:encoded><![CDATA[21,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202108/d8bc61346564d632af341726fcb72fd0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[The Lions / Soul Riot (CD) (김밥레코즈 ─ CD ─ Reggae)]]></title>
