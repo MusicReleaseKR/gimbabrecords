@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ CD</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Jul 2022 07:10:49 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Jul 2022 08:13:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Spirogyra / The Future Won't Be Long (3CD Box Set)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19511&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19511&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Fri, 15 Jul 2022 08:11:18 GMT</pubDate>
+            <content:encoded><![CDATA[43,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/b0fb86722fb7f83d5aec2a699d7f09bd.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[NoSo / Stay Proud of Me (CD, Digipak)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=19510&amp;cate_no=24&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Mon, 11 Jul 2022 09:10:25 GMT</pubDate>
             <content:encoded><![CDATA[23,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202207/e4e0751abd7d4fac02563aff22ea675f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Nina Simone / Wild Is The Wind (CD, EU Import)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19482&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19482&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Mon, 11 Jul 2022 09:10:25 GMT</pubDate>
-            <content:encoded><![CDATA[14,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/c38d374f20faba373c3e0b076e13a179.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
