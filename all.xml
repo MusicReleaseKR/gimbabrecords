@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Jul 2022 11:09:53 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Jul 2022 12:19:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Sven Wunder / Natura Morta (CD, Mr. Bongo Reissue) (김밥레코즈 ─ CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19546&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19546&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Fri, 15 Jul 2022 12:16:36 GMT</pubDate>
+            <content:encoded><![CDATA[20,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/2fca51b81dc1fde1940972bea11ed18e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Chris Potter / There Is A Tide (CD, Digipak) (김밥레코즈 ─ CD)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=19545&amp;cate_no=24&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Fri, 15 Jul 2022 10:09:38 GMT</pubDate>
             <content:encoded><![CDATA[14,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202207/d8f74d629d94a93e34ca35f976949068.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Cardigans / Best Of (CD, Jewel Case) *한정수량 할인 (김밥레코즈 ─ CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19533&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19533&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Fri, 15 Jul 2022 10:09:38 GMT</pubDate>
-            <content:encoded><![CDATA[14,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/95e1b9fa8bd3fb3f6f4cb7f4e7566680.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Al Di Meola, John McLaughlin & Paco de Lucia / Saturday Night in San Francisco (Vinyl, EU Pressing) (김밥레코즈 ─ Vinyl)]]></title>
@@ -872,6 +872,14 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202110/9a1686604d931d8d9d546da53396489f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Sven Wunder / Natura Morta (CD, Mr. Bongo Reissue) (김밥레코즈 ─ CD ─ R&B/Soul/Funk)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19546&amp;cate_no=44&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19546&amp;cate_no=44&amp;display_group=1</guid>
+            <pubDate>Fri, 15 Jul 2022 12:17:54 GMT</pubDate>
+            <content:encoded><![CDATA[20,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/2fca51b81dc1fde1940972bea11ed18e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[The Stylistics / Very Best Of The Stylistics (CD, EU Import) *한정수량 할인 (김밥레코즈 ─ CD ─ R&B/Soul/Funk)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=19527&amp;cate_no=44&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=19527&amp;cate_no=44&amp;display_group=1</guid>
@@ -958,14 +966,6 @@
             <pubDate>Mon, 06 Jun 2022 08:12:06 GMT</pubDate>
             <content:encoded><![CDATA[29,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202206/8892e1af1423d6caace7a9c47e42d97a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sylvia Striplin / Give Me Your Love (CD, JPN Import) (김밥레코즈 ─ CD ─ R&B/Soul/Funk)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19190&amp;cate_no=44&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19190&amp;cate_no=44&amp;display_group=1</guid>
-            <pubDate>Mon, 06 Jun 2022 08:12:06 GMT</pubDate>
-            <content:encoded><![CDATA[29,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202206/902b91fb104e778d2280eb90d441f42e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Eazy-E / Eternal E: Best Of (CD, EU Import) *한정수량 할인 (김밥레코즈 ─ CD ─ Hip Hop)]]></title>
@@ -1064,6 +1064,14 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202202/8bc1ee8b938d54ef64c74021b212cef9.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Sven Wunder / Natura Morta (CD, Mr. Bongo Reissue) (김밥레코즈 ─ CD ─ Jazz)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19546&amp;cate_no=46&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19546&amp;cate_no=46&amp;display_group=1</guid>
+            <pubDate>Fri, 15 Jul 2022 12:18:09 GMT</pubDate>
+            <content:encoded><![CDATA[20,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/2fca51b81dc1fde1940972bea11ed18e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Chris Potter / There Is A Tide (CD, Digipak) (김밥레코즈 ─ CD ─ Jazz)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=19545&amp;cate_no=46&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=19545&amp;cate_no=46&amp;display_group=1</guid>
@@ -1150,14 +1158,6 @@
             <pubDate>Fri, 08 Jul 2022 09:10:49 GMT</pubDate>
             <content:encoded><![CDATA[14,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202207/54a683b68c8042fa3b1398e2b98a0e1b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Jacob Collier / Djesse Vol. 1 (CD) *한정수량 할인 (김밥레코즈 ─ CD ─ Jazz)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19445&amp;cate_no=46&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19445&amp;cate_no=46&amp;display_group=1</guid>
-            <pubDate>Fri, 08 Jul 2022 08:13:56 GMT</pubDate>
-            <content:encoded><![CDATA[15,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/3e6f3bf0d7b78bf191ba42550262b00a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[The Lions / Soul Riot (CD) (김밥레코즈 ─ CD ─ Reggae)]]></title>
