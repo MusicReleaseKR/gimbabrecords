@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ CD</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Jul 2022 06:14:31 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Jul 2022 07:10:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[NoSo / Stay Proud of Me (CD, Digipak)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19510&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19510&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Fri, 15 Jul 2022 07:08:33 GMT</pubDate>
+            <content:encoded><![CDATA[19,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/31e0345770ede870a81caabcb47d60ca.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[OST (Joe Hisaishi) / Howl’s Moving Castle: Soundtrack 하울의 움직이는 성 사운드트랙 (CD)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=19501&amp;cate_no=24&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Mon, 11 Jul 2022 09:10:25 GMT</pubDate>
             <content:encoded><![CDATA[14,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202207/c38d374f20faba373c3e0b076e13a179.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Kate Bush / The Whole Story (CD, EU Import) *한정수량 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19481&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19481&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Mon, 11 Jul 2022 09:10:25 GMT</pubDate>
-            <content:encoded><![CDATA[15,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/1e8af2a3ccef4e9c191df03d49013125.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
