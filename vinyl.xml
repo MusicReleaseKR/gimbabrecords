@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ Vinyl</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Jul 2022 08:13:15 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Jul 2022 09:11:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[FKJ / Vincent (Vinyl, 2LP, PVC outer bag)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19512&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19512&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Fri, 15 Jul 2022 09:08:48 GMT</pubDate>
+            <content:encoded><![CDATA[47,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/4271420873ee3cd5ec8a00cb3aa2f09f.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[NoSo / Stay Proud of Me (Blue Vinyl)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=19509&amp;cate_no=25&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Wed, 13 Jul 2022 08:12:15 GMT</pubDate>
             <content:encoded><![CDATA[36,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202207/a282604d883e6d732898cc5767689b1c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Europe / The Final Countdown (Purple Clear Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19489&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19489&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Wed, 13 Jul 2022 06:12:29 GMT</pubDate>
-            <content:encoded><![CDATA[32,200원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/47d82d709f037327f3a51dabe12ec1ec.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
