@@ -4,9 +4,33 @@
         <title>김밥레코즈 ─ Vinyl</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 16 Jul 2022 16:12:47 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Jul 2022 17:12:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Sun Ra / Astro Black (Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19571&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19571&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Sat, 16 Jul 2022 17:09:45 GMT</pubDate>
+            <content:encoded><![CDATA[34,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/4b1ec77d71b6966b55866804ff49413f.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Sun Ra And His Outer Space Arkestra / Celestial Love (Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19570&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19570&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Sat, 16 Jul 2022 17:09:45 GMT</pubDate>
+            <content:encoded><![CDATA[34,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/b457d2d61b0342b398870b1f36f3e6f8.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Sun Ra And His Outer Space Arkestra / A Fireside Chat With Lucifer (Vinyl) *최초의 재발매]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19569&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19569&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Sat, 16 Jul 2022 17:09:45 GMT</pubDate>
+            <content:encoded><![CDATA[34,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/dee9395173dfb91c440972473750e98a.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Various Artists (활주로, 블랙테트라, 휘버스, 벗님들 외) / 제1회 해변가요제 (180g Limited Transparent Blue Smoking Color Vinyl)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=19568&amp;cate_no=25&amp;display_group=1</link>
@@ -78,30 +102,6 @@
             <pubDate>Sat, 16 Jul 2022 07:08:16 GMT</pubDate>
             <content:encoded><![CDATA[35,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202207/b834d739dda223163d68f98d46bdb8c8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Andrew Bird / Inside Problems (Limited Apple Red Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19549&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19549&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Sat, 16 Jul 2022 07:08:16 GMT</pubDate>
-            <content:encoded><![CDATA[39,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/5534ca8f7db9688c3200b45536f5542f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Mark Lanegan / The Winding Sheet (Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19548&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19548&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Sat, 16 Jul 2022 07:08:16 GMT</pubDate>
-            <content:encoded><![CDATA[31,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/a17f087df0c0142412f597512d9d0231.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[엉클밥 / Uncle Bob (Black Vinyl + 가사지) *예약상품 (7월 25일 발송 예정)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19547&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19547&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Fri, 15 Jul 2022 14:15:07 GMT</pubDate>
-            <content:encoded><![CDATA[40,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/d5c4567a6bbfe71b54b8af1a275f48e4.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
