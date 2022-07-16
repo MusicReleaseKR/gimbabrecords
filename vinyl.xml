@@ -4,9 +4,33 @@
         <title>김밥레코즈 ─ Vinyl</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 16 Jul 2022 06:13:09 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Jul 2022 07:10:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Marie Laforet / Les Incontournables (Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19550&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19550&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Sat, 16 Jul 2022 07:08:16 GMT</pubDate>
+            <content:encoded><![CDATA[35,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/b834d739dda223163d68f98d46bdb8c8.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Andrew Bird / Inside Problems (Limited Apple Red Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19549&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19549&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Sat, 16 Jul 2022 07:08:16 GMT</pubDate>
+            <content:encoded><![CDATA[39,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/5534ca8f7db9688c3200b45536f5542f.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Mark Lanegan / The Winding Sheet (Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19548&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19548&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Sat, 16 Jul 2022 07:08:16 GMT</pubDate>
+            <content:encoded><![CDATA[31,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/a17f087df0c0142412f597512d9d0231.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[엉클밥 / Uncle Bob (Black Vinyl + 가사지) *예약상품 (7월 25일 발송 예정)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=19547&amp;cate_no=25&amp;display_group=1</link>
@@ -78,30 +102,6 @@
             <pubDate>Fri, 15 Jul 2022 06:12:20 GMT</pubDate>
             <content:encoded><![CDATA[36,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202207/dd703d9803d4ec85a39a461b8345cb5e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Edna Vazquez with Pink Martini / Besame Mucho (Orange Colored 10" Vinyl, Limited Edition + Download)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19503&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19503&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Fri, 15 Jul 2022 06:12:20 GMT</pubDate>
-            <content:encoded><![CDATA[25,700원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/94f567c5a0ae4bec5ee4874b4efca62d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[US3 / Hand On The Torch (Vinyl, 180g) *한정수량 할인상품]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19502&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19502&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Wed, 13 Jul 2022 20:12:26 GMT</pubDate>
-            <content:encoded><![CDATA[34,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/c83dc807c8ae066adb2cfc7a989ffd0d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Martin Denny / Exotica Volume II (Limited Colored Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19494&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19494&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Wed, 13 Jul 2022 16:12:40 GMT</pubDate>
-            <content:encoded><![CDATA[42,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/9fdf61d037479de1a370aa5a21bb5d5e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
