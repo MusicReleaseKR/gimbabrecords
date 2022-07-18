@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ CD</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Jul 2022 13:39:46 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Jul 2022 14:14:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Keith Jarrett / My Song (SHM-CD, OBI)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19587&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19587&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Mon, 18 Jul 2022 14:12:52 GMT</pubDate>
+            <content:encoded><![CDATA[20,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/c68801b21fd6f6d100833da3213647f2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Young Gun Silver Fox / Canyons (CD, Digisleeve)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=19575&amp;cate_no=24&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Sat, 16 Jul 2022 08:11:21 GMT</pubDate>
             <content:encoded><![CDATA[17,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202207/49217e1a6bc212d12d4a2a7f7d2539b5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sault / 7 (CD, EU Import)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19557&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19557&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Sat, 16 Jul 2022 08:11:21 GMT</pubDate>
-            <content:encoded><![CDATA[17,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/85591b142f018ec3493a98571ac215eb.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
