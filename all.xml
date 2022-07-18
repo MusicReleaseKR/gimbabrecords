@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Jul 2022 10:16:58 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Jul 2022 11:10:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Young Gun Silver Fox / Canyons (CD, Digisleeve) (김밥레코즈 ─ CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19575&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19575&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Mon, 18 Jul 2022 11:07:42 GMT</pubDate>
+            <content:encoded><![CDATA[21,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/ec7b29fcd41f597543b365b2cf6e27c2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Jack White / Fear Of The Dawn (CD) (김밥레코즈 ─ CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19574&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19574&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Mon, 18 Jul 2022 11:07:42 GMT</pubDate>
+            <content:encoded><![CDATA[19,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/d82757c387abec128602bbcd44b93237.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Nick Cave & The Bad Seeds / The Boatman's Call (CD + DVD) (김밥레코즈 ─ CD)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=19566&amp;cate_no=24&amp;display_group=1</link>
@@ -88,20 +104,20 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202207/85591b142f018ec3493a98571ac215eb.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Sven Wunder / Natura Morta (CD, Mr. Bongo Reissue) (김밥레코즈 ─ CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19546&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19546&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Fri, 15 Jul 2022 12:16:36 GMT</pubDate>
-            <content:encoded><![CDATA[20,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/2fca51b81dc1fde1940972bea11ed18e.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[Calexico / El Mirador (Black Vinyl) (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19573&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19573&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Mon, 18 Jul 2022 11:07:51 GMT</pubDate>
+            <content:encoded><![CDATA[41,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/36c7f9b993f55ad9abad2ce7406d1aa7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Chris Potter / There Is A Tide (CD, Digipak) (김밥레코즈 ─ CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19545&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19545&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Fri, 15 Jul 2022 11:07:36 GMT</pubDate>
-            <content:encoded><![CDATA[22,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/bb72267958314e3291ad30e38e120e22.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[Mac Miller / Circles (2LP, Clear Vinyl) *모서리 눌림으로 할인 (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19572&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19572&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Mon, 18 Jul 2022 11:07:51 GMT</pubDate>
+            <content:encoded><![CDATA[54,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/20200601/49241e63f962a4d8ee45013ebe3e6092.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Sun Ra / Astro Black (Vinyl) (김밥레코즈 ─ Vinyl)]]></title>
@@ -184,20 +200,12 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202207/b834d739dda223163d68f98d46bdb8c8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Andrew Bird / Inside Problems (Limited Apple Red Vinyl) (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19549&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19549&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Mon, 18 Jul 2022 04:39:31 GMT</pubDate>
-            <content:encoded><![CDATA[39,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/5534ca8f7db9688c3200b45536f5542f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Mark Lanegan / The Winding Sheet (Vinyl) (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19548&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19548&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Mon, 18 Jul 2022 04:39:31 GMT</pubDate>
-            <content:encoded><![CDATA[31,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/a17f087df0c0142412f597512d9d0231.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[Flume / Palaces (Neon Green Cassette) (김밥레코즈 ─ Cassette)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19576&amp;cate_no=26&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19576&amp;cate_no=26&amp;display_group=1</guid>
+            <pubDate>Mon, 18 Jul 2022 11:08:00 GMT</pubDate>
+            <content:encoded><![CDATA[20,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/a26bf7279f00c4536f3b7a598cdb3140.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Green-House / Music For Living Space (Cassette) *비닐포장이 없는 제품입니다. (김밥레코즈 ─ Cassette)]]></title>
@@ -286,14 +294,6 @@
             <pubDate>Tue, 05 Jul 2022 04:29:04 GMT</pubDate>
             <content:encoded><![CDATA[20,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202204/c84762dc50e7cc911b063723113d282d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Various Artists / Somewhere Between: Mutant Pop, Electronic Minimalism & Shadow Sounds of Japan 1980-1988 (Cassette) (김밥레코즈 ─ Cassette)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=18829&amp;cate_no=26&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=18829&amp;cate_no=26&amp;display_group=1</guid>
-            <pubDate>Thu, 14 Jul 2022 03:16:27 GMT</pubDate>
-            <content:encoded><![CDATA[20,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202204/4dfa91d645220e312ab48b710684dfc7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Nick Cave & The Bad Seeds / The Boatman's Call (CD + DVD) (김밥레코즈 ─ Movies/Merch)]]></title>
@@ -680,6 +680,22 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202205/8f85581298a0da048e00f9e4df822532.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
+            <title><![CDATA[Young Gun Silver Fox / Canyons (CD, Digisleeve) (김밥레코즈 ─ CD ─ Pop/Rock)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19575&amp;cate_no=30&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19575&amp;cate_no=30&amp;display_group=1</guid>
+            <pubDate>Mon, 18 Jul 2022 11:08:39 GMT</pubDate>
+            <content:encoded><![CDATA[21,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/ec7b29fcd41f597543b365b2cf6e27c2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Jack White / Fear Of The Dawn (CD) (김밥레코즈 ─ CD ─ Pop/Rock)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19574&amp;cate_no=30&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19574&amp;cate_no=30&amp;display_group=1</guid>
+            <pubDate>Mon, 18 Jul 2022 11:08:39 GMT</pubDate>
+            <content:encoded><![CDATA[19,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/d82757c387abec128602bbcd44b93237.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Nick Cave & The Bad Seeds / The Boatman's Call (CD + DVD) (김밥레코즈 ─ CD ─ Pop/Rock)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=19566&amp;cate_no=30&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=19566&amp;cate_no=30&amp;display_group=1</guid>
@@ -758,22 +774,6 @@
             <pubDate>Fri, 15 Jul 2022 10:10:39 GMT</pubDate>
             <content:encoded><![CDATA[14,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202207/affebba6088c10e5d2caf5ecc30dd0d4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Style Council / Cafe Bleu (Remastered CD) *한정수량 할인 (김밥레코즈 ─ CD ─ Pop/Rock)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19531&amp;cate_no=30&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19531&amp;cate_no=30&amp;display_group=1</guid>
-            <pubDate>Fri, 15 Jul 2022 10:10:39 GMT</pubDate>
-            <content:encoded><![CDATA[14,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/2c5c1615ff5bab21fc0d65201401676e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Cure / Greatest Hits (CD, EU Import) *한정수량 할인 (김밥레코즈 ─ CD ─ Pop/Rock)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19530&amp;cate_no=30&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19530&amp;cate_no=30&amp;display_group=1</guid>
-            <pubDate>Fri, 15 Jul 2022 10:10:39 GMT</pubDate>
-            <content:encoded><![CDATA[14,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/fa4a11b023028596ad946c93165d7819.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Polo & Pan / Cyclorama (CD, EU import) *한정수량 할인 (김밥레코즈 ─ CD ─ Electronic/Dance)]]></title>
