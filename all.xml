@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Jul 2022 08:15:54 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Jul 2022 09:11:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Gard Nilssen Acoustic Unity / Elastic Wave (CD) (김밥레코즈 ─ CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19617&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19617&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Thu, 21 Jul 2022 09:08:51 GMT</pubDate>
+            <content:encoded><![CDATA[21,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/522986975ce3c04d6817b59c2eb49030.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[John Lennon / Imagine: The Ultimate Collection (2CD, Deluxe Edition, Digipak) (김밥레코즈 ─ CD)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=19612&amp;cate_no=24&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Mon, 18 Jul 2022 16:13:04 GMT</pubDate>
             <content:encoded><![CDATA[20,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202207/9deda58b061223cb10dc6d1beb321318.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Art Farmer / Art (SHM-CD, OBI) (김밥레코즈 ─ CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19599&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19599&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Mon, 18 Jul 2022 16:13:04 GMT</pubDate>
-            <content:encoded><![CDATA[20,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/44a98e6e4967dd95fb62a432066c693c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Camila Cabello / Familia (Green Translucent Vinyl) (김밥레코즈 ─ Vinyl)]]></title>
@@ -1064,6 +1064,14 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202202/8bc1ee8b938d54ef64c74021b212cef9.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Gard Nilssen Acoustic Unity / Elastic Wave (CD) (김밥레코즈 ─ CD ─ Jazz)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19617&amp;cate_no=46&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19617&amp;cate_no=46&amp;display_group=1</guid>
+            <pubDate>Thu, 21 Jul 2022 09:10:16 GMT</pubDate>
+            <content:encoded><![CDATA[21,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/522986975ce3c04d6817b59c2eb49030.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Chet Baker / Cool Cat (CD, JPN Import) (김밥레코즈 ─ CD ─ Jazz)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=19611&amp;cate_no=46&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=19611&amp;cate_no=46&amp;display_group=1</guid>
@@ -1150,14 +1158,6 @@
             <pubDate>Mon, 18 Jul 2022 15:20:46 GMT</pubDate>
             <content:encoded><![CDATA[20,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202207/df1a3fa97c69fd83885efd3e2c77b984.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Bobo Stenson, Anders Jormin & Paul Motian / Goodbye (SHM-CD, OBI) (김밥레코즈 ─ CD ─ Jazz)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19593&amp;cate_no=46&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19593&amp;cate_no=46&amp;display_group=1</guid>
-            <pubDate>Mon, 18 Jul 2022 15:20:46 GMT</pubDate>
-            <content:encoded><![CDATA[20,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/a836e4e6ad9f63fca3987211981b2ceb.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[The Lions / Soul Riot (CD) (김밥레코즈 ─ CD ─ Reggae)]]></title>
