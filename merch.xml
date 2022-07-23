@@ -4,7 +4,7 @@
         <title>김밥레코즈 ─ Movies/Merch</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 23 Jul 2022 03:04:28 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Jul 2022 04:25:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,22 +30,6 @@
             <pubDate>Fri, 22 Jul 2022 21:08:55 GMT</pubDate>
             <content:encoded><![CDATA[21,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202207/672d883cb9d42392f7698eac21c83739.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Nick Cave & The Bad Seeds / The Boatman's Call (CD + DVD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19566&amp;cate_no=27&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19566&amp;cate_no=27&amp;display_group=1</guid>
-            <pubDate>Sat, 16 Jul 2022 09:08:50 GMT</pubDate>
-            <content:encoded><![CDATA[21,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/9d3b0e77ec5487f17e5962b4a2f21bb2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Nick Cave & The Bad Seeds / Dig!!! Lazarus Dig!!! (CD + DVD, 2012 Remastered Edition)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19565&amp;cate_no=27&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19565&amp;cate_no=27&amp;display_group=1</guid>
-            <pubDate>Sat, 16 Jul 2022 09:08:50 GMT</pubDate>
-            <content:encoded><![CDATA[21,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/f2967a93171e416f2c12dbc2c72c90b8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Keith Jarrett / The Art Of Improvisation (Documentary) (Blu-ray)]]></title>
@@ -102,6 +86,22 @@
             <pubDate>Sat, 12 Mar 2022 16:24:47 GMT</pubDate>
             <content:encoded><![CDATA[8,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202111/1620debc56f774ec279aa6f44917d1b0.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[사뮈 (Samui) / Bone Face T-Shirts (Black, White, One Size)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=17175&amp;cate_no=27&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=17175&amp;cate_no=27&amp;display_group=1</guid>
+            <pubDate>Sat, 23 Jul 2022 04:23:14 GMT</pubDate>
+            <content:encoded><![CDATA[42,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202108/ff057289ea39eb4eb3f196e33ce668af.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[사뮈 (Samui) / Bad Joke T-Shirts (White, One Size) *할인상품]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=17174&amp;cate_no=27&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=17174&amp;cate_no=27&amp;display_group=1</guid>
+            <pubDate>Sat, 23 Jul 2022 04:23:14 GMT</pubDate>
+            <content:encoded><![CDATA[25,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202108/5430b6af399bb8b43439f3488351476a.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
