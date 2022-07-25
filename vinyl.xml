@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ Vinyl</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Jul 2022 06:14:23 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Jul 2022 07:11:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Joyce / Feminina (12" Limited Edition, 2022 RSD Exclusive)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19643&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19643&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Mon, 25 Jul 2022 07:09:09 GMT</pubDate>
+            <content:encoded><![CDATA[29,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/4e0f9a7344a68374cbd7bad30624ffcc.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Ibeyi / Spell 31 (Vinyl) *할인상품]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=19641&amp;cate_no=25&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Fri, 22 Jul 2022 08:13:08 GMT</pubDate>
             <content:encoded><![CDATA[46,800원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202207/fcf42074049888b1bd0759b15c9795a3.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Kit Downes, Petter Eldh, James Maddren / Vermillion (180g Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19627&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19627&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Fri, 22 Jul 2022 08:13:08 GMT</pubDate>
-            <content:encoded><![CDATA[35,100원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/9269726ffff1d7d3e32d5a50da5bc8c0.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
