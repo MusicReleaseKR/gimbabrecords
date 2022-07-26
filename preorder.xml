@@ -4,16 +4,16 @@
         <title>김밥레코즈 ─ Pre-Order</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Jul 2022 03:28:27 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Jul 2022 05:03:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[BrokenTeeth / 당신의 사랑이 늘 행복하기를 / Spring (CD) *예약상품 (8월 2일 발송 예정)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19652&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19652&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Tue, 26 Jul 2022 03:26:32 GMT</pubDate>
-            <content:encoded><![CDATA[10,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/24871612734545db2faca06eebe9db2f.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[베이빌론 / EGO 90’S (2LP, 180g Colored Vinyl) *예약상품 (12월말 발송 예정)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19605&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19605&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Wed, 20 Jul 2022 05:19:07 GMT</pubDate>
+            <content:encoded><![CDATA[56,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/04b97faab5f8f02ab69e370fb06fd988.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[보수동쿨러 / 모래  (140g Gatefold Black Colored Vinyl w/ Download Card) *예약상품 (8월 16일 경 발송 예정), *1인 1매 구매 가능 및 별도 입금 기한 설정]]></title>
@@ -22,6 +22,14 @@
             <pubDate>Fri, 22 Jul 2022 05:20:51 GMT</pubDate>
             <content:encoded><![CDATA[40,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202207/abfff1f70645ee42182ef291f1a59591.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[BrokenTeeth / 당신의 사랑이 늘 행복하기를 / Spring (CD) *예약상품 (8월 2일 발송 예정)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19652&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19652&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Tue, 26 Jul 2022 03:26:32 GMT</pubDate>
+            <content:encoded><![CDATA[10,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/24871612734545db2faca06eebe9db2f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Hollie Cook / Hollie Cook (Vinyl) *예약상품 (8월 8일 이후 발송 예정)]]></title>
@@ -46,14 +54,6 @@
             <pubDate>Mon, 25 Jul 2022 05:22:26 GMT</pubDate>
             <content:encoded><![CDATA[56,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202207/b28929f09c4a2712c0c2bd5ace0adf03.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[베이빌론 / EGO 90’S (2LP, 180g Colored Vinyl) *예약상품 (12월말 발송 예정)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19605&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19605&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Wed, 20 Jul 2022 05:19:07 GMT</pubDate>
-            <content:encoded><![CDATA[56,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/04b97faab5f8f02ab69e370fb06fd988.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[조용필 / 16~19집, 4LP 박스 (140g 컬러반, 넘버링 한정반) *예약상품 (10월 31일 발송 예정)]]></title>
