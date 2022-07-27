@@ -4,9 +4,33 @@
         <title>김밥레코즈 ─ Vinyl</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Jul 2022 06:13:44 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Jul 2022 07:12:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[OST / My Best Friend's Wedding 내 남자친구의 결혼식 (Vinyl, Black & White “Tuxedo” LP Edition)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19681&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19681&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Wed, 27 Jul 2022 07:09:35 GMT</pubDate>
+            <content:encoded><![CDATA[55,800원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/cee5f148a4d00bd537598ba833df1ac7.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Laurent Voulzy / Cache Derriere (Vinyl, 2LP)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19680&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19680&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Wed, 27 Jul 2022 07:09:35 GMT</pubDate>
+            <content:encoded><![CDATA[42,900원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/7b5e3d9e8d7e6f1c35a556d0c91957a9.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Kent / Vapen & Ammunition 20 Ar (White Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19679&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19679&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Wed, 27 Jul 2022 07:09:35 GMT</pubDate>
+            <content:encoded><![CDATA[32,200원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/201607/4511_shop1_993022.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[이소라 / 이소라 베스트 (투명 핑크 바이닐, 2LP, 일련번호 표기)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=19678&amp;cate_no=25&amp;display_group=1</link>
@@ -78,30 +102,6 @@
             <pubDate>Mon, 25 Jul 2022 13:33:30 GMT</pubDate>
             <content:encoded><![CDATA[25,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202207/b6ed4744ed56968d4ec6a054c45bffb0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Wanda Sa / Vagamente (Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19647&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19647&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Mon, 25 Jul 2022 13:33:30 GMT</pubDate>
-            <content:encoded><![CDATA[41,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/7fd56421fab37fdbb6870eeda7985c8a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Pollen / Pollen (Vinyl, Limited to 500)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19646&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19646&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Mon, 25 Jul 2022 11:09:07 GMT</pubDate>
-            <content:encoded><![CDATA[31,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/a59d72b770ff2295e7570814217ea1e4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Beverly Copeland / Beverly Copeland (Limited Clear Vinyl, 2nd Pressing)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19645&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19645&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Mon, 25 Jul 2022 13:33:30 GMT</pubDate>
-            <content:encoded><![CDATA[31,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/1b60dd58d936b5194140e41621002c40.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
