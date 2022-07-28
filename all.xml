@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Jul 2022 07:10:59 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Jul 2022 08:14:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -104,6 +104,14 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202207/1fac3f004e8a5a39013374618a68ebe8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[지윤해 / And / Zenly (7" Vinyl) (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19695&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19695&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Thu, 28 Jul 2022 08:12:08 GMT</pubDate>
+            <content:encoded><![CDATA[29,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/fea89b77da7a4693a1b6fecf3a83a4cc.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[Foals / Life Is Yours (Vinyl) (김밥레코즈 ─ Vinyl)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=19693&amp;cate_no=25&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=19693&amp;cate_no=25&amp;display_group=1</guid>
@@ -190,14 +198,6 @@
             <pubDate>Wed, 27 Jul 2022 08:11:45 GMT</pubDate>
             <content:encoded><![CDATA[55,100원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202207/d916c216294e9c732bd6a77a1938bbf7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[OST / My Best Friend's Wedding 내 남자친구의 결혼식 (Vinyl, Black & White “Tuxedo” LP Edition) (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19681&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19681&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Wed, 27 Jul 2022 07:09:35 GMT</pubDate>
-            <content:encoded><![CDATA[55,800원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/cee5f148a4d00bd537598ba833df1ac7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Flume / Palaces (Neon Green Cassette) (김밥레코즈 ─ Cassette)]]></title>
@@ -400,6 +400,14 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202207/5978b5be69998eac255a0985b430b174.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[조용필 / 16~19집, 4LP 박스 (140g 컬러반, 넘버링 한정반) *예약상품 (10월 31일 발송 예정) (김밥레코즈 ─ Pre-Order)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19604&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19604&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Tue, 19 Jul 2022 05:44:40 GMT</pubDate>
+            <content:encoded><![CDATA[187,100원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/68153f6446a600fc7be949dfc29272ca.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[보수동쿨러 / 모래  (140g Gatefold Black Colored Vinyl w/ Download Card) *예약상품 (8월 16일 경 발송 예정), *1인 1매 구매 가능 및 별도 입금 기한 설정 (김밥레코즈 ─ Pre-Order)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=19616&amp;cate_no=42&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=19616&amp;cate_no=42&amp;display_group=1</guid>
@@ -446,14 +454,6 @@
             <pubDate>Mon, 25 Jul 2022 05:22:26 GMT</pubDate>
             <content:encoded><![CDATA[56,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202207/b28929f09c4a2712c0c2bd5ace0adf03.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[조용필 / 16~19집, 4LP 박스 (140g 컬러반, 넘버링 한정반) *예약상품 (10월 31일 발송 예정) (김밥레코즈 ─ Pre-Order)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19604&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19604&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Tue, 19 Jul 2022 05:44:40 GMT</pubDate>
-            <content:encoded><![CDATA[187,100원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/68153f6446a600fc7be949dfc29272ca.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[edbl / South London Sounds (Vinyl, Limited Edition, JPN Import) *예약상품 (8월 5일경 배송 예정) (김밥레코즈 ─ Pre-Order)]]></title>
@@ -1728,6 +1728,14 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202207/40ff4fe0b764ba1b237fd746abab055c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[지윤해 / And / Zenly (7" Vinyl) (김밥레코즈 ─ Vinyl ─ Korean)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19695&amp;cate_no=52&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19695&amp;cate_no=52&amp;display_group=1</guid>
+            <pubDate>Thu, 28 Jul 2022 08:14:15 GMT</pubDate>
+            <content:encoded><![CDATA[29,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/fea89b77da7a4693a1b6fecf3a83a4cc.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[이소라 / 이소라 베스트 (투명 핑크 바이닐, 2LP, 일련번호 표기) (김밥레코즈 ─ Vinyl ─ Korean)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=19678&amp;cate_no=52&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=19678&amp;cate_no=52&amp;display_group=1</guid>
@@ -1814,14 +1822,6 @@
             <pubDate>Wed, 20 Jul 2022 05:21:03 GMT</pubDate>
             <content:encoded><![CDATA[56,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202207/04b97faab5f8f02ab69e370fb06fd988.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[조용필 / 16~19집, 4LP 박스 (140g 컬러반, 넘버링 한정반) *예약상품 (10월 31일 발송 예정) (김밥레코즈 ─ Vinyl ─ Korean)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19604&amp;cate_no=52&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19604&amp;cate_no=52&amp;display_group=1</guid>
-            <pubDate>Wed, 27 Jul 2022 09:11:23 GMT</pubDate>
-            <content:encoded><![CDATA[187,100원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/68153f6446a600fc7be949dfc29272ca.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[Keith Jarrett / The Art Of Improvisation (Documentary) (Blu-ray) (김밥레코즈 ─ Movies/Merch ─ DVD/Blu-Ray)]]></title>
