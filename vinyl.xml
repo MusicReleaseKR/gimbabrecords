@@ -4,9 +4,25 @@
         <title>김밥레코즈 ─ Vinyl</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Jul 2022 09:11:24 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Jul 2022 10:11:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Charlie Haden / Nocturne (Vinyl, 2LP, EU Pressing) *미세한 모서리 눌림으로 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19719&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19719&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Fri, 29 Jul 2022 10:09:42 GMT</pubDate>
+            <content:encoded><![CDATA[44,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202108/2b875153a8ceaf0066ae196154b80b46.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Smokie / Midnight Cafe (180g Vinyl, 2LP)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19718&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19718&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Fri, 29 Jul 2022 10:09:42 GMT</pubDate>
+            <content:encoded><![CDATA[27,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/0ecde8a58704d4e7944659bd3bb4be27.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[OST (John Barry) / Dances With Wolves 늑대와 춤을 (180g Vinyl)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=19717&amp;cate_no=25&amp;display_group=1</link>
@@ -86,22 +102,6 @@
             <pubDate>Wed, 27 Jul 2022 09:09:12 GMT</pubDate>
             <content:encoded><![CDATA[64,400원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202207/5978b5be69998eac255a0985b430b174.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sonny Clark / Dial "S" For Sonny (180g Vinyl, Blue Note Classic Vinyl Series)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19685&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19685&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Wed, 27 Jul 2022 08:11:45 GMT</pubDate>
-            <content:encoded><![CDATA[32,200원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/23dd49864733cd81980f95c699c009c6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Collective Soul / Disciplined Breakdown (Translucent Red Vinyl, RSD 2022, 25th Anniversary Edition)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19684&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19684&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Wed, 27 Jul 2022 08:11:45 GMT</pubDate>
-            <content:encoded><![CDATA[30,400원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/9bb65963efc4596101794293685bd155.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
