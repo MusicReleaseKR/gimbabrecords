@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ Vinyl</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 Aug 2022 14:13:45 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Aug 2022 15:12:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Jerry Garcia Band / Jerry Garcia Band (30th Anniversary - 180g 5LP Box Set 최초의 바이닐 버전) *한정수량 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19734&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19734&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Mon, 01 Aug 2022 15:10:30 GMT</pubDate>
+            <content:encoded><![CDATA[125,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202208/b147cfe28fd08ad2b486995ff8fdcd67.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[무토(MUTO) / Vast Plains (Vinyl) *예약상품 (8월 10일 발매 예정)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=19733&amp;cate_no=25&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Fri, 29 Jul 2022 09:09:02 GMT</pubDate>
             <content:encoded><![CDATA[38,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202207/7b3a6001bee6e59a77a67d44419e9198.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Superorganism / World Wide Pop (Gold Vinyl, Indie Exclusive Limited Edition + Download)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19716&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19716&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Fri, 29 Jul 2022 09:09:02 GMT</pubDate>
-            <content:encoded><![CDATA[48,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/8bed3aff36f6ba53afcd2b2f87bb17f6.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
