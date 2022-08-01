@@ -4,9 +4,41 @@
         <title>김밥레코즈 ─ Vinyl</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 01 Aug 2022 08:14:43 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Aug 2022 09:11:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Σtella (Stella) / Up And Away (Limited Blue Vinyl, Loser Edition) *모서리 눌림으로 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19727&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19727&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Mon, 01 Aug 2022 09:09:48 GMT</pubDate>
+            <content:encoded><![CDATA[31,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202208/51cbd0f385f4f157b1d2ab6faa3a371a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Charlie Gabriel / Eighty Nine (Yellow Vinyl, Loser Edition)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19726&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19726&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Mon, 01 Aug 2022 09:09:48 GMT</pubDate>
+            <content:encoded><![CDATA[32,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202208/bea5637183b76ed5a67dcc2d554120cf.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Charlie Gabriel / Eighty Nine (Yellow Vinyl, Loser Edition) *모서리 눌림으로 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19725&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19725&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Mon, 01 Aug 2022 09:09:48 GMT</pubDate>
+            <content:encoded><![CDATA[31,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202208/8cac094977b0f38560d08d3fc13c0617.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Nirvana / Bleach (Vinyl) *모서리 눌림으로 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19723&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19723&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Mon, 01 Aug 2022 09:09:48 GMT</pubDate>
+            <content:encoded><![CDATA[31,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/201601/2677_shop1_247544.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Porcupine Tree / Closure / Continuation (Black Vinyl, 2LP)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=19721&amp;cate_no=25&amp;display_group=1</link>
@@ -70,38 +102,6 @@
             <pubDate>Thu, 28 Jul 2022 08:12:08 GMT</pubDate>
             <content:encoded><![CDATA[29,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202207/fea89b77da7a4693a1b6fecf3a83a4cc.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Foals / Life Is Yours (Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19693&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19693&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Wed, 27 Jul 2022 10:09:38 GMT</pubDate>
-            <content:encoded><![CDATA[34,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/48e6028488b9196af4c518de1c12aca7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Van Halen / Van Halen (180g Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19692&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19692&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Wed, 27 Jul 2022 10:09:38 GMT</pubDate>
-            <content:encoded><![CDATA[28,300원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/32669829b1bffc6428e71a8ee263ba3a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[My Chemical Romance / Danger Days - The True Lives Of The Fabulous Killjoys (Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19690&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19690&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Wed, 27 Jul 2022 10:09:38 GMT</pubDate>
-            <content:encoded><![CDATA[28,300원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/2840be67fc647f8aad4cffb7ac5ffb5a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Bruno Mars / Unorthodox Jukebox (Dark Red Vinyl, Limited)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19689&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19689&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Wed, 27 Jul 2022 10:09:38 GMT</pubDate>
-            <content:encoded><![CDATA[37,800원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/bdd8b38a960a05d9f774024971f78819.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
