@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 02 Aug 2022 17:22:05 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Aug 2022 18:13:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -104,6 +104,14 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202208/3937e46ad831d2dab9d118a94d5f8835.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Enya / The Very Best of Enya (Vinyl, 2LP) (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19758&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19758&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Tue, 02 Aug 2022 18:11:05 GMT</pubDate>
+            <content:encoded><![CDATA[41,600원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202208/beee264ad7dcd72c0f2ece1a05ee51a3.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Marcos Valle / Girassol (7" Vinyl) (김밥레코즈 ─ Vinyl)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=19750&amp;cate_no=25&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=19750&amp;cate_no=25&amp;display_group=1</guid>
@@ -190,14 +198,6 @@
             <pubDate>Tue, 02 Aug 2022 08:12:20 GMT</pubDate>
             <content:encoded><![CDATA[22,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/201902/d3b7c64742399cdfc6465e61698828c2.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Toro Y Moi / Freaking Out (EP, 12" Vinyl, 45rpm) (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19739&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19739&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Tue, 02 Aug 2022 08:12:20 GMT</pubDate>
-            <content:encoded><![CDATA[22,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202208/f9809e4a1541aeec1ce04bd7387fc147.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Elephant Gym / Underwater (Green Cassette) (김밥레코즈 ─ Cassette)]]></title>
