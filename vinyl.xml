@@ -4,9 +4,33 @@
         <title>김밥레코즈 ─ Vinyl</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Aug 2022 07:10:22 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Aug 2022 08:14:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Mac DeMarco / Rock And Roll Night Club (Marbled Brown & Custard Colored Vinyl, 10 Year Anniversary Edition) *1인 1매만 구매 가능합니다.]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19782&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19782&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Fri, 05 Aug 2022 08:12:15 GMT</pubDate>
+            <content:encoded><![CDATA[31,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202208/59d81f1753fc19c0471959c4dc8134fa.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Delvon Lamarr Organ Trio / Cold As Weiss (Transparent Red Vinyl + Download Card) *모서리 눌림으로 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19781&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19781&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Fri, 05 Aug 2022 08:12:15 GMT</pubDate>
+            <content:encoded><![CDATA[34,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202208/76912c7942c604b63d877b26d00fdc2c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[El Michels Affair / Adult Themes (Black Vinyl) *한정수량 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19780&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19780&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Fri, 05 Aug 2022 08:12:15 GMT</pubDate>
+            <content:encoded><![CDATA[30,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202208/643efd822ec816a5c92cf5ee8319b308.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[OST / Rocky IV 록키 4 (Vinyl, Picture Disc)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=19766&amp;cate_no=25&amp;display_group=1</link>
@@ -78,30 +102,6 @@
             <pubDate>Tue, 02 Aug 2022 18:11:05 GMT</pubDate>
             <content:encoded><![CDATA[41,600원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202208/beee264ad7dcd72c0f2ece1a05ee51a3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Marcos Valle / Girassol (7" Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19750&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19750&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Tue, 02 Aug 2022 09:08:49 GMT</pubDate>
-            <content:encoded><![CDATA[26,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202208/b56f78278a89cccd139fcf3c261b5e7a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Various Artists / France Chebran Volume 2 - French Boogie 1982-1989 (Vinyl, 2LP)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19749&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19749&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Tue, 02 Aug 2022 08:12:20 GMT</pubDate>
-            <content:encoded><![CDATA[45,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202208/e4cb3e2eba9aa649dc0a46f4a3e4a9a9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Various Artists / Tchic Tchic French Bossa Nova 1963-1974 (Vinyl, 2LP + Download) *모서리 눌림으로 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19748&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19748&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Tue, 02 Aug 2022 08:12:20 GMT</pubDate>
-            <content:encoded><![CDATA[44,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202208/217dadc981c1119b2beae2cb3606a6da.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
