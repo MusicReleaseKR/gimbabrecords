@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Aug 2022 09:11:19 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Aug 2022 10:12:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -104,6 +104,22 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202208/ffad76bca23af2d0f49e82fc24aea5dd.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Anderson Paak / Venice (Vinyl, 2LP,180g audiophile pressing + download) (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19787&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19787&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Fri, 05 Aug 2022 10:10:03 GMT</pubDate>
+            <content:encoded><![CDATA[38,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/201712/63_shop1_706853.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Kingo Hamada / Heart Cocktail (Vinyl + OBI, Limited Edition) (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19786&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19786&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Fri, 05 Aug 2022 10:10:03 GMT</pubDate>
+            <content:encoded><![CDATA[49,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202208/ec8a6181da2768f9f1b28c85fccdd24c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Haruomi Hosono 호소노 하루오미 / Hosono House (US Pressing, Translucent Blue Seafoam Colored Vinyl + OBI) *모서리 눌림으로 할인 (김밥레코즈 ─ Vinyl)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=19785&amp;cate_no=25&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=19785&amp;cate_no=25&amp;display_group=1</guid>
@@ -182,22 +198,6 @@
             <pubDate>Wed, 03 Aug 2022 11:08:30 GMT</pubDate>
             <content:encoded><![CDATA[37,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202208/721a2c08c20525613b90de2d681aefb5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[박지하 Park Jiha & Roy Claire Potter / To Call Out Into the Night (Vinyl (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19762&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19762&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Wed, 03 Aug 2022 11:08:30 GMT</pubDate>
-            <content:encoded><![CDATA[34,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202208/1a5b995a90af97fbe14c9580a48dc381.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Oneohtrix Point Never / Returnal (Crystal Clear Vinyl, 2021 Edition) (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19761&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19761&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Wed, 03 Aug 2022 10:10:14 GMT</pubDate>
-            <content:encoded><![CDATA[41,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202208/d8b09220cfbad94c470cb6c58c8cc6b9.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Elephant Gym / Underwater (Green Cassette) (김밥레코즈 ─ Cassette)]]></title>
