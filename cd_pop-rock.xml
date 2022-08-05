@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ CD ─ Pop/Rock</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Aug 2022 06:13:30 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Aug 2022 07:10:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Steve Hackett / Voyage Of The Acolyte (CD, Remastered with bonus tracks)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19778&amp;cate_no=30&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19778&amp;cate_no=30&amp;display_group=1</guid>
+            <pubDate>Fri, 05 Aug 2022 07:09:11 GMT</pubDate>
+            <content:encoded><![CDATA[13,400원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202208/cae29ebdcc4993abc59ddff2b185d6d0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Soccer Mommy / Color Theory (CD) *한정수량 할인]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=19770&amp;cate_no=30&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Fri, 29 Jul 2022 07:09:09 GMT</pubDate>
             <content:encoded><![CDATA[19,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202207/648423add622441644c5335fde31f0cd.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Cat Power / Covers (CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19694&amp;cate_no=30&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19694&amp;cate_no=30&amp;display_group=1</guid>
-            <pubDate>Wed, 27 Jul 2022 10:10:25 GMT</pubDate>
-            <content:encoded><![CDATA[19,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/439394d7b19b3e3082ced5b05a1b3dd6.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
