@@ -4,9 +4,25 @@
         <title>김밥레코즈 ─ Vinyl</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 08 Aug 2022 08:15:17 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Aug 2022 09:10:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Phil Cook / All These Years (Coke Bottle Clear Vinyl, Limited Edition + OBI)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19792&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19792&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Mon, 08 Aug 2022 09:09:03 GMT</pubDate>
+            <content:encoded><![CDATA[34,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202208/2613ed9312def44462cff74e9281e817.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[곽푸른하늘 / Nearly (T)here (Vinyl, 140g 화이트 컬러반, 한정반)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19791&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19791&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Mon, 08 Aug 2022 09:09:03 GMT</pubDate>
+            <content:encoded><![CDATA[44,600원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202208/91646a33226b7e9f6e93160165650eff.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Gerry Mulligan / Night Lights (180g Vinyl)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=19790&amp;cate_no=25&amp;display_group=1</link>
@@ -86,22 +102,6 @@
             <pubDate>Fri, 05 Aug 2022 08:12:15 GMT</pubDate>
             <content:encoded><![CDATA[30,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202208/643efd822ec816a5c92cf5ee8319b308.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[OST / Rocky IV 록키 4 (Vinyl, Picture Disc)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19766&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19766&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Thu, 04 Aug 2022 09:09:53 GMT</pubDate>
-            <content:encoded><![CDATA[31,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202208/21b9cc5d102a1bcf27bce6d9307621c3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Michael Schenker Group / The Michael Schenker Group (Vinyl, Picture Disc)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19765&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19765&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Wed, 03 Aug 2022 11:08:30 GMT</pubDate>
-            <content:encoded><![CDATA[41,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202208/8f7e8d42ae8674b374f6c2df3b307276.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
