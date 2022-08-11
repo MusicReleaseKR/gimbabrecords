@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 Aug 2022 12:19:54 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Aug 2022 13:36:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[새눈바탕 / 손을 모아 (CD) *1인 1매 구매 가능, 8월 12일 오전 11시경 판매 시작 (상세 설명을 확인해주세요.) (김밥레코즈 ─ CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19820&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19820&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Thu, 11 Aug 2022 13:33:50 GMT</pubDate>
+            <content:encoded><![CDATA[15,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202208/b7c7ceb5b14100eac42f185faf201ee9.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[John Scofield / John Scofield (CD) (김밥레코즈 ─ CD)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=19810&amp;cate_no=24&amp;display_group=1</link>
@@ -96,12 +104,36 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202208/64cbd30c8b0fde7a864c9886358c51b6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Ketil Bjørnstad (Ketil Bjornstad) / Ophelia's Arrival / Minotauros (CD, EU Import) (김밥레코즈 ─ CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19771&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19771&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Fri, 05 Aug 2022 06:11:07 GMT</pubDate>
-            <content:encoded><![CDATA[23,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202208/bd7cff23a32ce38a1fa3da1813af0631.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[Aaliyah / One In A Million (Vinyl, 2LP) (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19819&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19819&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Thu, 11 Aug 2022 13:33:59 GMT</pubDate>
+            <content:encoded><![CDATA[36,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202208/395918013b4394033d3e473ee30c9b6d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Elza Soares / Se Acaso Voce Chegasse (Vinyl) (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19818&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19818&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Thu, 11 Aug 2022 13:33:59 GMT</pubDate>
+            <content:encoded><![CDATA[35,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202208/a321d0c3b43da564dd829e7fee40c8c4.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Dream Theater / When Dream And Day Reunite (Live) (180g Vinyl + CD, 2LP, Gatefold sleeves) *한정수량 할인 (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19817&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19817&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Thu, 11 Aug 2022 13:33:59 GMT</pubDate>
+            <content:encoded><![CDATA[30,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202208/f0ba670a0dec143ec7907b66d0e655eb.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Durutti Column / Another Setting (Blue & Green Vinyl, 2LP, Limited to 500) (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19816&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19816&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Thu, 11 Aug 2022 13:33:59 GMT</pubDate>
+            <content:encoded><![CDATA[38,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202208/baa2be50d08fcf335bd65e51b867b5a0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Kaidi Tatham / In Search Of Hope (Vinyl, 2LP) (김밥레코즈 ─ Vinyl)]]></title>
@@ -166,38 +198,6 @@
             <pubDate>Tue, 09 Aug 2022 09:10:01 GMT</pubDate>
             <content:encoded><![CDATA[46,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202208/fa4fdecef7aac087115640b09ad087cf.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Calvin Keys / Full Court Press (Deluxe 180g Vinyl + OBI, Limited Edition, 2022 RSD EU & UK Exclusive) (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19806&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19806&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Tue, 09 Aug 2022 09:10:01 GMT</pubDate>
-            <content:encoded><![CDATA[43,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202208/2af230a82c2f93aa3f3ed6c187a49d2d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Rupa / Disco Jazz ('Sunsugar' Gold & Green Marbled Vinyl) (Numero 805) *할인상품 (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19805&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19805&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Mon, 08 Aug 2022 11:07:57 GMT</pubDate>
-            <content:encoded><![CDATA[36,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202208/a8581518ed8b2588cdca20bed384b213.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Amelia Meath, Blake Mills & Sam Gendel / Neon Blue (7" Vinyl, paper-sleeve) (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19804&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19804&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Mon, 08 Aug 2022 11:07:57 GMT</pubDate>
-            <content:encoded><![CDATA[18,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202208/097fc36e1fd015ce10a39e7849904348.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Bartees Strange, Eric Slick & Ohmme / Anjimile – Province​ /​ Ever New (7" Vinyl, paper-sleeve) (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19803&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19803&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Mon, 08 Aug 2022 11:07:57 GMT</pubDate>
-            <content:encoded><![CDATA[18,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202208/aa9871e2030eeb86b2a5f6f6e1bfa597.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Boris / W (Cassette) (김밥레코즈 ─ Cassette)]]></title>
@@ -584,6 +584,14 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/201712/9361_shop1_252122.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[새눈바탕 / 손을 모아 (CD) *1인 1매 구매 가능, 8월 12일 오전 11시경 판매 시작 (상세 설명을 확인해주세요.) (김밥레코즈 ─ CD ─ Korean)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19820&amp;cate_no=29&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19820&amp;cate_no=29&amp;display_group=1</guid>
+            <pubDate>Thu, 11 Aug 2022 13:34:38 GMT</pubDate>
+            <content:encoded><![CDATA[15,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202208/b7c7ceb5b14100eac42f185faf201ee9.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[잭킹콩 / 정규 1집 Dress code (CD) (김밥레코즈 ─ CD ─ Korean)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=19722&amp;cate_no=29&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=19722&amp;cate_no=29&amp;display_group=1</guid>
@@ -670,14 +678,6 @@
             <pubDate>Wed, 22 Jun 2022 03:02:03 GMT</pubDate>
             <content:encoded><![CDATA[15,600원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202206/5a7e89c8a07670fbe1a521777b5c9380.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[왑띠 / Jordan Wants to Play (CD) (김밥레코즈 ─ CD ─ Korean)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19324&amp;cate_no=29&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19324&amp;cate_no=29&amp;display_group=1</guid>
-            <pubDate>Mon, 20 Jun 2022 07:09:57 GMT</pubDate>
-            <content:encoded><![CDATA[11,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202206/4f97376728567c9806e51f88bcd4c80b.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[The Dead Tongues / Dust (CD, gatefold sleeve) (김밥레코즈 ─ CD ─ Pop/Rock)]]></title>
