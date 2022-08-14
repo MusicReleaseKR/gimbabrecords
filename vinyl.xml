@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ Vinyl</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 14 Aug 2022 07:10:28 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 Aug 2022 08:12:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Makoto Matsushita / First Light (Limited 45rpm 2LP Edition, 일련번호 표기)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19824&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19824&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Sun, 14 Aug 2022 08:10:53 GMT</pubDate>
+            <content:encoded><![CDATA[69,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202208/7fbd4b624b312c6687b71e6e3b954d2e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Electro Keyboard Orchestra / Electro Keyboard Orchestra (Limited Clear Vinyl)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=19823&amp;cate_no=25&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Thu, 11 Aug 2022 09:09:07 GMT</pubDate>
             <content:encoded><![CDATA[36,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202208/6ece68ff5289def9cd7131ca9f31abd6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Crack Cloud / Pain Olympics (Limited Red Vinyl) *모서리 눌림으로 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19811&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19811&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Wed, 10 Aug 2022 10:09:48 GMT</pubDate>
-            <content:encoded><![CDATA[29,700원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202208/2751900eb4cb5f3da6eb210a48e24246.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
