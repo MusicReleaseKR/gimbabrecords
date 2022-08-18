@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 18 Aug 2022 00:51:46 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Aug 2022 03:27:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1256,6 +1256,14 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202208/13367813f1d51a2d337faf4f85f65614.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[OST / The Eagle Shooting Heroes 동성서취 사운드트랙 (CD) *장학우, 장국영 등의 노래 수록 (김밥레코즈 ─ CD ─ Soundtracks)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19833&amp;cate_no=48&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19833&amp;cate_no=48&amp;display_group=1</guid>
+            <pubDate>Thu, 18 Aug 2022 03:26:26 GMT</pubDate>
+            <content:encoded><![CDATA[29,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202208/32ac9fff7f7e9d9a3a438448c617ab48.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[OST (Eminem, Various Artists) / 8 Mile (CD) *한정수량 할인 (김밥레코즈 ─ CD ─ Soundtracks)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=19768&amp;cate_no=48&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=19768&amp;cate_no=48&amp;display_group=1</guid>
@@ -1342,14 +1350,6 @@
             <pubDate>Wed, 13 Jul 2022 18:13:48 GMT</pubDate>
             <content:encoded><![CDATA[32,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202207/6529c6c9d3ac08a1d9f59498ec472cc3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Joe Hisaishi / Porco Rosso: Original Soundtrack 붉은 돼지 사운드트랙 (CD) (김밥레코즈 ─ CD ─ Soundtracks)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19499&amp;cate_no=48&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19499&amp;cate_no=48&amp;display_group=1</guid>
-            <pubDate>Wed, 13 Jul 2022 17:18:57 GMT</pubDate>
-            <content:encoded><![CDATA[28,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/0b995f27fb77ed9438d743218b0095a3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Victor Assis Brasil / Trajeto (CD, Limited Edition) *Brasilian Music Love Affair 시리즈 (김밥레코즈 ─ CD ─ World)]]></title>
