@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ Vinyl</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 Aug 2022 08:14:48 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Aug 2022 09:11:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Alanis Morissette ‎/ Jagged Little Pill (180g Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19872&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19872&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Mon, 22 Aug 2022 09:09:36 GMT</pubDate>
+            <content:encoded><![CDATA[28,300원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202007/540fc4644d7868277451ec4af06691b8.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[The Kazu Matsui Project / See You There (Vinyl)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=19871&amp;cate_no=25&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Mon, 22 Aug 2022 06:14:12 GMT</pubDate>
             <content:encoded><![CDATA[40,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202208/3ba27e7ac41a3af4fb0c89238adf0184.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Linda Lindas / Growing Up (Clear w/ Blue-Pink Splatter Vinyl, Indie Exclusive Limited Edition)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19860&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19860&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Mon, 22 Aug 2022 06:14:12 GMT</pubDate>
-            <content:encoded><![CDATA[44,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202208/6f750f94529b0fc7ebb32ace12948d51.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
