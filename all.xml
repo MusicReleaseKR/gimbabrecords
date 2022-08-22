@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 Aug 2022 10:13:22 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Aug 2022 11:10:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -680,6 +680,14 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202206/339c2edee6cedbb21ff7b09ca34ca170.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
+            <title><![CDATA[Spyro Gyra / Morning Dance (CD, Remastered) *한정수량 할인 (김밥레코즈 ─ CD ─ Pop/Rock)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19875&amp;cate_no=30&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19875&amp;cate_no=30&amp;display_group=1</guid>
+            <pubDate>Mon, 22 Aug 2022 11:09:16 GMT</pubDate>
+            <content:encoded><![CDATA[13,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202208/659de4c60a7086f359ba54d709561fd0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Soccer Mommy / Sometimes, Forever (CD, Indie Retail Exclusive Alternate Cover, Jewel case) *구매시 상세설명을 참조해주세요. (김밥레코즈 ─ CD ─ Pop/Rock)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=19859&amp;cate_no=30&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=19859&amp;cate_no=30&amp;display_group=1</guid>
@@ -766,14 +774,6 @@
             <pubDate>Mon, 01 Aug 2022 16:13:02 GMT</pubDate>
             <content:encoded><![CDATA[20,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202208/e9f091db4481158fbd7cd5d992a351f9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Porcupine Tree / Lightbulb Sun (CD, Digipak, Remaster) *할인상품 (김밥레코즈 ─ CD ─ Pop/Rock)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19736&amp;cate_no=30&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19736&amp;cate_no=30&amp;display_group=1</guid>
-            <pubDate>Mon, 01 Aug 2022 16:13:02 GMT</pubDate>
-            <content:encoded><![CDATA[20,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202208/091d1e09a9ad55d581821a04e4772f76.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Arca / KiCk i (CD) (김밥레코즈 ─ CD ─ Electronic/Dance)]]></title>
@@ -1064,6 +1064,14 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202203/8a7e83b5862609473be72da3b4f8af04.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Spyro Gyra / Morning Dance (CD, Remastered) *한정수량 할인 (김밥레코즈 ─ CD ─ Jazz)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19875&amp;cate_no=46&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19875&amp;cate_no=46&amp;display_group=1</guid>
+            <pubDate>Mon, 22 Aug 2022 11:09:44 GMT</pubDate>
+            <content:encoded><![CDATA[13,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202208/659de4c60a7086f359ba54d709561fd0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[John Scofield / John Scofield (CD) (김밥레코즈 ─ CD ─ Jazz)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=19810&amp;cate_no=46&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=19810&amp;cate_no=46&amp;display_group=1</guid>
@@ -1150,14 +1158,6 @@
             <pubDate>Fri, 29 Jul 2022 06:12:32 GMT</pubDate>
             <content:encoded><![CDATA[14,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202207/53b97993b94f9af1de23e871d74abbe1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Stanley Turrentine / Sugar (Blu-Spec CD, CTI Supreme Collection, Limited Edition) (김밥레코즈 ─ CD ─ Jazz)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19710&amp;cate_no=46&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19710&amp;cate_no=46&amp;display_group=1</guid>
-            <pubDate>Fri, 29 Jul 2022 06:12:32 GMT</pubDate>
-            <content:encoded><![CDATA[14,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/86089543c46388efd055213d03dc77af.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[The Lions / Soul Riot (CD) (김밥레코즈 ─ CD ─ Reggae)]]></title>
