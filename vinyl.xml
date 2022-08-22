@@ -4,9 +4,25 @@
         <title>김밥레코즈 ─ Vinyl</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 Aug 2022 11:10:36 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Aug 2022 12:20:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Alexis Taylor / Silence (Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19884&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19884&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Mon, 22 Aug 2022 12:17:55 GMT</pubDate>
+            <content:encoded><![CDATA[39,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202208/648e75229527e23183994abc4c7ee536.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Bob Dylan / Highway 61 Revisited (Vinyl, Mono Pressing)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19883&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19883&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Mon, 22 Aug 2022 12:17:55 GMT</pubDate>
+            <content:encoded><![CDATA[26,800원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/201512/2531_shop1_245460.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Alanis Morissette ‎/ Jagged Little Pill (180g Vinyl)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=19872&amp;cate_no=25&amp;display_group=1</link>
@@ -86,22 +102,6 @@
             <pubDate>Mon, 22 Aug 2022 06:14:12 GMT</pubDate>
             <content:encoded><![CDATA[44,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202208/9ac724ea66067ddcd45871052e6242b5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Cassandra Jenkins / (An Overview On) An Overview On Phenomenal Nature (Black Ice Vinyl, Limited Edition)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19862&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19862&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Mon, 22 Aug 2022 06:14:12 GMT</pubDate>
-            <content:encoded><![CDATA[33,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202208/2bbc952f536fa5f4e03a7c954c5d3e77.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Belle And Sebastian / A Bit Of Previous (Vinyl, Indie Exclusive Limited Edition, Alternate Front Cover Artwork)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19861&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19861&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Mon, 22 Aug 2022 06:14:12 GMT</pubDate>
-            <content:encoded><![CDATA[40,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202208/3ba27e7ac41a3af4fb0c89238adf0184.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
