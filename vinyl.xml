@@ -4,9 +4,25 @@
         <title>김밥레코즈 ─ Vinyl</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 Aug 2022 06:16:28 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Aug 2022 07:11:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[The Kazu Matsui Project / See You There (Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19871&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19871&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Mon, 22 Aug 2022 07:09:01 GMT</pubDate>
+            <content:encoded><![CDATA[52,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202208/b83ba48d48d88a6181499bd908ea7102.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[OST (Yuji Ohno & Lupintic Six with Friends) / Lupiin The Third Part 6: London (루팡 3세 파트 6: 런던) (180g Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19870&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19870&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Mon, 22 Aug 2022 07:09:01 GMT</pubDate>
+            <content:encoded><![CDATA[64,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202208/5605f7a9a68dc4835acf72b22f75943c.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Various Artists / WaJazz: Japanese Jazz Spectacle Vol. I (180g Vinyl, 2LP) *모서리 눌림으로 할인]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=19869&amp;cate_no=25&amp;display_group=1</link>
@@ -86,22 +102,6 @@
             <pubDate>Mon, 22 Aug 2022 06:14:12 GMT</pubDate>
             <content:encoded><![CDATA[44,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202208/6f750f94529b0fc7ebb32ace12948d51.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Oasis / Be Here Now (25th Anniversary, Limited Silver Colored Vinyl 2LP) *할인상품 (쟈켓 모서리 눌림 자국에 의한 할인)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19857&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19857&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Sat, 20 Aug 2022 18:10:07 GMT</pubDate>
-            <content:encoded><![CDATA[54,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202208/7c353640cc4ee0acfa2f9f7b7e0ea493.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Hiroshi II Hiroshi / Hiroshi II Hiroshi Vol. 1 (Clear Blue Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19856&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19856&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Sat, 20 Aug 2022 07:08:22 GMT</pubDate>
-            <content:encoded><![CDATA[49,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202208/02d1e6d4c9d5bf36bdd0afb1c4583a1a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
