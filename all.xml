@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 Aug 2022 14:10:34 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Aug 2022 15:11:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Marisa Monte / Portas (CD, EU Import) (김밥레코즈 ─ CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19960&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19960&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Wed, 24 Aug 2022 15:09:18 GMT</pubDate>
+            <content:encoded><![CDATA[23,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202208/800c152888a6f002376a311acee2fc5e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[장기하와 얼굴들 / mono (재발매 CD, 하드슬리브케이스 + 쥬얼케이스 + 가사지) (김밥레코즈 ─ CD)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=19959&amp;cate_no=24&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Wed, 24 Aug 2022 09:08:48 GMT</pubDate>
             <content:encoded><![CDATA[23,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202208/9115a7c2c923cb69c448784a2dad2972.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Masabumi Kikuchi / Re-Confirmation (CD, JPN Import) (김밥레코즈 ─ CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19948&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19948&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Wed, 24 Aug 2022 09:08:48 GMT</pubDate>
-            <content:encoded><![CDATA[23,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202208/4e57485611bc8bef6dd1b2340b5de6bc.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[Bee Gees / Timeless - The All-Time Greatest Hits (Vinyl, 2LP + Download) (김밥레코즈 ─ Vinyl)]]></title>
@@ -1352,6 +1352,14 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202207/bc504d7fa9df5ed2fc24ebc07ee4be0a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Marisa Monte / Portas (CD, EU Import) (김밥레코즈 ─ CD ─ World)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19960&amp;cate_no=79&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19960&amp;cate_no=79&amp;display_group=1</guid>
+            <pubDate>Wed, 24 Aug 2022 15:11:10 GMT</pubDate>
+            <content:encoded><![CDATA[23,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202208/800c152888a6f002376a311acee2fc5e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Marcos Valle / Vento Sul (CD, Brasil Collection, JPN Import) (김밥레코즈 ─ CD ─ World)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=19955&amp;cate_no=79&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=19955&amp;cate_no=79&amp;display_group=1</guid>
@@ -1438,14 +1446,6 @@
             <pubDate>Wed, 24 Aug 2022 09:10:33 GMT</pubDate>
             <content:encoded><![CDATA[14,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202207/896951c004bac7afde934f24e0ec363e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Maria Creuza / Pura Magia (CD, Limited Edition) *Brasilian Music Love Affair 시리즈 (김밥레코즈 ─ CD ─ World)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19419&amp;cate_no=79&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19419&amp;cate_no=79&amp;display_group=1</guid>
-            <pubDate>Wed, 24 Aug 2022 09:10:33 GMT</pubDate>
-            <content:encoded><![CDATA[14,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/93a78548b82cc46a460cede4ed425d5b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Astor Piazzolla / The American Clave Recordings (3CD Box Set) (김밥레코즈 ─ CD ─ Classical/Crossover)]]></title>
