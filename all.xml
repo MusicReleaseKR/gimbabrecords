@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 Aug 2022 16:14:31 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Aug 2022 17:14:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Lilly (Feat Gilad Hekselman & Kirk Knuffke) / The Song is You (CD) (김밥레코즈 ─ CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19961&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19961&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Wed, 24 Aug 2022 17:12:23 GMT</pubDate>
+            <content:encoded><![CDATA[22,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202208/06440ee9f71733b5d5ce0bd3116ab14e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Marisa Monte / Portas (CD, EU Import) (김밥레코즈 ─ CD)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=19960&amp;cate_no=24&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Wed, 24 Aug 2022 09:08:48 GMT</pubDate>
             <content:encoded><![CDATA[23,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202208/facd70229ac8cccb78ae81f07334463d.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Masabumi Kikuchi / End For The Beginning (CD, JPN Import) (김밥레코즈 ─ CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19949&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19949&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Wed, 24 Aug 2022 09:08:48 GMT</pubDate>
-            <content:encoded><![CDATA[23,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202208/9115a7c2c923cb69c448784a2dad2972.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[Bee Gees / Timeless - The All-Time Greatest Hits (Vinyl, 2LP + Download) (김밥레코즈 ─ Vinyl)]]></title>
@@ -1064,6 +1064,14 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202203/a665a42bbdd33ee649c10b8978fb5ce7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Lilly (Feat Gilad Hekselman & Kirk Knuffke) / The Song is You (CD) (김밥레코즈 ─ CD ─ Jazz)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19961&amp;cate_no=46&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19961&amp;cate_no=46&amp;display_group=1</guid>
+            <pubDate>Wed, 24 Aug 2022 17:13:51 GMT</pubDate>
+            <content:encoded><![CDATA[22,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202208/06440ee9f71733b5d5ce0bd3116ab14e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Masabumi Kikuchi / Poo-Sun (CD, JPN Import) (김밥레코즈 ─ CD ─ Jazz)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=19951&amp;cate_no=46&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=19951&amp;cate_no=46&amp;display_group=1</guid>
@@ -1150,14 +1158,6 @@
             <pubDate>Wed, 24 Aug 2022 09:10:13 GMT</pubDate>
             <content:encoded><![CDATA[25,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202208/b12434dcf7694ac453aa6cadf0daf4c4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Plinio Fernandes / Saudade (CD) (김밥레코즈 ─ CD ─ Jazz)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19917&amp;cate_no=46&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19917&amp;cate_no=46&amp;display_group=1</guid>
-            <pubDate>Wed, 24 Aug 2022 09:10:13 GMT</pubDate>
-            <content:encoded><![CDATA[17,200원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202208/7b6b89b60b2431f06efb6bd98fb5061d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[The Lions / Soul Riot (CD) (김밥레코즈 ─ CD ─ Reggae)]]></title>

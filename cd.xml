@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ CD</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 Aug 2022 16:14:31 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Aug 2022 17:14:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Lilly (Feat Gilad Hekselman & Kirk Knuffke) / The Song is You (CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19961&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19961&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Wed, 24 Aug 2022 17:12:23 GMT</pubDate>
+            <content:encoded><![CDATA[22,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202208/06440ee9f71733b5d5ce0bd3116ab14e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Marisa Monte / Portas (CD, EU Import)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=19960&amp;cate_no=24&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Wed, 24 Aug 2022 07:08:40 GMT</pubDate>
             <content:encoded><![CDATA[23,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202208/facd70229ac8cccb78ae81f07334463d.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Masabumi Kikuchi / End For The Beginning (CD, JPN Import)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19949&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19949&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Wed, 24 Aug 2022 07:08:40 GMT</pubDate>
-            <content:encoded><![CDATA[23,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202208/9115a7c2c923cb69c448784a2dad2972.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
