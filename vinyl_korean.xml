@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ Vinyl ─ Korean</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 Aug 2022 03:42:33 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Aug 2022 05:26:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[방사능 (리듬파워) / 리듬파워 (140g, 1LP, Colored Vinyl) *예약상품 (9월 7일 발송 예정)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20020&amp;cate_no=52&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20020&amp;cate_no=52&amp;display_group=1</guid>
+            <pubDate>Tue, 30 Aug 2022 05:26:46 GMT</pubDate>
+            <content:encoded><![CDATA[42,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202208/657599f546630b39621db4d2dd80def1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[윤명운 / 아침 기다리며, 할머니 부르스 (180g Vinyl, 800장 한정)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=20008&amp;cate_no=52&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Wed, 24 Aug 2022 09:11:02 GMT</pubDate>
             <content:encoded><![CDATA[22,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202207/8ac811e657b8722ab295736c76d6200b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오마르와 동방전력 (Omar and The Eastern Power) / Sunshine/ Htalen (7" Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19654&amp;cate_no=52&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19654&amp;cate_no=52&amp;display_group=1</guid>
-            <pubDate>Wed, 24 Aug 2022 09:11:02 GMT</pubDate>
-            <content:encoded><![CDATA[22,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/58e6d94637885b3dfc2b9519162a8f74.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
