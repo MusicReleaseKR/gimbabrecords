@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 04 Sep 2022 07:10:48 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 04 Sep 2022 08:14:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Tuck Andress / Reckless Precision (CD) (김밥레코즈 ─ CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20046&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20046&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Sun, 04 Sep 2022 08:11:37 GMT</pubDate>
+            <content:encoded><![CDATA[14,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202209/63ebcc3f680ea823b9e07b338abadd35.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Jamiroquai / Travelling Without Moving (Expanded 2CD, EU Import) *한정수량 할인 (김밥레코즈 ─ CD)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=20043&amp;cate_no=24&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Thu, 01 Sep 2022 11:08:27 GMT</pubDate>
             <content:encoded><![CDATA[15,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202209/0c1585d39b2053348ba03abfca4276a4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[baan / to telescope (CD) (김밥레코즈 ─ CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=20015&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=20015&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Mon, 29 Aug 2022 10:10:16 GMT</pubDate>
-            <content:encoded><![CDATA[6,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202208/de8163b7d38b2bcd9479ee805df1660e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[김광석 / 못다 한 이야기 (180g 투명 & 투명 옐로우 컬러 Vinyl, 2LP) *예약상품 (12월 1일 이후 발송 예정) (김밥레코즈 ─ Vinyl)]]></title>
@@ -1064,6 +1064,14 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202203/0b1775688c652f448c73cd3303c5d7ee.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Tuck Andress / Reckless Precision (CD) (김밥레코즈 ─ CD ─ Jazz)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20046&amp;cate_no=46&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20046&amp;cate_no=46&amp;display_group=1</guid>
+            <pubDate>Sun, 04 Sep 2022 08:13:05 GMT</pubDate>
+            <content:encoded><![CDATA[14,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202209/63ebcc3f680ea823b9e07b338abadd35.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Charlie Haden Quartet West (Featuring Cassandra Wilson, Diana Krall, Melody Gardot, Norah Jones, Renée Fleming, Ruth Cameron) / Sophisticated Ladies (CD, EU Import) (김밥레코즈 ─ CD ─ Jazz)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=20040&amp;cate_no=46&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=20040&amp;cate_no=46&amp;display_group=1</guid>
@@ -1150,14 +1158,6 @@
             <pubDate>Thu, 25 Aug 2022 12:19:06 GMT</pubDate>
             <content:encoded><![CDATA[23,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202208/9115a7c2c923cb69c448784a2dad2972.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Masabumi Kikuchi / Re-Confirmation (SHM-CD, JPN Import) (김밥레코즈 ─ CD ─ Jazz)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19948&amp;cate_no=46&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19948&amp;cate_no=46&amp;display_group=1</guid>
-            <pubDate>Thu, 25 Aug 2022 12:19:06 GMT</pubDate>
-            <content:encoded><![CDATA[23,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202208/4e57485611bc8bef6dd1b2340b5de6bc.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[The Lions / Soul Riot (CD) (김밥레코즈 ─ CD ─ Reggae)]]></title>
@@ -1448,6 +1448,14 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202207/bd7f824c411d545161d5748ccfb9afb3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Tuck Andress / Reckless Precision (CD) (김밥레코즈 ─ CD ─ Classical/Crossover)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20046&amp;cate_no=50&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20046&amp;cate_no=50&amp;display_group=1</guid>
+            <pubDate>Sun, 04 Sep 2022 08:13:35 GMT</pubDate>
+            <content:encoded><![CDATA[14,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202209/63ebcc3f680ea823b9e07b338abadd35.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Astor Piazzolla / The American Clave Recordings (3CD Box Set) (김밥레코즈 ─ CD ─ Classical/Crossover)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=19306&amp;cate_no=50&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=19306&amp;cate_no=50&amp;display_group=1</guid>
@@ -1534,14 +1542,6 @@
             <pubDate>Thu, 25 Aug 2022 12:19:36 GMT</pubDate>
             <content:encoded><![CDATA[21,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202011/f1b844dbc09fb240462a90ad2791113e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Nils Frahm & Anne Muller / 7Fingers (CD) (김밥레코즈 ─ CD ─ Classical/Crossover)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=14923&amp;cate_no=50&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=14923&amp;cate_no=50&amp;display_group=1</guid>
-            <pubDate>Thu, 25 Aug 2022 12:19:36 GMT</pubDate>
-            <content:encoded><![CDATA[22,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/20200517/16cd00ce87895d255d162eb95d6b50ce.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Jose James / Merry Christmas (CD) (김밥레코즈 ─ CD ─ Holiday)]]></title>
