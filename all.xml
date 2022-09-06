@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 06 Sep 2022 08:16:07 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Sep 2022 09:12:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -296,6 +296,14 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202205/4af7f65f5769b5a36717af77746f1e6a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Peanuts Deluxe Holiday Collection (Ultimate Collector's Edition) (Blu-ray + DVD Pack + Snowglobe & Window Clings) (김밥레코즈 ─ Movies/Merch)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20059&amp;cate_no=27&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20059&amp;cate_no=27&amp;display_group=1</guid>
+            <pubDate>Tue, 06 Sep 2022 09:10:30 GMT</pubDate>
+            <content:encoded><![CDATA[104,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202209/7eda5f140ebdb9747a4f13b48e24a2ed.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Marvin Gaye / Live In Montreux 1980 (DVD, PAL 방식) *한정수량 할인 (김밥레코즈 ─ Movies/Merch)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=20019&amp;cate_no=27&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=20019&amp;cate_no=27&amp;display_group=1</guid>
@@ -382,14 +390,6 @@
             <pubDate>Thu, 25 Aug 2022 12:18:03 GMT</pubDate>
             <content:encoded><![CDATA[480,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202207/e190800e4896d6d126038449d89cb408.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Rega(레가) Elys 2 MM카트리지 (김밥레코즈 ─ Movies/Merch)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19658&amp;cate_no=27&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19658&amp;cate_no=27&amp;display_group=1</guid>
-            <pubDate>Thu, 25 Aug 2022 12:18:03 GMT</pubDate>
-            <content:encoded><![CDATA[336,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/5d06f5f0633a71a0b23ad68847bf0a2c.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[김광석 / 못다 한 이야기 (180g 투명 & 투명 옐로우 컬러 Vinyl, 2LP) *예약상품 (12월 5일 이후 발송 예정) (김밥레코즈 ─ Pre-Order)]]></title>
@@ -1824,6 +1824,14 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202208/f8d5aac8950bc176a9027fd649e3b5cd.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Peanuts Deluxe Holiday Collection (Ultimate Collector's Edition) (Blu-ray + DVD Pack + Snowglobe & Window Clings) (김밥레코즈 ─ Movies/Merch ─ DVD/Blu-Ray)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20059&amp;cate_no=64&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20059&amp;cate_no=64&amp;display_group=1</guid>
+            <pubDate>Tue, 06 Sep 2022 09:12:22 GMT</pubDate>
+            <content:encoded><![CDATA[104,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202209/7eda5f140ebdb9747a4f13b48e24a2ed.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Marvin Gaye / Live In Montreux 1980 (DVD, PAL 방식) *한정수량 할인 (김밥레코즈 ─ Movies/Merch ─ DVD/Blu-Ray)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=20019&amp;cate_no=64&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=20019&amp;cate_no=64&amp;display_group=1</guid>
@@ -1910,14 +1918,6 @@
             <pubDate>Thu, 25 Aug 2022 12:20:06 GMT</pubDate>
             <content:encoded><![CDATA[17,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/201801/9628_shop1_867671.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Arcade Fire / Reflektor Tapes + Live At Earls Court (2DVD) (김밥레코즈 ─ Movies/Merch ─ DVD/Blu-Ray)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=6380&amp;cate_no=64&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=6380&amp;cate_no=64&amp;display_group=1</guid>
-            <pubDate>Thu, 25 Aug 2022 12:20:06 GMT</pubDate>
-            <content:encoded><![CDATA[21,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/201702/6380_shop1_808423.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
