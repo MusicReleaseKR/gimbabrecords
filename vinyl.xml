@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ Vinyl</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 06 Sep 2022 00:53:57 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Sep 2022 03:45:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Silk Sonic (Bruno Mars + Anderson Paak) / An Evening With Silk Sonic (Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20049&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20049&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Tue, 06 Sep 2022 03:43:01 GMT</pubDate>
+            <content:encoded><![CDATA[37,800원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202209/240bfb3e17314245b14bcc4a58237b30.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[김광석 / 못다 한 이야기 (180g 투명 & 투명 옐로우 컬러 Vinyl, 2LP) *예약상품 (12월 5일 이후 발송 예정)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=20045&amp;cate_no=25&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Tue, 30 Aug 2022 06:44:59 GMT</pubDate>
             <content:encoded><![CDATA[41,600원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202208/79227cda59b3e7e8c4d38b9be1b4bc53.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[양병집 / 넋두리 (180g Vinyl, 2022 Remaster)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=20022&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=20022&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Tue, 30 Aug 2022 06:44:59 GMT</pubDate>
-            <content:encoded><![CDATA[41,600원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202208/262b8fe92c51e519b81826bccb9c270e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
