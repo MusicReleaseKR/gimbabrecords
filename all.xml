@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 06 Sep 2022 06:54:51 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Sep 2022 07:35:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -104,6 +104,22 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202209/33d24b68a9cf09db99479a1dda61309f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Lauv / All 4 Nothing (Black Vinyl, Indie Exclusive Alternate Cover, Limited Edition) (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20052&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20052&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Tue, 06 Sep 2022 07:33:05 GMT</pubDate>
+            <content:encoded><![CDATA[39,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202209/0a4f343cfda999f9b2a3c0e76ff7fb8a.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Bill Withers / His Ultimate Collection (Limited Coloured Vinyl) *한정수량 할인 (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20051&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20051&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Tue, 06 Sep 2022 07:33:05 GMT</pubDate>
+            <content:encoded><![CDATA[28,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202209/9df6aff9cb13519f776e5b4cd8722508.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[J.J. Cale / Troubadour (180g Vinyl, MOV Pressing) *한정수량 할인 (김밥레코즈 ─ Vinyl)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=20050&amp;cate_no=25&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=20050&amp;cate_no=25&amp;display_group=1</guid>
@@ -182,22 +198,6 @@
             <pubDate>Thu, 01 Sep 2022 10:10:35 GMT</pubDate>
             <content:encoded><![CDATA[67,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202209/e9b9e23911a8145b6105ce3d6242d9d6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Beck / Hyperspace (180g Red Vinyl + Download Code, Gatefold sleeve) (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=20025&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=20025&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Wed, 31 Aug 2022 06:50:18 GMT</pubDate>
-            <content:encoded><![CDATA[36,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202208/fc4a14da4e5603ee56d2c3e9a17ff34f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Lizzo / Special (Vinyl) (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=20024&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=20024&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Wed, 31 Aug 2022 06:50:18 GMT</pubDate>
-            <content:encoded><![CDATA[37,800원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202208/58657723dfac49ff17ff511a0b6edda7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Soccer Mommy / Sometimes, Forever (Cassette, Indie Exclusive Limited Edition) (김밥레코즈 ─ Cassette)]]></title>
