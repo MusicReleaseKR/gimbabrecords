@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 15 Sep 2022 09:15:55 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Sep 2022 10:13:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Dirty Three / Ocean Songs (CD, Jewel case) (김밥레코즈 ─ CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20132&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20132&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Thu, 15 Sep 2022 10:10:50 GMT</pubDate>
+            <content:encoded><![CDATA[23,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202209/d0c7591db8e6ad56f1fad7420172b4ce.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Slayer / Reign In Blood (CD, Expanded Edition) *한정수량 할인 (김밥레코즈 ─ CD)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=20110&amp;cate_no=24&amp;display_group=1</link>
@@ -96,12 +104,28 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202209/3930931def80aa554d4d846ee2faeef8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[ODESZA / The Last Goodbye (CD, Digipak) (김밥레코즈 ─ CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=20074&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=20074&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Thu, 08 Sep 2022 09:11:01 GMT</pubDate>
-            <content:encoded><![CDATA[23,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202209/eab07197a73b10f4fe8a0ba8fee0f32f.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[Dirty Three / Ocean Songs (Vinyl, 2LP) (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20131&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20131&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Thu, 15 Sep 2022 10:10:58 GMT</pubDate>
+            <content:encoded><![CDATA[38,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202209/d0c7591db8e6ad56f1fad7420172b4ce.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Dirty Three / Whatever You Love, You Are (Vinyl) (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20130&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20130&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Thu, 15 Sep 2022 10:10:58 GMT</pubDate>
+            <content:encoded><![CDATA[30,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202209/30cdf39da7e124731102aca133e309e3.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[John Carpenter / Anthology: Movie Themes 1974-1998 (Limited Purple & Yellow Vinyl, Die-cut cover, Download) (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20129&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20129&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Thu, 15 Sep 2022 10:10:58 GMT</pubDate>
+            <content:encoded><![CDATA[32,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202209/47130eb55aad0c67e62d9f77cbce2bd5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[The A's / Fruit (Vinyl) (김밥레코즈 ─ Vinyl)]]></title>
@@ -174,30 +198,6 @@
             <pubDate>Thu, 15 Sep 2022 09:13:31 GMT</pubDate>
             <content:encoded><![CDATA[37,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202209/cb4c154c04d5c5c60d2b038052ed85b8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[DIIV / Oshin (Blue Marble Vinyl, 2LP w/ Book, 10th Anniversary, 3000매 한정) *한정수량 할인 (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=20119&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=20119&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Thu, 15 Sep 2022 09:13:31 GMT</pubDate>
-            <content:encoded><![CDATA[72,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202209/af752a44bc5e89bda2f7e770fdbef575.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Kolezanka / Place Is (Vinyl) (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=20118&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=20118&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Thu, 15 Sep 2022 09:13:31 GMT</pubDate>
-            <content:encoded><![CDATA[29,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202209/3f4901ebe3ee594208ff8051f1fcdbca.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Of Montreal / Gay Parade (Vinyl + Download) (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=20117&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=20117&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Thu, 15 Sep 2022 09:13:31 GMT</pubDate>
-            <content:encoded><![CDATA[29,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202209/d550bb647e5a436cd17d68d470f9a963.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Weyes Blood / And In The Darkness, Hearts Aglow (Cassette) *예약상품 (11월말 배송 예정) (김밥레코즈 ─ Cassette)]]></title>
@@ -680,6 +680,14 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202208/148054f99bbc8e3a40c7fcde6d0f78e0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Dirty Three / Ocean Songs (CD, Jewel case) (김밥레코즈 ─ CD ─ Pop/Rock)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20132&amp;cate_no=30&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20132&amp;cate_no=30&amp;display_group=1</guid>
+            <pubDate>Thu, 15 Sep 2022 10:11:48 GMT</pubDate>
+            <content:encoded><![CDATA[23,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202209/d0c7591db8e6ad56f1fad7420172b4ce.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Slayer / Reign In Blood (CD, Expanded Edition) *한정수량 할인 (김밥레코즈 ─ CD ─ Pop/Rock)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=20110&amp;cate_no=30&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=20110&amp;cate_no=30&amp;display_group=1</guid>
@@ -766,14 +774,6 @@
             <pubDate>Thu, 08 Sep 2022 09:11:46 GMT</pubDate>
             <content:encoded><![CDATA[19,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202209/3930931def80aa554d4d846ee2faeef8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Deep Purple / Made In Japan (CD) *한정수량 할인 (김밥레코즈 ─ CD ─ Pop/Rock)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=20065&amp;cate_no=30&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=20065&amp;cate_no=30&amp;display_group=1</guid>
-            <pubDate>Tue, 06 Sep 2022 11:09:35 GMT</pubDate>
-            <content:encoded><![CDATA[13,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202209/6479852080e7d76ecfbe71b7d3f022eb.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[ODESZA / The Last Goodbye (CD, Digipak) (김밥레코즈 ─ CD ─ Electronic/Dance)]]></title>
