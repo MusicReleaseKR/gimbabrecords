@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ CD</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 21 Sep 2022 11:11:32 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Sep 2022 12:22:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[John Coltrane / Blue Train: The Complete Masters (2CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20183&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20183&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Wed, 21 Sep 2022 12:20:17 GMT</pubDate>
+            <content:encoded><![CDATA[35,800원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202209/34d3ef7d516dc571befed24d9488d44e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Don Sebesky / Giant Box (Blu-Spec CD, CTI Supreme Collection, Limited Edition)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=20180&amp;cate_no=24&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Wed, 21 Sep 2022 11:09:23 GMT</pubDate>
             <content:encoded><![CDATA[34,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202209/a4858a7c5f8aa346939c2ba319a7f9b4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Various Artists (3호선 버터플라이, 갤럭시 익스프레스, 구남과여라이딩스텔라 등) / 산 들 바다의 노래 - 제주 4 · 3 헌정앨범 (CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=20169&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=20169&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Wed, 21 Sep 2022 11:09:23 GMT</pubDate>
-            <content:encoded><![CDATA[12,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202209/bf43ec6b8514af62229d5f3b3712996b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
