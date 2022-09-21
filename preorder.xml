@@ -4,7 +4,7 @@
         <title>김밥레코즈 ─ Pre-Order</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 21 Sep 2022 17:28:37 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Sep 2022 18:14:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -96,11 +96,25 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202207/68153f6446a600fc7be949dfc29272ca.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[베이빌론 / EGO 90’S (2LP, 180g Colored Vinyl) *예약상품 (12월말 발송 예정)]]></title>
+            <title><![CDATA[11]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=19605&amp;cate_no=42&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=19605&amp;cate_no=42&amp;display_group=1</guid>
             <pubDate>Wed, 21 Sep 2022 17:27:04 GMT</pubDate>
-            <content:encoded><![CDATA[56,500원]]></content:encoded>
+            <content:encoded><![CDATA[<div class="box">
+                <a href="/product/detail.html?product_no=19605&amp;cate_no=42&amp;display_group=1" name="anchorBoxName_19605"><img src="//gimbabrecords.com/web/product/medium/202207/04b97faab5f8f02ab69e370fb06fd988.png" alt="" class="thumb"></a>
+                <p class="name">
+                    <a href="/product/detail.html?product_no=19605&amp;cate_no=42&amp;display_group=1" class="inner_L"><span style="font-size:13px;color:#000000;font-weight:bold;">베이빌론 / EGO 90’S (2LP, 180g Colored Vinyl) *예약상품 (12월말 발송 예정)</span></a>
+                    <span class="inner_R price">56,500원</span>
+                </p>
+                <ul class="xans-element- xans-product xans-product-listitem"><li class=" displaynone xans-record-">
+<strong class="title displaynone"><span style="font-size:13px;color:#000000;font-weight:bold;">판매가</span> :</strong> <span style="font-size:13px;color:#000000;font-weight:bold;">56,500원</span><span id="span_product_tax_type_text" style=""> </span></li>
+</ul>
+<p class="icon"> <img src="//img.echosting.cafe24.com/design/skin/admin/ko_KR/ico_product_soldout.gif" class="icon_img" alt="품절"> <img src="//img.echosting.cafe24.com/design/skin/admin/ko_KR/ico_product_recommended.gif" class="icon_img" alt="추천"> <img src="//img.echosting.cafe24.com/design/skin/admin/ko_KR/ico_product_new.gif" class="icon_img" alt="New">  </p>
+                <p class="button">
+                    <span class="bag"><img src="http://img.echosting.cafe24.com/design/skin/default/product/btn_list_cart.gif" alt="장바구니넣기" onclick="" class="displaynone"></span>
+                    <span class="option"><img src="http://img.echosting.cafe24.com/design/skin/default/product/btn_list_option.gif" alt="옵션보기" onclick="" onmouseout="" class="displaynone" id="btn_preview_listmain19605"></span>
+                </p>
+            </div>]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202207/04b97faab5f8f02ab69e370fb06fd988.png" length="0" type="image/png"/>
         </item>
     </channel>
