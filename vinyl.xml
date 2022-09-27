@@ -4,9 +4,25 @@
         <title>김밥레코즈 ─ Vinyl</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 27 Sep 2022 08:22:02 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Sep 2022 09:21:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Angel Olsen / Whole New Mess (Pink Glass Translucent Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20223&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20223&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Tue, 27 Sep 2022 09:20:03 GMT</pubDate>
+            <content:encoded><![CDATA[33,300원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202209/11c80f5df31ef63b22f08b05006ecbde.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Joshua Redman / LongGone (Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20222&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20222&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Tue, 27 Sep 2022 09:20:03 GMT</pubDate>
+            <content:encoded><![CDATA[34,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202209/bddd42d6e5085c5e9e804504daaaa939.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[OST / '슬기로운 의사생활' 시즌 1 드라마 음악 (Hospital OST) (검정 바이닐 2LP + 가사지, 배우 사인프린팅 미니 브로마이드, 하드 커버 / 게이트폴드)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=20221&amp;cate_no=25&amp;display_group=1</link>
@@ -86,22 +102,6 @@
             <pubDate>Tue, 27 Sep 2022 07:34:47 GMT</pubDate>
             <content:encoded><![CDATA[42,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202209/5e701e4fddf6abad33d17713bfc283e7.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Velvet Underground / White Light / White Heat (Vinyl, Abbey Road Half Speed Mastering) *할인상품 (쟈켓 상단부 터짐 Seam Split이 있습니다. 유의사항을 참조하세요.)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=20197&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=20197&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Tue, 27 Sep 2022 07:34:47 GMT</pubDate>
-            <content:encoded><![CDATA[39,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202209/495957ab676b22653f502dd8cea142e8.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Aaliyah / Ultimate Aaliyah (Vinyl, 3LP) *한정수량 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=20196&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=20196&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Tue, 27 Sep 2022 07:34:47 GMT</pubDate>
-            <content:encoded><![CDATA[35,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202209/648bdd9bae0904e3f4cb9c3580323452.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
