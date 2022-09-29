@@ -4,9 +4,33 @@
         <title>김밥레코즈 ─ Vinyl</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 29 Sep 2022 11:11:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Sep 2022 12:21:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Majid Jordan / Wildest Dreams (Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20251&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20251&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Thu, 29 Sep 2022 12:19:59 GMT</pubDate>
+            <content:encoded><![CDATA[46,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202209/40c946e7f0968fa28e145bb8bd073f17.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Swell Season (Glen Hansard & Marketa Irglova) / The Swell Season (White & Green Vinyl + Download)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20250&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20250&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Thu, 29 Sep 2022 12:19:59 GMT</pubDate>
+            <content:encoded><![CDATA[39,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/201702/6412_shop1_878070.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Carrtoons / Homegrown (Translucent Pink Vinyl, Limited Edition)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20249&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20249&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Thu, 29 Sep 2022 12:19:59 GMT</pubDate>
+            <content:encoded><![CDATA[39,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202209/f4529f6d110d8780a49bb170d594721d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Paco De Lucia / Entre Dos Aguas (Blue Vinyl)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=20248&amp;cate_no=25&amp;display_group=1</link>
@@ -78,30 +102,6 @@
             <pubDate>Thu, 29 Sep 2022 11:09:00 GMT</pubDate>
             <content:encoded><![CDATA[55,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202209/baa2084a0428386d87ad4c2fc0413fd9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Rina Sawayama / Hold The Girl (Limited Apple Red Vinyl) *할인상품 (쟈켓 모서리에 작은 눌림이 있습니다.)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=20239&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=20239&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Thu, 29 Sep 2022 11:09:00 GMT</pubDate>
-            <content:encoded><![CDATA[32,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202209/b8ba60e02864ab25de1315ab019e4bc1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Rina Sawayama / Hold The Girl (Limited Apple Red Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=20238&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=20238&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Thu, 29 Sep 2022 11:09:00 GMT</pubDate>
-            <content:encoded><![CDATA[33,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202209/b8ba60e02864ab25de1315ab019e4bc1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Pearl Jam / Rearviewmirror (Greatest Hits 1991-2003: Volume 2) (Vinyl, 2LP) *한정수량 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=20237&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=20237&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Thu, 29 Sep 2022 11:09:00 GMT</pubDate>
-            <content:encoded><![CDATA[39,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202209/f9f52140791732b9b9d53575215cb35b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
