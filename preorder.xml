@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ Pre-Order</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 07 Oct 2022 01:09:54 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Oct 2022 03:44:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이문세 / 2집 (Vinyl) *예약상품 (2023년 2월 배송 예정)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20252&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20252&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Fri, 07 Oct 2022 01:08:32 GMT</pubDate>
+            <content:encoded><![CDATA[44,600원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202209/e6729e77250007fa56916d29becb8c9b.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Whitney Houston / The Bodyguard 보디가드 Original Soundtrack Album (Red Colored Vinyl) *예약상품 / 주문 전 아래 유의사항을 확인해 주세요.]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=20220&amp;cate_no=42&amp;display_group=1</link>
@@ -22,14 +30,6 @@
             <pubDate>Fri, 07 Oct 2022 01:08:32 GMT</pubDate>
             <content:encoded><![CDATA[49,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202112/3f5c69926d4a260238a4d8e7ab9cf54d.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[이문세 / 2집 (Vinyl) *예약상품 (2023년 2월 배송 예정)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=20252&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=20252&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Fri, 07 Oct 2022 01:08:32 GMT</pubDate>
-            <content:encoded><![CDATA[44,600원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202209/e6729e77250007fa56916d29becb8c9b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[OST (Various Artists) / 슬기로운 의사생활 OST 시즌2 (2LP) *예약상품 (10월 24일경 발송 예정)]]></title>
