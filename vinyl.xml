@@ -1,8 +1,107 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://gimbabrecords.com/product/list.html?cate_no=25</id>
-    <title>김밥레코즈 ─ Vinyl</title>
-    <updated>2022-10-13T23:14:51.429Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>http://gimbabrecords.com/product/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>김밥레코즈 ─ Vinyl</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Fri, 14 Oct 2022 01:07:46 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Chet Baker / Sings Again (Limited Colored Vinyl, 1,500매 한정반, Aquamarine 청록색 바이닐) *예약상품 (12월 9일 이후 배송 시작)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20358&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20358&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Fri, 14 Oct 2022 01:05:47 GMT</pubDate>
+            <content:encoded><![CDATA[38,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202210/dcb697b4195f0625e67966f5a4e11ca4.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Cynthia Schloss / Ready And Waiting (Vinyl + OBI, Limited Edition)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20357&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20357&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Fri, 14 Oct 2022 01:05:47 GMT</pubDate>
+            <content:encoded><![CDATA[51,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202210/b28bb5959cd8848d7a47c30e693169a8.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Lloyd Price / Music - Music (Vinyl + OBI, Limited Edition)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20356&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20356&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Fri, 14 Oct 2022 01:05:47 GMT</pubDate>
+            <content:encoded><![CDATA[51,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202210/b4ff00df36a6514dda0a52a7bf907aa5.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Sounds of the City Experience / Sounds of the City Experience (Vinyl + OBI, Limited Edition)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20355&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20355&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Fri, 14 Oct 2022 01:05:47 GMT</pubDate>
+            <content:encoded><![CDATA[44,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202210/7c9d35ca7eb9ded0c19c057f5d6e5600.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Lewis Connection / The Lewis Connection (Vinyl + OBI, Limited edition, 2022 Remaster)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20354&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20354&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Fri, 14 Oct 2022 01:05:47 GMT</pubDate>
+            <content:encoded><![CDATA[48,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202210/9e7b03acdc90a1f5cab49341dd4d06eb.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Ingram / The Ingram Kingdom (Vinyl + OBI, Limited Edition)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20353&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20353&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Fri, 14 Oct 2022 01:05:47 GMT</pubDate>
+            <content:encoded><![CDATA[48,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202210/d2e16ca7dcea5098bba252b57ec2dd33.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[B.B. King / The Great B.B.King (180g Vinyl + OBI, Limited Edition)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20352&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20352&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Fri, 14 Oct 2022 01:05:47 GMT</pubDate>
+            <content:encoded><![CDATA[48,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202210/d4f2c07cd07c856738c2cf67d938a1b9.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[B.B. King / Singin' The Blues (180g Vinyl + OBI, Limited Edition)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20351&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20351&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Fri, 14 Oct 2022 01:05:47 GMT</pubDate>
+            <content:encoded><![CDATA[48,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202210/393f273803db3aa9bc6b9031c4104b94.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Home Boy And The C.O.L./ Out Break (Vinyl + OBI, Limited edition)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20350&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20350&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Fri, 14 Oct 2022 01:05:47 GMT</pubDate>
+            <content:encoded><![CDATA[44,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202210/e3b2bee92a82275b8d729cfce9e2a805.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Home Boy And The C.O.L./ Home Boy And The C.O.L. (Vinyl + OBI, Limited edition)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20349&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20349&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Fri, 14 Oct 2022 01:05:47 GMT</pubDate>
+            <content:encoded><![CDATA[44,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202210/8ef7004fc7b3386b40b41fc553315f7f.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[팔로알토 / 발자국 (180g, Colored Vinyl) *예약상품 (10월 17일부터 배송이 시작됩니다.)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20347&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20347&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Fri, 14 Oct 2022 01:05:47 GMT</pubDate>
+            <content:encoded><![CDATA[42,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202210/9444d4a925ae41b5bb2393c00e5bf4fa.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Various Artists / WALLS AND PALS Presents - Pals FM: Floor Materials Vol.1 (12" Vinyl, 33 1/3 rpm) *압축포장 없이 출고된 상품입니다.]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20346&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20346&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Fri, 14 Oct 2022 01:05:47 GMT</pubDate>
+            <content:encoded><![CDATA[22,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202210/e8bf58b39a04278cff134c1b3582d147.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
