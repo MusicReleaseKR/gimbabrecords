@@ -1,51 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>김밥레코즈 ─ CD</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Thu, 20 Oct 2022 11:13:49 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[OST / Jojo Rabbit 조조래빗 사운드트랙 (CD, EU Import) *한정수량 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=20446&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=20446&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Thu, 20 Oct 2022 11:12:01 GMT</pubDate>
-            <content:encoded><![CDATA[14,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202210/ed058bf194c949274be0dc24aa87e7aa.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Frank Zappa / Sheik Yerbouti (CD, 2012 Reissue) *한정수량 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=20445&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=20445&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Thu, 20 Oct 2022 11:12:01 GMT</pubDate>
-            <content:encoded><![CDATA[14,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202210/2172fb20fb39fc52c535369f135bd61e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Coldplay / Live 2012 (CD + DVD) *한정수량 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=20444&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=20444&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Thu, 20 Oct 2022 11:12:01 GMT</pubDate>
-            <content:encoded><![CDATA[13,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202210/24fd71a33e91c90766a522f17b58d3c1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Wishbone Ash / Argus (CD, Expanded Edition) *한정수량 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=20443&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=20443&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Thu, 20 Oct 2022 11:12:01 GMT</pubDate>
-            <content:encoded><![CDATA[14,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202210/1fbd3c11c75eb1d25cba8f1b9071ff11.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Who / Tommy (CD, EU Import) *한정수량 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=20442&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=20442&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Thu, 20 Oct 2022 11:12:01 GMT</pubDate>
-            <content:encoded><![CDATA[14,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202210/35f04341fa308a7cf6138c714f3c0698.jpg" length="0" type="image/jpg"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>http://gimbabrecords.com/product/list.html?cate_no=24</id>
+    <title>김밥레코즈 ─ CD</title>
+    <updated>2022-10-20T12:22:44.439Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>http://gimbabrecords.com/product/favicon.ico</icon>
+</feed>
