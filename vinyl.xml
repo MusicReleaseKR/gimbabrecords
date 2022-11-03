@@ -4,9 +4,24 @@
         <title>김밥레코즈 ─ Vinyl</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Nov 2022 08:15:49 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Nov 2022 09:14:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[M83 / Hurry Up, We're Dreaming (2LP) *할인상품 (모서리에 눌림이 있습니다. 상세설명을 참조하세요.)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20511&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20511&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Thu, 03 Nov 2022 09:12:53 GMT</pubDate>
+            <content:encoded><![CDATA[36,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/201606/4274_shop1_275096.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[임시링크]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20509&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20509&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Thu, 03 Nov 2022 09:12:53 GMT</pubDate>
+            <enclosure url="http://img.echosting.cafe24.com/thumb/img_product_medium.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[김현식 / Vol.6 (180g Black Vinyl, 한정반)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=20508&amp;cate_no=25&amp;display_group=1</link>
@@ -86,22 +101,6 @@
             <pubDate>Thu, 03 Nov 2022 03:54:20 GMT</pubDate>
             <content:encoded><![CDATA[37,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202210/db46ddfa1f13403f42da23e65b77f5e3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Makaya McCraven / In These Times (White Vinyl, Indie Exclusive) *한정수량 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=20487&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=20487&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Thu, 03 Nov 2022 03:54:20 GMT</pubDate>
-            <content:encoded><![CDATA[40,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202210/e648c8c867f261eaa055f8f402e318e2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Pixies / Doggerel (Red Vinyl, Limited Edition)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=20486&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=20486&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Thu, 03 Nov 2022 03:54:20 GMT</pubDate>
-            <content:encoded><![CDATA[43,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202210/e89d1fb9faadbfff923bbae041ebdc5a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
