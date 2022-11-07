@@ -4,9 +4,33 @@
         <title>김밥레코즈 ─ CD ─ Korean</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Nov 2022 06:14:50 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Nov 2022 07:12:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[버둥 / 3rd EP 너에게만 보여 (CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20544&amp;cate_no=29&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20544&amp;cate_no=29&amp;display_group=1</guid>
+            <pubDate>Mon, 07 Nov 2022 07:11:03 GMT</pubDate>
+            <content:encoded><![CDATA[18,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202211/65ba91b96c7c162b056653992fabe665.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[버둥 / 2nd EP 잡아라! (CD, 리패키지 에디션)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20543&amp;cate_no=29&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20543&amp;cate_no=29&amp;display_group=1</guid>
+            <pubDate>Mon, 07 Nov 2022 07:11:03 GMT</pubDate>
+            <content:encoded><![CDATA[15,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202211/83f667d5e64d556604c3bbd7850582e4.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[버둥 / 1st EP 조용한 폭력 속에서 (CD, 리패키지 에디션)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20542&amp;cate_no=29&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20542&amp;cate_no=29&amp;display_group=1</guid>
+            <pubDate>Mon, 07 Nov 2022 07:11:03 GMT</pubDate>
+            <content:encoded><![CDATA[15,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202211/22e53ebfed21574923eb480060a31f56.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[신세하 Xin Seha / I Just Can't Control My Feet! (CD)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=20483&amp;cate_no=29&amp;display_group=1</link>
@@ -78,30 +102,6 @@
             <pubDate>Mon, 07 Nov 2022 03:56:43 GMT</pubDate>
             <content:encoded><![CDATA[17,800원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202210/b1ff4b01a9d92b6bd2113fe07fc64de3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[마콤마 / Mind, Heart (CD) *무통장입금 주문시 입금기한이 있습니다.]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=20377&amp;cate_no=29&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=20377&amp;cate_no=29&amp;display_group=1</guid>
-            <pubDate>Mon, 07 Nov 2022 03:56:43 GMT</pubDate>
-            <content:encoded><![CDATA[13,800원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202210/95be44b0c88d46581f5244c97ea62353.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[기나이직 Guinneissik / Postwar (플라스틱 슬리브를 씌운 USB카드)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=20225&amp;cate_no=29&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=20225&amp;cate_no=29&amp;display_group=1</guid>
-            <pubDate>Mon, 07 Nov 2022 03:56:43 GMT</pubDate>
-            <content:encoded><![CDATA[15,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202209/9b75167fbc00e8673e58c53c8d7d4925.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[기나이직 Guinneissik / 1집 듣는음악과 평강하지 못한 (CD, Digipak) *압축포장 없이 출고된 상품입니다.]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=20224&amp;cate_no=29&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=20224&amp;cate_no=29&amp;display_group=1</guid>
-            <pubDate>Mon, 07 Nov 2022 03:56:43 GMT</pubDate>
-            <content:encoded><![CDATA[15,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202209/57bd78d434fd5fa1ad7c20779f8b4386.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
