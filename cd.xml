@@ -4,7 +4,7 @@
         <title>김밥레코즈 ─ CD</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 15 Nov 2022 10:12:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Nov 2022 11:10:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Tue, 15 Nov 2022 10:09:58 GMT</pubDate>
             <content:encoded><![CDATA[14,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/201511/2217_shop1_818252.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The 1975 / Being Funny In A Foreign Language (CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20620&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20620&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Tue, 15 Nov 2022 11:07:50 GMT</pubDate>
+            <content:encoded><![CDATA[21,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202211/2026d9f0e5086635abb121ac8594139e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Sylvan Esso / Free Love (CD, gatefold sleeve) *한정수량 할인]]></title>
@@ -94,14 +102,6 @@
             <pubDate>Tue, 15 Nov 2022 10:09:58 GMT</pubDate>
             <content:encoded><![CDATA[16,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202211/5110cb885a6ae31ad2a4fc36a2e4133e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[James Robinson / Guilty (CD + OBI, THROWBACK SOUL 시리즈)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=20610&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=20610&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Tue, 15 Nov 2022 10:09:58 GMT</pubDate>
-            <content:encoded><![CDATA[16,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202211/d2fdaa2a4ccccd231032be4ad3da22cc.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
