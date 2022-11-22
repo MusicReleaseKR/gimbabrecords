@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ Vinyl</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Nov 2022 16:14:05 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Nov 2022 17:13:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Steve Lacy / Gemini Rights (Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20677&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20677&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Tue, 22 Nov 2022 17:11:20 GMT</pubDate>
+            <content:encoded><![CDATA[34,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202211/a9b3b99df5584e25a339c344065e3e5d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Domi & JD Beck / Not Tight (Vinyl) --> gimbabrecords2.com에서 판매중]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=20676&amp;cate_no=25&amp;display_group=1</link>
@@ -93,14 +101,6 @@
             <pubDate>Fri, 18 Nov 2022 06:11:57 GMT</pubDate>
             <content:encoded><![CDATA[49,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202211/a8c3b63e0e5dfa03ae336beb10850d18.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Guns N' Roses / Use Your Illusion II (Vinyl, Deluxe 2LP, 2022 Remaster, Gatefold Jacket) *한정수량 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=20663&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=20663&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Fri, 18 Nov 2022 05:08:50 GMT</pubDate>
-            <content:encoded><![CDATA[56,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202211/bcd070ee93b301771e70beddfec7354e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
