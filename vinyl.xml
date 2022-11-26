@@ -4,9 +4,25 @@
         <title>김밥레코즈 ─ Vinyl</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 26 Nov 2022 05:09:54 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Nov 2022 06:12:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Various Artists / Anime & Manga Synth Pop Soundtracks 1984​-​1990 (Vinyl) *추가할인상품 (구매시 유의사항을 확인하세요)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20716&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20716&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Sat, 26 Nov 2022 06:10:28 GMT</pubDate>
+            <content:encoded><![CDATA[38,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202211/824240728790f4f959eea9f342355f38.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Various Artists / Anime & Manga Synth Pop Soundtracks 1984​-​1990 (Vinyl) *구매시 유의사항을 확인하세요]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20715&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20715&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Sat, 26 Nov 2022 06:10:28 GMT</pubDate>
+            <content:encoded><![CDATA[39,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202211/2997faf736b9c39dc0fabd37966d4c50.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Gil Scott Heron / Pieces Of A Man (Vinyl, AAA 2LP Edition, 45rpm, 50th Anniversary)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=20714&amp;cate_no=25&amp;display_group=1</link>
@@ -86,22 +102,6 @@
             <pubDate>Fri, 25 Nov 2022 10:09:28 GMT</pubDate>
             <content:encoded><![CDATA[54,900원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202211/7329bcd263b665628cd7f2e89b0cf3f7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[OST (Various) / Sing Street 싱스트리트 (Vinyl, 2LP) *할인상품 / 구매시 유의사항을 확인하세요.]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=20703&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=20703&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Fri, 25 Nov 2022 09:08:57 GMT</pubDate>
-            <content:encoded><![CDATA[53,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202211/e97b3ef8b319cd2c8790dc472f05fd99.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[New Radicals / Maybe You've Been Brainwashed Too (Vinyl, 2LP) *한정수량 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=20697&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=20697&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Fri, 25 Nov 2022 07:08:31 GMT</pubDate>
-            <content:encoded><![CDATA[45,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202211/322be2fe98697e48665d67f9ac0b22f5.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
