@@ -4,9 +4,25 @@
         <title>김밥레코즈 ─ CD</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 29 Nov 2022 10:11:39 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Nov 2022 11:09:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[황푸하 / 두 얼굴 (CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20762&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20762&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Tue, 29 Nov 2022 11:07:45 GMT</pubDate>
+            <content:encoded><![CDATA[19,300원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202211/9fda39033b8eebb4a89b23d2a2d2a684.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Paul Desmond / The Complete RCA Albums Collection 1962-1965 (6CD Boxset) *한정수량 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20761&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20761&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Tue, 29 Nov 2022 11:07:45 GMT</pubDate>
+            <content:encoded><![CDATA[55,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202211/1fd2e2d3774750fb8511fc74c90d6757.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Tindersticks / Distractions (CD)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=20741&amp;cate_no=24&amp;display_group=1</link>
@@ -86,22 +102,6 @@
             <pubDate>Fri, 25 Nov 2022 07:08:24 GMT</pubDate>
             <content:encoded><![CDATA[19,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202211/f34ca0307b9056822d535cf3204435b5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Eric Clapton / Old Sock (CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=20698&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=20698&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Fri, 25 Nov 2022 07:08:24 GMT</pubDate>
-            <content:encoded><![CDATA[19,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202211/f1e78dede4b30313d5cdd922784f1806.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Years & Years / Night Call (CD) *한정수량 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=20692&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=20692&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Thu, 24 Nov 2022 08:11:14 GMT</pubDate>
-            <content:encoded><![CDATA[15,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202211/f14be3357c804f5042a1d0327536f1d6.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
