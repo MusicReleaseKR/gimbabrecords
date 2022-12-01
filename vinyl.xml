@@ -4,9 +4,25 @@
         <title>김밥레코즈 ─ Vinyl</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 01 Dec 2022 10:11:40 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 Dec 2022 11:09:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Phoebe Bridgers & Rob Moose / Copycat Killer (12" Vinyl, Limited Edition, 45rpm)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20783&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20783&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Thu, 01 Dec 2022 11:07:44 GMT</pubDate>
+            <content:encoded><![CDATA[26,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202212/24e4ff60d5d14c803dcd46d1059fdcd8.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[OST (Kyle Dixon & Michael Stein) / Stranger Things Season 3 기묘한 이야기 3 Original Score (Cream & Purple Galaxy Effect Vinyl, 2LP)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20782&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20782&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Thu, 01 Dec 2022 11:07:44 GMT</pubDate>
+            <content:encoded><![CDATA[46,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202212/3894c1ebbb4ef8dae9a19d5a987c0aab.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Stanley Turrentine with Milt Jackson / Cherry (Limited Numbered Pink Vinyl, 50th Anniversary Edition)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=20781&amp;cate_no=25&amp;display_group=1</link>
@@ -86,22 +102,6 @@
             <pubDate>Wed, 30 Nov 2022 08:12:07 GMT</pubDate>
             <content:encoded><![CDATA[38,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/201507/100_shop1_124687.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Built To Spill / When The Wind Forgets Your Name (Rainforest Green Marble Vinyl, Loser Edition, Limited)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=20768&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=20768&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Wed, 30 Nov 2022 07:08:40 GMT</pubDate>
-            <content:encoded><![CDATA[33,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202211/7617070c8048dec6aef439cf2216fe6f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Frankie Cosmos / Inner World Peace (Clear Vinyl, Loser Edition, Limited)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=20766&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=20766&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Wed, 30 Nov 2022 07:08:40 GMT</pubDate>
-            <content:encoded><![CDATA[33,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202211/70c032a18ef8895e3b4d0caad8a7b3b9.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
