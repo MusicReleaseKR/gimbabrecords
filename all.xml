@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 02 Dec 2022 07:10:10 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Dec 2022 08:12:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Tenniscoats / Papa's Ear (CD, tri-fold digisleeve) (김밥레코즈 ─ CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20792&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20792&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Fri, 02 Dec 2022 08:10:38 GMT</pubDate>
+            <content:encoded><![CDATA[26,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202212/8a513fc31ea12e53ab03718b452150ba.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Yumbo / The Fruit Of Errata 間違いの実 (CD + Booklet) (김밥레코즈 ─ CD)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=20788&amp;cate_no=24&amp;display_group=1</link>
@@ -96,12 +104,20 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202211/f6af517a00bfef6a4a3f08f52ef919b6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Fleetwood Mac / The Alternate Collection (6CD Box) (RSD Black Friday) (김밥레코즈 ─ CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=20739&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=20739&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Tue, 29 Nov 2022 10:09:24 GMT</pubDate>
-            <content:encoded><![CDATA[107,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202211/0bef2861fd006fc03e14f32c9fb7affb.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[Various Artists (Mount Eerie, Thou, etc...) / O (Vinyl, 2LP) (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20793&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20793&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Fri, 02 Dec 2022 08:10:45 GMT</pubDate>
+            <content:encoded><![CDATA[59,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202212/f021ff660529ee68dd732a3d1e0761db.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Tenniscoats / Papa's Ear (Vinyl, 2LP, 2022 Remaster) (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20791&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20791&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Fri, 02 Dec 2022 08:10:45 GMT</pubDate>
+            <content:encoded><![CDATA[55,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202212/b2641b0d7675a2cffa59efaa9ef240ac.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Various Artists / Minna Miteru 2 (A Compilation Of Japanese Indie Music) (Vinyl, 2LP) (김밥레코즈 ─ Vinyl)]]></title>
@@ -182,22 +198,6 @@
             <pubDate>Thu, 01 Dec 2022 10:09:59 GMT</pubDate>
             <content:encoded><![CDATA[23,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202212/2d3ee5b1309231df0f9e0804bda48a40.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Joey Bada$$ (Joey Badass) / 1999 (Purple & Tan Color-In-Color Vinyl, 2LP) (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=20778&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=20778&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Thu, 01 Dec 2022 10:09:59 GMT</pubDate>
-            <content:encoded><![CDATA[40,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202212/f96359b9a67ed5bd980ab17384aa1f0d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Brian Eno / Ambient 1 : Music For Airports (180g Vinyl, 1LP) (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=20777&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=20777&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Thu, 01 Dec 2022 10:09:59 GMT</pubDate>
-            <content:encoded><![CDATA[37,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/201606/4046_shop1_914358.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Hookuo 후쿠오 / Mild Dawn City Vol. 2 (Cassette) (김밥레코즈 ─ Cassette)]]></title>
@@ -1632,6 +1632,14 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202111/3a1ee0ac3ab527c4a2b5b81d872dc0fc.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Tenniscoats / Papa's Ear (CD, tri-fold digisleeve) (김밥레코즈 ─ CD ─ Japanese)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20792&amp;cate_no=90&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20792&amp;cate_no=90&amp;display_group=1</guid>
+            <pubDate>Fri, 02 Dec 2022 08:12:33 GMT</pubDate>
+            <content:encoded><![CDATA[26,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202212/8a513fc31ea12e53ab03718b452150ba.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Yumbo / The Fruit Of Errata 間違いの実 (CD + Booklet) (김밥레코즈 ─ CD ─ Japanese)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=20788&amp;cate_no=90&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=20788&amp;cate_no=90&amp;display_group=1</guid>
@@ -1718,14 +1726,6 @@
             <pubDate>Wed, 16 Nov 2022 17:23:42 GMT</pubDate>
             <content:encoded><![CDATA[23,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202208/4e57485611bc8bef6dd1b2340b5de6bc.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Lamp / Kanozyo No Tekei (CD, OBI, Japan Import) (김밥레코즈 ─ CD ─ Japanese)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19945&amp;cate_no=90&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19945&amp;cate_no=90&amp;display_group=1</guid>
-            <pubDate>Wed, 16 Nov 2022 17:23:42 GMT</pubDate>
-            <content:encoded><![CDATA[32,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202208/5004ccdde209d2bdae3fa2f26f0d046e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[만동 Mandong / Big Sun (Vinyl) (김밥레코즈 ─ Vinyl ─ Korean)]]></title>

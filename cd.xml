@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ CD</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 02 Dec 2022 07:10:10 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Dec 2022 08:12:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Tenniscoats / Papa's Ear (CD, tri-fold digisleeve)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20792&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20792&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Fri, 02 Dec 2022 08:10:38 GMT</pubDate>
+            <content:encoded><![CDATA[26,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202212/8a513fc31ea12e53ab03718b452150ba.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Yumbo / The Fruit Of Errata 間違いの実 (CD + Booklet)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=20788&amp;cate_no=24&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Tue, 29 Nov 2022 10:09:24 GMT</pubDate>
             <content:encoded><![CDATA[23,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202211/f6af517a00bfef6a4a3f08f52ef919b6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Fleetwood Mac / The Alternate Collection (6CD Box) (RSD Black Friday)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=20739&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=20739&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Tue, 29 Nov 2022 10:09:24 GMT</pubDate>
-            <content:encoded><![CDATA[107,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202211/0bef2861fd006fc03e14f32c9fb7affb.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
