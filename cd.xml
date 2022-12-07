@@ -4,9 +4,33 @@
         <title>김밥레코즈 ─ CD</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 Dec 2022 07:10:36 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Dec 2022 08:12:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Donald Fagen / Donald Fagen's The Nightfly Live (CD) *한정수량 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20825&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20825&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Wed, 07 Dec 2022 08:10:48 GMT</pubDate>
+            <content:encoded><![CDATA[14,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202110/58bac84def7f3219c6732f60dfe07eed.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Tony Bennett / The Classic Christmas Album (CD) *한정수량 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20824&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20824&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Wed, 07 Dec 2022 08:10:48 GMT</pubDate>
+            <content:encoded><![CDATA[11,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202212/1963219775eaa1acb16d897fe4167174.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Band Aid 30 / Do They Know It's Christmas? (2014) (CD, Single case)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20823&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20823&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Wed, 07 Dec 2022 08:10:48 GMT</pubDate>
+            <content:encoded><![CDATA[6,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202212/71aaed6e8676854a8f0a856046edf226.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[설 Surl / 정규 1집 of us (CD)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=20822&amp;cate_no=24&amp;display_group=1</link>
@@ -78,30 +102,6 @@
             <pubDate>Fri, 02 Dec 2022 07:07:57 GMT</pubDate>
             <content:encoded><![CDATA[29,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202206/9199838a1d65124332917e222da3c28e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Shabason & Krgovich / At Scaramouche + Philadelphia (2CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=20787&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=20787&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Fri, 02 Dec 2022 07:07:57 GMT</pubDate>
-            <content:encoded><![CDATA[28,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202212/5b13082cec051c5a7f7e7e92c80ade38.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[신해경 / 최저낙원 (CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=20772&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=20772&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Thu, 01 Dec 2022 05:08:48 GMT</pubDate>
-            <content:encoded><![CDATA[14,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202211/730b2c2e4fb95554192fc0b665e1e97a.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[신해경 / 나의 가역반응 (CD, 재발매)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=20771&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=20771&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Thu, 01 Dec 2022 05:08:48 GMT</pubDate>
-            <content:encoded><![CDATA[14,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202211/fe776fc2dda8a997c7d88ca9b7f37844.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
