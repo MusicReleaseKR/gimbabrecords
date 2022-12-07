@@ -4,7 +4,7 @@
         <title>김밥레코즈 ─ CD ─ Korean</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 Dec 2022 00:41:51 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Dec 2022 02:21:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -32,7 +32,7 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202212/4aca5f6974e7785aa92910f863704d85.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[신해경 / 최저낙원 (CD) *예약상품 (12월 6일 발매)]]></title>
+            <title><![CDATA[신해경 / 최저낙원 (CD)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=20772&amp;cate_no=29&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=20772&amp;cate_no=29&amp;display_group=1</guid>
             <pubDate>Thu, 01 Dec 2022 05:09:27 GMT</pubDate>
@@ -40,7 +40,7 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202211/730b2c2e4fb95554192fc0b665e1e97a.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[신해경 / 나의 가역반응 (CD, 재발매) *예약상품 (12월 6일 발매)]]></title>
+            <title><![CDATA[신해경 / 나의 가역반응 (CD, 재발매)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=20771&amp;cate_no=29&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=20771&amp;cate_no=29&amp;display_group=1</guid>
             <pubDate>Thu, 01 Dec 2022 05:09:27 GMT</pubDate>
