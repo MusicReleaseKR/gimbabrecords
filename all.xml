@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 07 Dec 2022 23:11:01 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Dec 2022 00:39:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -109,7 +109,7 @@
             <guid>http://gimbabrecords.com/product/detail.html?product_no=20821&amp;cate_no=25&amp;display_group=1</guid>
             <pubDate>Tue, 06 Dec 2022 11:07:23 GMT</pubDate>
             <content:encoded><![CDATA[69,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202212/a3307020e028442a1e867cd15e83f5b9.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://www.gimbabrecords.com/web/product/medium/202212/a3307020e028442a1e867cd15e83f5b9.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Akina Nakamori / Regeneration II ~ Nakamori Akina Remix II (Clear Green + Grey Vinyl, 2LP, Limited Edition) (김밥레코즈 ─ Vinyl)]]></title>
@@ -117,7 +117,7 @@
             <guid>http://gimbabrecords.com/product/detail.html?product_no=20820&amp;cate_no=25&amp;display_group=1</guid>
             <pubDate>Tue, 06 Dec 2022 11:07:23 GMT</pubDate>
             <content:encoded><![CDATA[69,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202212/fc8f87fc915ff5760e3da7c0dc12c3a6.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://www.gimbabrecords.com/web/product/medium/202212/fc8f87fc915ff5760e3da7c0dc12c3a6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Akina Nakamori / Regeneration ~ Nakamori Akina Remix (Clear Violet + Clear Vinyl, 2LP, Limited Edition) (김밥레코즈 ─ Vinyl)]]></title>
@@ -125,7 +125,7 @@
             <guid>http://gimbabrecords.com/product/detail.html?product_no=20819&amp;cate_no=25&amp;display_group=1</guid>
             <pubDate>Tue, 06 Dec 2022 11:07:23 GMT</pubDate>
             <content:encoded><![CDATA[69,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202212/baa717918ded243a26f90f444927995a.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://www.gimbabrecords.com/web/product/medium/202212/baa717918ded243a26f90f444927995a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Junko Ohashi / DEF (Clear Blue Vinyl, 2022 일본 레코드데이 한정반) (김밥레코즈 ─ Vinyl)]]></title>
@@ -133,7 +133,7 @@
             <guid>http://gimbabrecords.com/product/detail.html?product_no=20818&amp;cate_no=25&amp;display_group=1</guid>
             <pubDate>Tue, 06 Dec 2022 11:07:23 GMT</pubDate>
             <content:encoded><![CDATA[48,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202212/600ac902ffd2738b7a4a4c680bc06b16.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://www.gimbabrecords.com/web/product/medium/202212/600ac902ffd2738b7a4a4c680bc06b16.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Tomoyo Harada / Fruitful Days (Vinyl) *할인상품 (쟈켓 모서리 작은 눌림) (김밥레코즈 ─ Vinyl)]]></title>
@@ -141,7 +141,7 @@
             <guid>http://gimbabrecords.com/product/detail.html?product_no=20817&amp;cate_no=25&amp;display_group=1</guid>
             <pubDate>Tue, 06 Dec 2022 11:07:23 GMT</pubDate>
             <content:encoded><![CDATA[50,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202212/8205a66431c690c12e27f71b920ee372.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://www.gimbabrecords.com/web/product/medium/202212/8205a66431c690c12e27f71b920ee372.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[OST (Nujabes, FORCE OF NATURE, Fat Jon) / Samurai Champloo Music Record: Impression 사무라이 참프루: 임프레션 (Vinyl, 2LP, Limited Edition) (김밥레코즈 ─ Vinyl)]]></title>
@@ -149,7 +149,7 @@
             <guid>http://gimbabrecords.com/product/detail.html?product_no=20816&amp;cate_no=25&amp;display_group=1</guid>
             <pubDate>Tue, 06 Dec 2022 11:07:23 GMT</pubDate>
             <content:encoded><![CDATA[70,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202212/c3f8b2780bccb8a878584dbb7ae2069d.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://www.gimbabrecords.com/web/product/medium/202212/c3f8b2780bccb8a878584dbb7ae2069d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[OST (Nujabes, Fat Jon) / Samurai Champloo Music Record: Departure 사무라이 참프루: 디파쳐 (Vinyl, 2LP, Limited Edition) (김밥레코즈 ─ Vinyl)]]></title>
@@ -157,7 +157,7 @@
             <guid>http://gimbabrecords.com/product/detail.html?product_no=20815&amp;cate_no=25&amp;display_group=1</guid>
             <pubDate>Tue, 06 Dec 2022 11:07:23 GMT</pubDate>
             <content:encoded><![CDATA[70,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202212/8125a305a7c857d5aaaf2581aa2737aa.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://www.gimbabrecords.com/web/product/medium/202212/8125a305a7c857d5aaaf2581aa2737aa.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Swinging Popsicle / Orange オレンジ / Tooisora 遠い空 (Clear Orange 7" Vinyl + Bonus CD, Limited Edition) (김밥레코즈 ─ Vinyl)]]></title>
@@ -165,7 +165,7 @@
             <guid>http://gimbabrecords.com/product/detail.html?product_no=20814&amp;cate_no=25&amp;display_group=1</guid>
             <pubDate>Tue, 06 Dec 2022 10:09:05 GMT</pubDate>
             <content:encoded><![CDATA[27,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202212/06edeeced3e4af769aabb840f7f4f5c5.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://www.gimbabrecords.com/web/product/medium/202212/06edeeced3e4af769aabb840f7f4f5c5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Taeko Onuki (Taeko Ohnuki) / Mignonne (Clear Purple Vinyl, 일본 레코드데이 한정반) *1인 1매만 구매 가능 (김밥레코즈 ─ Vinyl)]]></title>
@@ -173,7 +173,7 @@
             <guid>http://gimbabrecords.com/product/detail.html?product_no=20813&amp;cate_no=25&amp;display_group=1</guid>
             <pubDate>Tue, 06 Dec 2022 10:09:05 GMT</pubDate>
             <content:encoded><![CDATA[54,600원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202212/c86a62eb9fc517d904762a9f1ef8bf46.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://www.gimbabrecords.com/web/product/medium/202212/c86a62eb9fc517d904762a9f1ef8bf46.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Joseph Shabason / Anne EP (Rose Pink Vinyl + Download) (김밥레코즈 ─ Vinyl)]]></title>
@@ -181,7 +181,7 @@
             <guid>http://gimbabrecords.com/product/detail.html?product_no=20810&amp;cate_no=25&amp;display_group=1</guid>
             <pubDate>Tue, 06 Dec 2022 09:08:44 GMT</pubDate>
             <content:encoded><![CDATA[34,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202212/bcc372801877c0a8439278894110f2c8.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://www.gimbabrecords.com/web/product/medium/202212/bcc372801877c0a8439278894110f2c8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Joseph Shabason / Anne EP (Black Vinyl + Download) (김밥레코즈 ─ Vinyl)]]></title>
@@ -189,7 +189,7 @@
             <guid>http://gimbabrecords.com/product/detail.html?product_no=20809&amp;cate_no=25&amp;display_group=1</guid>
             <pubDate>Tue, 06 Dec 2022 09:08:44 GMT</pubDate>
             <content:encoded><![CDATA[33,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202212/b88bd22709506525ca082b1acdec0657.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://www.gimbabrecords.com/web/product/medium/202212/b88bd22709506525ca082b1acdec0657.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Dirty Three / Horse Stories (Vinyl, 2LP + Download) (김밥레코즈 ─ Vinyl)]]></title>
@@ -197,7 +197,7 @@
             <guid>http://gimbabrecords.com/product/detail.html?product_no=20807&amp;cate_no=25&amp;display_group=1</guid>
             <pubDate>Tue, 06 Dec 2022 09:08:44 GMT</pubDate>
             <content:encoded><![CDATA[35,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202212/ad4ffe74cf97d7cf20a269e504f8a2ae.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://www.gimbabrecords.com/web/product/medium/202212/ad4ffe74cf97d7cf20a269e504f8a2ae.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Ezra Collective / Where I'm Meant To Be (Orange Cassette) (김밥레코즈 ─ Cassette)]]></title>
