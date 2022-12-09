@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 09 Dec 2022 11:09:12 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Dec 2022 12:16:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[무간도 사운드트랙 3CD Set 수요조사 (12월 10일 밤까지) (김밥레코즈 ─ CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20848&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20848&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Fri, 09 Dec 2022 12:14:16 GMT</pubDate>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202212/3760b1615b78d4734543c4a3fc143d63.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[밀실 / 정규 1집 밀실 (CD) (김밥레코즈 ─ CD)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=20843&amp;cate_no=24&amp;display_group=1</link>
@@ -94,14 +101,6 @@
             <pubDate>Wed, 07 Dec 2022 10:09:10 GMT</pubDate>
             <content:encoded><![CDATA[14,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202212/182c08908d91c739c4eee26a1bbbffb7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Jethro Tull / Original Album Series (5CD Box Set) *한정수량 할인 (김밥레코즈 ─ CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=20829&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=20829&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Wed, 07 Dec 2022 10:09:10 GMT</pubDate>
-            <content:encoded><![CDATA[26,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202212/f0b1e678881f824bd0a131e55a23ba3f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[무간도 사운드트랙 수요조사 (12월 10일 토요일까지) (김밥레코즈 ─ Vinyl)]]></title>
@@ -1247,6 +1246,13 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202208/13367813f1d51a2d337faf4f85f65614.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[무간도 사운드트랙 3CD Set 수요조사 (12월 10일 밤까지) (김밥레코즈 ─ CD ─ Soundtracks)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20848&amp;cate_no=48&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20848&amp;cate_no=48&amp;display_group=1</guid>
+            <pubDate>Fri, 09 Dec 2022 12:15:45 GMT</pubDate>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202212/3760b1615b78d4734543c4a3fc143d63.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[OST (Toto and Brian Eno) / Dune OST 듄 (데이빗 린치 감독 작품) (CD) (김밥레코즈 ─ CD ─ Soundtracks)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=20700&amp;cate_no=48&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=20700&amp;cate_no=48&amp;display_group=1</guid>
@@ -1333,14 +1339,6 @@
             <pubDate>Wed, 16 Nov 2022 14:10:27 GMT</pubDate>
             <content:encoded><![CDATA[14,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202208/ffad76bca23af2d0f49e82fc24aea5dd.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[OST / Top Gun 탑건 Original Motion Picture Soundtrack (CD) *한정수량 할인 (김밥레코즈 ─ CD ─ Soundtracks)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19767&amp;cate_no=48&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19767&amp;cate_no=48&amp;display_group=1</guid>
-            <pubDate>Wed, 16 Nov 2022 14:10:27 GMT</pubDate>
-            <content:encoded><![CDATA[12,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202208/773a398144adb96f5477e21601172d3c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Gal Costa / Gal Costa Canta Tom Jobim Ao Vivo (2CD) (김밥레코즈 ─ CD ─ World)]]></title>
