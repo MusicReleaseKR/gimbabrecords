@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 13 Dec 2022 20:11:27 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Dec 2022 21:10:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -104,6 +104,14 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202212/f0b1e678881f824bd0a131e55a23ba3f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Sven Wunder / Jazz At Night (Limited 7" Vinyl) (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20851&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20851&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Tue, 13 Dec 2022 21:08:28 GMT</pubDate>
+            <content:encoded><![CDATA[27,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202212/5da0bade3cae1037db1cbba5db743eb4.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[에코브릿지 / COMPILATION (180g Clear Orange Vinyl + 4페이지 가사집, 한정반) *예약상품 (23년 5월 18일 발매, 12월 25일 주문 마감) (김밥레코즈 ─ Vinyl)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=20850&amp;cate_no=25&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=20850&amp;cate_no=25&amp;display_group=1</guid>
@@ -190,14 +198,6 @@
             <pubDate>Tue, 06 Dec 2022 11:07:23 GMT</pubDate>
             <content:encoded><![CDATA[48,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202212/600ac902ffd2738b7a4a4c680bc06b16.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Tomoyo Harada / Fruitful Days (Vinyl) *할인상품 (쟈켓 모서리 작은 눌림) (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=20817&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=20817&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Tue, 06 Dec 2022 11:07:23 GMT</pubDate>
-            <content:encoded><![CDATA[50,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202212/8205a66431c690c12e27f71b920ee372.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[WKW MOVIES' COLLECTION SOUNDTRACK CASSETTE BOXSET - 왕가위 사운드트랙 카세트 박스셋 (1,000세트 한정반, 일련번호 표기, 한정기간 사전 주문, 12월말 또는 1월초 배송 예정) (김밥레코즈 ─ Cassette)]]></title>
