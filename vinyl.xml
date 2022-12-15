@@ -4,11 +4,19 @@
         <title>김밥레코즈 ─ Vinyl</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 15 Dec 2022 21:09:42 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Dec 2022 22:10:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[Various Artists / Pacific Breeze Pacific Breeze Volume 3: Japanese City Pop, AOR & Boogie 1975-1987 (Pink Vinyl, 2LP) *예약상품 (2023년 3월 발송 예정)]]></title>
+            <title><![CDATA[Various Artists / Pacific Breeze Pacific Breeze Volume 3: Japanese City Pop, AOR & Boogie 1975-1987 (Black Vinyl, 2LP) *예약상품 (2023년 3월초 발송 예정)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20859&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20859&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Thu, 15 Dec 2022 22:08:16 GMT</pubDate>
+            <content:encoded><![CDATA[56,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202212/1320cff6862dae87402373a4035fef5c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Various Artists / Pacific Breeze Pacific Breeze Volume 3: Japanese City Pop, AOR & Boogie 1975-1987 (Pink Vinyl, 2LP) *예약상품 (2023년 3월초 발송 예정)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=20857&amp;cate_no=25&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=20857&amp;cate_no=25&amp;display_group=1</guid>
             <pubDate>Wed, 14 Dec 2022 21:07:54 GMT</pubDate>
@@ -16,7 +24,7 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202212/b6395b3bb9be8370cdad3eb9ea08378f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Various Artists / Pacific Breeze Pacific Breeze Volume 3: Japanese City Pop, AOR & Boogie 1975-1987 (Green Vinyl, 2LP) *예약상품 (2023년 3월 발송 예정)]]></title>
+            <title><![CDATA[Various Artists / Pacific Breeze Pacific Breeze Volume 3: Japanese City Pop, AOR & Boogie 1975-1987 (Green Vinyl, 2LP) *예약상품 (2023년 3월초 발송 예정)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=20856&amp;cate_no=25&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=20856&amp;cate_no=25&amp;display_group=1</guid>
             <pubDate>Wed, 14 Dec 2022 21:07:54 GMT</pubDate>
@@ -94,14 +102,6 @@
             <pubDate>Thu, 08 Dec 2022 09:08:17 GMT</pubDate>
             <content:encoded><![CDATA[47,900원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202212/80eddb865790ed3a9180b6cb8fae9eb6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Esbjörn Svensson (Esbjorn Svensson) / HOME.S (180g Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=20839&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=20839&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Thu, 08 Dec 2022 06:11:23 GMT</pubDate>
-            <content:encoded><![CDATA[39,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202212/e71f034af2ab747725d28aa27757a91c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
