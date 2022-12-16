@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 16 Dec 2022 10:10:50 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Dec 2022 11:09:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Jakob Bro, Joe Lovano / Once Around The Room: A Tribute To Paul Motian (CD) (김밥레코즈 ─ CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20870&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20870&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Fri, 16 Dec 2022 11:06:58 GMT</pubDate>
+            <content:encoded><![CDATA[21,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202212/7919f23f914ec68b3d125572045d75c5.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Enrico Rava, Fred Hersch / The Song Is You (CD) (김밥레코즈 ─ CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20869&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20869&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Fri, 16 Dec 2022 11:06:58 GMT</pubDate>
+            <content:encoded><![CDATA[21,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202212/dbac63dbc8609470c6b476408bee8719.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Various Artists / Pacific Breeze Pacific Breeze Volume 3: Japanese City Pop, AOR & Boogie 1975-1987 (CD) *예약상품 (3월초 발송예정) (김밥레코즈 ─ CD)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=20860&amp;cate_no=24&amp;display_group=1</link>
@@ -88,20 +104,28 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202212/533d99cb27af6cc3676d002014c3ac5b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Rickie Lee Jones / Original Album Series (5CD Box Set) *한정수량 할인 (김밥레코즈 ─ CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=20832&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=20832&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Wed, 07 Dec 2022 10:09:10 GMT</pubDate>
-            <content:encoded><![CDATA[26,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202212/79ebb9387e12225182c0a1c3acfe1c08.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[Enrico Rava, Fred Hersch / The Song Is You (180g Vinyl) (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20868&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20868&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Fri, 16 Dec 2022 11:07:06 GMT</pubDate>
+            <content:encoded><![CDATA[35,100원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202212/dbac63dbc8609470c6b476408bee8719.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Lana Del Rey / Blue Banisters (CD) *한정수량 할인 (김밥레코즈 ─ CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=20831&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=20831&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Wed, 07 Dec 2022 10:09:10 GMT</pubDate>
-            <content:encoded><![CDATA[14,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202212/1bf1f88fab6fa26e27158c942993f98f.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[Nils Landgren / Christmas With My Friends - The Jubilee Collection (180g 5LP Box Set) (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20867&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20867&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Fri, 16 Dec 2022 11:07:06 GMT</pubDate>
+            <content:encoded><![CDATA[78,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202212/9d66b0226ef0eca9f8b1b2e476b7ac1c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Tord Gustavsen Trio / Opening (180g Vinyl) (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20866&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20866&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Fri, 16 Dec 2022 11:07:06 GMT</pubDate>
+            <content:encoded><![CDATA[35,100원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202212/c6846bad63f0402a75dd65eec8608672.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Jamiroquai / High Times: The Singles 1992-2006 (Vinyl, 2LP) *한정수량 할인 (김밥레코즈 ─ Vinyl)]]></title>
@@ -174,30 +198,6 @@
             <pubDate>Wed, 14 Dec 2022 08:11:31 GMT</pubDate>
             <content:encoded><![CDATA[43,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/201709/8532_shop1_884847.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sven Wunder /  Asterism Waltz (Limited 7" Vinyl) (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=20853&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=20853&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Tue, 13 Dec 2022 22:08:20 GMT</pubDate>
-            <content:encoded><![CDATA[27,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202212/e3a07480f5cd746810dd98876d674687.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sven Wunder / Sun​-​Kissed (Limited 7" Vinyl) (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=20852&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=20852&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Tue, 13 Dec 2022 22:08:20 GMT</pubDate>
-            <content:encoded><![CDATA[27,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202212/919322bc0bdc60e02cd4b6a9957a545d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sven Wunder / Jazz At Night (Limited 7" Vinyl) (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=20851&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=20851&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Tue, 13 Dec 2022 21:08:28 GMT</pubDate>
-            <content:encoded><![CDATA[27,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202212/5da0bade3cae1037db1cbba5db743eb4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Various Artists / Pacific Breeze Pacific Breeze Volume 3: Japanese City Pop, AOR & Boogie 1975-1987 (Cassette) *예약상품 (2023년 3월초 발송 예정) (김밥레코즈 ─ Cassette)]]></title>
@@ -1064,6 +1064,22 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202206/c418bf7ab8a045e9fac186b7eb3758cc.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
+            <title><![CDATA[Jakob Bro, Joe Lovano / Once Around The Room: A Tribute To Paul Motian (CD) (김밥레코즈 ─ CD ─ Jazz)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20870&amp;cate_no=46&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20870&amp;cate_no=46&amp;display_group=1</guid>
+            <pubDate>Fri, 16 Dec 2022 11:08:15 GMT</pubDate>
+            <content:encoded><![CDATA[21,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202212/7919f23f914ec68b3d125572045d75c5.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Enrico Rava, Fred Hersch / The Song Is You (CD) (김밥레코즈 ─ CD ─ Jazz)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20869&amp;cate_no=46&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20869&amp;cate_no=46&amp;display_group=1</guid>
+            <pubDate>Fri, 16 Dec 2022 11:08:15 GMT</pubDate>
+            <content:encoded><![CDATA[21,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202212/dbac63dbc8609470c6b476408bee8719.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Esbjörn Svensson (Esbjorn Svensson) / HOME.S (CD, Digipak) (김밥레코즈 ─ CD ─ Jazz)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=20840&amp;cate_no=46&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=20840&amp;cate_no=46&amp;display_group=1</guid>
@@ -1142,22 +1158,6 @@
             <pubDate>Wed, 16 Nov 2022 16:26:25 GMT</pubDate>
             <content:encoded><![CDATA[17,200원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202211/7f414ee1bcf0aa1d23c445e0b00b3d3c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Madeleine Peyroux / Careless Love (CD) *한정수량 할인 (김밥레코즈 ─ CD ─ Jazz)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=20614&amp;cate_no=46&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=20614&amp;cate_no=46&amp;display_group=1</guid>
-            <pubDate>Wed, 16 Nov 2022 16:26:25 GMT</pubDate>
-            <content:encoded><![CDATA[14,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202011/812eeeb9bbfb262865c2d79acd96c5cf.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Lee Ritenour / Earth Run (CD) *한정수량 할인 (김밥레코즈 ─ CD ─ Jazz)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=20613&amp;cate_no=46&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=20613&amp;cate_no=46&amp;display_group=1</guid>
-            <pubDate>Wed, 16 Nov 2022 16:26:25 GMT</pubDate>
-            <content:encoded><![CDATA[15,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202211/a495530af5a06cf3d0454dbb1b48de8e.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[The Lions / Soul Riot (CD) (김밥레코즈 ─ CD ─ Reggae)]]></title>

@@ -4,9 +4,33 @@
         <title>김밥레코즈 ─ Vinyl</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 16 Dec 2022 10:10:50 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Dec 2022 11:09:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Enrico Rava, Fred Hersch / The Song Is You (180g Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20868&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20868&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Fri, 16 Dec 2022 11:07:06 GMT</pubDate>
+            <content:encoded><![CDATA[35,100원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202212/dbac63dbc8609470c6b476408bee8719.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Nils Landgren / Christmas With My Friends - The Jubilee Collection (180g 5LP Box Set)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20867&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20867&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Fri, 16 Dec 2022 11:07:06 GMT</pubDate>
+            <content:encoded><![CDATA[78,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202212/9d66b0226ef0eca9f8b1b2e476b7ac1c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Tord Gustavsen Trio / Opening (180g Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20866&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20866&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Fri, 16 Dec 2022 11:07:06 GMT</pubDate>
+            <content:encoded><![CDATA[35,100원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202212/c6846bad63f0402a75dd65eec8608672.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Jamiroquai / High Times: The Singles 1992-2006 (Vinyl, 2LP) *한정수량 할인]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=20865&amp;cate_no=25&amp;display_group=1</link>
@@ -78,30 +102,6 @@
             <pubDate>Wed, 14 Dec 2022 08:11:31 GMT</pubDate>
             <content:encoded><![CDATA[43,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/201709/8532_shop1_884847.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sven Wunder /  Asterism Waltz (Limited 7" Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=20853&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=20853&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Tue, 13 Dec 2022 22:08:20 GMT</pubDate>
-            <content:encoded><![CDATA[27,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202212/e3a07480f5cd746810dd98876d674687.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sven Wunder / Sun​-​Kissed (Limited 7" Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=20852&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=20852&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Tue, 13 Dec 2022 22:08:20 GMT</pubDate>
-            <content:encoded><![CDATA[27,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202212/919322bc0bdc60e02cd4b6a9957a545d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sven Wunder / Jazz At Night (Limited 7" Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=20851&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=20851&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Tue, 13 Dec 2022 21:08:28 GMT</pubDate>
-            <content:encoded><![CDATA[27,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202212/5da0bade3cae1037db1cbba5db743eb4.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
