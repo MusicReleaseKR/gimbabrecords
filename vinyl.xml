@@ -4,9 +4,25 @@
         <title>김밥레코즈 ─ Vinyl</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 02 Jan 2023 09:10:45 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Jan 2023 10:10:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Mndsgn / Rare Pleasure (Limited Yellow Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21017&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21017&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Mon, 02 Jan 2023 10:08:27 GMT</pubDate>
+            <content:encoded><![CDATA[33,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202107/9b2945d39951d8993b58de460a1941bd.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Sofie Royer / Harlequin (Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21016&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21016&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Mon, 02 Jan 2023 10:08:27 GMT</pubDate>
+            <content:encoded><![CDATA[36,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202301/5310741c0658c3b3752c0c3f774c0afd.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[들국화 / Best (180g Black Vinyl, 한정반) *1인 1매만 구매 가능]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=21015&amp;cate_no=25&amp;display_group=1</link>
@@ -86,22 +102,6 @@
             <pubDate>Fri, 30 Dec 2022 10:08:24 GMT</pubDate>
             <content:encoded><![CDATA[22,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202212/92f506632a8764855d6c65d9d3dd1071.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Cate Le Bon / Pompeii (Vinyl + Download)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=20999&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=20999&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Fri, 30 Dec 2022 10:08:24 GMT</pubDate>
-            <content:encoded><![CDATA[38,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202212/018115a41a59914e6881760b05e1a701.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Yung Bae / Groove Continental: Side A (Beer Brown Vinyl) *1인 2매까지 구매 가능 / 별도의 입금기한 설정]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=20998&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=20998&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Fri, 30 Dec 2022 09:07:47 GMT</pubDate>
-            <content:encoded><![CDATA[39,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202212/c164816353ba1171072e9090f712af82.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
