@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 02 Jan 2023 10:10:30 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Jan 2023 11:08:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -104,11 +104,11 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202212/f7cd0566b154b5e43e3bfe5d3f6f9304.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Mndsgn / Rare Pleasure (Limited Yellow Vinyl) (김밥레코즈 ─ Vinyl)]]></title>
+            <title><![CDATA[Mndsgn / Rare Pleasure (Gold Vinyl) (김밥레코즈 ─ Vinyl)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=21017&amp;cate_no=25&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=21017&amp;cate_no=25&amp;display_group=1</guid>
             <pubDate>Mon, 02 Jan 2023 10:08:27 GMT</pubDate>
-            <content:encoded><![CDATA[33,000원]]></content:encoded>
+            <content:encoded><![CDATA[39,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202107/9b2945d39951d8993b58de460a1941bd.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
