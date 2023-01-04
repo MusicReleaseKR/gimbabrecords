@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ Vinyl</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 04 Jan 2023 07:10:08 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 Jan 2023 08:18:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[해파리 HAEPAARY / 부러울 것이 없어라 Nothing to Envy (7" Vinyl, Limited to 500)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21028&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21028&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Wed, 04 Jan 2023 08:16:45 GMT</pubDate>
+            <content:encoded><![CDATA[31,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202301/740cfff2dc5dca34863e4fe921b1a1df.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[HYBS / Making Steak (Vinyl, Blue Colored Vinyl) *예약상품 (2월초 배송 예정)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=21027&amp;cate_no=25&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Mon, 02 Jan 2023 10:08:27 GMT</pubDate>
             <content:encoded><![CDATA[36,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202301/5310741c0658c3b3752c0c3f774c0afd.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[들국화 / Best (180g Black Vinyl, 한정반) *1인 1매만 구매 가능]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21015&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21015&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Mon, 02 Jan 2023 09:08:44 GMT</pubDate>
-            <content:encoded><![CDATA[44,600원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202301/5a0aacdc183b9591a8d4a38bbd11f786.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
