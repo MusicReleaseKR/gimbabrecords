@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ Vinyl</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 05 Jan 2023 06:10:48 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Jan 2023 07:09:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[John Coltrane / My Favorite Things (180g Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21029&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21029&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Thu, 05 Jan 2023 07:07:45 GMT</pubDate>
+            <content:encoded><![CDATA[28,300원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202301/34c8b10ef031d8b8c94f66e8921b10b8.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[해파리 HAEPAARY / 부러울 것이 없어라 Nothing to Envy (7" Vinyl, Limited to 500)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=21028&amp;cate_no=25&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Mon, 02 Jan 2023 10:08:27 GMT</pubDate>
             <content:encoded><![CDATA[39,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202107/9b2945d39951d8993b58de460a1941bd.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sofie Royer / Harlequin (Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21016&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21016&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Mon, 02 Jan 2023 10:08:27 GMT</pubDate>
-            <content:encoded><![CDATA[36,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202301/5310741c0658c3b3752c0c3f774c0afd.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
