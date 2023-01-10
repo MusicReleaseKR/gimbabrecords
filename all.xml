@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 10 Jan 2023 08:12:59 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Jan 2023 09:10:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -104,6 +104,30 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202111/c8e6467bc31c621d85d2385c683a5fb5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Kacey Musgraves / Same Trailer Different Park (Vinyl) (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21078&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21078&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Tue, 10 Jan 2023 09:08:36 GMT</pubDate>
+            <content:encoded><![CDATA[29,600원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/201909/38fab1f73b53034fefa4ca5af838c638.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[IOHBOY / Unsaid (12" Black Vinyl, 45rpm) *1인 2매까지 구매 가능 / 1월 13일 금요일부터 발송되는 상품입니다. (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21077&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21077&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Tue, 10 Jan 2023 09:08:36 GMT</pubDate>
+            <content:encoded><![CDATA[42,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202301/fe887d86d62bc94f1646860461770172.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[dosii / Underwater (7" Milky Clear Vinyl) *1인 2매까지 구매 가능 / 1월 13일 금요일부터 발송되는 상품입니다. (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21076&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21076&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Tue, 10 Jan 2023 09:08:36 GMT</pubDate>
+            <content:encoded><![CDATA[29,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202301/e2fa198bad69e9fb2bc214ca1f3c9ac2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Father John Misty / Chloe and the Next 20th Century 딜럭스 에디션 박스셋 Limited Edition Deluxe Boxset (Clear Red 2LP + 2 * 7" Bonus Single + 하드커버 책자,포스터 포함) *한정수량 할인 (김밥레코즈 ─ Vinyl)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=21075&amp;cate_no=25&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=21075&amp;cate_no=25&amp;display_group=1</guid>
@@ -174,30 +198,6 @@
             <pubDate>Mon, 09 Jan 2023 09:09:27 GMT</pubDate>
             <content:encoded><![CDATA[34,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202301/5164df4cd589f281e8b0cddd264359c0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Kansas / Leftoverture (180g Vinyl) *한정수량 할인 (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21066&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21066&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Mon, 09 Jan 2023 09:09:27 GMT</pubDate>
-            <content:encoded><![CDATA[34,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202301/35cad70e3e0cd09a07005027f0ee1f15.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Cat Stevens / Teaser And The Firecat (Vinyl, Remastered) *한정수량 할인 (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21065&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21065&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Mon, 09 Jan 2023 09:09:27 GMT</pubDate>
-            <content:encoded><![CDATA[28,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202301/173966fc03467e23ebe827baedc629c3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[OST (Chopin, Kilar) / The Pianist 피아니스트 (Green Vinyl, 2LP, 20th anniversary edition of 2,500) (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21064&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21064&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Mon, 09 Jan 2023 09:09:27 GMT</pubDate>
-            <content:encoded><![CDATA[46,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202301/8778bb4b349903a4f854848e1c09f239.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Black Moon / Enta Da Stage (Black Cassette, Limited Edition) (김밥레코즈 ─ Cassette)]]></title>
@@ -1735,6 +1735,22 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202209/a4858a7c5f8aa346939c2ba319a7f9b4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[IOHBOY / Unsaid (12" Black Vinyl, 45rpm) *1인 2매까지 구매 가능 / 1월 13일 금요일부터 발송되는 상품입니다. (김밥레코즈 ─ Vinyl ─ Korean)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21077&amp;cate_no=52&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21077&amp;cate_no=52&amp;display_group=1</guid>
+            <pubDate>Tue, 10 Jan 2023 09:10:23 GMT</pubDate>
+            <content:encoded><![CDATA[42,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202301/fe887d86d62bc94f1646860461770172.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[dosii / Underwater (7" Milky Clear Vinyl) *1인 2매까지 구매 가능 / 1월 13일 금요일부터 발송되는 상품입니다. (김밥레코즈 ─ Vinyl ─ Korean)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21076&amp;cate_no=52&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21076&amp;cate_no=52&amp;display_group=1</guid>
+            <pubDate>Tue, 10 Jan 2023 09:10:23 GMT</pubDate>
+            <content:encoded><![CDATA[29,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202301/e2fa198bad69e9fb2bc214ca1f3c9ac2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[진수영 Chin Sooyoung / Saul Leiter: Through the Blurry Window (180g Vinyl) *1/12 목요일부터 발송됩니다. (김밥레코즈 ─ Vinyl ─ Korean)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=21072&amp;cate_no=52&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=21072&amp;cate_no=52&amp;display_group=1</guid>
@@ -1813,22 +1829,6 @@
             <pubDate>Mon, 02 Jan 2023 09:10:37 GMT</pubDate>
             <content:encoded><![CDATA[44,600원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202301/0242f30147c3d537007ce6f201a41c43.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Various Artists / WALLS AND PALS Presents - Pals FM: Floor Materials Vol.2 (12" Vinyl, 33 1/3 rpm) *압축포장 없이 출고된 상품입니다. (김밥레코즈 ─ Vinyl ─ Korean)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=20970&amp;cate_no=52&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=20970&amp;cate_no=52&amp;display_group=1</guid>
-            <pubDate>Thu, 29 Dec 2022 07:09:12 GMT</pubDate>
-            <content:encoded><![CDATA[24,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202212/5c0bbff756965bf6f508c24a5abbad62.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[콩코드 / 제 1집 초음속 여객기 (180g Red Vinyl, 한정반) (김밥레코즈 ─ Vinyl ─ Korean)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=20956&amp;cate_no=52&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=20956&amp;cate_no=52&amp;display_group=1</guid>
-            <pubDate>Wed, 28 Dec 2022 11:09:25 GMT</pubDate>
-            <content:encoded><![CDATA[44,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202212/49e670147a0cd6970078538248e6e6b4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[aimyon 아이묭 / Hitomi e Ochiruyo 瞳へ落ちるよレコード Falling into your eyes Record (CD + Blu-ray + 56p tour photo book, Limited Special Edition) (김밥레코즈 ─ Movies/Merch ─ DVD/Blu-Ray)]]></title>
