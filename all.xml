@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 Jan 2023 08:13:36 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Jan 2023 09:12:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -296,6 +296,30 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202211/25fecc18c62f8fd67b76b3e89946304e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Vinyl Buddy - Record Cleaning Kit (브러쉬 2종 + 천 + 클리닝 티슈 + 워셔 스프레이) (김밥레코즈 ─ Movies/Merch)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21083&amp;cate_no=27&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21083&amp;cate_no=27&amp;display_group=1</guid>
+            <pubDate>Thu, 12 Jan 2023 09:10:21 GMT</pubDate>
+            <content:encoded><![CDATA[29,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202301/2ae8decb8f53cc4b6018758f2047e9c5.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Vinyl Buddy - Velvet Cleaning Brush 벨벳 브러쉬 (김밥레코즈 ─ Movies/Merch)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21082&amp;cate_no=27&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21082&amp;cate_no=27&amp;display_group=1</guid>
+            <pubDate>Thu, 12 Jan 2023 09:10:21 GMT</pubDate>
+            <content:encoded><![CDATA[12,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202301/ba7450fafefeb84c75d687a9b04086cd.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Audio Anatomy - Record Cleaner (cleaning liquid 150ml + 20 x 20cm microfibre cloth 워셔 용액 + 극세사 천) (김밥레코즈 ─ Movies/Merch)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21081&amp;cate_no=27&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21081&amp;cate_no=27&amp;display_group=1</guid>
+            <pubDate>Thu, 12 Jan 2023 09:10:21 GMT</pubDate>
+            <content:encoded><![CDATA[22,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202301/76ed2f51d9b2e9ccdf0bb72f5631e0d5.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[aimyon 아이묭 / Hitomi e Ochiruyo 瞳へ落ちるよレコード Falling into your eyes Record (CD + Blu-ray + 56p tour photo book, Limited Special Edition) (김밥레코즈 ─ Movies/Merch)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=20914&amp;cate_no=27&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=20914&amp;cate_no=27&amp;display_group=1</guid>
@@ -366,30 +390,6 @@
             <pubDate>Wed, 16 Nov 2022 16:25:39 GMT</pubDate>
             <content:encoded><![CDATA[565,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202207/952dbd5641ac5f38959d8e794022d2ad.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Rega(레가) Fono MM 포노앰프 (2017 Black) (김밥레코즈 ─ Movies/Merch)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19659&amp;cate_no=27&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19659&amp;cate_no=27&amp;display_group=1</guid>
-            <pubDate>Wed, 16 Nov 2022 16:25:39 GMT</pubDate>
-            <content:encoded><![CDATA[480,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/e190800e4896d6d126038449d89cb408.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Rega(레가) Elys 2 MM카트리지 (김밥레코즈 ─ Movies/Merch)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19658&amp;cate_no=27&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19658&amp;cate_no=27&amp;display_group=1</guid>
-            <pubDate>Wed, 16 Nov 2022 16:25:39 GMT</pubDate>
-            <content:encoded><![CDATA[336,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/5d06f5f0633a71a0b23ad68847bf0a2c.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Rega(레가) Carbon MM카트리지 (김밥레코즈 ─ Movies/Merch)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=19657&amp;cate_no=27&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=19657&amp;cate_no=27&amp;display_group=1</guid>
-            <pubDate>Mon, 02 Jan 2023 08:12:47 GMT</pubDate>
-            <content:encoded><![CDATA[64,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/fd041a62683f45c5c17290f054000291.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[OST / 냉정과 열정 사이 OST (Blue Colored Vinyl) *예약상품 (2023년 1월 30일 발매 예정) (김밥레코즈 ─ Pre-Order)]]></title>
