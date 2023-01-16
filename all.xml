@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 16 Jan 2023 06:13:23 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Jan 2023 07:10:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -104,6 +104,22 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202301/c3375a7318d9f48c555256ff28ed3101.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Thin Lizzy / Live And Dangerous (Vinyl, 2LP) (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21120&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21120&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Mon, 16 Jan 2023 07:08:39 GMT</pubDate>
+            <content:encoded><![CDATA[42,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202301/845a0e8d1f3f08350cc25ecbf1e61f1a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Joe Bataan / Call My Name (7" Vinyl, 45RPM) (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21119&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21119&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Mon, 16 Jan 2023 07:08:39 GMT</pubDate>
+            <content:encoded><![CDATA[24,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202301/d587c5fb4937f0bc4f814f4897f09de8.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[The 13th Floor Elevators / Psychedelic Sounds Of The 13th Floor Elevators (Limited 'Psychedelic' Colored Vinyl, 2LP) (김밥레코즈 ─ Vinyl)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=21106&amp;cate_no=25&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=21106&amp;cate_no=25&amp;display_group=1</guid>
@@ -182,22 +198,6 @@
             <pubDate>Fri, 13 Jan 2023 12:16:33 GMT</pubDate>
             <content:encoded><![CDATA[41,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202301/6fcb7e45bc0d30d27ea673359e00c2f1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[PJ Morton / Watch The Sun (Yellow Vinyl) (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21096&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21096&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Fri, 13 Jan 2023 12:16:33 GMT</pubDate>
-            <content:encoded><![CDATA[41,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202206/c418bf7ab8a045e9fac186b7eb3758cc.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Charles Mingus / Mingus (Opaque Turquoise Vinyl, Remastered, RSD Black Friday 2022) (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21095&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21095&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Fri, 13 Jan 2023 12:16:33 GMT</pubDate>
-            <content:encoded><![CDATA[44,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202301/c03532c7ce977b1f319050defde6accf.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Black Moon / Enta Da Stage (Black Cassette, Limited Edition) (김밥레코즈 ─ Cassette)]]></title>
