@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ Vinyl ─ Korean</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 17 Jan 2023 10:11:02 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Jan 2023 11:09:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[윈디시티 Windy City / Psychedelicious City (180g Beer Yellow Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21141&amp;cate_no=52&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21141&amp;cate_no=52&amp;display_group=1</guid>
+            <pubDate>Tue, 17 Jan 2023 11:09:39 GMT</pubDate>
+            <content:encoded><![CDATA[44,600원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202301/62da194857195fc6f8b34fe5d3847621.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[불독맨션 / Debut E. P (180g Vinyl)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=21140&amp;cate_no=52&amp;display_group=1</link>
@@ -16,7 +24,7 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202301/69324553d23c9c1f703a9ade5f8e2ac9.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[네스티요나 / 2집 Another Secret (180g Colored Vinyl)]]></title>
+            <title><![CDATA[네스티요나 Nastyona / 2집 Another Secret (180g Colored Vinyl)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=21139&amp;cate_no=52&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=21139&amp;cate_no=52&amp;display_group=1</guid>
             <pubDate>Tue, 17 Jan 2023 10:10:54 GMT</pubDate>
@@ -24,7 +32,7 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202301/eba3e909d93ac6376932b60879932622.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[아방트리오(Avant Trio) / Blue Suns (180g Blue & White Vinyl, 2LP, 한정반)]]></title>
+            <title><![CDATA[아방트리오 Avant Trio / Blue Suns (180g Blue & White Vinyl, 2LP, 한정반)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=21138&amp;cate_no=52&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=21138&amp;cate_no=52&amp;display_group=1</guid>
             <pubDate>Tue, 17 Jan 2023 10:10:54 GMT</pubDate>
@@ -94,14 +102,6 @@
             <pubDate>Tue, 10 Jan 2023 09:10:23 GMT</pubDate>
             <content:encoded><![CDATA[29,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202301/e2fa198bad69e9fb2bc214ca1f3c9ac2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[진수영 Chin Sooyoung / Saul Leiter: Through the Blurry Window (180g Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21072&amp;cate_no=52&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21072&amp;cate_no=52&amp;display_group=1</guid>
-            <pubDate>Mon, 09 Jan 2023 10:11:40 GMT</pubDate>
-            <content:encoded><![CDATA[38,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202301/7793a99abd27fb6fa309039f58afccca.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

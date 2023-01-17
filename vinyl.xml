@@ -4,11 +4,35 @@
         <title>김밥레코즈 ─ Vinyl</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 17 Jan 2023 10:11:02 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Jan 2023 11:09:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[아방트리오(Avant Trio) / Blue Suns (180g Blue & White Vinyl, 2LP, 한정반)]]></title>
+            <title><![CDATA[윈디시티 Windy City / Psychedelicious City (180g Beer Yellow Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21141&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21141&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Tue, 17 Jan 2023 11:07:52 GMT</pubDate>
+            <content:encoded><![CDATA[44,600원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202301/62da194857195fc6f8b34fe5d3847621.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[불독맨션 / Debut E. P (180g Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21140&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21140&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Tue, 17 Jan 2023 11:07:52 GMT</pubDate>
+            <content:encoded><![CDATA[41,600원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202301/69324553d23c9c1f703a9ade5f8e2ac9.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[네스티요나 Nastyona / 2집 Another Secret (180g Colored Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21139&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21139&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Tue, 17 Jan 2023 11:07:52 GMT</pubDate>
+            <content:encoded><![CDATA[44,600원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202301/eba3e909d93ac6376932b60879932622.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[아방트리오 Avant Trio / Blue Suns (180g Blue & White Vinyl, 2LP, 한정반)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=21138&amp;cate_no=25&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=21138&amp;cate_no=25&amp;display_group=1</guid>
             <pubDate>Tue, 17 Jan 2023 10:08:58 GMT</pubDate>
@@ -78,30 +102,6 @@
             <pubDate>Tue, 17 Jan 2023 09:08:46 GMT</pubDate>
             <content:encoded><![CDATA[45,800원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202301/45b53528103262c7384e07d58c08b885.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Ella Fitzgerald / Live At Montreux 1969 (Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21129&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21129&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Tue, 17 Jan 2023 09:08:46 GMT</pubDate>
-            <content:encoded><![CDATA[28,600원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202301/253519cdd4c82a4138c98c681135aadb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[CMAT / If My Wife New I'd Be Dead (Red Vinyl, Limited Edition)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21121&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21121&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Mon, 16 Jan 2023 08:11:58 GMT</pubDate>
-            <content:encoded><![CDATA[35,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202301/8b18f3119c7889c8c2207229d20a05f3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Thin Lizzy / Live And Dangerous (Vinyl, 2LP)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21120&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21120&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Mon, 16 Jan 2023 07:08:39 GMT</pubDate>
-            <content:encoded><![CDATA[42,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202301/845a0e8d1f3f08350cc25ecbf1e61f1a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
