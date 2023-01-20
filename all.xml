@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 20 Jan 2023 15:11:04 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Jan 2023 16:12:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Charlie Haden & Brad Mehldau / Long Ago And Far Away (CD) *한정수량 할인 (김밥레코즈 ─ CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21169&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21169&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Fri, 20 Jan 2023 16:10:48 GMT</pubDate>
+            <content:encoded><![CDATA[14,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202301/2ae29ecab7fb75729be381db42c596e3.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Red Hot Chili Peppers / Unlimited Love (CD) *한정수량 할인 (김밥레코즈 ─ CD)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=21167&amp;cate_no=24&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Tue, 17 Jan 2023 07:08:03 GMT</pubDate>
             <content:encoded><![CDATA[14,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202301/786e93b07223a83c173046b4f0d5355f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Marcos Valle / The Essential Marcos Valle Volume 2 (CD, EU Import) *한정수량 할인 (김밥레코즈 ─ CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21125&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21125&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Mon, 16 Jan 2023 08:11:52 GMT</pubDate>
-            <content:encoded><![CDATA[17,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202301/fe8ed7e6a020fff8ca885929129e76ee.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[윈디시티 Windy City / Countryman’s Vibration (Brown & Orange Vinyl, 2LP) *예약상품 / 1인 1매만 구매가능 / 별도의 입금기한 설정 (김밥레코즈 ─ Vinyl)]]></title>
@@ -1064,6 +1064,14 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202208/b09dd5356c704120f97e5335197290c1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Charlie Haden & Brad Mehldau / Long Ago And Far Away (CD) *한정수량 할인 (김밥레코즈 ─ CD ─ Jazz)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21169&amp;cate_no=46&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21169&amp;cate_no=46&amp;display_group=1</guid>
+            <pubDate>Fri, 20 Jan 2023 16:12:04 GMT</pubDate>
+            <content:encoded><![CDATA[14,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202301/2ae29ecab7fb75729be381db42c596e3.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Ryo Kawasaki / Juice (CD, EU Import) (김밥레코즈 ─ CD ─ Jazz)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=21128&amp;cate_no=46&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=21128&amp;cate_no=46&amp;display_group=1</guid>
@@ -1150,14 +1158,6 @@
             <pubDate>Fri, 30 Dec 2022 08:11:53 GMT</pubDate>
             <content:encoded><![CDATA[14,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202212/0a6b2c60fb2c1cf5c47838cda45ada27.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Jeff Parker / Forfolks (CD, gatefold sleeve) *한정수량 할인 (김밥레코즈 ─ CD ─ Jazz)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=20969&amp;cate_no=46&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=20969&amp;cate_no=46&amp;display_group=1</guid>
-            <pubDate>Wed, 28 Dec 2022 12:14:52 GMT</pubDate>
-            <content:encoded><![CDATA[17,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202201/e05d766722934e294a390edc97a9bf64.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[The Lions / Soul Riot (CD) (김밥레코즈 ─ CD ─ Reggae)]]></title>
