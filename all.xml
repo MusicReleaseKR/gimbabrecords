@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 25 Jan 2023 07:14:42 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Jan 2023 09:11:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[King Crimson / Discipline (CD, 30th Anniversary Edition) *할인상품 (김밥레코즈 ─ CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21175&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21175&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Wed, 25 Jan 2023 09:08:32 GMT</pubDate>
+            <content:encoded><![CDATA[16,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/201807/11320_shop1_15308977559074.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[James Brown / Gold (2CD, 베스트 40곡 수록) *한정수량 할인 (김밥레코즈 ─ CD)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=21172&amp;cate_no=24&amp;display_group=1</link>
@@ -96,18 +104,10 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202301/4ad9e26063e34cb05b0a19aa506ca2bb.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Black Sabbath / Heaven and Hell (2CD, Remastered and Expanded, Deluxe Edition)*한정수량 할인 (김밥레코즈 ─ CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21160&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21160&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Fri, 20 Jan 2023 10:08:57 GMT</pubDate>
-            <content:encoded><![CDATA[21,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202301/5fe24f6831473ca11303aba2fd5bcc64.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Carole King / Her Greatest Hits (Songs Of Long Ago) (Vinyl) (김밥레코즈 ─ Vinyl)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=21174&amp;cate_no=25&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=21174&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Wed, 25 Jan 2023 07:11:44 GMT</pubDate>
+            <pubDate>Wed, 25 Jan 2023 09:08:40 GMT</pubDate>
             <content:encoded><![CDATA[30,700원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202301/120f8630f357d2efba0e0d3642d96643.jpg" length="0" type="image/jpg"/>
         </item>
@@ -680,6 +680,14 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202212/0297b1b8d16d82e58c8b9f29ae7d3acf.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[King Crimson / Discipline (CD, 30th Anniversary Edition) *할인상품 (김밥레코즈 ─ CD ─ Pop/Rock)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21175&amp;cate_no=30&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21175&amp;cate_no=30&amp;display_group=1</guid>
+            <pubDate>Wed, 25 Jan 2023 09:09:27 GMT</pubDate>
+            <content:encoded><![CDATA[16,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/201807/11320_shop1_15308977559074.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Red Hot Chili Peppers / Unlimited Love (CD) *한정수량 할인 (김밥레코즈 ─ CD ─ Pop/Rock)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=21167&amp;cate_no=30&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=21167&amp;cate_no=30&amp;display_group=1</guid>
@@ -766,14 +774,6 @@
             <pubDate>Fri, 13 Jan 2023 12:17:14 GMT</pubDate>
             <content:encoded><![CDATA[25,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202301/c1baebc8437cb090e8fe786f0f051574.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[T. Rex / 5 Classic Albums (5CD Box) *한정수량 할인 (김밥레코즈 ─ CD ─ Pop/Rock)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21116&amp;cate_no=30&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21116&amp;cate_no=30&amp;display_group=1</guid>
-            <pubDate>Fri, 13 Jan 2023 12:17:14 GMT</pubDate>
-            <content:encoded><![CDATA[25,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202301/adae2d776f32847aa84bab5b9e565bc6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[O.M.D (Orchestral Manoeuvres In The Dark) / Organisation (Remastered CD) *한정수량 할인 (김밥레코즈 ─ CD ─ Electronic/Dance)]]></title>
