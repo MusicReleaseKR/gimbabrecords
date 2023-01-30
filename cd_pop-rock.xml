@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ CD ─ Pop/Rock</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 30 Jan 2023 06:13:52 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 Jan 2023 07:10:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Wishbone Ash / Pilgrimage (CD, EU Import) *한정수량 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21198&amp;cate_no=30&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21198&amp;cate_no=30&amp;display_group=1</guid>
+            <pubDate>Mon, 30 Jan 2023 07:09:34 GMT</pubDate>
+            <content:encoded><![CDATA[14,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202301/e132694df8a5b80997f1bb085dbab5ba.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Amy Winehouse / The Collection (5CD Box Set) *한정수량 할인]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=21181&amp;cate_no=30&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Mon, 16 Jan 2023 08:12:41 GMT</pubDate>
             <content:encoded><![CDATA[16,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202301/4ddd78c25b9a8c6fa75a3840cbdcd417.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Fairport Convention / 5 Classic Albums (5CD Box) *한정수량 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21118&amp;cate_no=30&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21118&amp;cate_no=30&amp;display_group=1</guid>
-            <pubDate>Fri, 13 Jan 2023 12:17:14 GMT</pubDate>
-            <content:encoded><![CDATA[25,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202301/c5c7b71ff539ce6b17b11224380583e6.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
