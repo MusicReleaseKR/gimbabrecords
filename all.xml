@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 30 Jan 2023 05:10:51 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 Jan 2023 06:13:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -120,6 +120,14 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202301/d4bcc4bffea300abfbf26289828cae90.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Miki Matsubara / Who Are You? (Orange Vinyl, Limited Edition, 2022 Record Day Japan) (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21194&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21194&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Mon, 30 Jan 2023 06:11:52 GMT</pubDate>
+            <content:encoded><![CDATA[50,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202301/d5eb8d84bf739fdc3a367cc8b32e6dc3.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[A-Ha / Headlines & Deadlines: The Hits of A-Ha (Vinyl) (김밥레코즈 ─ Vinyl)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=21191&amp;cate_no=25&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=21191&amp;cate_no=25&amp;display_group=1</guid>
@@ -190,14 +198,6 @@
             <pubDate>Thu, 26 Jan 2023 04:09:55 GMT</pubDate>
             <content:encoded><![CDATA[52,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202301/f4f08118c5263577c4b41f32a5b7eac9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Carole King / Her Greatest Hits (Songs Of Long Ago) (Vinyl) (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21174&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21174&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Wed, 25 Jan 2023 09:08:40 GMT</pubDate>
-            <content:encoded><![CDATA[30,700원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202301/120f8630f357d2efba0e0d3642d96643.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[왕가위 사운드트랙 카세트 3개 묶음 판매 4 (해피투게더 + 마이 블루베리 나이츠 + 첫사랑 카세트, 미니카드 3장 포함) - 한정판매 (김밥레코즈 ─ Cassette)]]></title>
