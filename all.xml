@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 31 Jan 2023 12:16:20 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 Jan 2023 13:22:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -792,14 +792,6 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202212/f7034378e57dae39a3c1cb5d284431f2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Medeski Martin And Wood / Combustication (SHM-CD) (김밥레코즈 ─ CD ─ Electronic/Dance)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=20919&amp;cate_no=31&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=20919&amp;cate_no=31&amp;display_group=1</guid>
-            <pubDate>Fri, 23 Dec 2022 07:08:54 GMT</pubDate>
-            <content:encoded><![CDATA[19,700원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202212/b7b0a12c64feb7a7b2a9d1acf190b3c0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Shabason & Krgovich / At Scaramouche + Philadelphia (2CD, JPN Import) (김밥레코즈 ─ CD ─ Electronic/Dance)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=20787&amp;cate_no=31&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=20787&amp;cate_no=31&amp;display_group=1</guid>
@@ -870,6 +862,14 @@
             <pubDate>Wed, 16 Nov 2022 16:26:09 GMT</pubDate>
             <content:encoded><![CDATA[23,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202209/eab07197a73b10f4fe8a0ba8fee0f32f.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Gorillaz / G Sides (CD, EU Import) *한정수량 할인 (김밥레코즈 ─ CD ─ Electronic/Dance)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20036&amp;cate_no=31&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20036&amp;cate_no=31&amp;display_group=1</guid>
+            <pubDate>Tue, 31 Jan 2023 13:21:12 GMT</pubDate>
+            <content:encoded><![CDATA[15,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202209/44267ddaf269e277792ca1ddcaafd275.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Amy Winehouse / The Collection (5CD Box Set) *한정수량 할인 (김밥레코즈 ─ CD ─ R&B/Soul/Funk)]]></title>
@@ -1064,14 +1064,6 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202208/b09dd5356c704120f97e5335197290c1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Mark-Almond / Mark-Almond (CD, JPN Import) (김밥레코즈 ─ CD ─ Jazz)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21213&amp;cate_no=46&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21213&amp;cate_no=46&amp;display_group=1</guid>
-            <pubDate>Mon, 30 Jan 2023 09:10:16 GMT</pubDate>
-            <content:encoded><![CDATA[14,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202301/c45f8f0bd26702c1d0bfbc7b4e7c398f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Tsuyoshi Yamamoto Trio / Falling In Love With You (CD, JPN Import) (김밥레코즈 ─ CD ─ Jazz)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=21210&amp;cate_no=46&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=21210&amp;cate_no=46&amp;display_group=1</guid>
@@ -1158,6 +1150,14 @@
             <pubDate>Fri, 13 Jan 2023 12:17:40 GMT</pubDate>
             <content:encoded><![CDATA[22,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202301/11d79c2d9d418d262b22b835f3a27f9d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Al Di Meola / Original Album Classics (5CD Box) *한정수량 할인 (김밥레코즈 ─ CD ─ Jazz)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21110&amp;cate_no=46&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21110&amp;cate_no=46&amp;display_group=1</guid>
+            <pubDate>Tue, 31 Jan 2023 13:21:34 GMT</pubDate>
+            <content:encoded><![CDATA[28,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202301/d18a8712f7c1959910baff4f41bbd6d5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[The Lions / Soul Riot (CD) (김밥레코즈 ─ CD ─ Reggae)]]></title>
