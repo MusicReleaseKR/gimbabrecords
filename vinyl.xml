@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ Vinyl</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Feb 2023 12:16:42 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Feb 2023 13:20:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Ado / Kyougen (Vinyl, 2LP) *예약상품 (2월 22일 이후 배송)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21250&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21250&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Thu, 02 Feb 2023 13:18:11 GMT</pubDate>
+            <content:encoded><![CDATA[55,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202302/06e3392747f10308f4039400e0bb862e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[OST (Mamiya Michio) / Grave of the Fireflies Soundtrack Collection 반딧불이의 묘 사운드트랙 (컬러바이닐, Limited Colored Vinyl, Studio Ghibli) *예약상품 (6월말 배송 예정)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=21249&amp;cate_no=25&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Tue, 31 Jan 2023 11:07:19 GMT</pubDate>
             <content:encoded><![CDATA[34,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202301/c54c5609d6bcca626497e28d415eb3bf.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Tony Bennett & Lady Gaga / Love For Sale (Yellow Transparent Vinyl, Lady Gaga Webstore Exclusive) *1회 한정 할인판매 / 별도의 입금기한 설정]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21238&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21238&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Tue, 31 Jan 2023 10:08:56 GMT</pubDate>
-            <content:encoded><![CDATA[37,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202301/0346e943a83634c71f1c827b06a34e10.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
