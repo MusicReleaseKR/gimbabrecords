@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ CD</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 04 Feb 2023 18:11:39 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Feb 2023 19:08:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Joyce Moreno / Cool (CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21281&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21281&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Sat, 04 Feb 2023 19:06:28 GMT</pubDate>
+            <content:encoded><![CDATA[16,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202302/3eb3c0920d6ad0c8ef45e8970d9054b8.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Joyce (Joyce Moreno) / The Essential Joyce 1970-1996 (CD) *할인상품]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=21280&amp;cate_no=24&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Mon, 30 Jan 2023 09:09:00 GMT</pubDate>
             <content:encoded><![CDATA[14,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202301/6ce112fcfb07a9ca845dcb0a40a020cc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The World Of Oz / The World Of Oz (CD, JPN Import)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21214&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21214&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Mon, 30 Jan 2023 09:09:00 GMT</pubDate>
-            <content:encoded><![CDATA[14,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202301/69a83e5e7795c5cb7de74d9b45017d57.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
