@@ -4,9 +4,49 @@
         <title>김밥레코즈 ─ Pre-Order</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Feb 2023 20:11:47 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Feb 2023 21:10:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Momoko Kikuchi / Adventure (Colored Vinyl) *예약상품 (4월초 배송 예정)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21253&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21253&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Thu, 09 Feb 2023 21:08:51 GMT</pubDate>
+            <content:encoded><![CDATA[50,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202302/bea8bf634fcc6ea275d8e225d85a87a6.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Momoko Kikuchi / Ocean Side (Colored Vinyl) *예약상품 (4월초 이후 배송)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21254&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21254&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Thu, 09 Feb 2023 21:08:51 GMT</pubDate>
+            <content:encoded><![CDATA[50,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202302/8fff05845c334674fc7a735103d0cc2d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Momoko Kikuchi / Tropic Of Capricorn (Colored Vinyl) *예약상품 (4월초 이후 배송 예정)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21255&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21255&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Thu, 09 Feb 2023 21:08:51 GMT</pubDate>
+            <content:encoded><![CDATA[50,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202302/83be091a2ed6d21b797e673ab304e209.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Momoko Kikuchi / Escape From Dimension (Colored Vinyl) *예약상품 (4월초 이후 배송)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21256&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21256&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Thu, 09 Feb 2023 21:08:51 GMT</pubDate>
+            <content:encoded><![CDATA[50,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202302/7b89ff088e73fba975cca824081706aa.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Joe Hisaishi / Nausicaa Of The Valley Of Wind: Soundtrack 바람의 계곡 나우시카 OST (컬러바이닐, Limited Colored Vinyl, Studio Ghibli) *예약상품 (6월말 배송 예정)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21223&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21223&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Thu, 09 Feb 2023 21:08:51 GMT</pubDate>
+            <content:encoded><![CDATA[55,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202301/1b9a5444233e4c8c1140e5a8b98120a7.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Joe Hisaishi / My Neighbor Totoro: Soundtrack 이웃집 토토로 OST (컬러바이닐, Limited Colored Vinyl, Studio Ghibli) *예약상품 (6월말 배송 예정)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=21222&amp;cate_no=42&amp;display_group=1</link>
@@ -62,46 +102,6 @@
             <pubDate>Thu, 09 Feb 2023 20:10:00 GMT</pubDate>
             <content:encoded><![CDATA[59,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202301/e75d7ba262093e454761a8fc043f99e4.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Joe Hisaishi / Ponyo On The Cliff By The Sea: Soundtrack 벼랑 위의 포뇨 사운드트랙 (컬러바이닐 2LP, Limited Colored Vinyl, Studio Ghibli) *예약상품 (6월말 배송 예정)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21230&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21230&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Thu, 09 Feb 2023 20:10:00 GMT</pubDate>
-            <content:encoded><![CDATA[59,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202301/424087b6d4b05aea0f960a131cee4bdf.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Joe Hisaishi / The Tale Of The Princess Kaguya: Soundtrack 가구야 공주이야기 사운드트랙 (컬러바이닐, Limited Colored Vinyl, Studio Ghibli, 2LP) *예약상품 (6월말 배송 예정)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21248&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21248&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Thu, 09 Feb 2023 20:10:00 GMT</pubDate>
-            <content:encoded><![CDATA[59,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202302/58d5669cf5c498d7b82b32692f09eaca.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Joe Hisaishi / The Wind Rises: Soundtrack 바람이 분다 사운드트랙 (컬러바이닐, Limited Colored Vinyl, 2LP, Studio Ghibli) *예약상품 (6월말 배송 예정)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21247&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21247&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Thu, 09 Feb 2023 20:10:00 GMT</pubDate>
-            <content:encoded><![CDATA[59,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202302/58e7ab86eba25991848b27fab4006c4b.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[OST (Mamiya Michio) / Grave of the Fireflies Soundtrack Collection 반딧불이의 묘 사운드트랙 (컬러바이닐, Limited Colored Vinyl, Studio Ghibli) *예약상품 (6월말 배송 예정)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21249&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21249&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Thu, 09 Feb 2023 20:10:00 GMT</pubDate>
-            <content:encoded><![CDATA[52,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202302/3495d2c0622a6d15d8e219c569664a42.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[한영애 / 2집 바라본다 (180g 라임 옐로우 Vinyl) *예약상품 (2월 17일 발매 예정)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21296&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21296&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Wed, 08 Feb 2023 06:11:34 GMT</pubDate>
-            <content:encoded><![CDATA[44,600원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202302/3e036eddfdfd88fb2191a917841a4c47.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
