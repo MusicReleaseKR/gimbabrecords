@@ -4,9 +4,25 @@
         <title>김밥레코즈 ─ Vinyl</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Feb 2023 06:12:58 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Feb 2023 07:10:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[신중현 / 시원한 키타 경음악 (180g Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21304&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21304&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Thu, 09 Feb 2023 07:08:51 GMT</pubDate>
+            <content:encoded><![CDATA[44,600원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202302/6cd01972b3891c698db7e9ae874d0ef0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[신중현과 더맨 & 색소폰 손학래 / 쎅스폰의 유혹 (180g Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21303&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21303&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Thu, 09 Feb 2023 07:08:51 GMT</pubDate>
+            <content:encoded><![CDATA[44,600원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202302/9d717369eecb108ecf5b681e8e754793.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Lou Reed / Transformer (White Vinyl, 50th Anniversary Edition, RSD Essentials)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=21302&amp;cate_no=25&amp;display_group=1</link>
@@ -86,22 +102,6 @@
             <pubDate>Wed, 08 Feb 2023 06:11:13 GMT</pubDate>
             <content:encoded><![CDATA[42,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202302/67f79a4ed4f020e35d9a7664fd8aaa8c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Azymuth / Fênix (Frenix) (Limited Flame Colored Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21288&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21288&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Sat, 04 Feb 2023 20:08:23 GMT</pubDate>
-            <content:encoded><![CDATA[38,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202302/2caa836420893e8c6f91825af7ebff0c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Hermeto Pascoal & Grupo Vice Versa / Viajando Com O Som (The Lost '76 Vice-Versa Studio Session) (Limited Green Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21287&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21287&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Sat, 04 Feb 2023 20:08:23 GMT</pubDate>
-            <content:encoded><![CDATA[38,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202302/833fc36c3703aa6408a1e01ccfd878dc.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
