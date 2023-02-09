@@ -4,9 +4,33 @@
         <title>김밥레코즈 ─ Pre-Order</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Feb 2023 11:09:43 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Feb 2023 12:18:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Terry Callier / Tokyo Moon (CD) *예약상품 (3월초 배송 예정)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21314&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21314&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Thu, 09 Feb 2023 12:16:28 GMT</pubDate>
+            <content:encoded><![CDATA[33,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202302/9431817490e75f9d8c8f3a8e854e34bd.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Fabiano Do Nascimento & Itiberê Zwarg Collective / Rio Bonito (Vinyl, Limited Edition) *예약상품 (3월말 배송 예정)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21313&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21313&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Thu, 09 Feb 2023 12:16:28 GMT</pubDate>
+            <content:encoded><![CDATA[44,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202302/0de5c504c57b3916fb56df261d6845e8.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Alessandro Galati / Portrait In Black And White (Vinyl, Limited Edition) *예약상품 (3월초 배송 예정)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21312&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21312&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Thu, 09 Feb 2023 12:16:28 GMT</pubDate>
+            <content:encoded><![CDATA[52,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202302/40ab4f512665405deb1350dec2924590.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Alessandro Galati / Portrait in Black and White (CD) *예약상품 (3월초 배송 예정)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=21311&amp;cate_no=42&amp;display_group=1</link>
@@ -78,30 +102,6 @@
             <pubDate>Thu, 02 Feb 2023 19:06:11 GMT</pubDate>
             <content:encoded><![CDATA[50,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202302/bea8bf634fcc6ea275d8e225d85a87a6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Ado / Kyougen (Vinyl, 2LP) *예약상품 (2월 22일 이후 배송)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21250&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21250&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Thu, 02 Feb 2023 13:18:31 GMT</pubDate>
-            <content:encoded><![CDATA[55,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202302/06e3392747f10308f4039400e0bb862e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Momoko Kikuchi / Escape From Dimension (Colored Vinyl) *예약상품 (4월초 이후 배송)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21256&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21256&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Thu, 02 Feb 2023 19:06:11 GMT</pubDate>
-            <content:encoded><![CDATA[50,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202302/7b89ff088e73fba975cca824081706aa.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Momoko Kikuchi / Tropic Of Capricorn (Colored Vinyl) *예약상품 (4월초 이후 배송 예정)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21255&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21255&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Thu, 02 Feb 2023 19:06:11 GMT</pubDate>
-            <content:encoded><![CDATA[50,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202302/83be091a2ed6d21b797e673ab304e209.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

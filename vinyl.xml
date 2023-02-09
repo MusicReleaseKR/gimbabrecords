@@ -4,9 +4,25 @@
         <title>김밥레코즈 ─ Vinyl</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Feb 2023 11:09:43 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Feb 2023 12:18:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Fabiano Do Nascimento & Itiberê Zwarg Collective / Rio Bonito (Vinyl, Limited Edition) *예약상품 (3월말 배송 예정)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21313&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21313&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Thu, 09 Feb 2023 12:16:09 GMT</pubDate>
+            <content:encoded><![CDATA[44,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202302/0de5c504c57b3916fb56df261d6845e8.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Alessandro Galati / Portrait In Black And White (Vinyl, Limited Edition) *예약상품 (3월초 배송 예정)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21312&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21312&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Thu, 09 Feb 2023 12:16:09 GMT</pubDate>
+            <content:encoded><![CDATA[52,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202302/40ab4f512665405deb1350dec2924590.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[강승원 / 일집 (180g Vinyl) *1인 1매만 구매 가능]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=21310&amp;cate_no=25&amp;display_group=1</link>
@@ -86,22 +102,6 @@
             <pubDate>Thu, 09 Feb 2023 06:11:06 GMT</pubDate>
             <content:encoded><![CDATA[44,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202302/45c9bf57070b5844c7afe152bbffdc68.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Curtis Mayfield / Curtis (Translucent Light-Blue Vinyl, 2023 SYEOR 캠페인 한정반)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21300&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21300&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Thu, 09 Feb 2023 05:08:56 GMT</pubDate>
-            <content:encoded><![CDATA[40,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202302/8778b348df7105cfdd2b5ac4f0ae1757.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[John Coltrane / Olé Coltrane (Clear Vinyl, 2023 SYEOR 캠페인 한정반)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21299&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21299&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Thu, 09 Feb 2023 05:08:56 GMT</pubDate>
-            <content:encoded><![CDATA[40,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202302/e78b3f8de8544208a524d719d749fae8.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
