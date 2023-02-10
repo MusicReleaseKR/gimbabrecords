@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ CD ─ Pop/Rock</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Feb 2023 07:10:58 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Feb 2023 08:13:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Pink Floyd / A Momentary Lapse Of Reason (Remixed & Updated) (CD, EU Import) *한정수량 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21329&amp;cate_no=30&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21329&amp;cate_no=30&amp;display_group=1</guid>
+            <pubDate>Fri, 10 Feb 2023 08:11:34 GMT</pubDate>
+            <content:encoded><![CDATA[16,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202302/86ec83abcfb7de9e63ce488e4fa4165f.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Pink Floyd / Obscured By Clouds (CD, EU Import) *한정수량 할인]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=21328&amp;cate_no=30&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Mon, 30 Jan 2023 09:09:49 GMT</pubDate>
             <content:encoded><![CDATA[14,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202301/6ce112fcfb07a9ca845dcb0a40a020cc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The World Of Oz / The World Of Oz (CD, JPN Import)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21214&amp;cate_no=30&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21214&amp;cate_no=30&amp;display_group=1</guid>
-            <pubDate>Mon, 30 Jan 2023 09:09:49 GMT</pubDate>
-            <content:encoded><![CDATA[14,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202301/69a83e5e7795c5cb7de74d9b45017d57.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
