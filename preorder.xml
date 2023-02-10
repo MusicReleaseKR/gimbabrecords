@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ Pre-Order</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Feb 2023 02:22:27 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Feb 2023 03:19:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한영애 / 2집 바라본다 (180g 라임 옐로우 Vinyl) *예약상품 (2월 17일 발매 예정)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21296&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21296&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Fri, 10 Feb 2023 03:18:10 GMT</pubDate>
+            <content:encoded><![CDATA[44,600원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202302/3e036eddfdfd88fb2191a917841a4c47.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Fabiano Do Nascimento & Itiberê Zwarg Collective / Rio Bonito (Vinyl, Limited Edition) *예약상품 (3월말 배송 예정)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=21313&amp;cate_no=42&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Thu, 09 Feb 2023 20:10:00 GMT</pubDate>
             <content:encoded><![CDATA[63,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202301/170408491f289204c603df3d916405cb.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Joe Hisaishi / Porco Rosso: Original Soundtrack 붉은 돼지 사운드트랙 (컬러바이닐, Limited Colored Vinyl, Studio Ghibli) *예약상품 (6월말 배송 예정)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21225&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21225&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Thu, 09 Feb 2023 20:10:00 GMT</pubDate>
-            <content:encoded><![CDATA[49,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202301/3eb5062d7980503b6e34347f60f88989.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
