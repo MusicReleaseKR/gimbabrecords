@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ Vinyl</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Feb 2023 05:11:18 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Feb 2023 06:13:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[빛과 소금 / 2집 (180g Black Vinyl) *1인 1매만 구매 가능]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21321&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21321&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Fri, 10 Feb 2023 06:11:42 GMT</pubDate>
+            <content:encoded><![CDATA[49,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202302/b5bed3bd5f877bd9e7c9adb69c366261.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Shabason & Krgovich / At Scaramouche (Vinyl)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=21320&amp;cate_no=25&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Thu, 09 Feb 2023 08:11:37 GMT</pubDate>
             <content:encoded><![CDATA[36,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202302/cfc43f61625fc384ea810bcdf0d2ceb1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Toots Thielemans / Toots - Toots Thielemans 100th Birthday Celebration (4LP Box Set, Limited Edition) *한정수량 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21307&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21307&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Thu, 09 Feb 2023 08:11:37 GMT</pubDate>
-            <content:encoded><![CDATA[49,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202302/1a5d1f2465aa498a329a816fe619cbe9.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
