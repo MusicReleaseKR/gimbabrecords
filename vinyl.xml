@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ Vinyl</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Feb 2023 04:12:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Feb 2023 05:11:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Shabason & Krgovich / At Scaramouche (Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21320&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21320&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Fri, 10 Feb 2023 05:09:18 GMT</pubDate>
+            <content:encoded><![CDATA[39,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202302/02c2e10310b988c2cf697a53d6aa06e9.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Pixies / Doolittle 25: B-Sides, Peel Sessions & Demos (Vinyl, 3LP + Download)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=21319&amp;cate_no=25&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Thu, 09 Feb 2023 08:11:37 GMT</pubDate>
             <content:encoded><![CDATA[49,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202302/1a5d1f2465aa498a329a816fe619cbe9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Daryl Hall & John Oates / Their Ultimate Collection (Vinyl) *한정수량 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21306&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21306&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Thu, 09 Feb 2023 08:11:37 GMT</pubDate>
-            <content:encoded><![CDATA[27,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202302/eab4b3a707d8795708c83330e4abe0c3.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
