@@ -4,9 +4,25 @@
         <title>김밥레코즈 ─ Vinyl</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Feb 2023 18:12:55 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Feb 2023 19:09:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Max Richter / Black Mirror - Nosedive (Music from Black Mirror Series Three, Episode One) (Vinyl) *한정수량 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21369&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21369&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Fri, 17 Feb 2023 19:07:41 GMT</pubDate>
+            <content:encoded><![CDATA[26,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202302/30ff972642e2b456f09be8a80ad29bed.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Thanya Iyer / KIND (Limited Orange + White Swirl Vinyl, Download voucher)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21368&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21368&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Fri, 17 Feb 2023 19:07:41 GMT</pubDate>
+            <content:encoded><![CDATA[34,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202302/4e5b241868dd5523bb2e048768e002fb.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[tricot / A N D (Brown in Amber "Color-in-color" Vinyl)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=21367&amp;cate_no=25&amp;display_group=1</link>
@@ -86,22 +102,6 @@
             <pubDate>Tue, 14 Feb 2023 11:07:59 GMT</pubDate>
             <content:encoded><![CDATA[35,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202302/974b7efd9ba14adad9b14e7c7c00900a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Diego El Cigala / Picasso En Mis Ojos (Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21349&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21349&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Tue, 14 Feb 2023 11:07:59 GMT</pubDate>
-            <content:encoded><![CDATA[35,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202302/b280fdfe7c5c2f922de78c72088bf665.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Crack / Si Todo Hiciera Crack (Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21348&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21348&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Tue, 14 Feb 2023 10:10:24 GMT</pubDate>
-            <content:encoded><![CDATA[35,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202302/bcb8e1725054e3402c692bcdeee62866.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
