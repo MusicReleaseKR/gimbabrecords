@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ Vinyl</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 18 Feb 2023 05:10:10 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Feb 2023 06:12:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Vanjess / Homegrown (Limited Orange Vinyl) *1인 1매만 구매 가능 / 무통장입금 주문시 12시간 내 입금을 완료하셔야 합니다.]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21370&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21370&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Sat, 18 Feb 2023 06:10:12 GMT</pubDate>
+            <content:encoded><![CDATA[48,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202302/4a818a1cafb5d6445bde9ddfb2c4de63.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Max Richter / Black Mirror - Nosedive (Music from Black Mirror Series Three, Episode One) (Vinyl) *한정수량 할인]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=21369&amp;cate_no=25&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Tue, 14 Feb 2023 11:07:59 GMT</pubDate>
             <content:encoded><![CDATA[35,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202302/ad97c4b433ebda7473c81a5ec6bf5192.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Tito Duarte / I Am The Boss (Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21350&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21350&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Tue, 14 Feb 2023 11:07:59 GMT</pubDate>
-            <content:encoded><![CDATA[35,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202302/974b7efd9ba14adad9b14e7c7c00900a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
