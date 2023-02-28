@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Feb 2023 09:11:51 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Feb 2023 10:12:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -104,6 +104,14 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202302/ff5f88a7373183a4f58eacf39743d26e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Deerhoof / Apple O' (Cotton Candy Vinyl + bonus 7" Vinyl, 20th Anniversary Edition) *할인상품 (쟈켓 모서리 한 쪽에 작은 눌림이 있습니다.) (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21453&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21453&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Tue, 28 Feb 2023 10:09:43 GMT</pubDate>
+            <content:encoded><![CDATA[38,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202302/6575f0cb0bf6331a2c67fe21e3e4cac8.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Syl Johnson / Dresses Too Short (LP) (Translucent Green Vinyl, NUMERO 1207) (김밥레코즈 ─ Vinyl)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=21452&amp;cate_no=25&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=21452&amp;cate_no=25&amp;display_group=1</guid>
@@ -190,14 +198,6 @@
             <pubDate>Sat, 25 Feb 2023 18:10:50 GMT</pubDate>
             <content:encoded><![CDATA[33,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202302/302587e43ba721e31c5058c38377466a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Yung Bae / Ba3 (Vinyl) *1인 2매까지 구매 가능 / 별도의 입금기한 설정 (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21423&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21423&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Fri, 24 Feb 2023 09:10:07 GMT</pubDate>
-            <content:encoded><![CDATA[42,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202302/1b4f5cdfd94b063d03c62902ed885178.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Various Artists / Thermal Expansion (Cassette) (김밥레코즈 ─ Cassette)]]></title>
