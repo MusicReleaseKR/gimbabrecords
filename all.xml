@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Mar 2023 06:14:16 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Mar 2023 07:10:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -104,6 +104,22 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202302/ff5f88a7373183a4f58eacf39743d26e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Blonde Redhead / In an Expression of the Inexpressible (Vinyl) (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21458&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21458&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Wed, 01 Mar 2023 07:08:45 GMT</pubDate>
+            <content:encoded><![CDATA[36,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202303/640ca1f7befd590a8b511c45ca10e64e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Blonde Redhead / Fake Can Be Just as Good (Vinyl) (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21457&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21457&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Wed, 01 Mar 2023 07:08:45 GMT</pubDate>
+            <content:encoded><![CDATA[32,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202303/cdca8a26460ac8dc4cfd103997b87d5e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Blonde Redhead / La Mia Vita Violenta (Jewel Red Vinyl, Numero 902) (김밥레코즈 ─ Vinyl)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=21456&amp;cate_no=25&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=21456&amp;cate_no=25&amp;display_group=1</guid>
@@ -182,22 +198,6 @@
             <pubDate>Tue, 28 Feb 2023 03:14:36 GMT</pubDate>
             <content:encoded><![CDATA[44,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202302/171ddbd9a0c8bf1535d2a8faa782393d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Giorgio Moroder / Best Of Electronic Disco (Vinyl, 2LP) (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21442&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21442&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Mon, 27 Feb 2023 13:20:08 GMT</pubDate>
-            <content:encoded><![CDATA[46,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202302/9f7b94dfd68f19b70d9cd46244a6e446.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Tom Waits / Early Years Vol.2 (Vinyl) (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21441&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21441&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Mon, 27 Feb 2023 13:20:08 GMT</pubDate>
-            <content:encoded><![CDATA[29,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202209/a74949cfb6acfb0b401cb1a2bb12159d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Various Artists / Thermal Expansion (Cassette) (김밥레코즈 ─ Cassette)]]></title>
