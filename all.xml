@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Mar 2023 07:11:31 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Mar 2023 08:14:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -463,14 +463,6 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202302/588251286a0fe7f114a7b91002b97e44.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Honne / Warm On A Cold Night (Black Vinyl) *예약상품 (3월 7일부터 배송이 시작됩니다.) (김밥레코즈 ─ Pre-Order)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=5527&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=5527&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Tue, 21 Feb 2023 19:09:13 GMT</pubDate>
-            <content:encoded><![CDATA[59,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/201709/5527_shop1_918177.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Radwimps & 陣内一真 / 스즈메의 문단속 애니메이션 음악 (Suzume no Tojimari OST) (Vinyl, 2LP) *예약상품 (3월 10일 배송 예정) (김밥레코즈 ─ Pre-Order)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=21018&amp;cate_no=42&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=21018&amp;cate_no=42&amp;display_group=1</guid>
@@ -485,6 +477,14 @@
             <pubDate>Tue, 21 Feb 2023 07:09:17 GMT</pubDate>
             <content:encoded><![CDATA[57,900원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202302/f4f33dc1da0420ba161701c2571ba41d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[박지윤 / 꽃, 다시 첫번째 (180g Clear Vinyl, 한정반) *예약상품 (3월 8일 발매 예정) / 1인 1매만 구매 가능 (김밥레코즈 ─ Pre-Order)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21404&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21404&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Mon, 06 Mar 2023 08:12:30 GMT</pubDate>
+            <content:encoded><![CDATA[49,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202302/767bb263065f0a14baae058528a902b3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Daft Punk / Alive 2007 (Vinyl, 2LP) *한정수량 할인 (김밥레코즈 ─ Bargain Bin)]]></title>
