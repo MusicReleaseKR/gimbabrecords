@@ -4,16 +4,9 @@
         <title>김밥레코즈 ─ Vinyl</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Mar 2023 09:12:36 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Mar 2023 10:11:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[Prep / Futures Vinyl 수요조사 (3월 5일까지 진행됩니다.)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21485&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21485&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Fri, 03 Mar 2023 12:15:35 GMT</pubDate>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202303/6eae58e342e2cbf1ba5ac9162b3d6359.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[Chet Baker / Chet Baker And His Quintet With Bobby Jaspar (Remastered 180g Vinyl, MONO, Limited Edition)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=21484&amp;cate_no=25&amp;display_group=1</link>
@@ -101,6 +94,14 @@
             <pubDate>Thu, 02 Mar 2023 14:08:56 GMT</pubDate>
             <content:encoded><![CDATA[42,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202303/2c2cde7f50285250804916afffdcb51e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Blonde Redhead / In an Expression of the Inexpressible (Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21458&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21458&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Mon, 06 Mar 2023 10:10:08 GMT</pubDate>
+            <content:encoded><![CDATA[36,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202303/640ca1f7befd590a8b511c45ca10e64e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
