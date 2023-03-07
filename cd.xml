@@ -4,9 +4,25 @@
         <title>김밥레코즈 ─ CD</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Mar 2023 07:10:04 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Mar 2023 08:15:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Stephane Pompougnac (Various Artists) / Hotel Costes: Best Of... (CD, Digipak) *한정수량 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21497&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21497&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Tue, 07 Mar 2023 08:13:06 GMT</pubDate>
+            <content:encoded><![CDATA[19,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202303/4fa3ac253e8f049d1bde59f11f30fbd9.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Stephane Pompougnac (Various Artists) / Hotel Costes 1 (CD, Digipak) *한정수량 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21496&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21496&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Tue, 07 Mar 2023 08:13:06 GMT</pubDate>
+            <content:encoded><![CDATA[19,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/201510/1596_shop1_426353.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Green Day / American Idiot (CD, US version) *한정수량 할인]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=21473&amp;cate_no=24&amp;display_group=1</link>
@@ -86,22 +102,6 @@
             <pubDate>Wed, 01 Mar 2023 11:08:08 GMT</pubDate>
             <content:encoded><![CDATA[22,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202303/5150972275d11c620b8555fe9cb8c18e.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Gary Moore / Back On The Streets (CD + bonus tracks) *한정수량 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21463&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21463&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Wed, 01 Mar 2023 11:08:08 GMT</pubDate>
-            <content:encoded><![CDATA[15,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202303/4d41ce09bf408ffd14f55f73077c574d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Frank Sinatra / Sinatra And Swingin' Brass (CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21462&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21462&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Wed, 01 Mar 2023 11:08:08 GMT</pubDate>
-            <content:encoded><![CDATA[15,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202303/fdf59cf98f71430a7f7d9d7fa5536354.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
