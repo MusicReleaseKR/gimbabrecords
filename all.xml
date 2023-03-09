@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Mar 2023 02:24:32 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Mar 2023 03:20:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -104,6 +104,22 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202303/d6e7ee279fda87cfbba067096f46559c.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
+            <title><![CDATA[Flora Purim / If You Will (Black Vinyl) *한정수량 할인 (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21534&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21534&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Thu, 09 Mar 2023 03:18:08 GMT</pubDate>
+            <content:encoded><![CDATA[31,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202303/9aab8fa46aabc5f6dc1bbdb852bdc456.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Flora Purim / If You Will (Limited Clear Vinyl) (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21533&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21533&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Thu, 09 Mar 2023 03:18:08 GMT</pubDate>
+            <content:encoded><![CDATA[39,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202303/6ac293056f2846d6d4ca1ea8ce044633.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Brad Mehldau / Your Mother Should Know: Brad Mehldau Plays The Beatles (Vinyl) (김밥레코즈 ─ Vinyl)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=21523&amp;cate_no=25&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=21523&amp;cate_no=25&amp;display_group=1</guid>
@@ -182,22 +198,6 @@
             <pubDate>Tue, 07 Mar 2023 08:13:14 GMT</pubDate>
             <content:encoded><![CDATA[41,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202303/a9d47a728ed2a618591591672e30dcab.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Suzanne Ciani / Flowers Of Evil (Vinyl) (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21494&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21494&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Tue, 07 Mar 2023 08:13:14 GMT</pubDate>
-            <content:encoded><![CDATA[38,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202303/79e30efefecdbe770fa8cb2a9459a4e0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Enrico Rava / Pupa O Crisalide (Vinyl, 2022 Repress) (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21493&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21493&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Tue, 07 Mar 2023 08:13:14 GMT</pubDate>
-            <content:encoded><![CDATA[47,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202303/5a510eb5884bf4305c13140ecd82c490.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Post Malone / Twelve Carat Toothache (Cassette) (김밥레코즈 ─ Cassette)]]></title>
