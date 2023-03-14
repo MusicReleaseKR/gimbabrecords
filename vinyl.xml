@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ Vinyl</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Mar 2023 16:14:54 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Mar 2023 17:15:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Various Artists (Nujabes 외) / Hydeout Productions - 2nd Collections (Vinyl, 2LP)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21570&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21570&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Tue, 14 Mar 2023 17:13:27 GMT</pubDate>
+            <content:encoded><![CDATA[47,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202303/8ce4d5aa919658f65d0f0e9869d0268a.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Emma-Jean Thackray / Ley Lines (Vinyl, Limited Edition)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=21569&amp;cate_no=25&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Fri, 10 Mar 2023 10:10:02 GMT</pubDate>
             <content:encoded><![CDATA[43,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202303/fedfdccf2c6dfd1a806c50dcec199c15.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Simon & Garfunkel / Bridge Over Troubled Water (Transparent Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21554&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21554&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Fri, 10 Mar 2023 10:10:02 GMT</pubDate>
-            <content:encoded><![CDATA[33,600원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202303/e47a7b0c523464f964a1250e95ce388f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
