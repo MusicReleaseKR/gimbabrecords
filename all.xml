@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Mar 2023 07:10:23 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Mar 2023 08:13:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -208,14 +208,6 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202303/be78a9101322e14900bcac63574d0fe4.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[Post Malone / Twelve Carat Toothache (Cassette) (김밥레코즈 ─ Cassette)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21524&amp;cate_no=26&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21524&amp;cate_no=26&amp;display_group=1</guid>
-            <pubDate>Wed, 08 Mar 2023 07:08:33 GMT</pubDate>
-            <content:encoded><![CDATA[23,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202303/f031334a735f1227c58448a63949e9c9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Various Artists / Thermal Expansion (Cassette) (김밥레코즈 ─ Cassette)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=21389&amp;cate_no=26&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=21389&amp;cate_no=26&amp;display_group=1</guid>
@@ -294,6 +286,14 @@
             <pubDate>Thu, 23 Feb 2023 17:08:27 GMT</pubDate>
             <content:encoded><![CDATA[21,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202301/20c18b714faf6e1967ceeceacc5d21af.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Black Moon / Enta Da Stage (Black Cassette, Limited Edition) (김밥레코즈 ─ Cassette)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21023&amp;cate_no=26&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21023&amp;cate_no=26&amp;display_group=1</guid>
+            <pubDate>Thu, 16 Mar 2023 08:11:32 GMT</pubDate>
+            <content:encoded><![CDATA[33,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202301/6a6d860deb8fef0ec215b05822d8b7d2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Pink Floyd / P.U.L.S.E (PULSE) (2 x Blu-ray, Restored & Re-edited, Deluxe Edition) *한정수량 할인 (김밥레코즈 ─ Movies/Merch)]]></title>
