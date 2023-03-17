@@ -4,9 +4,25 @@
         <title>김밥레코즈 ─ Vinyl</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Mar 2023 09:10:41 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Mar 2023 10:11:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Gorillaz / Cracker Island (Vinyl, Picture Disc, Limited Edition)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21608&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21608&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Fri, 17 Mar 2023 10:09:14 GMT</pubDate>
+            <content:encoded><![CDATA[49,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202303/fe97615079c0e1516f6c13206afaf3f1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Who / Quadrophenia: The Director's Cut (Vinyl, 2LP + Booklet)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21607&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21607&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Fri, 17 Mar 2023 10:09:14 GMT</pubDate>
+            <content:encoded><![CDATA[45,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202303/7ecde612112617b37d59f2c81c49927c.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Slayer / Hell Awaits (Vinyl) *할인상품 (쟈켓 모서리에 작은 눌림이 있습니다.)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=21606&amp;cate_no=25&amp;display_group=1</link>
@@ -86,22 +102,6 @@
             <pubDate>Fri, 17 Mar 2023 09:08:49 GMT</pubDate>
             <content:encoded><![CDATA[45,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202303/b8c279ccc8af9af48e5efead7f11f57a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Julian Lage / The Layers (Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21591&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21591&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Fri, 17 Mar 2023 08:11:29 GMT</pubDate>
-            <content:encoded><![CDATA[37,200원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202303/c4fac7dc0590b976cd371da1a4000b11.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Vince Guaraldi Trio / Jazz Impressions of Black Orpheus (180g Vinyl, 3LP, Deluxe Expanded Edition)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21590&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21590&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Fri, 17 Mar 2023 08:11:29 GMT</pubDate>
-            <content:encoded><![CDATA[98,700원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202303/0ead82c981f4d616ca732df681506a98.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
