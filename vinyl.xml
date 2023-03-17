@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ Vinyl</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Mar 2023 06:11:55 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Mar 2023 07:11:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[The Beatles / 1962-1966 Red Album (Vinyl, 2LP) *한정수량 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21583&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21583&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Fri, 17 Mar 2023 07:08:50 GMT</pubDate>
+            <content:encoded><![CDATA[62,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202303/44197da62b1cdf222e05d0d6138e9842.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Various Artists (Nujabes 외) / Hydeout Productions - 2nd Collections (Vinyl, 2LP)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=21570&amp;cate_no=25&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Mon, 13 Mar 2023 07:08:06 GMT</pubDate>
             <content:encoded><![CDATA[45,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202303/45d5f389e60f6cbb04be760fdd4fbba1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Archie Shepp / Yasmina, A Black Woman (White Marbled Vinyl, Newly Remastered, Limited Edition)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21555&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21555&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Fri, 10 Mar 2023 10:10:02 GMT</pubDate>
-            <content:encoded><![CDATA[43,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202303/fedfdccf2c6dfd1a806c50dcec199c15.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
