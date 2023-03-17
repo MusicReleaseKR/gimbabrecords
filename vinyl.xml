@@ -4,16 +4,88 @@
         <title>김밥레코즈 ─ Vinyl</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Mar 2023 08:13:14 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Mar 2023 09:10:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[Julian Lage / The Layers (Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21592&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21592&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Fri, 17 Mar 2023 08:11:29 GMT</pubDate>
-            <content:encoded><![CDATA[37,200원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202303/c4fac7dc0590b976cd371da1a4000b11.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[Slayer / Hell Awaits (Vinyl) *할인상품 (쟈켓 모서리에 작은 눌림이 있습니다.)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21606&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21606&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Fri, 17 Mar 2023 09:08:49 GMT</pubDate>
+            <content:encoded><![CDATA[38,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202303/144f3af18361d1d1d826c26ca836e960.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Matt Carmichael / Marram (Yellow Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21605&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21605&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Fri, 17 Mar 2023 09:08:49 GMT</pubDate>
+            <content:encoded><![CDATA[36,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202303/64065a3297fefc245c3faf50822b5020.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Fennesz / Hotel Paral.lel (Vinyl, 2LP, Deluxe Edition, 2022 Reissue)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21604&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21604&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Fri, 17 Mar 2023 09:08:49 GMT</pubDate>
+            <content:encoded><![CDATA[44,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202303/e91a05c76c0284c0567454302ff42146.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Eliane Elias / Quietude (Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21603&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21603&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Fri, 17 Mar 2023 09:08:49 GMT</pubDate>
+            <content:encoded><![CDATA[44,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202303/bb11ef0c5922b9eb76d95f3b4a5ec86e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Various Artists / DJ Amir Presents Strata Records - The Sound of Detroit Vol. 1 (Vinyl, 3LP)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21602&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21602&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Fri, 17 Mar 2023 09:08:49 GMT</pubDate>
+            <content:encoded><![CDATA[64,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202303/4e8edc3708fa1dabfcdc3b144f71daf4.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Klaus Weiss / Open Space Motion: Underscores (Vinyl, Coloursound Library)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21601&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21601&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Fri, 17 Mar 2023 09:08:49 GMT</pubDate>
+            <content:encoded><![CDATA[38,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202303/0c9f884034086c05dbd3486a8f73a76d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Andrzej Marko, Andre Mikola / Fly Me To The Sun (Vinyl, Coloursound Library)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21600&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21600&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Fri, 17 Mar 2023 09:08:49 GMT</pubDate>
+            <content:encoded><![CDATA[38,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202303/c78017a3c2afe74de7d877f4d28240a1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Lovelock / Washington Park (Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21599&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21599&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Fri, 17 Mar 2023 09:08:49 GMT</pubDate>
+            <content:encoded><![CDATA[38,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202303/67850bd4426213d2723886b679127740.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[slowthai / UGLY (U Gotta Love Yourself) (Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21598&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21598&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Fri, 17 Mar 2023 09:08:49 GMT</pubDate>
+            <content:encoded><![CDATA[35,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202303/9c62c4a0f4865472ea007eaf03d04d86.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Kali Uchis / Red Moon In Venus (Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21597&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21597&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Fri, 17 Mar 2023 09:08:49 GMT</pubDate>
+            <content:encoded><![CDATA[45,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202303/b8c279ccc8af9af48e5efead7f11f57a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Julian Lage / The Layers (Vinyl)]]></title>
@@ -30,78 +102,6 @@
             <pubDate>Fri, 17 Mar 2023 08:11:29 GMT</pubDate>
             <content:encoded><![CDATA[98,700원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202303/0ead82c981f4d616ca732df681506a98.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Horace Parlan Quintet / Speakin' My Piece (180g LP, Blue Note Classic Vinyl Series)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21589&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21589&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Fri, 17 Mar 2023 08:11:29 GMT</pubDate>
-            <content:encoded><![CDATA[32,900원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202303/8300c3b11ec0c35cf9aa8851c3b58da3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Jackie McLean / Bluesnik (180g Vinyl, Blue Note Classic Vinyl Series)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21588&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21588&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Fri, 17 Mar 2023 08:11:29 GMT</pubDate>
-            <content:encoded><![CDATA[32,900원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202303/64616065c6943305f332974c1a0c2b67.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Herbie Hancock / Empyrean Isles (180g Vinyl, Blue Note Classic Vinyl Series)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21587&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21587&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Fri, 17 Mar 2023 08:11:29 GMT</pubDate>
-            <content:encoded><![CDATA[32,900원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202303/b78e85e53f0daba3dcd8bd4fa5a2bc07.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Carmell Jones / The Remarkable Carmell Jones (180g Vinyl, RTI Pressings, Blue Note Tone Poet Series)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21586&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21586&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Fri, 17 Mar 2023 08:11:29 GMT</pubDate>
-            <content:encoded><![CDATA[57,200원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202303/69568f6fd8d5498a7501b90c5c8ddfbc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Arooj Aftab, Vijay Iyer, Shahzad Ismaily / Love In Exile (Vinyl, 2LP)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21585&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21585&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Fri, 17 Mar 2023 08:11:29 GMT</pubDate>
-            <content:encoded><![CDATA[50,100원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202303/bb395353eedaf1ad47cc839b60b4a2af.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Andrew Hill  / Dance With Death (180g Vinyl, RTI Pressings, Blue Note Tone Poet Series)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21584&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21584&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Fri, 17 Mar 2023 08:11:29 GMT</pubDate>
-            <content:encoded><![CDATA[57,200원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202303/3902f0ebe99eb337e0c95525bf684058.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Beatles / 1962-1966 Red Album (Vinyl, 2LP) *한정수량 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21583&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21583&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Fri, 17 Mar 2023 07:08:50 GMT</pubDate>
-            <content:encoded><![CDATA[62,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202303/44197da62b1cdf222e05d0d6138e9842.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Various Artists (Nujabes 외) / Hydeout Productions - 2nd Collections (Vinyl, 2LP)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21570&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21570&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Tue, 14 Mar 2023 17:13:27 GMT</pubDate>
-            <content:encoded><![CDATA[47,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202303/8ce4d5aa919658f65d0f0e9869d0268a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Emma-Jean Thackray / Ley Lines (Vinyl, Limited Edition)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21569&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21569&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Tue, 14 Mar 2023 15:11:37 GMT</pubDate>
-            <content:encoded><![CDATA[32,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202303/a9b9a46e37df63467ae7c936bae13c0a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
