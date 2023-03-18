@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 18 Mar 2023 09:09:52 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Mar 2023 10:10:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -304,14 +304,6 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202303/91742f077474215123c7e4856b923312.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Pink Floyd / P.U.L.S.E (PULSE) (2 x Blu-ray, Restored & Re-edited, Deluxe Edition) *한정수량 할인 (김밥레코즈 ─ Movies/Merch)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21353&amp;cate_no=27&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21353&amp;cate_no=27&amp;display_group=1</guid>
-            <pubDate>Wed, 15 Feb 2023 12:16:13 GMT</pubDate>
-            <content:encoded><![CDATA[53,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202302/d24bc21fa3b885b3fe79bf0848267deb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[The Beatles / Revolver (2022 New Mix Vinyl + Tote Bag Box Set 2022년 새로운 믹싱을 거쳐 발매된 바이닐 + 천가방) (김밥레코즈 ─ Movies/Merch)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=21086&amp;cate_no=27&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=21086&amp;cate_no=27&amp;display_group=1</guid>
@@ -390,6 +382,14 @@
             <pubDate>Mon, 27 Feb 2023 13:20:21 GMT</pubDate>
             <content:encoded><![CDATA[240,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202207/fd490848147b27f2b50a3cecfdc9540d.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Rega(레가) Fono MM 포노앰프 (2017 Black) (김밥레코즈 ─ Movies/Merch)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=19659&amp;cate_no=27&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=19659&amp;cate_no=27&amp;display_group=1</guid>
+            <pubDate>Sat, 18 Mar 2023 10:08:13 GMT</pubDate>
+            <content:encoded><![CDATA[480,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/e190800e4896d6d126038449d89cb408.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[250  / 뽕 (Vinyl, Toru Kotetsu Remaster Edition) *예약상품 (7월 중 발송 예정, 3월 24일 예약 마감 - 1인 최대 2매 구매 가능) (김밥레코즈 ─ Pre-Order)]]></title>
@@ -1832,14 +1832,6 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202302/d4d776f8b16e9a5acf1528982353180c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Pink Floyd / P.U.L.S.E (PULSE) (2 x Blu-ray, Restored & Re-edited, Deluxe Edition) *한정수량 할인 (김밥레코즈 ─ Movies/Merch ─ DVD/Blu-Ray)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21353&amp;cate_no=64&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21353&amp;cate_no=64&amp;display_group=1</guid>
-            <pubDate>Wed, 15 Feb 2023 12:17:54 GMT</pubDate>
-            <content:encoded><![CDATA[53,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202302/d24bc21fa3b885b3fe79bf0848267deb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Peanuts Deluxe Holiday Collection (Ultimate Collector's Edition) (Blu-ray + DVD Pack + Snowglobe & Window Clings) *할인상품 (김밥레코즈 ─ Movies/Merch ─ DVD/Blu-Ray)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=20059&amp;cate_no=64&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=20059&amp;cate_no=64&amp;display_group=1</guid>
@@ -1926,6 +1918,14 @@
             <pubDate>Sat, 18 Feb 2023 16:12:21 GMT</pubDate>
             <content:encoded><![CDATA[19,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202208/773453bdc9d80e040b4ec94788924c5c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Keith Jarrett / The Art Of Improvisation (Documentary) (Blu-ray) (김밥레코즈 ─ Movies/Merch ─ DVD/Blu-Ray)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=18779&amp;cate_no=64&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=18779&amp;cate_no=64&amp;display_group=1</guid>
+            <pubDate>Sat, 18 Mar 2023 10:09:59 GMT</pubDate>
+            <content:encoded><![CDATA[38,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202204/a81d047aa4c871b1f2e985615a398138.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
