@@ -4,9 +4,25 @@
         <title>김밥레코즈 ─ Vinyl</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Mar 2023 17:10:27 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Mar 2023 18:12:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Janko Nilovic / Chorus (Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21625&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21625&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Mon, 20 Mar 2023 18:11:08 GMT</pubDate>
+            <content:encoded><![CDATA[31,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202303/fc9ce74e4658194daa78a5c4526ccc8c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Keith Mansfield / Vivid Underscores (Vinyl, KPM라이브러리 시리즈)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21624&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21624&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Mon, 20 Mar 2023 18:11:08 GMT</pubDate>
+            <content:encoded><![CDATA[36,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202303/9c68b4f10b8a5055d68e0d71ce235fef.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Keith Mansfield / Contempo (Vinyl, KPM 라이브러리 시리즈)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=21623&amp;cate_no=25&amp;display_group=1</link>
@@ -86,22 +102,6 @@
             <pubDate>Fri, 17 Mar 2023 09:08:49 GMT</pubDate>
             <content:encoded><![CDATA[38,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202303/144f3af18361d1d1d826c26ca836e960.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Matt Carmichael / Marram (Yellow Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21605&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21605&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Fri, 17 Mar 2023 09:08:49 GMT</pubDate>
-            <content:encoded><![CDATA[36,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202303/64065a3297fefc245c3faf50822b5020.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Fennesz / Hotel Paral.lel (Vinyl, 2LP, Deluxe Edition, 2022 Reissue)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21604&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21604&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Fri, 17 Mar 2023 09:08:49 GMT</pubDate>
-            <content:encoded><![CDATA[44,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202303/e91a05c76c0284c0567454302ff42146.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
