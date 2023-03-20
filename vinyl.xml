@@ -4,9 +4,25 @@
         <title>김밥레코즈 ─ Vinyl</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Mar 2023 16:19:11 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Mar 2023 17:10:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Keith Mansfield / Contempo (Vinyl, KPM 라이브러리 시리즈)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21623&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21623&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Mon, 20 Mar 2023 17:08:34 GMT</pubDate>
+            <content:encoded><![CDATA[36,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202303/0ca66bf5da7069a28a4157e39eb9d9bd.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Barry Morgan and Ray Cooper / Percussion Spectrum (Vinyl, Themes 라이브러리 시리즈)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21622&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21622&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Mon, 20 Mar 2023 17:08:34 GMT</pubDate>
+            <content:encoded><![CDATA[36,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202303/8043a56dafadf37657851f1d2d2c7168.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[baewonlee / Sonder (Black Vinyl, 150장 한정) *예약상품 (3월 28일부터 발송됩니다.)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=21620&amp;cate_no=25&amp;display_group=1</link>
@@ -86,22 +102,6 @@
             <pubDate>Fri, 17 Mar 2023 09:08:49 GMT</pubDate>
             <content:encoded><![CDATA[44,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202303/e91a05c76c0284c0567454302ff42146.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Eliane Elias / Quietude (Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21603&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21603&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Fri, 17 Mar 2023 09:08:49 GMT</pubDate>
-            <content:encoded><![CDATA[44,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202303/bb11ef0c5922b9eb76d95f3b4a5ec86e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Various Artists / DJ Amir Presents Strata Records - The Sound of Detroit Vol. 1 (Vinyl, 3LP)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21602&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21602&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Fri, 17 Mar 2023 09:08:49 GMT</pubDate>
-            <content:encoded><![CDATA[64,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202303/4e8edc3708fa1dabfcdc3b144f71daf4.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
