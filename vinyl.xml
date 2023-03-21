@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ Vinyl</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Mar 2023 08:13:47 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Mar 2023 09:11:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Poison / Poison's Greatest Hits 1986-1996 (CD + bonus tracks)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21639&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21639&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Tue, 21 Mar 2023 09:09:19 GMT</pubDate>
+            <content:encoded><![CDATA[15,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202303/6c54e2841a9a708d62bdb4e07084b26a.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Gabriel da Rosa / E O Que A Casa Oferece (Vinyl)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=21630&amp;cate_no=25&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Mon, 20 Mar 2023 10:10:21 GMT</pubDate>
             <content:encoded><![CDATA[40,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202303/3dbf94882edac4c1c15948e97c23e320.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[미역수염 Seaweed Mustache / Bombora (봄보라 컬러 Vinyl, 150장 한정) *예약상품 (3월 28일부터 발송됩니다.)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21619&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21619&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Mon, 20 Mar 2023 10:10:21 GMT</pubDate>
-            <content:encoded><![CDATA[40,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202303/d9c253e75f80f69e4958e146c147ea57.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
