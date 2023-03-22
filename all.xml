@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Mar 2023 08:12:58 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Mar 2023 09:10:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -432,14 +432,6 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202303/57d3ed36d712af8f3a28a3801ed69979.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[크림빌라 / FURY (Black Vinyl, 100매 넘버링 한정반) *예약상품 / 1인 1매만 구매 가능 / 별도의 입금기한 설정 (김밥레코즈 ─ Pre-Order)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21621&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21621&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Tue, 21 Mar 2023 05:08:38 GMT</pubDate>
-            <content:encoded><![CDATA[42,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202303/8c1f5ff8d443f4e7626102d57d83f881.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[baewonlee / Sonder (Black Vinyl, 150장 한정) *예약상품 (3월 28일부터 발송됩니다.) (김밥레코즈 ─ Pre-Order)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=21620&amp;cate_no=42&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=21620&amp;cate_no=42&amp;display_group=1</guid>
@@ -486,6 +478,14 @@
             <pubDate>Wed, 22 Mar 2023 08:11:15 GMT</pubDate>
             <content:encoded><![CDATA[17,800원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202302/1c445428c2063d7c100f9f565b33e05b.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Music by Remedios) / Love Letter 러브레터 (2023 Edition, Limited White Vinyl, Exclusive Pressing) *예약상품 (2차 예약 - 2023년 7월 배송 예정) (김밥레코즈 ─ Pre-Order)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20726&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20726&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Wed, 22 Mar 2023 09:08:58 GMT</pubDate>
+            <content:encoded><![CDATA[48,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202211/bce30e9691fffaa9ce9f49fb0dbcdd88.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Van Halen / Balance (CD) *할인상품 (김밥레코즈 ─ Bargain Bin)]]></title>
