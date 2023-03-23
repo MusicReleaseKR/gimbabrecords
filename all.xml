@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Mar 2023 10:11:21 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Mar 2023 11:09:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Kenny Drew Trio / Fantasia (CD, 국내반) (김밥레코즈 ─ CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21651&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21651&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Thu, 23 Mar 2023 11:07:20 GMT</pubDate>
+            <content:encoded><![CDATA[13,400원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202303/fded1a81ddc8caa732ea86d071a33c67.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Fantastic Plastic Machine / Fantastic Plastic Machine (CD, EU Import) (김밥레코즈 ─ CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21650&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21650&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Thu, 23 Mar 2023 11:07:20 GMT</pubDate>
+            <content:encoded><![CDATA[17,700원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202303/09a683d0eeb2dd1ac9b9bb01b30980ed.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Donny McCaslin Trio / Recommended Tools (CD, Digipak) (김밥레코즈 ─ CD)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=21648&amp;cate_no=24&amp;display_group=1</link>
@@ -86,22 +102,6 @@
             <pubDate>Tue, 21 Mar 2023 09:09:12 GMT</pubDate>
             <content:encoded><![CDATA[15,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202303/ed3a4534a9f81d5d269ff175999b810b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Grand Funk Railroad / Greatest Hits (CD) *한정수량 할인 (김밥레코즈 ─ CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21634&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21634&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Tue, 21 Mar 2023 09:09:12 GMT</pubDate>
-            <content:encoded><![CDATA[15,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202303/8b2bb942e9ccaf0019967f4ce20ecc0d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Frank Sinatra / Come Dance With Me! (CD) (김밥레코즈 ─ CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21633&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21633&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Tue, 21 Mar 2023 09:09:12 GMT</pubDate>
-            <content:encoded><![CDATA[15,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202303/0ce4b48e1fea1baafe909adad38a2362.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[나상현씨밴드 / 정규 2집 2021 (투명 클리어 컬러 Vinyl, 2LP, 500장 한정) (김밥레코즈 ─ Vinyl)]]></title>
@@ -1064,6 +1064,14 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202211/c3b4f3c65a2ac1ffc0973def2beb40c6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Kenny Drew Trio / Fantasia (CD, 국내반) (김밥레코즈 ─ CD ─ Jazz)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21651&amp;cate_no=46&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21651&amp;cate_no=46&amp;display_group=1</guid>
+            <pubDate>Thu, 23 Mar 2023 11:08:35 GMT</pubDate>
+            <content:encoded><![CDATA[13,400원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202303/fded1a81ddc8caa732ea86d071a33c67.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Donny McCaslin Trio / Recommended Tools (CD, Digipak) (김밥레코즈 ─ CD ─ Jazz)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=21648&amp;cate_no=46&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=21648&amp;cate_no=46&amp;display_group=1</guid>
@@ -1150,14 +1158,6 @@
             <pubDate>Thu, 16 Mar 2023 09:10:21 GMT</pubDate>
             <content:encoded><![CDATA[19,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202303/e6be4b81722d23f269447516f6c3f837.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Eddie Higgins Trio / Ballad Higgins (CD + OBI, JPN Import) (김밥레코즈 ─ CD ─ Jazz)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21580&amp;cate_no=46&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21580&amp;cate_no=46&amp;display_group=1</guid>
-            <pubDate>Thu, 16 Mar 2023 09:10:21 GMT</pubDate>
-            <content:encoded><![CDATA[19,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202303/526863063f720b57faba767da9ad1f17.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[The Lions / Soul Riot (CD) (김밥레코즈 ─ CD ─ Reggae)]]></title>
@@ -1640,6 +1640,14 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202210/cfa26e40165b9ed191f863740f371b37.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Fantastic Plastic Machine / Fantastic Plastic Machine (CD, EU Import) (김밥레코즈 ─ CD ─ Japanese)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21650&amp;cate_no=90&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21650&amp;cate_no=90&amp;display_group=1</guid>
+            <pubDate>Thu, 23 Mar 2023 11:09:15 GMT</pubDate>
+            <content:encoded><![CDATA[17,700원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202303/09a683d0eeb2dd1ac9b9bb01b30980ed.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Anri / the Best (2CD, Blu-Spec) (김밥레코즈 ─ CD ─ Japanese)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=21575&amp;cate_no=90&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=21575&amp;cate_no=90&amp;display_group=1</guid>
@@ -1726,14 +1734,6 @@
             <pubDate>Thu, 15 Dec 2022 22:10:00 GMT</pubDate>
             <content:encoded><![CDATA[25,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202212/f500db7ea2a347fd6facbe8cd7307d8e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Tenniscoats / Papa's Ear (CD, tri-fold digisleeve) (김밥레코즈 ─ CD ─ Japanese)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=20792&amp;cate_no=90&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=20792&amp;cate_no=90&amp;display_group=1</guid>
-            <pubDate>Fri, 02 Dec 2022 08:12:33 GMT</pubDate>
-            <content:encoded><![CDATA[26,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202212/8a513fc31ea12e53ab03718b452150ba.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[나상현씨밴드 / 정규 2집 2021 (투명 클리어 컬러 Vinyl, 2LP, 500장 한정) (김밥레코즈 ─ Vinyl ─ Korean)]]></title>
