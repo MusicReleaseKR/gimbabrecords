@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ Pre-Order</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Mar 2023 06:13:22 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Mar 2023 07:11:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이랑 / LANG LEE  LIVE IN SEOUL 2022 (Clear Pink 투명 핑크 Vinyl) *예약상품 (9월 12일 화요일 발매 예정)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21642&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21642&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Wed, 22 Mar 2023 06:11:09 GMT</pubDate>
+            <content:encoded><![CDATA[47,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202303/560ddd879f5b0fca24bd4574ee3c5eb9.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[250  / 뽕 (Vinyl, Toru Kotetsu Remaster Edition) *예약상품 (7월 중 발송 예정, 3월 24일 예약 마감 - 1인 최대 2매 구매 가능)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=21551&amp;cate_no=42&amp;display_group=1</link>
@@ -30,14 +38,6 @@
             <pubDate>Wed, 22 Mar 2023 06:11:09 GMT</pubDate>
             <content:encoded><![CDATA[49,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202303/a36d0aadc033f2d6e88d86e59319661d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이랑 / LANG LEE  LIVE IN SEOUL 2022 (Clear Pink 투명 핑크 Vinyl) *예약상품 (9월 12일 화요일 발매 예정)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21642&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21642&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Wed, 22 Mar 2023 06:11:09 GMT</pubDate>
-            <content:encoded><![CDATA[47,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202303/560ddd879f5b0fca24bd4574ee3c5eb9.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Peach Pit / Being So Normal (Black Vinyl, 2022 repressing) *예약상품 (3월 31일 발송 예정)]]></title>
