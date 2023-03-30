@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ CD</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Mar 2023 10:11:58 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Mar 2023 11:09:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Yo La Tengo / This Stupid World (CD, trifold sleeve)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21689&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21689&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Thu, 30 Mar 2023 11:07:22 GMT</pubDate>
+            <content:encoded><![CDATA[17,700원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202303/2ee82adbcbb83316a597dec992cf55a9.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[U.S. Girls / Bless This Mess (CD)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=21687&amp;cate_no=24&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Tue, 21 Mar 2023 09:09:12 GMT</pubDate>
             <content:encoded><![CDATA[15,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202303/27f72ede4dc7139f533bbcf9233d0e99.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Beach Boys / Sunflower & Surf's Up (2CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21640&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21640&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Tue, 21 Mar 2023 09:09:12 GMT</pubDate>
-            <content:encoded><![CDATA[15,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202303/57b0ef6bb84edf01e3ce4176cc00016a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
