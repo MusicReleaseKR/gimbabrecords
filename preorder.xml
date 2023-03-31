@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ Pre-Order</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 31 Mar 2023 12:16:22 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 Mar 2023 13:15:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Music by Remedios) / Love Letter 러브레터 (2023 Edition, Limited White Vinyl, Gimbab Records Exclusive Pressing) *예약상품 (2차 예약 - 2023년 7월 배송 예정)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=20726&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=20726&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Mon, 27 Mar 2023 06:11:37 GMT</pubDate>
+            <content:encoded><![CDATA[48,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202211/bce30e9691fffaa9ce9f49fb0dbcdd88.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[250  / 뽕 (Vinyl, Toru Kotetsu Remaster Edition) *예약상품 (7월 중 발송 예정, 3월 24일 예약 마감 - 1인 최대 2매 구매 가능)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=21551&amp;cate_no=42&amp;display_group=1</link>
@@ -86,14 +94,6 @@
             <pubDate>Wed, 22 Mar 2023 08:11:15 GMT</pubDate>
             <content:encoded><![CDATA[17,800원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202302/1c445428c2063d7c100f9f565b33e05b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Music by Remedios) / Love Letter 러브레터 (2023 Edition, Limited White Vinyl, Exclusive Pressing) *예약상품 (2차 예약 - 2023년 7월 배송 예정)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=20726&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=20726&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Mon, 27 Mar 2023 06:11:37 GMT</pubDate>
-            <content:encoded><![CDATA[48,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202211/bce30e9691fffaa9ce9f49fb0dbcdd88.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[RADWIMPS / Forever Daze (Blue Colored Vinyl 2LP, 유럽수입반) *예약상품 (4월말 배송 예정)]]></title>
