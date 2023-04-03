@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Apr 2023 20:10:26 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Apr 2023 21:09:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Delfina Mancardo / Octante (CD) (김밥레코즈 ─ CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21734&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21734&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Mon, 03 Apr 2023 21:06:52 GMT</pubDate>
+            <content:encoded><![CDATA[25,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202304/c56ca6232c7189cc55949f095a150c1b.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Antonio Carlos Jobim / Wave (CD) (김밥레코즈 ─ CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21733&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21733&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Mon, 03 Apr 2023 21:06:52 GMT</pubDate>
+            <content:encoded><![CDATA[14,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202304/312166640110b81a8ed89335eac148fe.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Nick Cave & The Bad Seeds / Lovely Creatures - The Best Of Nick Cave And The Bad Seeds (1984-2014) (3CD + DVD, NTSC Version) *1회 한정 할인 (김밥레코즈 ─ CD)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=21732&amp;cate_no=24&amp;display_group=1</link>
@@ -86,22 +102,6 @@
             <pubDate>Mon, 03 Apr 2023 11:06:43 GMT</pubDate>
             <content:encoded><![CDATA[17,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/201807/11407_shop1_15317281289967.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Black Sabbath / Vol. 4 (CD) *1회 한정 할인 (김밥레코즈 ─ CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21721&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21721&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Mon, 03 Apr 2023 10:08:54 GMT</pubDate>
-            <content:encoded><![CDATA[15,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/201711/9161_shop1_207587.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Black Sabbath / Sabbath Bloody Sabbath (CD) *1회 한정 할인 (김밥레코즈 ─ CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21720&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21720&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Mon, 03 Apr 2023 10:08:54 GMT</pubDate>
-            <content:encoded><![CDATA[15,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/201708/8261_shop1_130956.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Emerson, Lake & Palmer / Anthology 1970-1998 (3CD, Deluxe Hardback Book Packaging) *1회 한정 할인 (김밥레코즈 ─ Vinyl)]]></title>
@@ -1352,6 +1352,14 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202208/20d00e5c88c385995e63145b088f7e9d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Antonio Carlos Jobim / Wave (CD) (김밥레코즈 ─ CD ─ World)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21733&amp;cate_no=79&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21733&amp;cate_no=79&amp;display_group=1</guid>
+            <pubDate>Mon, 03 Apr 2023 21:08:27 GMT</pubDate>
+            <content:encoded><![CDATA[14,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202304/312166640110b81a8ed89335eac148fe.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[OHAN / 夢遊者國度 Sinclair’s Youth 싱클레어의 청년 시절 (CD + A4 사이즈 포스터 + 8p Lyrics) (김밥레코즈 ─ CD ─ World)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=21677&amp;cate_no=79&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=21677&amp;cate_no=79&amp;display_group=1</guid>
@@ -1438,14 +1446,6 @@
             <pubDate>Mon, 16 Jan 2023 08:13:30 GMT</pubDate>
             <content:encoded><![CDATA[17,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202301/fe8ed7e6a020fff8ca885929129e76ee.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Bala Desejo / Sim Sim Sim (CD, JPN Import) (김밥레코즈 ─ CD ─ World)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21059&amp;cate_no=79&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21059&amp;cate_no=79&amp;display_group=1</guid>
-            <pubDate>Fri, 06 Jan 2023 17:10:33 GMT</pubDate>
-            <content:encoded><![CDATA[28,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202301/372a35539c889aacead60d7e918aadb3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Max Richter / The New Four Seasons - Vivaldi Recomposed 새로운 사계: 비발디 리컴포즈드 (CD, 국내반) (김밥레코즈 ─ CD ─ Classical/Crossover)]]></title>
