@@ -4,9 +4,33 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Apr 2023 06:12:57 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Apr 2023 07:09:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Toninho Horta / To Jobim With Love (CD, Digipak) (김밥레코즈 ─ CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21750&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21750&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Tue, 04 Apr 2023 07:07:43 GMT</pubDate>
+            <content:encoded><![CDATA[23,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202304/31b5c6bb45ea9affedcb27080bda6a62.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Carminho / Portuguesa (CD, Digipak) (김밥레코즈 ─ CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21749&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21749&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Tue, 04 Apr 2023 07:07:43 GMT</pubDate>
+            <content:encoded><![CDATA[24,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202304/c2468cbe61d463a067bb9b50b2ec9cce.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Antonio Carlos Jobim / Tide & Stone Flower (1CD) (김밥레코즈 ─ CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21748&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21748&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Tue, 04 Apr 2023 07:07:43 GMT</pubDate>
+            <content:encoded><![CDATA[24,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202304/67e21c9b9406a24bfd0d20f936589716.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Lucas Santtana / O C​é​u É Velho Há Muito Tempo (CD) (김밥레코즈 ─ CD)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=21747&amp;cate_no=24&amp;display_group=1</link>
@@ -78,30 +102,6 @@
             <pubDate>Mon, 03 Apr 2023 22:07:42 GMT</pubDate>
             <content:encoded><![CDATA[19,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202304/db22c993c8e49259420bf8691789c913.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Gotan Project / Lunatico (CD) *한정수량 할인 (김밥레코즈 ─ CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21738&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21738&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Mon, 03 Apr 2023 22:07:42 GMT</pubDate>
-            <content:encoded><![CDATA[19,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202304/63af7d6ea5b1d190fbae77e34d5d5aca.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Gotan Project / The Complete Studio Recordings (3CD) *단종된 박스셋 / 한정수량 할인 (김밥레코즈 ─ CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21736&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21736&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Mon, 03 Apr 2023 22:07:42 GMT</pubDate>
-            <content:encoded><![CDATA[45,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202304/b07f132055776732ce10afcadc054c68.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Delfina Mancardo / Octante (CD) (김밥레코즈 ─ CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21734&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21734&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Mon, 03 Apr 2023 21:06:52 GMT</pubDate>
-            <content:encoded><![CDATA[25,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202304/c56ca6232c7189cc55949f095a150c1b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Owen Pallett / The Two EPs (Remastered Vinyl + Download) (김밥레코즈 ─ Vinyl)]]></title>
@@ -1064,6 +1064,22 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202212/f7784d51a12fa643fd330da17bfdeb2f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Toninho Horta / To Jobim With Love (CD, Digipak) (김밥레코즈 ─ CD ─ Jazz)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21750&amp;cate_no=46&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21750&amp;cate_no=46&amp;display_group=1</guid>
+            <pubDate>Tue, 04 Apr 2023 07:08:59 GMT</pubDate>
+            <content:encoded><![CDATA[23,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202304/31b5c6bb45ea9affedcb27080bda6a62.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Antonio Carlos Jobim / Tide & Stone Flower (1CD) (김밥레코즈 ─ CD ─ Jazz)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21748&amp;cate_no=46&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21748&amp;cate_no=46&amp;display_group=1</guid>
+            <pubDate>Tue, 04 Apr 2023 07:08:59 GMT</pubDate>
+            <content:encoded><![CDATA[24,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202304/67e21c9b9406a24bfd0d20f936589716.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Esbjörn Svensson Trio (Esbjorn Svensson Trio = e.s.t.) / When Everyone Has Gone (CD) (김밥레코즈 ─ CD ─ Jazz)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=21744&amp;cate_no=46&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=21744&amp;cate_no=46&amp;display_group=1</guid>
@@ -1142,22 +1158,6 @@
             <pubDate>Sat, 18 Mar 2023 18:10:55 GMT</pubDate>
             <content:encoded><![CDATA[14,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202303/5e344d9102567006354fc73b06fd7523.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Nina Simone / Great Women Of Song: Nina Simone (CD) (김밥레코즈 ─ CD ─ Jazz)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21594&amp;cate_no=46&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21594&amp;cate_no=46&amp;display_group=1</guid>
-            <pubDate>Fri, 17 Mar 2023 09:09:51 GMT</pubDate>
-            <content:encoded><![CDATA[17,200원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202303/d9c5c5db2743567e6e3a737c6db0a6da.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Kendrick Scott, Reuben Rogers, Walter Smith III / Corridors (CD) (김밥레코즈 ─ CD ─ Jazz)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21593&amp;cate_no=46&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21593&amp;cate_no=46&amp;display_group=1</guid>
-            <pubDate>Fri, 17 Mar 2023 09:09:51 GMT</pubDate>
-            <content:encoded><![CDATA[17,200원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202303/54ed2d99da90aa2ff55466e4d7c981b6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[The Lions / Soul Riot (CD) (김밥레코즈 ─ CD ─ Reggae)]]></title>
@@ -1352,6 +1352,30 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202208/20d00e5c88c385995e63145b088f7e9d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Toninho Horta / To Jobim With Love (CD, Digipak) (김밥레코즈 ─ CD ─ World)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21750&amp;cate_no=79&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21750&amp;cate_no=79&amp;display_group=1</guid>
+            <pubDate>Tue, 04 Apr 2023 07:09:20 GMT</pubDate>
+            <content:encoded><![CDATA[23,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202304/31b5c6bb45ea9affedcb27080bda6a62.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Carminho / Portuguesa (CD, Digipak) (김밥레코즈 ─ CD ─ World)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21749&amp;cate_no=79&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21749&amp;cate_no=79&amp;display_group=1</guid>
+            <pubDate>Tue, 04 Apr 2023 07:09:20 GMT</pubDate>
+            <content:encoded><![CDATA[24,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202304/c2468cbe61d463a067bb9b50b2ec9cce.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Antonio Carlos Jobim / Tide & Stone Flower (1CD) (김밥레코즈 ─ CD ─ World)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21748&amp;cate_no=79&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21748&amp;cate_no=79&amp;display_group=1</guid>
+            <pubDate>Tue, 04 Apr 2023 07:09:20 GMT</pubDate>
+            <content:encoded><![CDATA[24,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202304/67e21c9b9406a24bfd0d20f936589716.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Lucas Santtana / O C​é​u É Velho Há Muito Tempo (CD) (김밥레코즈 ─ CD ─ World)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=21747&amp;cate_no=79&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=21747&amp;cate_no=79&amp;display_group=1</guid>
@@ -1422,30 +1446,6 @@
             <pubDate>Fri, 24 Feb 2023 09:11:35 GMT</pubDate>
             <content:encoded><![CDATA[18,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202302/440c6bd8c61871b22fbded65f0065080.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Daniel Salinas / Atlantis (CD, Mr. Bongo Reissue) (김밥레코즈 ─ CD ─ World)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21371&amp;cate_no=79&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21371&amp;cate_no=79&amp;display_group=1</guid>
-            <pubDate>Mon, 20 Feb 2023 09:10:45 GMT</pubDate>
-            <content:encoded><![CDATA[22,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202302/e379c3a7c90deb46056b0d8a458b2afb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Joyce with Mauricio Maestro / Natureza (produced, arranged & conducted by Claus Ogerman) (CD) (김밥레코즈 ─ CD ─ World)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21286&amp;cate_no=79&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21286&amp;cate_no=79&amp;display_group=1</guid>
-            <pubDate>Sat, 04 Feb 2023 20:09:53 GMT</pubDate>
-            <content:encoded><![CDATA[20,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202302/921de9d5199c70f9fc7cd89e139db104.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Joyce Moreno / Cool (CD) (김밥레코즈 ─ CD ─ World)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21281&amp;cate_no=79&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21281&amp;cate_no=79&amp;display_group=1</guid>
-            <pubDate>Sat, 04 Feb 2023 19:07:59 GMT</pubDate>
-            <content:encoded><![CDATA[16,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202302/3eb3c0920d6ad0c8ef45e8970d9054b8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Max Richter / The New Four Seasons - Vivaldi Recomposed 새로운 사계: 비발디 리컴포즈드 (CD, 국내반) (김밥레코즈 ─ CD ─ Classical/Crossover)]]></title>
