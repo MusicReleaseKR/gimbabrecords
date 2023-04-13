@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ Vinyl</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Apr 2023 07:11:54 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Apr 2023 08:12:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Chet Baker / Chet (Vinyl, Mono Edition, RSD 2023) *1인 1매만 구매 가능]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21790&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21790&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Thu, 13 Apr 2023 08:10:48 GMT</pubDate>
+            <content:encoded><![CDATA[49,300원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202304/704022b5ab80126351f3cd422328c27d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Stanley Turrentine / Mr. Natural (180g Vinyl, Blue Note Tone Poet Series)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=21789&amp;cate_no=25&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Mon, 10 Apr 2023 08:11:18 GMT</pubDate>
             <content:encoded><![CDATA[66,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202304/cb5126428deced351031c92cbcac3491.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[ZAYN / Mind Of Mine (Limited Neon Green Vinyl, 2LP, Deluxe Edition) *한정수량 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21773&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21773&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Thu, 06 Apr 2023 10:08:42 GMT</pubDate>
-            <content:encoded><![CDATA[46,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202304/a97c0cee4a2924ee9b3a120567f7930a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
