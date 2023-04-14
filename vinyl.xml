@@ -4,7 +4,7 @@
         <title>김밥레코즈 ─ Vinyl</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 14 Apr 2023 15:10:07 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Apr 2023 16:12:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -56,6 +56,14 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202304/dfee72c7fe047c91ab6539db69bda31b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Chet Baker / Chet Baker Sings & Plays (180g Vinyl, Blue Note Tone Poet Series) *1인 1매만 구매 가능]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21791&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21791&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Fri, 14 Apr 2023 16:10:01 GMT</pubDate>
+            <content:encoded><![CDATA[57,200원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202304/4fce915704ab48354da00803c29483c0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Stanley Turrentine / Mr. Natural (180g Vinyl, Blue Note Tone Poet Series)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=21789&amp;cate_no=25&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=21789&amp;cate_no=25&amp;display_group=1</guid>
@@ -94,14 +102,6 @@
             <pubDate>Thu, 13 Apr 2023 07:09:49 GMT</pubDate>
             <content:encoded><![CDATA[37,200원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202304/d9abc3baf8e59228560d66e00db2caac.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[최백호 / 불혹 (180g Vinyl) *1인 1매만 구매 가능]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21784&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21784&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Thu, 13 Apr 2023 07:09:49 GMT</pubDate>
-            <content:encoded><![CDATA[46,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202304/3542039d1e121a777e4415cf7362b481.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
