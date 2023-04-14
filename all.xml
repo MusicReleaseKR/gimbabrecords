@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 14 Apr 2023 18:11:36 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Apr 2023 19:08:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -678,6 +678,102 @@
             <pubDate>Sat, 28 Jan 2023 09:08:49 GMT</pubDate>
             <content:encoded><![CDATA[26,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202301/fb7d802415fc6174df4fca1d568bc558.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Beck, Bogert & Appice / Beck, Bogert & Appice (CD, Music On CD Series) (김밥레코즈 ─ CD ─ Pop/Rock)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21777&amp;cate_no=30&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21777&amp;cate_no=30&amp;display_group=1</guid>
+            <pubDate>Fri, 14 Apr 2023 19:07:20 GMT</pubDate>
+            <content:encoded><![CDATA[19,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202304/095e43f1ba3db48f2ea759794103cc5c.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Electric Light Orchestra / All Over The World - The Very Best Of Electric Light Orchestra (CD) *한정수량 할인 (김밥레코즈 ─ CD ─ Pop/Rock)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21743&amp;cate_no=30&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21743&amp;cate_no=30&amp;display_group=1</guid>
+            <pubDate>Fri, 14 Apr 2023 19:07:20 GMT</pubDate>
+            <content:encoded><![CDATA[14,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202304/e31849a5656bc4fcdb9764f362e39ee1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Electric Light Orchestra / The Essential Electric Light Orchestra (CD) *한정수량 할인 (김밥레코즈 ─ CD ─ Pop/Rock)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21742&amp;cate_no=30&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21742&amp;cate_no=30&amp;display_group=1</guid>
+            <pubDate>Fri, 14 Apr 2023 19:07:20 GMT</pubDate>
+            <content:encoded><![CDATA[16,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202304/e3c4cfdf3f156468eb0eb95abfe445f9.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Nick Cave & The Bad Seeds / Lovely Creatures - The Best Of Nick Cave And The Bad Seeds (1984-2014) (3CD + DVD, NTSC Version) *1회 한정 할인 (김밥레코즈 ─ CD ─ Pop/Rock)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21732&amp;cate_no=30&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21732&amp;cate_no=30&amp;display_group=1</guid>
+            <pubDate>Fri, 14 Apr 2023 19:07:20 GMT</pubDate>
+            <content:encoded><![CDATA[19,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202304/ca93b8a639d3abe35208eb5e3f16db63.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Nick Cave & The Bad Seeds / Your Funeral... My Trial (Remastered CD + DVD, NTSC Version) *1회 한정 할인 (김밥레코즈 ─ CD ─ Pop/Rock)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21731&amp;cate_no=30&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21731&amp;cate_no=30&amp;display_group=1</guid>
+            <pubDate>Fri, 14 Apr 2023 19:07:20 GMT</pubDate>
+            <content:encoded><![CDATA[16,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/201810/d82e69326eae61cb2f373ab8db48a7a5.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Nick Cave & The Bad Seeds / The Good Son (Remastered CD + DVD, NTSC Version) *1회 한정 할인 (김밥레코즈 ─ CD ─ Pop/Rock)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21730&amp;cate_no=30&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21730&amp;cate_no=30&amp;display_group=1</guid>
+            <pubDate>Fri, 14 Apr 2023 19:07:20 GMT</pubDate>
+            <content:encoded><![CDATA[16,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/c153bd767f1470fcbec28a1fe18ec27c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Nick Cave & The Bad Seeds / Murder Ballads (Remastered CD + DVD, NTSC Version) *1회 한정 할인 (김밥레코즈 ─ CD ─ Pop/Rock)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21729&amp;cate_no=30&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21729&amp;cate_no=30&amp;display_group=1</guid>
+            <pubDate>Fri, 14 Apr 2023 19:07:20 GMT</pubDate>
+            <content:encoded><![CDATA[16,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/201810/f2d87c5c47bb961b6573993ab413b700.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Nick Cave & The Bad Seeds / Let Love In (Remastered CD + DVD, NTSC Version) *1회 한정 할인 (김밥레코즈 ─ CD ─ Pop/Rock)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21728&amp;cate_no=30&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21728&amp;cate_no=30&amp;display_group=1</guid>
+            <pubDate>Fri, 14 Apr 2023 19:07:20 GMT</pubDate>
+            <content:encoded><![CDATA[16,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/201810/4bc11f2dacfcd7b9ec3d8198eaac776a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Nick Cave & The Bad Seeds / Henry's Dream (Remastered CD + DVD, NTSC Version) *1회 한정 할인 (김밥레코즈 ─ CD ─ Pop/Rock)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21727&amp;cate_no=30&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21727&amp;cate_no=30&amp;display_group=1</guid>
+            <pubDate>Fri, 14 Apr 2023 19:07:20 GMT</pubDate>
+            <content:encoded><![CDATA[16,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/201509/632_shop1_473684.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Nick Cave & The Bad Seeds / From Her To Eternity (Remastered CD + DVD, NTSC Version) *1회 한정 할인 (김밥레코즈 ─ CD ─ Pop/Rock)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21726&amp;cate_no=30&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21726&amp;cate_no=30&amp;display_group=1</guid>
+            <pubDate>Fri, 14 Apr 2023 19:07:20 GMT</pubDate>
+            <content:encoded><![CDATA[16,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/201810/d5e0e2771f730a3dfcfb31d85d82173b.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Greg Lake / Anthology: A Musical Journey (2CD, Deluxe Hardback Set + 60p Booklet w/ Photos & Notes) *1회 한정 할인 (김밥레코즈 ─ CD ─ Pop/Rock)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21725&amp;cate_no=30&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21725&amp;cate_no=30&amp;display_group=1</guid>
+            <pubDate>Fri, 14 Apr 2023 19:07:20 GMT</pubDate>
+            <content:encoded><![CDATA[17,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202304/4513031e52ba24945ea2a6868df85de6.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Garbage / Garbage (2CD, Deluxe Edition) *1회 한정 할인 (김밥레코즈 ─ CD ─ Pop/Rock)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21724&amp;cate_no=30&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21724&amp;cate_no=30&amp;display_group=1</guid>
+            <pubDate>Fri, 14 Apr 2023 19:07:20 GMT</pubDate>
+            <content:encoded><![CDATA[17,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/d580e87a04661bc5c7f6c060624a139e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Gotan Project / Tango 3.0 (CD) (김밥레코즈 ─ CD ─ Electronic/Dance)]]></title>
