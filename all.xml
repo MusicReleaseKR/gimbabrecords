@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Apr 2023 07:10:20 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Apr 2023 08:12:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Henry Franklin, Adrian Younge & Ali Shaheed Muhammad / Jazz Is Dead 14 (CD, Digipak) (김밥레코즈 ─ CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21831&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21831&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Tue, 18 Apr 2023 08:10:30 GMT</pubDate>
+            <content:encoded><![CDATA[23,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202302/8f4a4059a9f99c335951250cd5cf797e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Bill Callahan / YTI⅃AƎЯ (Reality) (CD) (김밥레코즈 ─ CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21827&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21827&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Tue, 18 Apr 2023 08:10:30 GMT</pubDate>
+            <content:encoded><![CDATA[19,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202304/4872a6c6814aa42b9979bd8d228adeee.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Creedence Clearwater Revival (CCR) / Best Of (CD, EU Import) *한정수량 할인 (김밥레코즈 ─ CD)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=21823&amp;cate_no=24&amp;display_group=1</link>
@@ -88,20 +104,52 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202304/3a03c7740642c8f7b7dedc49aacf076c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Diana Krall / The Look of Love (CD, EU Import) *한정수량 할인 (김밥레코즈 ─ CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21813&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21813&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Mon, 17 Apr 2023 10:09:05 GMT</pubDate>
-            <content:encoded><![CDATA[13,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/201607/4740_shop1_798578.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[Phil Ranelin, Wendell Harrison, Adrian Younge & Ali Shaheed Muhammad / Jazz Is Dead 16 (Clear Blue Vinyl, Indie Exclusive) (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21830&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21830&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Tue, 18 Apr 2023 08:10:37 GMT</pubDate>
+            <content:encoded><![CDATA[42,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202304/14e9e9c1c3c5cdf1804458312948b228.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Joey Badass (Joey Bada$$) / 2000 (CD) (김밥레코즈 ─ CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21804&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21804&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Sat, 15 Apr 2023 16:08:52 GMT</pubDate>
-            <content:encoded><![CDATA[20,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202304/ad94b2882995f1211224b79c104dd1ae.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[Garrett Saracho, Adrian Younge & Ali Shaheed Muhammad / Jazz Is Dead 15 (Orange Vinyl, Indie Exclusive) (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21829&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21829&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Tue, 18 Apr 2023 08:10:37 GMT</pubDate>
+            <content:encoded><![CDATA[45,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202304/ff8de5923dfb5cd6931219132988535e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Meg Baird & Mary Lattimore / Ghost Forests (Limited Green Translucent Vinyl) (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21828&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21828&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Tue, 18 Apr 2023 08:10:37 GMT</pubDate>
+            <content:encoded><![CDATA[29,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202304/bc6b1c2c7acd7840655c4a039e4594f7.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Bill Callahan / YTI⅃AƎЯ (Reality) (Vinyl, 2LP) (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21826&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21826&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Tue, 18 Apr 2023 08:10:37 GMT</pubDate>
+            <content:encoded><![CDATA[44,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202304/4872a6c6814aa42b9979bd8d228adeee.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Bill Callahan & Bonnie 'Prince' Billy / Blind Date Party (Vinyl, 2LP) (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21825&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21825&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Tue, 18 Apr 2023 08:10:37 GMT</pubDate>
+            <content:encoded><![CDATA[47,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202205/4af7f65f5769b5a36717af77746f1e6a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Tegan and Sara / Crybaby (Neapolitan Colored Vinyl + Exclusive poster) (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21824&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21824&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Tue, 18 Apr 2023 08:10:37 GMT</pubDate>
+            <content:encoded><![CDATA[38,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202304/44b89ebf6db76ebe1989b62cfeb41646.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[test 용 2 (김밥레코즈 ─ Vinyl)]]></title>
@@ -150,54 +198,6 @@
             <pubDate>Sun, 16 Apr 2023 04:08:52 GMT</pubDate>
             <content:encoded><![CDATA[109,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202304/75872f07659dcdd357b0f01388379a9e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[OST (Chan Kwong Wing) / Infernal Affairs 무간도 (Limited Colored Vinyl, 일련번호 표기) *할인상품 (쟈켓 표면에 옅은 주름이 있습니다.) (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21806&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21806&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Sun, 16 Apr 2023 04:08:52 GMT</pubDate>
-            <content:encoded><![CDATA[106,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202304/fb0ea2053a45b29dc3ee2b55dd058289.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[OST (Chan Kwong Wing) /  Infernal Affairs I 무간도 (Limited Colored Vinyl, 일련번호 표기) *1인 1매만 구매 가능 (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21805&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21805&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Sun, 16 Apr 2023 04:08:52 GMT</pubDate>
-            <content:encoded><![CDATA[109,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202304/feb78a3a5e1af71b171a22c3264132b2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Blur / Blur (2LP) + The Great Escape (2LP) 한정수량 10% 할인 (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21803&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21803&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Sat, 15 Apr 2023 16:08:59 GMT</pubDate>
-            <content:encoded><![CDATA[117,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202304/a49bc663d1ab9d7111b38bd126752fbf.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[OST (James Horner) / Titanic 타이타닉 (25주년 기념 Limited Edition - Smoky Color Vinyl 2LP + 포스터 및 뉴스페이퍼 프린트 포함, 일련번호 표기) *한정수량 판매 / 입금기한 별도 설정 (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21801&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21801&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Sat, 15 Apr 2023 10:07:55 GMT</pubDate>
-            <content:encoded><![CDATA[52,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202304/c058fe32e5d4315a3f2f55aeea638bab.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Radiohead / A Moon Shaped Pool (180g White Vinyl, Limited Edition) (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21800&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21800&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Sat, 15 Apr 2023 10:07:55 GMT</pubDate>
-            <content:encoded><![CDATA[63,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202304/07d439f83598aa3cfb8f46fd3db1c4a1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Mark Guiliana / the sound of listening (Colored Vinyl) *할인상품 (쟈켓 모서리에 작은 눌림이 있습니다.) (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21799&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21799&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Fri, 14 Apr 2023 09:08:34 GMT</pubDate>
-            <content:encoded><![CDATA[37,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202304/3aaa27050d4caba24c02fb8432daf3dd.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[지나오킹 Jina0King / 사람들은 모두 다른 향기 Everybody Different Scent (Cassette + 포토 카드 + Download) (김밥레코즈 ─ Cassette)]]></title>
@@ -680,6 +680,14 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202301/fb7d802415fc6174df4fca1d568bc558.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Bill Callahan / YTI⅃AƎЯ (Reality) (CD) (김밥레코즈 ─ CD ─ Pop/Rock)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21827&amp;cate_no=30&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21827&amp;cate_no=30&amp;display_group=1</guid>
+            <pubDate>Tue, 18 Apr 2023 08:11:17 GMT</pubDate>
+            <content:encoded><![CDATA[19,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202304/4872a6c6814aa42b9979bd8d228adeee.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Creedence Clearwater Revival (CCR) / Best Of (CD, EU Import) *한정수량 할인 (김밥레코즈 ─ CD ─ Pop/Rock)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=21823&amp;cate_no=30&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=21823&amp;cate_no=30&amp;display_group=1</guid>
@@ -766,14 +774,6 @@
             <pubDate>Fri, 14 Apr 2023 19:07:20 GMT</pubDate>
             <content:encoded><![CDATA[16,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202207/c153bd767f1470fcbec28a1fe18ec27c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Nick Cave & The Bad Seeds / Murder Ballads (Remastered CD + DVD, NTSC Version) *1회 한정 할인 (김밥레코즈 ─ CD ─ Pop/Rock)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21729&amp;cate_no=30&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21729&amp;cate_no=30&amp;display_group=1</guid>
-            <pubDate>Fri, 14 Apr 2023 19:07:20 GMT</pubDate>
-            <content:encoded><![CDATA[16,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/201810/f2d87c5c47bb961b6573993ab413b700.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Gotan Project / Tango 3.0 (CD) (김밥레코즈 ─ CD ─ Electronic/Dance)]]></title>
@@ -1064,6 +1064,14 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202302/30286db0e3a0437812ec062dddb8a261.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Henry Franklin, Adrian Younge & Ali Shaheed Muhammad / Jazz Is Dead 14 (CD, Digipak) (김밥레코즈 ─ CD ─ Jazz)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21831&amp;cate_no=46&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21831&amp;cate_no=46&amp;display_group=1</guid>
+            <pubDate>Tue, 18 Apr 2023 08:11:42 GMT</pubDate>
+            <content:encoded><![CDATA[23,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202302/8f4a4059a9f99c335951250cd5cf797e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Diana Krall / The Look of Love (CD, EU Import) *한정수량 할인 (김밥레코즈 ─ CD ─ Jazz)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=21813&amp;cate_no=46&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=21813&amp;cate_no=46&amp;display_group=1</guid>
@@ -1150,14 +1158,6 @@
             <pubDate>Tue, 21 Mar 2023 09:10:22 GMT</pubDate>
             <content:encoded><![CDATA[15,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202303/0ce4b48e1fea1baafe909adad38a2362.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Frank Sinatra / Songs For Swingin' Lovers (CD) (김밥레코즈 ─ CD ─ Jazz)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21632&amp;cate_no=46&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21632&amp;cate_no=46&amp;display_group=1</guid>
-            <pubDate>Tue, 21 Mar 2023 09:10:22 GMT</pubDate>
-            <content:encoded><![CDATA[15,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/201602/3104_shop1_517446.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[The Lions / Soul Riot (CD) (김밥레코즈 ─ CD ─ Reggae)]]></title>
