@@ -4,9 +4,25 @@
         <title>김밥레코즈 ─ Vinyl</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 20 Apr 2023 09:10:43 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Apr 2023 10:10:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Ron Trent / Ron Trent Presents WARM: What Do The Stars Say To You (White Vinyl, Limited Edition)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21848&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21848&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Thu, 20 Apr 2023 10:08:52 GMT</pubDate>
+            <content:encoded><![CDATA[47,200원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202304/5e516400fcb862dbe2612e008056014a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Angel Olsen / Forever Means EP (Baby Pink Vinyl, Limited Edition)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21847&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21847&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Thu, 20 Apr 2023 10:08:52 GMT</pubDate>
+            <content:encoded><![CDATA[30,300원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202304/f36cdd5c8898b00ae8bc28fb391c082f.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Ned Doheny / Separate Oceans (NUMERO 052) (Sea Splash Blue Vinyl, 2LP)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=21846&amp;cate_no=25&amp;display_group=1</link>
@@ -86,22 +102,6 @@
             <pubDate>Tue, 18 Apr 2023 09:08:40 GMT</pubDate>
             <content:encoded><![CDATA[40,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202304/27bd077be4bdc2616e698758d55f676f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Phil Ranelin, Wendell Harrison, Adrian Younge & Ali Shaheed Muhammad / Jazz Is Dead 16 (Clear Blue Vinyl, Indie Exclusive)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21830&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21830&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Tue, 18 Apr 2023 08:10:37 GMT</pubDate>
-            <content:encoded><![CDATA[42,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202304/14e9e9c1c3c5cdf1804458312948b228.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Garrett Saracho, Adrian Younge & Ali Shaheed Muhammad / Jazz Is Dead 15 (Orange Vinyl, Indie Exclusive)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21829&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21829&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Tue, 18 Apr 2023 08:10:37 GMT</pubDate>
-            <content:encoded><![CDATA[45,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202304/ff8de5923dfb5cd6931219132988535e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
