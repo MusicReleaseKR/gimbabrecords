@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ Vinyl</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Apr 2023 04:11:21 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Apr 2023 05:10:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김두수 / 6집 곱사무舞 (140g Blue Vinyl, 2LP) *1인 1매만 구매 가능 / 별도의 입금기한 설정]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21901&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21901&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Thu, 27 Apr 2023 05:08:18 GMT</pubDate>
+            <content:encoded><![CDATA[58,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202304/962478fd885036a71868787743720007.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Dosii 도시 / 반향 (Clear Orange Vinyl)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=21900&amp;cate_no=25&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Tue, 25 Apr 2023 03:08:53 GMT</pubDate>
             <content:encoded><![CDATA[44,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202304/cfb3d24e1ce1c319219013932a55ad2b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[João Donato (Joao Donato) & Donatinho / Sintetizamor (Vinyl, 2023 RSD Exclusive, Limited Edition, 포스터 포함)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21888&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21888&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Tue, 25 Apr 2023 03:08:53 GMT</pubDate>
-            <content:encoded><![CDATA[38,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202304/3347e4739205b2a784089e6ccfed228d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
