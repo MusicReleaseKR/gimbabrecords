@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ Vinyl</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 04 May 2023 07:09:58 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 May 2023 08:12:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Everything But The Girl / Fuse (Vinyl) *조기 도착분 한정 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21967&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21967&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Thu, 04 May 2023 08:10:22 GMT</pubDate>
+            <content:encoded><![CDATA[35,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202305/57fb99953c83f108c9b0f0041ee7b605.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Feist / Multitudes (Clear Vinyl, Indie Exclusive limited Edition)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=21965&amp;cate_no=25&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Sat, 29 Apr 2023 15:07:44 GMT</pubDate>
             <content:encoded><![CDATA[54,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202304/26f561aeda8dbe65f3235d8ea594b058.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[ゆうらん船 (Yuransen) / ゆうらん船 1 & 2 (Vinyl, 2023 RSD Japan, Limited Edition)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21954&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21954&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Sat, 29 Apr 2023 15:07:44 GMT</pubDate>
-            <content:encoded><![CDATA[54,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202304/5b11edfd95483092b2452fa938474d72.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
