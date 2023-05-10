@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 10 May 2023 09:09:40 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 May 2023 10:10:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Durand Jones / Wait Til I Get Over (CD) *예약상품 (5월 12일 발매) (김밥레코즈 ─ CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21986&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21986&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Wed, 10 May 2023 10:08:36 GMT</pubDate>
+            <content:encoded><![CDATA[18,600원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202305/1920ab5cd46c6b7fd23e17184523d26c.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Cecile McLorin Salvant / Melusine (CD, EU Import) (김밥레코즈 ─ CD)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=21977&amp;cate_no=24&amp;display_group=1</link>
@@ -96,12 +104,20 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202206/88c9668bd1254d7aa9a04781504e0718.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[Megadeth / The Sick, The Dying... And The Dead! (CD) (김밥레코즈 ─ CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21916&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21916&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Thu, 27 Apr 2023 10:08:49 GMT</pubDate>
-            <content:encoded><![CDATA[18,900원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202209/baa2084a0428386d87ad4c2fc0413fd9.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[Durand Jones / Wait Til I Get Over (Blue Jay Colored Vinyl) *예약상품 (5월 12일 발매) (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21985&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21985&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Wed, 10 May 2023 10:08:43 GMT</pubDate>
+            <content:encoded><![CDATA[40,300원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202305/95efa7565708ffad50a698936ee3c9a9.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Durand Jones / Wait Til I Get Over (Black Vinyl) *예약상품 (5월 12일 발매) (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21984&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21984&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Wed, 10 May 2023 10:08:43 GMT</pubDate>
+            <content:encoded><![CDATA[38,800원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202305/0d0cbb1cc5b35629cf4aeb371195b96b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Atsuko Nina (Nina Atsuko) / Fluorescent Lamp (Vinyl, Limited Edition) (김밥레코즈 ─ Vinyl)]]></title>
@@ -182,22 +198,6 @@
             <pubDate>Mon, 08 May 2023 03:08:19 GMT</pubDate>
             <content:encoded><![CDATA[55,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202305/4955a55e26ac7d2cdefe78109667307c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Benny Sings / Young Hearts (Limited Blue Vinyl) (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21971&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21971&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Sat, 06 May 2023 06:09:35 GMT</pubDate>
-            <content:encoded><![CDATA[45,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202305/1a56ab1e082d501be1d579f677d171c9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Eddie Chacon (Produced by John Carroll Kirby) / Sundown (Vinyl) (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21970&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21970&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Sat, 06 May 2023 06:09:36 GMT</pubDate>
-            <content:encoded><![CDATA[41,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202305/9c0db117d6c1c479e1735639db4bb7fe.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[HYBS / Making Steak (Cassette Tape, Limited Edition) *할인상품 (케이스 파손 할인 - 유의사항을 확인하세요) (김밥레코즈 ─ Cassette)]]></title>
@@ -392,6 +392,30 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202209/9b75167fbc00e8673e58c53c8d7d4925.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Durand Jones / Wait Til I Get Over (CD) *예약상품 (5월 12일 발매) (김밥레코즈 ─ Pre-Order)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21986&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21986&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Wed, 10 May 2023 10:09:03 GMT</pubDate>
+            <content:encoded><![CDATA[18,600원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202305/1920ab5cd46c6b7fd23e17184523d26c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Durand Jones / Wait Til I Get Over (Blue Jay Colored Vinyl) *예약상품 (5월 12일 발매) (김밥레코즈 ─ Pre-Order)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21985&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21985&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Wed, 10 May 2023 10:09:03 GMT</pubDate>
+            <content:encoded><![CDATA[40,300원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202305/95efa7565708ffad50a698936ee3c9a9.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Durand Jones / Wait Til I Get Over (Black Vinyl) *예약상품 (5월 12일 발매) (김밥레코즈 ─ Pre-Order)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21984&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21984&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Wed, 10 May 2023 10:09:03 GMT</pubDate>
+            <content:encoded><![CDATA[38,800원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202305/0d0cbb1cc5b35629cf4aeb371195b96b.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Anri / COOOL (Vinyl, 2023 reissue) *예약상품 (7월말 배송 예정) (김밥레코즈 ─ Pre-Order)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=21870&amp;cate_no=42&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=21870&amp;cate_no=42&amp;display_group=1</guid>
@@ -462,30 +486,6 @@
             <pubDate>Wed, 03 May 2023 08:10:11 GMT</pubDate>
             <content:encoded><![CDATA[46,800원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202305/df47d377eacf7b8aa0ec25a50090b14c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Anri / Bi・Ki・Ni (Bi Ki Ni) (Vinyl, 2023 reissue) *예약상품 (7월말 배송 예정) (김밥레코즈 ─ Pre-Order)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21869&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21869&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Mon, 24 Apr 2023 08:11:31 GMT</pubDate>
-            <content:encoded><![CDATA[51,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202304/91e867c3d85e746abc097a9e7416ec9f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[OST (Various Artists) / 슬기로운 의사생활 OST 시즌2 (2LP) *예약상품 (2023년 5월중 발송 예정) (김밥레코즈 ─ Pre-Order)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=18346&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=18346&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Mon, 01 May 2023 02:01:37 GMT</pubDate>
-            <content:encoded><![CDATA[74,100원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202203/52bd46809d9b3cf1884973c2b6228b09.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[So!YoON! (황소윤) / 정규 2집 Episode1 : Love (180g Vinyl, 초도한정반) *예약상품 (10월 2일 발매, 4월 28일 주문 마감) (김밥레코즈 ─ Pre-Order)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21864&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21864&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Mon, 08 May 2023 06:10:58 GMT</pubDate>
-            <content:encoded><![CDATA[49,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202304/cb4b24a62c316183b009f5776cf10674.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Van Halen / Balance (CD) *할인상품 (김밥레코즈 ─ Bargain Bin)]]></title>
@@ -680,6 +680,14 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202302/2908d474ac6740dab93cdea9bd1e11cb.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Durand Jones / Wait Til I Get Over (CD) *예약상품 (5월 12일 발매) (김밥레코즈 ─ CD ─ Pop/Rock)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21986&amp;cate_no=30&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21986&amp;cate_no=30&amp;display_group=1</guid>
+            <pubDate>Wed, 10 May 2023 10:09:23 GMT</pubDate>
+            <content:encoded><![CDATA[18,600원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202305/1920ab5cd46c6b7fd23e17184523d26c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Fiona Apple / Extraordinary Machine (CD) *한정수량 할인 (김밥레코즈 ─ CD ─ Pop/Rock)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=21925&amp;cate_no=30&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=21925&amp;cate_no=30&amp;display_group=1</guid>
@@ -766,14 +774,6 @@
             <pubDate>Mon, 17 Apr 2023 10:09:50 GMT</pubDate>
             <content:encoded><![CDATA[13,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202304/95b87dc894be42e544c94463d066f5e7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Creedence Clearwater Revival (CCR) / Willy And The Poor Boys (Remastered CD, 40th Anniversary Edition) *한정수량 할인 (김밥레코즈 ─ CD ─ Pop/Rock)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21821&amp;cate_no=30&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21821&amp;cate_no=30&amp;display_group=1</guid>
-            <pubDate>Mon, 17 Apr 2023 10:09:50 GMT</pubDate>
-            <content:encoded><![CDATA[13,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202010/4a1c8d96998cc8cc2ee9f51d244b77aa.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Robert Miles / Dreamland (CD) *한정수량 할인 (김밥레코즈 ─ CD ─ Electronic/Dance)]]></title>
