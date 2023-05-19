@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 May 2023 11:09:27 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 May 2023 12:15:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -104,6 +104,14 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202305/02939fbf5bd74f4e37f5e48d9cf7476c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Mathieu Boogaerts / En Anglais (Viny) *한정수량 할인 (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22098&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22098&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Fri, 19 May 2023 12:13:37 GMT</pubDate>
+            <content:encoded><![CDATA[34,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202305/7c8739f750e75306656ccd389cd1eb50.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Alessandro Alessandroni / A Trip Around The World (Clear Yellow Vinyl, Limited to 500) *한정수량 할인 (김밥레코즈 ─ Vinyl)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=22096&amp;cate_no=25&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=22096&amp;cate_no=25&amp;display_group=1</guid>
@@ -190,14 +198,6 @@
             <pubDate>Fri, 19 May 2023 09:07:47 GMT</pubDate>
             <content:encoded><![CDATA[50,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202305/823fc2de9e2f2a188640cdc186ec2a6e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Don Tiki / Hot Like Lava (Fire Orange with Black Streaks 'Lava' Colored Vinyl) *한정수량 할인 (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22084&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22084&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Fri, 19 May 2023 09:07:47 GMT</pubDate>
-            <content:encoded><![CDATA[39,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202305/ad84e9ae9d67f3f9abff0977e857b340.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Lana Del Rey / Did you know that there's a tunnel under Ocean Blvd (Green Cassette) (김밥레코즈 ─ Cassette)]]></title>
