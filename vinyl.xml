@@ -4,9 +4,25 @@
         <title>김밥레코즈 ─ Vinyl</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 20 May 2023 12:14:21 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 May 2023 13:10:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[The Oscar Peterson Trio / Night Train (Vinyl, Acoustic Sounds Series)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22103&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22103&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Sat, 20 May 2023 13:08:20 GMT</pubDate>
+            <content:encoded><![CDATA[57,200원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202305/3622a36b6091c8fd772738eb2e13eb58.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Miles Davis / Volume 1 (Vinyl, Blue Note Classic Vinyl Series)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22102&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22102&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Sat, 20 May 2023 13:08:20 GMT</pubDate>
+            <content:encoded><![CDATA[37,200원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202305/391dc3a9ed6632c3f23f000c5531c379.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Dorothy Ashby / The Rubaiyat of Dorothy Ashby (Vinyl, Verve By Request 시리즈, Third Man Records Pressing)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=22101&amp;cate_no=25&amp;display_group=1</link>
@@ -86,22 +102,6 @@
             <pubDate>Fri, 19 May 2023 10:08:53 GMT</pubDate>
             <content:encoded><![CDATA[40,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202305/e60f8091684a87a89c94ffa878182e13.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Leslie Winer / When I Hit You - You'll Feel It (Black Vinyl, 2LP + 24p Booklet, Newly Remastered) *한정수량 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22089&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22089&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Fri, 19 May 2023 10:08:53 GMT</pubDate>
-            <content:encoded><![CDATA[47,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202305/4d24e4e6fe399eaf8fe73af91d72b775.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Leslie Winer / When I Hit You - You'll Feel It (Pink Moon Phase, 2LP + 24p Booklet, Newly Remastered) *한정수량 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22088&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22088&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Fri, 19 May 2023 10:08:53 GMT</pubDate>
-            <content:encoded><![CDATA[59,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202305/5e4c815c665512a540df737c12054036.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
