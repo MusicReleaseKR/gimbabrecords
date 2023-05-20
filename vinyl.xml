@@ -4,9 +4,33 @@
         <title>김밥레코즈 ─ Vinyl</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 20 May 2023 15:09:32 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 May 2023 16:11:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Babadu /Babadu! (Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22110&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22110&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Sat, 20 May 2023 16:09:18 GMT</pubDate>
+            <content:encoded><![CDATA[47,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202305/c898c3876f2d3f2ee875a3d999a54e53.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Jun Miyake / Especially Sexy (Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22109&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22109&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Sat, 20 May 2023 16:09:18 GMT</pubDate>
+            <content:encoded><![CDATA[49,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202305/ee8bcc1a655f341aeb8bf6e40ca5319c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Jun Miyake / June Night Love (Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22106&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22106&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Sat, 20 May 2023 16:09:18 GMT</pubDate>
+            <content:encoded><![CDATA[49,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202305/38ea7146d9403c2d35f16319ca7cc5e9.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Thelonious Monk & John Coltrane / Thelonious Monk with John Coltrane (Vinyl, Original Jazz Classics Series)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=22105&amp;cate_no=25&amp;display_group=1</link>
@@ -78,30 +102,6 @@
             <pubDate>Fri, 19 May 2023 11:07:27 GMT</pubDate>
             <content:encoded><![CDATA[43,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202305/f645c3be4d8d0f32fe8feba1ea950bf3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Izzy Johnson / Earth Tones (Limited White Vinyl) *절판 레코드 특별전  - 1인 1매만 구매 가능]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22095&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22095&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Fri, 19 May 2023 11:07:27 GMT</pubDate>
-            <content:encoded><![CDATA[35,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202305/22177f72d170016265b586ab1df72140.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Mutiny / A Night Out With The Boys (180g Black Vinyl, Limited to 500) *절판 레코드 특별전]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22094&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22094&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Fri, 19 May 2023 11:07:27 GMT</pubDate>
-            <content:encoded><![CDATA[37,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202305/e7072c7c1fcd6ca435a42858aeb31849.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Mustafa Ozkent / Genclik Ile Elele (Vinyl) *한정수량 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22093&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22093&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Fri, 19 May 2023 10:08:53 GMT</pubDate>
-            <content:encoded><![CDATA[39,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202305/5bc0fc1437b9c41a8d91d080612aad78.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
