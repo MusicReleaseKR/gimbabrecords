@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ Vinyl</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 20 May 2023 07:08:44 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 20 May 2023 08:11:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Dorothy Ashby / The Rubaiyat of Dorothy Ashby (Vinyl, Verve By Request 시리즈, Third Man Records Pressing)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22101&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22101&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Sat, 20 May 2023 08:08:56 GMT</pubDate>
+            <content:encoded><![CDATA[37,200원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202305/222001a21ddc224f2dc4b10a27db6350.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[듀스 Deux / 2집 Deuxism (Clear Blue Vinyl) *한정수량 할인]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=22100&amp;cate_no=25&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Fri, 19 May 2023 10:08:53 GMT</pubDate>
             <content:encoded><![CDATA[59,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202305/5e4c815c665512a540df737c12054036.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Ginji Ito / Deadly Drive (Red Vinyl) *예약상품 (8월 중순 배송 예정)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22087&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22087&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Fri, 19 May 2023 10:08:53 GMT</pubDate>
-            <content:encoded><![CDATA[52,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202305/672bc338c47ab4205438a55d683a969f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
