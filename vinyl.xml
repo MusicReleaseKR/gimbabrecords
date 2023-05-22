@@ -4,9 +4,25 @@
         <title>김밥레코즈 ─ Vinyl</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 May 2023 15:10:11 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 May 2023 16:11:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Beach House / Become (Limited Clear Vinyl, 2023 RSD Exclusive)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22139&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22139&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Mon, 22 May 2023 16:09:57 GMT</pubDate>
+            <content:encoded><![CDATA[35,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202305/51883cc56591897d908d30a33deb5406.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Mr. Big / Mr. Big (Limited Colored Vinyl - Solid Blue 색상, 일련번호 표기, 2023 RSD First)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22138&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22138&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Mon, 22 May 2023 16:09:57 GMT</pubDate>
+            <content:encoded><![CDATA[59,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202305/9df1999eb627f835eb21362f38d24b25.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Pearl Jam / Give Away (Vinyl, 2LP, Limited Edition, 2023 RSD Exclusive)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=22136&amp;cate_no=25&amp;display_group=1</link>
@@ -86,22 +102,6 @@
             <pubDate>Mon, 22 May 2023 09:09:12 GMT</pubDate>
             <content:encoded><![CDATA[37,200원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202305/9e1eb249ef2e9fb128a7d4339e857a43.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Gil Evans / Great Jazz Standards (180g Vinyl, Blue Note Tone Poet Series, RTI Pressings)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22120&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22120&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Mon, 22 May 2023 09:09:12 GMT</pubDate>
-            <content:encoded><![CDATA[57,200원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202305/16b5ad3eeeb6fa7bbd6b96876aa4e6b4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Freddie Hubbard / Blue Spirits (180g Vinyl, Blue Note Tone Poet Series, RTI Pressings)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22119&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22119&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Mon, 22 May 2023 09:09:12 GMT</pubDate>
-            <content:encoded><![CDATA[57,200원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202305/af64af4e851a78f4db202f11befaa59e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

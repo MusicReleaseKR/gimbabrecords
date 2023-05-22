@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 May 2023 15:10:11 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 May 2023 16:11:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[The 1975 / Live With The BBC Philharmonic Orchestra (CD, Limited Edition, 2023 RSD Exclusive) (김밥레코즈 ─ CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22137&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22137&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Mon, 22 May 2023 16:09:51 GMT</pubDate>
+            <content:encoded><![CDATA[24,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202305/551cf484628066ce250bc9dd27a3f7d0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Lauv / All 4 Nothing (CD + 1 bonus track) *한정수량 할인 (김밥레코즈 ─ CD)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=22130&amp;cate_no=24&amp;display_group=1</link>
@@ -96,12 +104,20 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202305/1c330884d9627d875a62fc9d0b6ac003.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Vaundy / strobo (CD) (김밥레코즈 ─ CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22037&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22037&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Wed, 17 May 2023 07:12:33 GMT</pubDate>
-            <content:encoded><![CDATA[38,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202305/76027158f3e0c90c17268e704575a3bb.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[Beach House / Become (Limited Clear Vinyl, 2023 RSD Exclusive) (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22139&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22139&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Mon, 22 May 2023 16:09:57 GMT</pubDate>
+            <content:encoded><![CDATA[35,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202305/51883cc56591897d908d30a33deb5406.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Mr. Big / Mr. Big (Limited Colored Vinyl - Solid Blue 색상, 일련번호 표기, 2023 RSD First) (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22138&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22138&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Mon, 22 May 2023 16:09:57 GMT</pubDate>
+            <content:encoded><![CDATA[59,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202305/9df1999eb627f835eb21362f38d24b25.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Pearl Jam / Give Away (Vinyl, 2LP, Limited Edition, 2023 RSD Exclusive) (김밥레코즈 ─ Vinyl)]]></title>
@@ -182,22 +198,6 @@
             <pubDate>Mon, 22 May 2023 09:09:12 GMT</pubDate>
             <content:encoded><![CDATA[37,200원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202305/9e1eb249ef2e9fb128a7d4339e857a43.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Gil Evans / Great Jazz Standards (180g Vinyl, Blue Note Tone Poet Series, RTI Pressings) (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22120&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22120&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Mon, 22 May 2023 09:09:12 GMT</pubDate>
-            <content:encoded><![CDATA[57,200원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202305/16b5ad3eeeb6fa7bbd6b96876aa4e6b4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Freddie Hubbard / Blue Spirits (180g Vinyl, Blue Note Tone Poet Series, RTI Pressings) (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22119&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22119&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Mon, 22 May 2023 09:09:12 GMT</pubDate>
-            <content:encoded><![CDATA[57,200원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202305/af64af4e851a78f4db202f11befaa59e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Lana Del Rey / Did you know that there's a tunnel under Ocean Blvd (Pink Cassette) (김밥레코즈 ─ Cassette)]]></title>
@@ -680,6 +680,14 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202303/8a6616cfae1c05845fbae5de1e2bae59.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[The 1975 / Live With The BBC Philharmonic Orchestra (CD, Limited Edition, 2023 RSD Exclusive) (김밥레코즈 ─ CD ─ Pop/Rock)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22137&amp;cate_no=30&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22137&amp;cate_no=30&amp;display_group=1</guid>
+            <pubDate>Mon, 22 May 2023 16:10:38 GMT</pubDate>
+            <content:encoded><![CDATA[24,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202305/551cf484628066ce250bc9dd27a3f7d0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Lauv / All 4 Nothing (CD + 1 bonus track) *한정수량 할인 (김밥레코즈 ─ CD ─ Pop/Rock)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=22130&amp;cate_no=30&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=22130&amp;cate_no=30&amp;display_group=1</guid>
@@ -766,14 +774,6 @@
             <pubDate>Thu, 20 Apr 2023 10:09:31 GMT</pubDate>
             <content:encoded><![CDATA[18,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202304/b21e082426f452671c2f3b4a223d00b0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Creedence Clearwater Revival (CCR) / Cosmo's Factory (CD + bonus tracks) *한정수량 할인 (김밥레코즈 ─ CD ─ Pop/Rock)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21838&amp;cate_no=30&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21838&amp;cate_no=30&amp;display_group=1</guid>
-            <pubDate>Tue, 18 Apr 2023 10:09:23 GMT</pubDate>
-            <content:encoded><![CDATA[15,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/201907/8afd0b7a43c78ffaabecfb7a3110317f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Robert Miles / Dreamland (CD) *한정수량 할인 (김밥레코즈 ─ CD ─ Electronic/Dance)]]></title>
