@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ Vinyl</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 May 2023 09:11:19 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 May 2023 10:11:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Wendy Carlos & Rachel Elkind / The Shining 샤이닝 (Selections from the Original Motion Picture Soundtrack) (7" Purple, Green & Black Tri-Color Vinyl, 45RPM)  *한정수량 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22131&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22131&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Mon, 22 May 2023 10:09:09 GMT</pubDate>
+            <content:encoded><![CDATA[25,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202305/9a71caf7615eee84ecc42744ef019925.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Jacob Collier (Feat. Lizzy McAlpine & John Mayer) / Never Gonna Be Alone (7" Orange Vinyl, Limited Edition)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=22125&amp;cate_no=25&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Mon, 22 May 2023 09:09:12 GMT</pubDate>
             <content:encoded><![CDATA[37,200원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202305/d711d8ec6f1f4afa60cb02e138652c61.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Alice Coltrane / Journey In Satchidananda (180g Vinyl, Acoustic Sounds Series, QRP Pressings)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22113&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22113&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Mon, 22 May 2023 09:09:12 GMT</pubDate>
-            <content:encoded><![CDATA[57,200원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202305/4352fff63d39d2750edb1c4dcdc1e2a5.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
