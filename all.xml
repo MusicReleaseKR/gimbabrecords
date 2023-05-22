@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 May 2023 16:11:58 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 May 2023 17:09:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -104,6 +104,14 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202305/1c330884d9627d875a62fc9d0b6ac003.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Lana Del Rey / Did You Know That There’s A Tunnel Under Ocean Blvd (Limited Light Green Vinyl, 2LP) *1인 1매만 구매 가능 (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22140&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22140&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Mon, 22 May 2023 17:07:18 GMT</pubDate>
+            <content:encoded><![CDATA[59,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202305/30ec56b4ef9b25a0f3a615cdc8ad65ca.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Beach House / Become (Limited Clear Vinyl, 2023 RSD Exclusive) (김밥레코즈 ─ Vinyl)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=22139&amp;cate_no=25&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=22139&amp;cate_no=25&amp;display_group=1</guid>
@@ -190,14 +198,6 @@
             <pubDate>Mon, 22 May 2023 09:09:12 GMT</pubDate>
             <content:encoded><![CDATA[37,200원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202305/25db1814a7962100bf5319fc3e66fba9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Nina Simone / Great Women Of Song: Nina Simone (Blue Marble Vinyl, Limited Edition) (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22121&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22121&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Mon, 22 May 2023 09:09:12 GMT</pubDate>
-            <content:encoded><![CDATA[37,200원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202305/9e1eb249ef2e9fb128a7d4339e857a43.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Lana Del Rey / Did you know that there's a tunnel under Ocean Blvd (Pink Cassette) (김밥레코즈 ─ Cassette)]]></title>
