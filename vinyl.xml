@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ Vinyl</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 May 2023 07:10:05 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 May 2023 08:12:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Joji / Smithereens (Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22144&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22144&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Tue, 23 May 2023 08:10:15 GMT</pubDate>
+            <content:encoded><![CDATA[47,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202305/c437fe853bc43d2ccbe004447c80dcf3.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[The Lovelites / With Love From The Lovelites (Vinyl + OBI) *할인상품 (쟈켓 모서리에 작은 눌림이 있습니다.)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=22142&amp;cate_no=25&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Mon, 22 May 2023 10:09:09 GMT</pubDate>
             <content:encoded><![CDATA[25,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202305/9a71caf7615eee84ecc42744ef019925.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Jacob Collier (Feat. Lizzy McAlpine & John Mayer) / Never Gonna Be Alone (7" Orange Vinyl, Limited Edition)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22125&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22125&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Mon, 22 May 2023 09:09:12 GMT</pubDate>
-            <content:encoded><![CDATA[25,700원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202305/8b2066945cd95f958b7b8d6fb3ec8862.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
