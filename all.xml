@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 May 2023 06:12:17 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 May 2023 07:10:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -104,6 +104,22 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202305/a8c435716df0bc42fcfc9a154b1763b3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Erykah Badu / New Amerykah Part Two: Return Of The Ankh (Purple Marble Vinyl, 2LP, Limited Edition) (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22153&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22153&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Wed, 24 May 2023 07:08:38 GMT</pubDate>
+            <content:encoded><![CDATA[49,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202305/6e3811bbeadf838a5ed532796751c36e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[David Bowie / Aladdin Sane (Vinyl, 50th Anniversary Picture Disc) (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22152&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22152&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Wed, 24 May 2023 07:08:38 GMT</pubDate>
+            <content:encoded><![CDATA[43,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202305/2a7325f81690ee286b322eedc81b095c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Marvin Gaye / Greatest Hits Live In '76 (Vinyl) (김밥레코즈 ─ Vinyl)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=22151&amp;cate_no=25&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=22151&amp;cate_no=25&amp;display_group=1</guid>
@@ -182,22 +198,6 @@
             <pubDate>Tue, 23 May 2023 06:11:14 GMT</pubDate>
             <content:encoded><![CDATA[47,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202305/45bd09d6c025874aa331477c72df97c5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Lana Del Rey / Did You Know That There’s A Tunnel Under Ocean Blvd (Limited Light Green Vinyl, 2LP) *1인 1매만 구매 가능 (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22140&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22140&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Mon, 22 May 2023 17:07:18 GMT</pubDate>
-            <content:encoded><![CDATA[59,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202305/30ec56b4ef9b25a0f3a615cdc8ad65ca.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Beach House / Become (Limited Clear Vinyl, 2023 RSD Exclusive) (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22139&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22139&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Mon, 22 May 2023 16:09:57 GMT</pubDate>
-            <content:encoded><![CDATA[35,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202305/51883cc56591897d908d30a33deb5406.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Lana Del Rey / Did you know that there's a tunnel under Ocean Blvd (Pink Cassette) (김밥레코즈 ─ Cassette)]]></title>
