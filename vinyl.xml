@@ -4,9 +4,33 @@
         <title>김밥레코즈 ─ Vinyl</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 May 2023 09:11:34 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 May 2023 10:10:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Jamiroquai / Live At BBC Maida Vale 1999 (12" Blue Vinyl, Limited Edition, 2023 Record Store Day)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22170&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22170&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Thu, 25 May 2023 10:08:44 GMT</pubDate>
+            <content:encoded><![CDATA[39,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202305/18aef12139959b13dae921ad8cbe6232.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Raincoats / Odyshape (Vinyl, Reissue) *할인상품 (구매시 상세정보를 확인하세요)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22169&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22169&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Thu, 25 May 2023 10:08:44 GMT</pubDate>
+            <content:encoded><![CDATA[35,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202305/b31419ad8cb79c375604c6139061db6a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Avishai Cohen (Feat. Abraham Rodriguez Jr) / Iroko (Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22168&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22168&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Thu, 25 May 2023 10:08:44 GMT</pubDate>
+            <content:encoded><![CDATA[36,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202305/84b194d0ff95ffbb7e042403bb575836.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Marcos Valle / Democustico + Freio Aerodinamico (7" Vinyl, Mr. Bongo) *압축포장 없이 출고된 상품입니다.]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=22167&amp;cate_no=25&amp;display_group=1</link>
@@ -78,30 +102,6 @@
             <pubDate>Wed, 24 May 2023 08:10:37 GMT</pubDate>
             <content:encoded><![CDATA[56,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202305/34142ef3aed536313f6cd642bedcae26.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Erykah Badu / New Amerykah Part Two: Return Of The Ankh (Purple Marble Vinyl, 2LP, Limited Edition)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22153&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22153&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Wed, 24 May 2023 07:08:38 GMT</pubDate>
-            <content:encoded><![CDATA[49,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202305/6e3811bbeadf838a5ed532796751c36e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[David Bowie / Aladdin Sane (Vinyl, 50th Anniversary Picture Disc)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22152&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22152&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Wed, 24 May 2023 07:08:38 GMT</pubDate>
-            <content:encoded><![CDATA[43,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202305/2a7325f81690ee286b322eedc81b095c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Marvin Gaye / Greatest Hits Live In '76 (Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22151&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22151&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Wed, 24 May 2023 06:10:20 GMT</pubDate>
-            <content:encoded><![CDATA[35,800원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202305/eba6ba6278aa890874ed15e267bc368b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
