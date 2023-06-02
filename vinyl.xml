@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ Vinyl</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 02 Jun 2023 05:09:58 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Jun 2023 06:14:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Yellow Magic Orchestra / After Service (Vinyl, 2LP)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22191&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22191&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Fri, 02 Jun 2023 06:12:14 GMT</pubDate>
+            <content:encoded><![CDATA[67,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202306/21bddf36f2cf5cf6ede70f1b3e1ef145.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Alphataurus / Alphataurus (Vinyl, Gatefold sleeve)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=22184&amp;cate_no=25&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Thu, 25 May 2023 09:09:31 GMT</pubDate>
             <content:encoded><![CDATA[59,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202305/0924ac28a7f75a158ee03b50e4c1b31f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Metallica / 72 Seasons (Purple Vinyl, 2LP, Indie Exclusive Limited Edition)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22163&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22163&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Thu, 25 May 2023 09:09:31 GMT</pubDate>
-            <content:encoded><![CDATA[73,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202305/9756d3fbe9ad249f862afa0a9144247c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
