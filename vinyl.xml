@@ -4,9 +4,25 @@
         <title>김밥레코즈 ─ Vinyl</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 02 Jun 2023 06:14:21 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Jun 2023 07:10:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Yellow Magic Orchestra / Service (Vinyl, 2019 Japanese reissue)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22193&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22193&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Fri, 02 Jun 2023 07:08:11 GMT</pubDate>
+            <content:encoded><![CDATA[47,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202306/52232a7b8401bfffef99d929f1c6dd6e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Yellow Magic Orchestra (YMO) / Multiplies (Vinyl, 2019 Japanese reissue)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22192&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22192&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Fri, 02 Jun 2023 07:08:11 GMT</pubDate>
+            <content:encoded><![CDATA[47,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202306/42db566edcd5e50a65a54b217b1bb52d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Yellow Magic Orchestra / After Service (Vinyl, 2LP)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=22191&amp;cate_no=25&amp;display_group=1</link>
@@ -86,22 +102,6 @@
             <pubDate>Thu, 25 May 2023 09:09:31 GMT</pubDate>
             <content:encoded><![CDATA[19,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202305/d926a415090c135b2a091cc97316b208.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Tony Bennett & Lady Gaga / Love For Sale (Vinyl, Picture Disc) *한정수량 할인 / 1인 2매까지 구매 가능]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22165&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22165&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Thu, 25 May 2023 09:09:31 GMT</pubDate>
-            <content:encoded><![CDATA[34,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202305/ab1ffd2fe79562fa83c48d77e5ad7bcd.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Metallica / 72 Seasons (Black Vinyl, 2LP) *한정수량 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22164&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22164&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Thu, 25 May 2023 09:09:31 GMT</pubDate>
-            <content:encoded><![CDATA[59,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202305/0924ac28a7f75a158ee03b50e4c1b31f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
