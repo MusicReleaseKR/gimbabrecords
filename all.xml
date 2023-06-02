@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 02 Jun 2023 14:10:19 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Jun 2023 15:09:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -301,7 +301,7 @@
             <guid>http://gimbabrecords.com/product/detail.html?product_no=22203&amp;cate_no=27&amp;display_group=1</guid>
             <pubDate>Fri, 02 Jun 2023 14:08:25 GMT</pubDate>
             <content:encoded><![CDATA[21,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202306/cd6a5d10d38bb1f51473228c29faf181.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202306/3c0da3e312fbc3e7e50552137ee06c38.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Vinyl Styl 12.75"X12.75" Outer Record Sleeves w/ Resealable Tape Strip VS-P-012 (12인치 바이닐 / 엘피 레코드 보호비닐 50매 / 재밀봉 가능한 테이프 스트립이 달린 비닐) (김밥레코즈 ─ Movies/Merch)]]></title>
@@ -320,7 +320,7 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202306/0d7e009acd82c552165c53b49f58a014.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[Discwasher RD2007Z D4+ Record Care System (50ml 청소용 용액, 극세사 브러쉬, 청소용 미니 브러쉬) (김밥레코즈 ─ Movies/Merch)]]></title>
+            <title><![CDATA[Discwasher RD2007Z D4+ Record Care System (청소용 용액, 청소용 브러쉬, 미니 브러쉬, 파우치) (김밥레코즈 ─ Movies/Merch)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=22188&amp;cate_no=27&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=22188&amp;cate_no=27&amp;display_group=1</guid>
             <pubDate>Fri, 02 Jun 2023 06:12:29 GMT</pubDate>
