@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 12 Jun 2023 10:10:54 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Jun 2023 11:08:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -104,6 +104,14 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202305/9ec346fe6864819e36b2d60fe08cce49.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[이정선 / 이정선 BEST (180g Vinyl) (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22232&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22232&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Mon, 12 Jun 2023 11:06:12 GMT</pubDate>
+            <content:encoded><![CDATA[44,600원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202306/eeb7c9097ccc71c105242aabdc23fa70.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Tycho / Awake (Clear Vinyl + Download) *한정수량 할인 (김밥레코즈 ─ Vinyl)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=22226&amp;cate_no=25&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=22226&amp;cate_no=25&amp;display_group=1</guid>
@@ -190,14 +198,6 @@
             <pubDate>Thu, 08 Jun 2023 07:07:30 GMT</pubDate>
             <content:encoded><![CDATA[43,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202306/70f9f2820706b9c1835d04573df26962.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[선우정아 / It's Okay, Dear (Vinyl) *예약상품 (8월 중순 이후 배송 예정) (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22214&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22214&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Fri, 09 Jun 2023 09:07:45 GMT</pubDate>
-            <content:encoded><![CDATA[54,900원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202306/ec13e2f291e90aa09f2c75216406e6a3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[illathnmst. / .​.​. (Cassette) *겉포장 없이 출고된 상품입니다. (김밥레코즈 ─ Cassette)]]></title>
@@ -1736,6 +1736,14 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202303/09a683d0eeb2dd1ac9b9bb01b30980ed.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[이정선 / 이정선 BEST (180g Vinyl) (김밥레코즈 ─ Vinyl ─ Korean)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22232&amp;cate_no=52&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22232&amp;cate_no=52&amp;display_group=1</guid>
+            <pubDate>Mon, 12 Jun 2023 11:08:03 GMT</pubDate>
+            <content:encoded><![CDATA[44,600원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202306/eeb7c9097ccc71c105242aabdc23fa70.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[빛과 소금 / VOL.1 (180g Clear Vinyl, 2019 Remastered) (김밥레코즈 ─ Vinyl ─ Korean)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=22220&amp;cate_no=52&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=22220&amp;cate_no=52&amp;display_group=1</guid>
@@ -1822,14 +1830,6 @@
             <pubDate>Sat, 20 May 2023 03:10:35 GMT</pubDate>
             <content:encoded><![CDATA[55,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202305/07949364c2c34d9a0297ea8e61f4dbc2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[하나옴니버스 / 1,2,3집 (180g Vinyl. 3LP) *예약상품 (9월 14일 발매 예정, 5월 21일 주문 마감) (김밥레코즈 ─ Vinyl ─ Korean)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22030&amp;cate_no=52&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22030&amp;cate_no=52&amp;display_group=1</guid>
-            <pubDate>Tue, 16 May 2023 10:10:13 GMT</pubDate>
-            <content:encoded><![CDATA[138,100원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202305/12619aaa944588c18799fc5d57a566c3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Nick Cave & The Bad Seeds / Your Funeral... My Trial (Remastered CD + DVD, NTSC Version) *1회 한정 할인 (김밥레코즈 ─ Movies/Merch ─ DVD/Blu-Ray)]]></title>
