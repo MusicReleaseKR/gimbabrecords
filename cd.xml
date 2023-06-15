@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ CD</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 15 Jun 2023 14:09:40 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Jun 2023 15:10:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Freddie Hubbard / Straight Life (Blu-Spec CD, CTI Supreme Collection, Limited Edition) *한정수량 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22257&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22257&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Thu, 15 Jun 2023 15:08:11 GMT</pubDate>
+            <content:encoded><![CDATA[13,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202306/57b35d8fd3cdb16fecea2ebd30347e9b.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[파란노을 Parannoul / After the Magic (CD, US Import)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=22256&amp;cate_no=24&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Fri, 02 Jun 2023 07:08:04 GMT</pubDate>
             <content:encoded><![CDATA[20,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202306/c8d0196953a13e77c910975cb4e432d7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Big L / Lifestylez Ov Da Poor & Dangerous (CD, US Import)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22187&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22187&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Fri, 02 Jun 2023 05:07:47 GMT</pubDate>
-            <content:encoded><![CDATA[17,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/201903/1849f1f4a152eae4ea51c73c26d3d42a.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
