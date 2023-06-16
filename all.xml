@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 16 Jun 2023 15:10:08 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Jun 2023 16:15:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -408,14 +408,6 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202306/0b735a45c498584db9c18994b4111a3d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Bala Desejo / Sim Sim Sim (Vinyl, Mr.Bongo Pressing)  *예약상품 (6월 22일 이후 발송 예정) (김밥레코즈 ─ Pre-Order)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21058&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21058&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Fri, 16 Jun 2023 09:10:45 GMT</pubDate>
-            <content:encoded><![CDATA[39,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202301/709b973bc778679b5f0b603587cf4e38.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Jack Johnson / Sing-A-Longs And Lullabies For The Film Curious George (Vinyl) *예약상품 (6월말 발송 예정) (김밥레코즈 ─ Pre-Order)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=4115&amp;cate_no=42&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=4115&amp;cate_no=42&amp;display_group=1</guid>
@@ -486,6 +478,14 @@
             <pubDate>Mon, 05 Jun 2023 05:08:13 GMT</pubDate>
             <content:encoded><![CDATA[50,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/201805/10899_shop1_15267890060163.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Shigeo Sekito /  Special Sound Series Vol. 2 華麗なるエレクトーン (ザ・ワード) (Vinyl, Reissue) *예약상품 (7월초 발송 예정) (김밥레코즈 ─ Pre-Order)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21938&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21938&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Fri, 16 Jun 2023 16:13:46 GMT</pubDate>
+            <content:encoded><![CDATA[54,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202304/fc8708902dab85afa24ddc0b1d0bf1a9.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Van Halen / Balance (CD) *할인상품 (김밥레코즈 ─ Bargain Bin)]]></title>
