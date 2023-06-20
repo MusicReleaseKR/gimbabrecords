@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 20 Jun 2023 05:11:25 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Jun 2023 06:14:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Spitz / Himitsu Studio (CD) (김밥레코즈 ─ CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22276&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22276&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Tue, 20 Jun 2023 06:12:37 GMT</pubDate>
+            <content:encoded><![CDATA[37,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202306/2a2e4e4776e1cb1b375a4c00e44e2d13.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Kingo Hamada / Fall in Love (CD) (김밥레코즈 ─ CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22275&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22275&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Tue, 20 Jun 2023 06:12:37 GMT</pubDate>
+            <content:encoded><![CDATA[19,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202306/18a7a5ec5a912d5767fd58f9f7b9f7d6.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Noel Gallagher's High Flying Birds / Council Skies (Deluxe 2CD, Hardback Book Packaging) (김밥레코즈 ─ CD)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=22270&amp;cate_no=24&amp;display_group=1</link>
@@ -86,22 +102,6 @@
             <pubDate>Fri, 09 Jun 2023 09:07:38 GMT</pubDate>
             <content:encoded><![CDATA[23,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202306/efbe3297ebd227edf28104c0cf900b44.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Kelly Lee Owens / LP 8 (CD, Digipak) (김밥레코즈 ─ CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22218&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22218&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Thu, 08 Jun 2023 09:07:40 GMT</pubDate>
-            <content:encoded><![CDATA[20,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/44fa27265eec745f3e3924ae92be12b9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[EVISBEATS / That's Life (CD) *구매 시 Bonus Mix CD 증정 (김밥레코즈 ─ CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22208&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22208&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Mon, 05 Jun 2023 10:09:12 GMT</pubDate>
-            <content:encoded><![CDATA[33,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202306/9bb18b3cee65a7aea574a9044bdec1c2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Fujii Kaze / Love All Serve All (Limited Colored Vinyl, 2LP+Flexi Disc+Poster) *할인상품입니다. (1인 1매만 구매 가능 / "구매시 유의사항"을 확인하세요) (김밥레코즈 ─ Vinyl)]]></title>
@@ -1640,6 +1640,22 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202210/cfa26e40165b9ed191f863740f371b37.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Spitz / Himitsu Studio (CD) (김밥레코즈 ─ CD ─ Japanese)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22276&amp;cate_no=90&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22276&amp;cate_no=90&amp;display_group=1</guid>
+            <pubDate>Tue, 20 Jun 2023 06:14:23 GMT</pubDate>
+            <content:encoded><![CDATA[37,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202306/2a2e4e4776e1cb1b375a4c00e44e2d13.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Kingo Hamada / Fall in Love (CD) (김밥레코즈 ─ CD ─ Japanese)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22275&amp;cate_no=90&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22275&amp;cate_no=90&amp;display_group=1</guid>
+            <pubDate>Tue, 20 Jun 2023 06:14:23 GMT</pubDate>
+            <content:encoded><![CDATA[19,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202306/18a7a5ec5a912d5767fd58f9f7b9f7d6.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Masayoshi Takanaka / An Insatiable High (SHM-CD) *한정수량 할인 (김밥레코즈 ─ CD ─ Japanese)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=22259&amp;cate_no=90&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=22259&amp;cate_no=90&amp;display_group=1</guid>
@@ -1718,22 +1734,6 @@
             <pubDate>Wed, 17 May 2023 07:14:31 GMT</pubDate>
             <content:encoded><![CDATA[38,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202305/ab4328190ca22a6fbfff301624f135e0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Official HIGE DANdism 오피셜히게단디즘 / Traveler (CD) (김밥레코즈 ─ CD ─ Japanese)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22033&amp;cate_no=90&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22033&amp;cate_no=90&amp;display_group=1</guid>
-            <pubDate>Wed, 17 May 2023 07:14:31 GMT</pubDate>
-            <content:encoded><![CDATA[36,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202305/dfe1a31ac38e1826d352416379a80638.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Yorushika 요루시카 / Dakara Boku wa Ongaku wo Yametai だから僕は音楽を辞めた (CD) (김밥레코즈 ─ CD ─ Japanese)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22032&amp;cate_no=90&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22032&amp;cate_no=90&amp;display_group=1</guid>
-            <pubDate>Wed, 17 May 2023 07:14:31 GMT</pubDate>
-            <content:encoded><![CDATA[36,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202305/ba3d441b22aa9b895baba7b00c60adf8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[윤지영 / 정규 1집 나의 정원에서 (Clear Vinyl) *예약상품 (9월 25일 발매 예정, 6월 29일 주문 마감) (김밥레코즈 ─ Vinyl ─ Korean)]]></title>
