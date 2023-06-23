@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 23 Jun 2023 07:10:21 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Jun 2023 08:13:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -104,6 +104,14 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202306/ab32e27c6cd587a0ac2406a490426bbc.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Queens Of The Stone Age / In Times New Roman... (Glow In The Dark Vinyl 민트색 야광 바이닐, 2LP, Indie Retail Exclusive, 북미지역 한정반) (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22309&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22309&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Fri, 23 Jun 2023 08:11:00 GMT</pubDate>
+            <content:encoded><![CDATA[88,300원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202306/469c58c342b84c3031e180ffb64b88e3.gif" length="0" type="image/gif"/>
+        </item>
+        <item>
             <title><![CDATA[Madlib / Shades Of Blue (180g Vinyl, 2LP, Blue Note Classic Vinyl Series) (김밥레코즈 ─ Vinyl)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=22298&amp;cate_no=25&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=22298&amp;cate_no=25&amp;display_group=1</guid>
@@ -190,14 +198,6 @@
             <pubDate>Wed, 21 Jun 2023 08:10:22 GMT</pubDate>
             <content:encoded><![CDATA[46,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202306/504e9df73ce6c4a53d7b032fe1933e00.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오진우, 이소(Duo E) & 파네마  (스플릿 7" Vinyl) *예약상품 (6월 27일 발매일 이후 순차 발송) (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22286&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22286&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Tue, 20 Jun 2023 13:12:24 GMT</pubDate>
-            <content:encoded><![CDATA[22,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202306/30b38436f76f3c3adcd09a98d47a126d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Tatsuro Yamashita / Ride On Time (Limited Cassette) (김밥레코즈 ─ Cassette)]]></title>
