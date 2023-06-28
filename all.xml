@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 28 Jun 2023 09:11:42 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Jun 2023 10:11:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -104,6 +104,14 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/201610/5365_shop1_569403.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Conan Gray / Kid Krow (Black Vinyl, EU, Dutch Pressing) (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22357&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22357&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Wed, 28 Jun 2023 10:09:57 GMT</pubDate>
+            <content:encoded><![CDATA[49,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/20200421/c80162f844e07e48bb208dfc585db37e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[En Vogue / Funky Divas (180g Vinyl, Reissue) *한정수량 할인 (김밥레코즈 ─ Vinyl)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=22356&amp;cate_no=25&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=22356&amp;cate_no=25&amp;display_group=1</guid>
@@ -190,14 +198,6 @@
             <pubDate>Wed, 28 Jun 2023 06:11:45 GMT</pubDate>
             <content:encoded><![CDATA[40,800원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202306/52153a5935db8029eb90a334f9676062.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Nicola Conte / Umoja (Vinyl, 2LP) *예약상품 (7월 11일 전후 배송 시작) (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22344&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22344&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Tue, 27 Jun 2023 18:11:40 GMT</pubDate>
-            <content:encoded><![CDATA[39,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202306/3346d160def3329be61a553a1c62c634.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Slowdive / everything is alive (Cassette) *예약상품 (9월 1일 발매 예정, 6월 29일 주문 마감) (김밥레코즈 ─ Cassette)]]></title>
