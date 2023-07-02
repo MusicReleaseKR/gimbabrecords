@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 02 Jul 2023 14:09:39 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 02 Jul 2023 15:10:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -384,12 +384,12 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/201810/d82e69326eae61cb2f373ab8db48a7a5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Nick Cave & The Bad Seeds / The Good Son (Remastered CD + DVD, NTSC Version) *1회 한정 할인 (김밥레코즈 ─ Movies/Merch)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21730&amp;cate_no=27&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21730&amp;cate_no=27&amp;display_group=1</guid>
-            <pubDate>Sat, 29 Apr 2023 12:12:36 GMT</pubDate>
+            <title><![CDATA[Nick Cave & The Bad Seeds / Murder Ballads (Remastered CD + DVD, NTSC Version) *1회 한정 할인 (김밥레코즈 ─ Movies/Merch)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21729&amp;cate_no=27&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21729&amp;cate_no=27&amp;display_group=1</guid>
+            <pubDate>Sun, 02 Jul 2023 15:08:18 GMT</pubDate>
             <content:encoded><![CDATA[16,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/c153bd767f1470fcbec28a1fe18ec27c.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/201810/f2d87c5c47bb961b6573993ab413b700.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Camera Obscura / Underachievers Please Try Harder (Colored Vinyl, 2023 reissue) (김밥레코즈 ─ Pre-Order)]]></title>
