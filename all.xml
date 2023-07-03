@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Jul 2023 05:10:52 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Jul 2023 06:13:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -200,14 +200,6 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202306/b9d7c85d0d83f0206fe9cd137fc85a31.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Slowdive / everything is alive (Cassette) *예약상품 (9월 1일 발매 예정, 6월 29일 주문 마감) (김밥레코즈 ─ Cassette)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22321&amp;cate_no=26&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22321&amp;cate_no=26&amp;display_group=1</guid>
-            <pubDate>Fri, 23 Jun 2023 11:08:19 GMT</pubDate>
-            <content:encoded><![CDATA[14,300원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202306/10772996dd2b2eec3820e681174991b1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Tatsuro Yamashita / Ride On Time (Limited Cassette) (김밥레코즈 ─ Cassette)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=22238&amp;cate_no=26&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=22238&amp;cate_no=26&amp;display_group=1</guid>
@@ -294,6 +286,14 @@
             <pubDate>Sat, 01 Jul 2023 06:10:40 GMT</pubDate>
             <content:encoded><![CDATA[12,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202302/949cd9de297d834d11d5ee1f03ed9c0f.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Hot Chip / Freakout/Release (Cassette) (김밥레코즈 ─ Cassette)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=21201&amp;cate_no=26&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=21201&amp;cate_no=26&amp;display_group=1</guid>
+            <pubDate>Mon, 03 Jul 2023 06:11:59 GMT</pubDate>
+            <content:encoded><![CDATA[18,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202209/7b82b2e9a20f0eef874616edf2416fce.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[AT-VMN95EN 교체형 스타일러스(턴테이블 바늘) - 오디오 테크니카(Audio Technica) 턴테이블 LP-120XUSB, LP-W40WN, LP3XBT 등에 사용 가능 (김밥레코즈 ─ Movies/Merch)]]></title>
