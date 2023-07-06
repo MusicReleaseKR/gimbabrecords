@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 06 Jul 2023 15:11:30 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Jul 2023 16:13:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Ryuichi Sakamoto / 12 (CD, 국내반) (김밥레코즈 ─ CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22391&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22391&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Thu, 06 Jul 2023 16:11:28 GMT</pubDate>
+            <content:encoded><![CDATA[19,300원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202307/3fc2e880126cc675348bc37a1b14045a.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Pat Metheny / Dream Box (CD) (김밥레코즈 ─ CD)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=22389&amp;cate_no=24&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Tue, 27 Jun 2023 09:08:57 GMT</pubDate>
             <content:encoded><![CDATA[17,700원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202306/383441e5e8634fc349b5b202a5a5d56b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Overmono / Good Lies (CD, Digipak) (김밥레코즈 ─ CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22334&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22334&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Tue, 27 Jun 2023 09:08:57 GMT</pubDate>
-            <content:encoded><![CDATA[17,700원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202306/1f4aa5d6b5b698405f92b7b4513ac931.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Karen Dalton / In My Own Time (50th Anniversary Remaster w/ 20p booklet, Limited Silver Colored Vinyl) (김밥레코즈 ─ Vinyl)]]></title>
@@ -776,6 +776,14 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/201710/8735_shop1_355251.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Ryuichi Sakamoto / 12 (CD, 국내반) (김밥레코즈 ─ CD ─ Electronic/Dance)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22391&amp;cate_no=31&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22391&amp;cate_no=31&amp;display_group=1</guid>
+            <pubDate>Thu, 06 Jul 2023 16:12:21 GMT</pubDate>
+            <content:encoded><![CDATA[19,300원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202307/3fc2e880126cc675348bc37a1b14045a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Christine And The Queens / Paranoia, Angels, True Love (3CD) (김밥레코즈 ─ CD ─ Electronic/Dance)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=22388&amp;cate_no=31&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=22388&amp;cate_no=31&amp;display_group=1</guid>
@@ -862,14 +870,6 @@
             <pubDate>Mon, 03 Apr 2023 22:08:33 GMT</pubDate>
             <content:encoded><![CDATA[45,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202304/b07f132055776732ce10afcadc054c68.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Nosaj Thing / Continua (CD, Jewel Case) (김밥레코즈 ─ CD ─ Electronic/Dance)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21702&amp;cate_no=31&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21702&amp;cate_no=31&amp;display_group=1</guid>
-            <pubDate>Fri, 31 Mar 2023 08:12:11 GMT</pubDate>
-            <content:encoded><![CDATA[20,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202302/01e1ffce6f64741d126ba386326e8673.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Nicola Conte / Umoja (CD) *예약상품 (7월 11일 전후 배송 시작) (김밥레코즈 ─ CD ─ R&B/Soul/Funk)]]></title>
@@ -1448,6 +1448,14 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202304/3ec6a117277aa97ca52ebd9cbdc15b2e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Ryuichi Sakamoto / 12 (CD, 국내반) (김밥레코즈 ─ CD ─ Classical/Crossover)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22391&amp;cate_no=50&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22391&amp;cate_no=50&amp;display_group=1</guid>
+            <pubDate>Thu, 06 Jul 2023 16:13:05 GMT</pubDate>
+            <content:encoded><![CDATA[19,300원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202307/3fc2e880126cc675348bc37a1b14045a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Max Richter / The New Four Seasons - Vivaldi Recomposed 새로운 사계: 비발디 리컴포즈드 (CD, 국내반) (김밥레코즈 ─ CD ─ Classical/Crossover)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=21557&amp;cate_no=50&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=21557&amp;cate_no=50&amp;display_group=1</guid>
@@ -1534,14 +1542,6 @@
             <pubDate>Wed, 16 Nov 2022 17:23:29 GMT</pubDate>
             <content:encoded><![CDATA[12,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202203/5ae16aff2165b9c1011d8793b934a8ad.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Jon Hopkins / Music For Psychedelic Therapy (CD, Digipak) (김밥레코즈 ─ CD ─ Classical/Crossover)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=18421&amp;cate_no=50&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=18421&amp;cate_no=50&amp;display_group=1</guid>
-            <pubDate>Wed, 16 Nov 2022 17:23:29 GMT</pubDate>
-            <content:encoded><![CDATA[19,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202204/94d509abaf0d71d0a01e55c20c77b001.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Howard Blake / The Snowman 스노우맨 사운드트랙 (CD + Live Stage Show DVD) *한정수량 할인 (김밥레코즈 ─ CD ─ Holiday)]]></title>
