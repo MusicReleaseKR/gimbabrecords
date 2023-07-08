@@ -4,9 +4,25 @@
         <title>김밥레코즈 ─ Vinyl</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 08 Jul 2023 18:13:32 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 08 Jul 2023 19:08:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Abba / Gold (2LP, Limited PIcture Disc 픽쳐디스크 한정반) *한정수량 할인!]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22397&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22397&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Sat, 08 Jul 2023 19:06:45 GMT</pubDate>
+            <content:encoded><![CDATA[43,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202307/10ed799343658d250a31ca6911311dd9.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Janelle Monáe (Janelle Monae) / The Age Of Pleasure (Limited Orange Colored Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22396&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22396&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Sat, 08 Jul 2023 19:06:45 GMT</pubDate>
+            <content:encoded><![CDATA[42,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202307/70d1c4267c6ff4291283dd717b60a767.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[The Strokes / Is This It (Vinyl) *할인상품 (할인 사유는 상세 설명 참조)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=22395&amp;cate_no=25&amp;display_group=1</link>
@@ -86,22 +102,6 @@
             <pubDate>Thu, 06 Jul 2023 09:10:06 GMT</pubDate>
             <content:encoded><![CDATA[55,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202307/0b01abb823f722bf39a50fad1ec5e1fc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Katalyst, Adrian Younge, Ali Shaheed Muhammad / Jazz Is Dead 13 (JID013) (Vinyl) *한정수량 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22381&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22381&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Wed, 05 Jul 2023 07:09:48 GMT</pubDate>
-            <content:encoded><![CDATA[39,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202307/5240d9a547e62408da648c7a377f17a8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Lonnie Liston Smith, Adrian Younge, & Ali Shaheed Muhammad / Jazz Is Dead 17 (JID017) (Vinyl) *한정수량 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22379&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22379&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Wed, 05 Jul 2023 07:09:48 GMT</pubDate>
-            <content:encoded><![CDATA[40,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202307/6f0d03b9e2d467c2f907ba1fa74600cb.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
