@@ -4,9 +4,25 @@
         <title>김밥레코즈 ─ Vinyl</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Jul 2023 09:11:28 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Jul 2023 10:12:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Marianne Faithfull / Easy Come Easy Go (Limited White Vinyl, 2LP)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22403&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22403&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Mon, 10 Jul 2023 10:10:13 GMT</pubDate>
+            <content:encoded><![CDATA[54,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202307/ad6bbaa238251fc68b0083f7cf3297e7.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Marianne Faithfull / Give My Love To London (Limited Red Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22402&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22402&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Mon, 10 Jul 2023 10:10:13 GMT</pubDate>
+            <content:encoded><![CDATA[41,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202307/985d145461a0a103ce93c0cb748eb9f9.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[No Doubt / Tragic Kingdom (Vinyl)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=22400&amp;cate_no=25&amp;display_group=1</link>
@@ -86,22 +102,6 @@
             <pubDate>Thu, 06 Jul 2023 11:08:04 GMT</pubDate>
             <content:encoded><![CDATA[45,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202307/0b14ac6aed8965e1e0c9349192a6f028.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Joesef / Permanent Damage (Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22386&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22386&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Thu, 06 Jul 2023 09:10:06 GMT</pubDate>
-            <content:encoded><![CDATA[36,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202307/1ebf5b5d9956c635a1a707b7c881ab96.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Jess Williamson / Time Ain't Accidental (Vinyl + Download)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22385&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22385&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Thu, 06 Jul 2023 09:10:06 GMT</pubDate>
-            <content:encoded><![CDATA[37,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202307/9a4267686265627333b5c61b90307c0d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
