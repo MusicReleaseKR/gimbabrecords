@@ -4,9 +4,33 @@
         <title>김밥레코즈 ─ Vinyl</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Jul 2023 10:12:11 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Jul 2023 11:09:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Little Simz / No Thank You (Red/ Opaque Yellow Vinyl, 2LP, Indie Exclusive Limited Edition)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22406&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22406&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Mon, 10 Jul 2023 11:07:41 GMT</pubDate>
+            <content:encoded><![CDATA[51,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202307/0424853edba3e4822c0bff96ce1c4238.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[John Carroll Kirby / Blowout (Vinyl, 2LP)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22405&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22405&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Mon, 10 Jul 2023 11:07:41 GMT</pubDate>
+            <content:encoded><![CDATA[48,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202307/e4a092e1b354ca306e01effc07d3d529.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Marianne Faithfull / Before The Poison (Limited Clear Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22404&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22404&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Mon, 10 Jul 2023 11:07:41 GMT</pubDate>
+            <content:encoded><![CDATA[41,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202307/065e18f2ecd7bfa65f60ba55e286e356.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Marianne Faithfull / Easy Come Easy Go (Limited White Vinyl, 2LP)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=22403&amp;cate_no=25&amp;display_group=1</link>
@@ -78,30 +102,6 @@
             <pubDate>Fri, 07 Jul 2023 19:06:53 GMT</pubDate>
             <content:encoded><![CDATA[34,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202307/cf2ee2d0e49eb4cc849b5a1ce30c43ba.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Bill Evans Trio / Waltz For Debby (Vinyl, ORIGINAL JAZZ CLASSICS SERIES)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22393&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22393&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Fri, 07 Jul 2023 15:09:21 GMT</pubDate>
-            <content:encoded><![CDATA[57,200원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202307/7af788d385797a44b5759aed598a0987.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Azymuth / Light As A Feather (Black Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22392&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22392&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Thu, 06 Jul 2023 19:07:31 GMT</pubDate>
-            <content:encoded><![CDATA[35,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202307/315e9638f494cc686eec678292425332.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Karen Dalton / In My Own Time (50th Anniversary Remaster w/ 20p booklet, Limited Silver Colored Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22390&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22390&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Thu, 06 Jul 2023 11:08:04 GMT</pubDate>
-            <content:encoded><![CDATA[45,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202307/0b14ac6aed8965e1e0c9349192a6f028.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
