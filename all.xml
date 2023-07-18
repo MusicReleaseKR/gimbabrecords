@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Jul 2023 14:10:35 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Jul 2023 15:10:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -104,6 +104,22 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202204/5b727e9fe80e49435957962cac6774d3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[공중도둑 (Mid-Air Thief) / 공중도덕 (Gongjoong Doduk) (Limited Colored Vinyl, Tan+Pink Swirl Color, Gimbab Records Exclusive 김밥레코즈 한정반) *할인상품 (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22466&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22466&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Tue, 18 Jul 2023 15:08:36 GMT</pubDate>
+            <content:encoded><![CDATA[33,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202307/ddec668b49bd365332a5182f76f6e918.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[공중도둑 (Mid-Air Thief) / 공중도덕 (Gongjoong Doduk) (Limited Colored Vinyl, Tan+Pink Swirl Color 혼합 컬러 바이닐, Gimbab Records Exclusive 김밥레코즈 한정반) (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22465&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22465&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Tue, 18 Jul 2023 15:08:36 GMT</pubDate>
+            <content:encoded><![CDATA[35,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202307/5097bc1bc0ba2ab66a1d9b23e2e3329b.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Khruangbin & Friends / Live at Stubb's (Vinyl) *한정수량 할인 (온라인 스토어 한정) (김밥레코즈 ─ Vinyl)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=22458&amp;cate_no=25&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=22458&amp;cate_no=25&amp;display_group=1</guid>
@@ -182,22 +198,6 @@
             <pubDate>Fri, 14 Jul 2023 05:09:06 GMT</pubDate>
             <content:encoded><![CDATA[46,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202307/6e071a8ff7ded24c95f1c9dfeb4fa0c7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Bobo Stenson Trio / Sphere (180g Vinyl, 한정반) (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22427&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22427&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Wed, 12 Jul 2023 06:12:07 GMT</pubDate>
-            <content:encoded><![CDATA[35,100원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202307/85268240ad9e74b62c49aab1cb097094.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Dominic Miller / VAGABOND (180g Vinyl, 한정반) (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22426&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22426&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Wed, 12 Jul 2023 06:12:07 GMT</pubDate>
-            <content:encoded><![CDATA[35,100원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202307/97026c634f601d0ed97ee1362a46726c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Antena / Camino Del Sol (NUMERO 002) (Cassette) *한정수량 할인 (온라인 스토어 한정) (김밥레코즈 ─ Cassette)]]></title>
@@ -1736,6 +1736,22 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202305/60edc91dd0c5575f1f91a67c247d8a27.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[공중도둑 (Mid-Air Thief) / 공중도덕 (Gongjoong Doduk) (Limited Colored Vinyl, Tan+Pink Swirl Color, Gimbab Records Exclusive 김밥레코즈 한정반) *할인상품 (김밥레코즈 ─ Vinyl ─ Korean)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22466&amp;cate_no=52&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22466&amp;cate_no=52&amp;display_group=1</guid>
+            <pubDate>Tue, 18 Jul 2023 15:10:31 GMT</pubDate>
+            <content:encoded><![CDATA[33,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202307/ddec668b49bd365332a5182f76f6e918.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[공중도둑 (Mid-Air Thief) / 공중도덕 (Gongjoong Doduk) (Limited Colored Vinyl, Tan+Pink Swirl Color 혼합 컬러 바이닐, Gimbab Records Exclusive 김밥레코즈 한정반) (김밥레코즈 ─ Vinyl ─ Korean)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22465&amp;cate_no=52&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22465&amp;cate_no=52&amp;display_group=1</guid>
+            <pubDate>Tue, 18 Jul 2023 15:10:31 GMT</pubDate>
+            <content:encoded><![CDATA[35,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202307/5097bc1bc0ba2ab66a1d9b23e2e3329b.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[이민휘 / 빌린 입 (Vinyl, 45rpm) *1인 1매만 구매가 가능합니다. (김밥레코즈 ─ Vinyl ─ Korean)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=22368&amp;cate_no=52&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=22368&amp;cate_no=52&amp;display_group=1</guid>
@@ -1814,22 +1830,6 @@
             <pubDate>Fri, 16 Jun 2023 11:08:37 GMT</pubDate>
             <content:encoded><![CDATA[62,400원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202306/0b735a45c498584db9c18994b4111a3d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[유재하 / 사랑하기 때문에 Special Vinyl Edition (180g Black Vinyl 블랙반) *1인 1매만 구매 가능 (김밥레코즈 ─ Vinyl ─ Korean)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22234&amp;cate_no=52&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22234&amp;cate_no=52&amp;display_group=1</guid>
-            <pubDate>Fri, 16 Jun 2023 11:08:37 GMT</pubDate>
-            <content:encoded><![CDATA[62,400원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202306/0b735a45c498584db9c18994b4111a3d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이정선 / 이정선 BEST (180g Vinyl) (김밥레코즈 ─ Vinyl ─ Korean)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22232&amp;cate_no=52&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22232&amp;cate_no=52&amp;display_group=1</guid>
-            <pubDate>Mon, 12 Jun 2023 11:08:03 GMT</pubDate>
-            <content:encoded><![CDATA[44,600원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202306/eeb7c9097ccc71c105242aabdc23fa70.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Nick Cave & The Bad Seeds / Your Funeral... My Trial (Remastered CD + DVD, NTSC Version) *1회 한정 할인 (김밥레코즈 ─ Movies/Merch ─ DVD/Blu-Ray)]]></title>
