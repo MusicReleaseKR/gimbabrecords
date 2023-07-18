@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Jul 2023 06:13:02 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Jul 2023 07:10:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -104,6 +104,14 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202307/afd4f9592ff80e46b07f3873a9ad2599.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Khruangbin & Friends / Live at Stubb's (Vinyl) *한정수량 할인 (온라인 스토어 한정) (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22458&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22458&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Tue, 18 Jul 2023 07:08:48 GMT</pubDate>
+            <content:encoded><![CDATA[35,600원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202307/84af8e19a15e878f9c810012420f8d05.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Kelela / Raven (Clear Vinyl, 2LP) *한정수량 할인 (김밥레코즈 ─ Vinyl)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=22457&amp;cate_no=25&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=22457&amp;cate_no=25&amp;display_group=1</guid>
@@ -190,14 +198,6 @@
             <pubDate>Wed, 12 Jul 2023 06:12:07 GMT</pubDate>
             <content:encoded><![CDATA[35,100원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202307/97026c634f601d0ed97ee1362a46726c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[ARAGORN / The Suite (140g 스왐프그린 컬러 LP + 7") (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22425&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22425&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Wed, 12 Jul 2023 05:08:53 GMT</pubDate>
-            <content:encoded><![CDATA[49,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202307/2b96f7e02aee8811453fc1dd30d9b4a8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Tatsuro Yamashita / Moonglow (Limited Cassette) (김밥레코즈 ─ Cassette)]]></title>
