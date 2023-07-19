@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 19 Jul 2023 01:14:43 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Jul 2023 03:41:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -589,7 +589,7 @@
             <guid>http://gimbabrecords.com/product/detail.html?product_no=22459&amp;cate_no=29&amp;display_group=1</guid>
             <pubDate>Tue, 18 Jul 2023 09:09:21 GMT</pubDate>
             <content:encoded><![CDATA[49,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202307/e431d2b7c2ae6d141c8279a8908d4553.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://www.gimbabrecords.com/web/product/medium/202307/e431d2b7c2ae6d141c8279a8908d4553.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[송남현 / 마침내 나는 신록의 봉우리를 비집고 (CD) (김밥레코즈 ─ CD ─ Korean)]]></title>
@@ -597,7 +597,7 @@
             <guid>http://gimbabrecords.com/product/detail.html?product_no=22453&amp;cate_no=29&amp;display_group=1</guid>
             <pubDate>Mon, 17 Jul 2023 09:11:02 GMT</pubDate>
             <content:encoded><![CDATA[15,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202307/8f396c41d5d12deceaa41c36b20a905a.png" length="0" type="image/png"/>
+            <enclosure url="http://www.gimbabrecords.com/web/product/medium/202307/8f396c41d5d12deceaa41c36b20a905a.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[공중그늘 / EP 광원 (CD) (김밥레코즈 ─ CD ─ Korean)]]></title>
@@ -605,7 +605,7 @@
             <guid>http://gimbabrecords.com/product/detail.html?product_no=22452&amp;cate_no=29&amp;display_group=1</guid>
             <pubDate>Tue, 18 Jul 2023 09:09:21 GMT</pubDate>
             <content:encoded><![CDATA[18,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202307/c20534baff24840efa7cbd50f0032e2a.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://www.gimbabrecords.com/web/product/medium/202307/c20534baff24840efa7cbd50f0032e2a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[전기흐른 / 정규 1집 우리는 밤에 산다 (CD) (김밥레코즈 ─ CD ─ Korean)]]></title>
@@ -613,7 +613,7 @@
             <guid>http://gimbabrecords.com/product/detail.html?product_no=22441&amp;cate_no=29&amp;display_group=1</guid>
             <pubDate>Wed, 12 Jul 2023 09:09:58 GMT</pubDate>
             <content:encoded><![CDATA[13,400원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202307/7f188ecb40b164f166741e29a5672113.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://www.gimbabrecords.com/web/product/medium/202307/7f188ecb40b164f166741e29a5672113.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[시너가렛 / Invisible Diary (CD, EP) (김밥레코즈 ─ CD ─ Korean)]]></title>
@@ -621,7 +621,7 @@
             <guid>http://gimbabrecords.com/product/detail.html?product_no=22408&amp;cate_no=29&amp;display_group=1</guid>
             <pubDate>Tue, 11 Jul 2023 10:10:10 GMT</pubDate>
             <content:encoded><![CDATA[15,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202307/d01b4bee6df7b8f18010576aa70d21cb.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://www.gimbabrecords.com/web/product/medium/202307/d01b4bee6df7b8f18010576aa70d21cb.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[khc/moribet / 전파납치 (CD, Digipak) (김밥레코즈 ─ CD ─ Korean)]]></title>
@@ -629,7 +629,7 @@
             <guid>http://gimbabrecords.com/product/detail.html?product_no=22401&amp;cate_no=29&amp;display_group=1</guid>
             <pubDate>Mon, 10 Jul 2023 04:11:19 GMT</pubDate>
             <content:encoded><![CDATA[15,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202307/85029a9804b396bf650a5ab60d34a510.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://www.gimbabrecords.com/web/product/medium/202307/85029a9804b396bf650a5ab60d34a510.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[해서웨이 / 정규 1집 Essential (CD) (김밥레코즈 ─ CD ─ Korean)]]></title>
@@ -637,7 +637,7 @@
             <guid>http://gimbabrecords.com/product/detail.html?product_no=22370&amp;cate_no=29&amp;display_group=1</guid>
             <pubDate>Mon, 03 Jul 2023 10:10:25 GMT</pubDate>
             <content:encoded><![CDATA[17,800원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202307/6d7f693e1db87d55c1412705cb4cdc84.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://www.gimbabrecords.com/web/product/medium/202307/6d7f693e1db87d55c1412705cb4cdc84.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[강허달림 / LOVE (CD) (김밥레코즈 ─ CD ─ Korean)]]></title>
@@ -645,7 +645,7 @@
             <guid>http://gimbabrecords.com/product/detail.html?product_no=22287&amp;cate_no=29&amp;display_group=1</guid>
             <pubDate>Wed, 21 Jun 2023 08:10:54 GMT</pubDate>
             <content:encoded><![CDATA[17,800원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202306/e5d57807573cdfe5c2fcfe2a08356138.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://www.gimbabrecords.com/web/product/medium/202306/e5d57807573cdfe5c2fcfe2a08356138.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[파란노을 Parannoul / After the Magic (CD, US Import) (김밥레코즈 ─ CD ─ Korean)]]></title>
@@ -653,7 +653,7 @@
             <guid>http://gimbabrecords.com/product/detail.html?product_no=22256&amp;cate_no=29&amp;display_group=1</guid>
             <pubDate>Thu, 15 Jun 2023 08:10:51 GMT</pubDate>
             <content:encoded><![CDATA[19,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202306/37e78c42b43704bc2e3a7c623038bef0.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://www.gimbabrecords.com/web/product/medium/202306/37e78c42b43704bc2e3a7c623038bef0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[제이클레프 (Jclef) / O, Pruned! (CD, EP) (김밥레코즈 ─ CD ─ Korean)]]></title>
@@ -661,7 +661,7 @@
             <guid>http://gimbabrecords.com/product/detail.html?product_no=22250&amp;cate_no=29&amp;display_group=1</guid>
             <pubDate>Thu, 15 Jun 2023 06:11:54 GMT</pubDate>
             <content:encoded><![CDATA[13,800원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202306/dc741cf6992c90dcf67225aa32cadd8b.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://www.gimbabrecords.com/web/product/medium/202306/dc741cf6992c90dcf67225aa32cadd8b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Bedtime Pictures / Before Dawn (CD) (김밥레코즈 ─ CD ─ Korean)]]></title>
@@ -669,7 +669,7 @@
             <guid>http://gimbabrecords.com/product/detail.html?product_no=22202&amp;cate_no=29&amp;display_group=1</guid>
             <pubDate>Fri, 02 Jun 2023 09:08:54 GMT</pubDate>
             <content:encoded><![CDATA[12,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202306/a699f34498fa3f795816a26e4ec20dd5.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://www.gimbabrecords.com/web/product/medium/202306/a699f34498fa3f795816a26e4ec20dd5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[허정혁 / 봉오리 시절 (CD) (김밥레코즈 ─ CD ─ Korean)]]></title>
@@ -677,7 +677,7 @@
             <guid>http://gimbabrecords.com/product/detail.html?product_no=22194&amp;cate_no=29&amp;display_group=1</guid>
             <pubDate>Fri, 02 Jun 2023 07:08:46 GMT</pubDate>
             <content:encoded><![CDATA[20,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202306/c8d0196953a13e77c910975cb4e432d7.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://www.gimbabrecords.com/web/product/medium/202306/c8d0196953a13e77c910975cb4e432d7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Stereolab / Mars Audiac Quintet (2CD, Expanded Edition) *한정수량 할인 (온라인 스토어 한정) (김밥레코즈 ─ CD ─ Pop/Rock)]]></title>
