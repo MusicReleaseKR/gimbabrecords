@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 22 Jul 2023 10:10:02 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 22 Jul 2023 11:08:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -104,6 +104,14 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202307/a54f36351340fcc42af2a246d003d8a5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Ado / Uta`s Songs One Piece Film Red 원피스 필름 레드 (Vinyl) (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22481&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22481&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Sat, 22 Jul 2023 11:05:54 GMT</pubDate>
+            <content:encoded><![CDATA[49,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202307/cab56f5f37517fcf693a69a90e4ad423.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Never Young Beach / Arigato (Vinyl) (김밥레코즈 ─ Vinyl)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=22480&amp;cate_no=25&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=22480&amp;cate_no=25&amp;display_group=1</guid>
@@ -190,14 +198,6 @@
             <pubDate>Tue, 18 Jul 2023 07:08:48 GMT</pubDate>
             <content:encoded><![CDATA[35,600원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202307/84af8e19a15e878f9c810012420f8d05.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Kelela / Raven (Clear Vinyl, 2LP) *한정수량 할인 (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22457&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22457&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Tue, 18 Jul 2023 06:10:54 GMT</pubDate>
-            <content:encoded><![CDATA[42,100원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202307/b90fe992fc4eeffb2622050588808b7f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Antena / Camino Del Sol (NUMERO 002) (Cassette) *한정수량 할인 (온라인 스토어 한정) (김밥레코즈 ─ Cassette)]]></title>
