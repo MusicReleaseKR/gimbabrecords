@@ -4,9 +4,49 @@
         <title>김밥레코즈 ─ Pre-Order</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Jul 2023 05:09:47 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Jul 2023 06:12:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[선우정아 / It's Okay, Dear (Vinyl) *예약상품 (8월 중순 이후 배송 예정)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22214&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22214&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Fri, 28 Jul 2023 06:10:57 GMT</pubDate>
+            <content:encoded><![CDATA[54,900원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202306/ec13e2f291e90aa09f2c75216406e6a3.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Eddie Higgins Trio / You Are Too Beautiful (180g LP, Limited Edition)  *예약상품 (9월말 배송 예정)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22508&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22508&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Wed, 26 Jul 2023 18:09:47 GMT</pubDate>
+            <content:encoded><![CDATA[55,800원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202307/e1cc02618a210938db3076b8adfc44ab.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Eddie Higgins Trio / Secret Love (180g LP, Limited Edition) *예약상품 (9월말 발송 예정)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22509&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22509&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Wed, 26 Jul 2023 18:09:47 GMT</pubDate>
+            <content:encoded><![CDATA[55,800원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202307/095cbf2d7db62b1f2b5fb9cac155e834.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Eddie Higgins Trio / A Fine Romance (180g LP, Limited Edition) *예약상품 (9월말 발송 예정)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22510&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22510&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Wed, 26 Jul 2023 19:06:29 GMT</pubDate>
+            <content:encoded><![CDATA[55,800원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202307/76ca7ca2b71e44ea057b8c770ee0458a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Eddie Higgins Trio - A Lovely Way To Spend An Evening (180g LP, Limited Edition) *예약상품 (9월말 배송 예정)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22511&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22511&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Wed, 26 Jul 2023 19:06:29 GMT</pubDate>
+            <content:encoded><![CDATA[55,800원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202307/fa0fe2c447c0a5318bd2996310f1cd1c.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[250  / 뽕 (Vinyl, Toru Kotetsu Remaster Edition) *예약상품 (7월 중 발송 예정, 3월 24일 예약 마감 - 1인 최대 2매 구매 가능)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=21551&amp;cate_no=42&amp;display_group=1</link>
@@ -56,52 +96,12 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202307/77f06d3c28e45439c030355eb6230ddc.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Eddie Higgins Trio / You Are Too Beautiful (180g LP, Limited Edition)  *예약상품 (9월말 배송 예정)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22508&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22508&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Wed, 26 Jul 2023 18:09:47 GMT</pubDate>
-            <content:encoded><![CDATA[54,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202307/e1cc02618a210938db3076b8adfc44ab.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Eddie Higgins Trio / Secret Love (180g LP, Limited Edition) *예약상품 (9월말 발송 예정)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22509&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22509&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Wed, 26 Jul 2023 18:09:47 GMT</pubDate>
-            <content:encoded><![CDATA[54,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202307/095cbf2d7db62b1f2b5fb9cac155e834.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Eddie Higgins Trio / A Fine Romance (180g LP, Limited Edition) *예약상품 (9월말 발송 예정)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22510&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22510&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Wed, 26 Jul 2023 19:06:29 GMT</pubDate>
-            <content:encoded><![CDATA[54,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202307/76ca7ca2b71e44ea057b8c770ee0458a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Eddie Higgins Trio - A Lovely Way To Spend An Evening (180g LP, Limited Edition) *예약상품 (9월말 배송 예정)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22511&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22511&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Wed, 26 Jul 2023 19:06:29 GMT</pubDate>
-            <content:encoded><![CDATA[54,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202307/fa0fe2c447c0a5318bd2996310f1cd1c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[The Lemon Twigs / Everything Harmony (Black Vinyl) *예약상품 (7월 28일경 배송 예정, 예약판매 수량 한정 할인)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=22369&amp;cate_no=42&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=22369&amp;cate_no=42&amp;display_group=1</guid>
             <pubDate>Mon, 03 Jul 2023 07:10:21 GMT</pubDate>
             <content:encoded><![CDATA[32,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202307/b6ee4053d79d0491c7bdb44220ae58c4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Takako Mamiya (間宮貴子) / Love Trip (Pink Vinyl, 1LP) *예약상품 (8월 중순 발송 예정) / 별도의 입금기한 설정]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=21959&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=21959&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Mon, 24 Jul 2023 09:09:30 GMT</pubDate>
-            <content:encoded><![CDATA[52,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/201805/10787_shop1_222368.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
