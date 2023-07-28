@@ -4,9 +4,33 @@
         <title>김밥레코즈 ─ Pre-Order</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Jul 2023 08:12:43 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Jul 2023 09:10:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[안다영 / ANTIHERO (140g Vinyl) *예약상품 (8월 10일 발매) / 1인 1매만 구매 가능]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22547&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22547&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Fri, 28 Jul 2023 09:08:32 GMT</pubDate>
+            <content:encoded><![CDATA[42,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202307/ed77381ca32f2ec679e3f5c9ea812bc8.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[TRPP / TRPP (Deep Purple Color Vinyl) *예약상품 (8월 10일 발매)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22546&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22546&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Fri, 28 Jul 2023 09:08:32 GMT</pubDate>
+            <content:encoded><![CDATA[44,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202307/8363f3a2583d5d5bf00e5d667a5fd3c5.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[전진희 / Breathing (180g Vinyl + 포스터) *예약상품 (8월 10일 발매)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22545&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22545&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Fri, 28 Jul 2023 09:08:32 GMT</pubDate>
+            <content:encoded><![CDATA[44,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202307/2397106f3466a58c1c0ae6b26bee800a.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[250  / 뽕 (Vinyl, Toru Kotetsu Remaster Edition) *예약상품 (7월 중 발송 예정, 3월 24일 예약 마감 - 1인 최대 2매 구매 가능)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=21551&amp;cate_no=42&amp;display_group=1</link>
@@ -78,30 +102,6 @@
             <pubDate>Thu, 27 Jul 2023 09:08:53 GMT</pubDate>
             <content:encoded><![CDATA[44,600원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202307/e5177662df1ebc02c38e82b8078fa636.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[연석원 / The Mermaid (180g Black Vinyl) *예약상품 (8월 22일 발매)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22522&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22522&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Thu, 27 Jul 2023 09:08:53 GMT</pubDate>
-            <content:encoded><![CDATA[41,600원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202307/968bcc765e300916d270920af4a84a88.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[윤미래 / 1집 As Time Goes By (180g Clear Vinyl, 2LP) *예약상품 (10월 5일 발매 예정, 8월 7일 주문 마감)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22521&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22521&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Thu, 27 Jul 2023 09:08:53 GMT</pubDate>
-            <content:encoded><![CDATA[67,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202307/77f06d3c28e45439c030355eb6230ddc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Lemon Twigs / Everything Harmony (Black Vinyl) *예약상품 (7월 28일경 배송 예정, 예약판매 수량 한정 할인)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22369&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22369&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Mon, 03 Jul 2023 07:10:21 GMT</pubDate>
-            <content:encoded><![CDATA[32,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202307/b6ee4053d79d0491c7bdb44220ae58c4.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
