@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Aug 2023 02:02:28 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Aug 2023 02:25:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -104,6 +104,14 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202307/6fbd5e5528e23dedafb8bcbdcd24fdc5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Various Artists / Seafaring Strangers: Private Yacht (Limited Seafoam Green Vinyl 2LP, NUMERO 072) *한정수량 할인 (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22576&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22576&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Thu, 03 Aug 2023 02:23:27 GMT</pubDate>
+            <content:encoded><![CDATA[45,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202308/21deebc51bb05bb0bc8e7a10beeb417c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[C418 / Minecraft Volume Beta 마인크래프트 게임 음악 (Limited Red Orange + Yellow Splatter 2LP) *한정수량 할인 (김밥레코즈 ─ Vinyl)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=22575&amp;cate_no=25&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=22575&amp;cate_no=25&amp;display_group=1</guid>
@@ -190,14 +198,6 @@
             <pubDate>Tue, 01 Aug 2023 08:18:16 GMT</pubDate>
             <content:encoded><![CDATA[63,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202308/3455ac303dba7a1be55104be5f8c4112.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Madeleine Peyroux / Dreamland (180g Vinyl) *한정수량 할인 (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22562&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22562&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Tue, 01 Aug 2023 08:18:16 GMT</pubDate>
-            <content:encoded><![CDATA[39,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202308/0bdf25859a8ba31fc4e90aa19847687b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Bully / Lucky For You (Cassette) (김밥레코즈 ─ Cassette)]]></title>
