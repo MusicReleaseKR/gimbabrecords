@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ Pre-Order</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Aug 2023 07:10:09 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Aug 2023 08:11:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[전진희 / Breathing (180g Vinyl + 포스터) *예약상품 (8월 10일 발매)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22545&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22545&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Fri, 28 Jul 2023 09:08:32 GMT</pubDate>
+            <content:encoded><![CDATA[44,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202307/2397106f3466a58c1c0ae6b26bee800a.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[C418 / Minecraft Volume Beta 마인크래프트 게임 음악 (Limited Red Orange + Yellow Splatter 2LP) *한정수량 할인]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=22575&amp;cate_no=42&amp;display_group=1</link>
@@ -70,14 +78,6 @@
             <pubDate>Fri, 28 Jul 2023 09:08:32 GMT</pubDate>
             <content:encoded><![CDATA[44,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202307/8363f3a2583d5d5bf00e5d667a5fd3c5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[전진희 / Breathing (180g Vinyl + 포스터) *예약상품 (8월 10일 발매)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22545&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22545&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Fri, 28 Jul 2023 09:08:32 GMT</pubDate>
-            <content:encoded><![CDATA[44,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202307/2397106f3466a58c1c0ae6b26bee800a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[250  / 뽕 (Vinyl, Toru Kotetsu Remaster Edition) *예약상품 (7월 중 발송 예정, 3월 24일 예약 마감 - 1인 최대 2매 구매 가능)]]></title>
