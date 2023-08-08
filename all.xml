@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 08 Aug 2023 08:12:38 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Aug 2023 09:09:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -392,7 +392,15 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/201810/d82e69326eae61cb2f373ab8db48a7a5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Bobby Caldwell / Bobby Caldwell (Vinyl, 2023 Remastered Reissue) *예약상품 (10월 첫째주 발송 예정) (김밥레코즈 ─ Pre-Order)]]></title>
+            <title><![CDATA[Bobby Caldwell / Cat in the Hat (Vinyl, 2023 Remastered Reissue) *예약상품 (2차 예약 - 10월 10일 이후 배송 예정) (김밥레코즈 ─ Pre-Order)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22507&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22507&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Tue, 08 Aug 2023 09:08:00 GMT</pubDate>
+            <content:encoded><![CDATA[41,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202307/6c23e38abac64eff763dd0e2fb81fe3a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Bobby Caldwell / Bobby Caldwell (Vinyl, 2023 Remastered Reissue) *예약상품 (2차 예약, 10월 10일 이후 발송 예정) (김밥레코즈 ─ Pre-Order)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=22506&amp;cate_no=42&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=22506&amp;cate_no=42&amp;display_group=1</guid>
             <pubDate>Wed, 26 Jul 2023 17:07:46 GMT</pubDate>
@@ -478,14 +486,6 @@
             <pubDate>Tue, 08 Aug 2023 08:10:30 GMT</pubDate>
             <content:encoded><![CDATA[55,800원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202307/e1cc02618a210938db3076b8adfc44ab.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Eddie Higgins Trio / Secret Love (180g LP, Limited Edition) *예약상품 (9월말 발송 예정) (김밥레코즈 ─ Pre-Order)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22509&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22509&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Tue, 08 Aug 2023 08:10:30 GMT</pubDate>
-            <content:encoded><![CDATA[55,800원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202307/095cbf2d7db62b1f2b5fb9cac155e834.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Eminem / Curtain Call 2 (Vinyl, 2LP) *한정수량 할인 (김밥레코즈 ─ Bargain Bin)]]></title>
