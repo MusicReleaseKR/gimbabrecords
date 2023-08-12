@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 12 Aug 2023 07:08:31 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Aug 2023 08:15:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -104,6 +104,14 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202308/8cf0a54f5200584f5b1a693c45f03a1b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Yoshitaka Minami / South Of The Border (Vinyl, Bernie Grundman이 커팅한 2023 리마스터) (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22644&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22644&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Sat, 12 Aug 2023 08:13:05 GMT</pubDate>
+            <content:encoded><![CDATA[45,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202308/bb74868cc4a210b79c94fe4e6d5c187d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Yurie Kokubu / Steps (Limited Clear Blue Vinyl) (김밥레코즈 ─ Vinyl)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=22643&amp;cate_no=25&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=22643&amp;cate_no=25&amp;display_group=1</guid>
@@ -190,14 +198,6 @@
             <pubDate>Fri, 11 Aug 2023 07:08:22 GMT</pubDate>
             <content:encoded><![CDATA[49,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202308/da9c0f78827107da77381688a3b7b79f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Yoko Ichikawa / ALL For You (Vinyl) *예약상품 (11월 중순 배송 예정) (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22630&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22630&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Fri, 11 Aug 2023 07:08:22 GMT</pubDate>
-            <content:encoded><![CDATA[49,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202308/03700bedb66558a9db869fc36615060e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Tatsuro Yamashita / Circus Town (Limited Cassette) (김밥레코즈 ─ Cassette)]]></title>
