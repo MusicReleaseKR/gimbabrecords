@@ -4,9 +4,33 @@
         <title>김밥레코즈 ─ Vinyl</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 12 Aug 2023 05:09:07 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Aug 2023 06:11:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Blur / The Ballad Of Darren (180g Black Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22641&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22641&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Sat, 12 Aug 2023 06:09:09 GMT</pubDate>
+            <content:encoded><![CDATA[38,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202308/10057142baf50c4d57788abd8d3c6bc3.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Tatsuro Yamashita / Circus Town (Vinyl, Remastered) *1인 1매만 구매가 가능합니다.]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22639&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22639&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Sat, 12 Aug 2023 06:09:09 GMT</pubDate>
+            <content:encoded><![CDATA[52,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202308/517f5dcc25e024d678ea3b5aa84b6f68.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Tatsuro Yamashita / Spacy (Vinyl, Remastered) *1인 1매만 구매가 가능합니다.]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22637&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22637&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Sat, 12 Aug 2023 06:09:09 GMT</pubDate>
+            <content:encoded><![CDATA[52,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202308/b4a01001f59be94eb3df39e0fb9a3172.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[The Weeknd / Dawn FM (Vinyl, 2LP) *한정수량 할인 (모서리 작은 눌림자국 등에 의한 추가 할인)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=22636&amp;cate_no=25&amp;display_group=1</link>
@@ -78,30 +102,6 @@
             <pubDate>Fri, 11 Aug 2023 07:08:22 GMT</pubDate>
             <content:encoded><![CDATA[52,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202308/3e67ab7888aea8b5e826859449b9cf62.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Bobby Caldwell / Heart Of Mine (Vinyl) *예약상품 (11월 중순 발송 예정)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22627&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22627&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Fri, 11 Aug 2023 04:09:35 GMT</pubDate>
-            <content:encoded><![CDATA[49,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202308/03f1481d2c254bfddbafc128b3f1b2de.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Various Artists / HIPHOP ANTHEM 2023 (Opaque Light Gray Colored Vinyl, Limited Edition) *예약상품 (500매 한정수량 판매, 12월 중순 발송 예정)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22626&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22626&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Fri, 11 Aug 2023 06:10:18 GMT</pubDate>
-            <content:encoded><![CDATA[42,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202308/f37d55a173d0a9e165d12b11b4bd03fb.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sinead O'Connor / So Far…The Best Of Sinéad O'Connor (Clear Vinyl, 2LP, Reissue)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22623&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22623&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Thu, 10 Aug 2023 08:12:19 GMT</pubDate>
-            <content:encoded><![CDATA[54,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202308/27a965535e6df538b140381af75da97e.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
