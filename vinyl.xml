@@ -4,9 +4,25 @@
         <title>김밥레코즈 ─ Vinyl</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 12 Aug 2023 09:08:39 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Aug 2023 10:09:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Various Artists / City Pop Story - Urban & Ocean (Vinyl, 2LP) *한정수량 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22647&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22647&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Sat, 12 Aug 2023 10:07:41 GMT</pubDate>
+            <content:encoded><![CDATA[69,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202308/9e7c91c70fc2bffbcc8b6a9e7477d099.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[GONTITI / Vacances (Vinyl, Limited Edition)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22646&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22646&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Sat, 12 Aug 2023 10:07:41 GMT</pubDate>
+            <content:encoded><![CDATA[48,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202308/666f885c921316fe56fd483625cbc308.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[EPO / Vitamin E.P.O (Limited Clear Pink Vinyl)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=22645&amp;cate_no=25&amp;display_group=1</link>
@@ -86,22 +102,6 @@
             <pubDate>Fri, 11 Aug 2023 10:08:34 GMT</pubDate>
             <content:encoded><![CDATA[49,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202308/364da1b862543b8f2382353ec84c590d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Norio Maeda & Tin Pan Aley (Haruomi Hosono, Shigeru Suzuki, Tatsuo Hayashi) / Soul Samba : Holiday In Brazil (Vinyl) *한정수량 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22633&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22633&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Fri, 11 Aug 2023 10:08:34 GMT</pubDate>
-            <content:encoded><![CDATA[49,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202308/0bb856698f8bbca942d5b667fab78dff.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Masaki Nomiyama / Face (Vinyl, 2LP) *한정수량 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22632&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22632&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Fri, 11 Aug 2023 10:08:34 GMT</pubDate>
-            <content:encoded><![CDATA[54,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202308/e9020f115af5b8c1c341f9ff22fc5d68.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
