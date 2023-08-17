@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ Pre-Order</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Aug 2023 07:09:47 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Aug 2023 08:12:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[The Tony Williams Lifetime / Emergency! (Vinyl 2LP, Remastered) *예약상품 (9월 7일 이후 배송 시작)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22661&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22661&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Thu, 17 Aug 2023 08:10:31 GMT</pubDate>
+            <content:encoded><![CDATA[53,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202308/745c56a363d9424146cdcc7dd57e6d29.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Bobby Caldwell / Bobby Caldwell (Vinyl, 2023 Remastered Reissue) *예약상품 (2차 예약, 10월 10일 이후 발송 예정)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=22506&amp;cate_no=42&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Fri, 11 Aug 2023 07:08:45 GMT</pubDate>
             <content:encoded><![CDATA[56,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202308/9e1b7bc34ff4b7def2306c77b48345d4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Yoko Ichikawa / ALL For You (Vinyl) *예약상품 (11월 중순 배송 예정)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22630&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22630&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Fri, 11 Aug 2023 07:08:45 GMT</pubDate>
-            <content:encoded><![CDATA[49,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202308/03700bedb66558a9db869fc36615060e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
