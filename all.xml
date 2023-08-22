@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Aug 2023 10:10:01 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Aug 2023 11:08:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -104,6 +104,14 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202308/bf29a0d854c1442ff909a768532d8018.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Mild High Club / Timeline (12" Marble Vinyl, 45 RPM, Reissue) (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22684&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22684&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Tue, 22 Aug 2023 11:06:53 GMT</pubDate>
+            <content:encoded><![CDATA[42,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202308/9a147c90ed85706b3d33e7dc34b515d4.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Mioko Yamaguchi / Tsukihime Moonlight ("Moonlight" Transparent Yellow Vinyl, Limited Edition) (김밥레코즈 ─ Vinyl)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=22683&amp;cate_no=25&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=22683&amp;cate_no=25&amp;display_group=1</guid>
@@ -190,14 +198,6 @@
             <pubDate>Sat, 19 Aug 2023 13:07:54 GMT</pubDate>
             <content:encoded><![CDATA[40,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202308/d9cf820480d8679f7a165bdb0f7ab7b5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[GoGo Penguin / GGP / RMX (Limited Colored Vinyl 2LP Red+Blue Special Edition) *한정컬러반 할인 판매 (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22671&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22671&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Sat, 19 Aug 2023 13:07:54 GMT</pubDate>
-            <content:encoded><![CDATA[44,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202308/502dd67cc46dc3ae1f6d01c1b4d12785.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Tatsuro Yamashita / Circus Town (Limited Cassette) (김밥레코즈 ─ Cassette)]]></title>
