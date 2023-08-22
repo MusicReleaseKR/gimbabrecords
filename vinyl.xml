@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ Vinyl</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Aug 2023 07:09:36 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Aug 2023 08:12:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[생각의 여름 / 손 (180g Vinyl) *1인 1매만 구매 가능 / 별도의 입금기한 설정]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22679&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22679&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Tue, 22 Aug 2023 08:10:13 GMT</pubDate>
+            <content:encoded><![CDATA[44,600원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202308/02c1e0501dbbad7fa6cb73eb745ae5d8.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[aiko / 桜の木の下 Sakura No Ki No Sita (180g Vinyl, 2LP, Limited Edition)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=22677&amp;cate_no=25&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Fri, 18 Aug 2023 11:05:48 GMT</pubDate>
             <content:encoded><![CDATA[42,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202308/9d65a24305b7f2db315c8d841606602c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[LCD Soundsystem / The Long Goodbye  (Live At Madison Square Garden) (5LP Box Set) *한정수량 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22664&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22664&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Thu, 17 Aug 2023 17:06:36 GMT</pubDate>
-            <content:encoded><![CDATA[147,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202308/0602d510df6b51f73d58a15320288505.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
