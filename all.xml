@@ -4,9 +4,33 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Aug 2023 10:10:15 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Aug 2023 11:08:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[The Beach Boys / Today! + Summer Days (And Summer Nights!!) (HDCD) *한정수량 할인 (김밥레코즈 ─ CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22702&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22702&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Wed, 23 Aug 2023 11:06:35 GMT</pubDate>
+            <content:encoded><![CDATA[14,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202308/92cb53b640469dd0c4af9dad06e75e47.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Stevie Wonder / Song Review: A Greatest Hits Collection (CD) *한정수량 할인 (김밥레코즈 ─ CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22701&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22701&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Wed, 23 Aug 2023 11:06:35 GMT</pubDate>
+            <content:encoded><![CDATA[15,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202308/3e3760dfe0b01e7e87fd5b60774e0f6a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Arthur Brown's Kingdom Come / Journey (2CD, Remastered) (김밥레코즈 ─ CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22700&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22700&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Wed, 23 Aug 2023 11:06:35 GMT</pubDate>
+            <content:encoded><![CDATA[25,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202308/db37f0a82e4a94c763613b0adf30a54f.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Tokyo Incidents / Adult 大人 "Femme" Edition (CD) (김밥레코즈 ─ CD)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=22699&amp;cate_no=24&amp;display_group=1</link>
@@ -78,30 +102,6 @@
             <pubDate>Wed, 23 Aug 2023 10:08:11 GMT</pubDate>
             <content:encoded><![CDATA[12,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/20200506/2c79a6062e21ca80117baecc6b7d1698.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Miles Davis / In A Silent Way (CD) *한정수량 할인 (김밥레코즈 ─ CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22690&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22690&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Wed, 23 Aug 2023 10:08:11 GMT</pubDate>
-            <content:encoded><![CDATA[12,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/201511/2123_shop1_383429.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Elton John / Goodbye Yellow Brick Road (Remastered CD) (김밥레코즈 ─ CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22689&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22689&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Wed, 23 Aug 2023 10:08:11 GMT</pubDate>
-            <content:encoded><![CDATA[13,400원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/201510/1287_shop1_347205.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Colin Blunstone / The Best Of Colin Blunstone (CD) *한정수량 할인 (김밥레코즈 ─ CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22688&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22688&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Wed, 23 Aug 2023 10:08:11 GMT</pubDate>
-            <content:encoded><![CDATA[13,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202308/742e012183fa9f5a2c835f4030926315.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Vince Staples / Ramona Park Broke My Heart (Vinyl) (김밥레코즈 ─ Vinyl)]]></title>
@@ -680,6 +680,22 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202307/8f396c41d5d12deceaa41c36b20a905a.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[The Beach Boys / Today! + Summer Days (And Summer Nights!!) (HDCD) *한정수량 할인 (김밥레코즈 ─ CD ─ Pop/Rock)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22702&amp;cate_no=30&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22702&amp;cate_no=30&amp;display_group=1</guid>
+            <pubDate>Wed, 23 Aug 2023 11:07:25 GMT</pubDate>
+            <content:encoded><![CDATA[14,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202308/92cb53b640469dd0c4af9dad06e75e47.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Arthur Brown's Kingdom Come / Journey (2CD, Remastered) (김밥레코즈 ─ CD ─ Pop/Rock)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22700&amp;cate_no=30&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22700&amp;cate_no=30&amp;display_group=1</guid>
+            <pubDate>Wed, 23 Aug 2023 11:07:25 GMT</pubDate>
+            <content:encoded><![CDATA[25,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202308/db37f0a82e4a94c763613b0adf30a54f.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Elton John / Goodbye Yellow Brick Road (Remastered CD) (김밥레코즈 ─ CD ─ Pop/Rock)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=22689&amp;cate_no=30&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=22689&amp;cate_no=30&amp;display_group=1</guid>
@@ -758,22 +774,6 @@
             <pubDate>Fri, 28 Jul 2023 05:08:28 GMT</pubDate>
             <content:encoded><![CDATA[14,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202307/fa03464c9391fd07bdb0d78eb1d864c2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Mika / Life In Cartoon Motion (CD) *한정수량 할인 (김밥레코즈 ─ CD ─ Pop/Rock)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22527&amp;cate_no=30&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22527&amp;cate_no=30&amp;display_group=1</guid>
-            <pubDate>Fri, 28 Jul 2023 05:08:28 GMT</pubDate>
-            <content:encoded><![CDATA[14,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/201805/10857_shop1_569601.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Florence + The Machine / High As Hope (CD) *한정수량 할인 (김밥레코즈 ─ CD ─ Pop/Rock)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22526&amp;cate_no=30&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22526&amp;cate_no=30&amp;display_group=1</guid>
-            <pubDate>Fri, 28 Jul 2023 05:08:28 GMT</pubDate>
-            <content:encoded><![CDATA[14,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/201807/11405_shop1_15317279160233.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[John Carroll Kirby / Blowout (CD, Digipak) (김밥레코즈 ─ CD ─ Electronic/Dance)]]></title>
@@ -872,6 +872,14 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202306/1df3aadfd4ece03e2b406383b0c1d3cb.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Stevie Wonder / Song Review: A Greatest Hits Collection (CD) *한정수량 할인 (김밥레코즈 ─ CD ─ R&B/Soul/Funk)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22701&amp;cate_no=44&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22701&amp;cate_no=44&amp;display_group=1</guid>
+            <pubDate>Wed, 23 Aug 2023 11:07:39 GMT</pubDate>
+            <content:encoded><![CDATA[15,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202308/3e3760dfe0b01e7e87fd5b60774e0f6a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Usher / 8701 (CD) *한정수량 할인 (김밥레코즈 ─ CD ─ R&B/Soul/Funk)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=22694&amp;cate_no=44&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=22694&amp;cate_no=44&amp;display_group=1</guid>
@@ -958,14 +966,6 @@
             <pubDate>Tue, 30 May 2023 09:09:23 GMT</pubDate>
             <content:encoded><![CDATA[14,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202305/1484f6645d8036ae4ddfbc88aa4da02e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sza / SOS (CD, Jewel Case) (김밥레코즈 ─ CD ─ R&B/Soul/Funk)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22160&amp;cate_no=44&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22160&amp;cate_no=44&amp;display_group=1</guid>
-            <pubDate>Thu, 25 May 2023 05:08:54 GMT</pubDate>
-            <content:encoded><![CDATA[20,400원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202305/47f065eb7dee0cbecc405485740051de.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[21 Savage & Metro Boomin / Savage Mode II (CD) (김밥레코즈 ─ CD ─ Hip Hop)]]></title>

@@ -4,9 +4,25 @@
         <title>김밥레코즈 ─ CD ─ Pop/Rock</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Aug 2023 10:10:15 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Aug 2023 11:08:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[The Beach Boys / Today! + Summer Days (And Summer Nights!!) (HDCD) *한정수량 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22702&amp;cate_no=30&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22702&amp;cate_no=30&amp;display_group=1</guid>
+            <pubDate>Wed, 23 Aug 2023 11:07:25 GMT</pubDate>
+            <content:encoded><![CDATA[14,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202308/92cb53b640469dd0c4af9dad06e75e47.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Arthur Brown's Kingdom Come / Journey (2CD, Remastered)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22700&amp;cate_no=30&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22700&amp;cate_no=30&amp;display_group=1</guid>
+            <pubDate>Wed, 23 Aug 2023 11:07:25 GMT</pubDate>
+            <content:encoded><![CDATA[25,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202308/db37f0a82e4a94c763613b0adf30a54f.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Elton John / Goodbye Yellow Brick Road (Remastered CD)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=22689&amp;cate_no=30&amp;display_group=1</link>
@@ -86,22 +102,6 @@
             <pubDate>Fri, 28 Jul 2023 05:08:28 GMT</pubDate>
             <content:encoded><![CDATA[14,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202307/fa03464c9391fd07bdb0d78eb1d864c2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Mika / Life In Cartoon Motion (CD) *한정수량 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22527&amp;cate_no=30&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22527&amp;cate_no=30&amp;display_group=1</guid>
-            <pubDate>Fri, 28 Jul 2023 05:08:28 GMT</pubDate>
-            <content:encoded><![CDATA[14,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/201805/10857_shop1_569601.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Florence + The Machine / High As Hope (CD) *한정수량 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22526&amp;cate_no=30&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22526&amp;cate_no=30&amp;display_group=1</guid>
-            <pubDate>Fri, 28 Jul 2023 05:08:28 GMT</pubDate>
-            <content:encoded><![CDATA[14,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/201807/11405_shop1_15317279160233.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

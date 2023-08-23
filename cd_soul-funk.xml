@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ CD ─ R&amp;B/Soul/Funk</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Aug 2023 10:10:15 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Aug 2023 11:08:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Stevie Wonder / Song Review: A Greatest Hits Collection (CD) *한정수량 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22701&amp;cate_no=44&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22701&amp;cate_no=44&amp;display_group=1</guid>
+            <pubDate>Wed, 23 Aug 2023 11:07:39 GMT</pubDate>
+            <content:encoded><![CDATA[15,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202308/3e3760dfe0b01e7e87fd5b60774e0f6a.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Usher / 8701 (CD) *한정수량 할인]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=22694&amp;cate_no=44&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Tue, 30 May 2023 09:09:23 GMT</pubDate>
             <content:encoded><![CDATA[14,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202305/1484f6645d8036ae4ddfbc88aa4da02e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sza / SOS (CD, Jewel Case)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22160&amp;cate_no=44&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22160&amp;cate_no=44&amp;display_group=1</guid>
-            <pubDate>Thu, 25 May 2023 05:08:54 GMT</pubDate>
-            <content:encoded><![CDATA[20,400원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202305/47f065eb7dee0cbecc405485740051de.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
