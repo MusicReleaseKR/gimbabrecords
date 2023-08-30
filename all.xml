@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 30 Aug 2023 08:12:18 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Aug 2023 09:10:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -104,6 +104,22 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/201802/10113_shop1_796556.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Natsu Summer & Ryusenkei / Sun Kissed Lady (Limited Vinyl) *단종상품 (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22729&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22729&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Wed, 30 Aug 2023 09:08:16 GMT</pubDate>
+            <content:encoded><![CDATA[46,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202308/af601deb7a48978e626f31c0c54b453f.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Yurie Kokubu / Relief 72 Hours (Limited Clear Neon Pink Vinyl) (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22728&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22728&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Wed, 30 Aug 2023 09:08:16 GMT</pubDate>
+            <content:encoded><![CDATA[54,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202308/82821609e7aeee59db123074ca09f578.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Mitski / The Land Is Inhospitable and So Are We (Robin Egg Blue Vinyl, 핑크색 다이컷 슬립케이스 + 포스트카드 증정) *예약상품 (9월 15일 발매) (김밥레코즈 ─ Vinyl)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=22727&amp;cate_no=25&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=22727&amp;cate_no=25&amp;display_group=1</guid>
@@ -182,22 +198,6 @@
             <pubDate>Mon, 28 Aug 2023 09:08:21 GMT</pubDate>
             <content:encoded><![CDATA[29,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202308/abde9d0056c04c80ac4f17b01260d409.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[듀스 (DEUX) / Rhythm Light Beat Black (2.5집, 150g Yellow Lime Colored Vinyl) (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22714&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22714&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Mon, 28 Aug 2023 06:10:25 GMT</pubDate>
-            <content:encoded><![CDATA[49,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202308/3d0793587b45e9891a049845d9631fd8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[듀스(Deux) / Rhythm Light Beat Black (2.5집, 150g Clear Blue Vinyl) (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22713&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22713&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Mon, 28 Aug 2023 06:10:25 GMT</pubDate>
-            <content:encoded><![CDATA[49,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202308/28bdf262b9de8bccc50ddfedb255f8e9.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Mitski / The Land Is Inhospitable and So Are We (Cassette) *예약상품 (9월 15일 발매) (김밥레코즈 ─ Cassette)]]></title>
