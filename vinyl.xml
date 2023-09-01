@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ Vinyl</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Sep 2023 02:21:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Sep 2023 03:10:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[박지윤 / parkjiyoon9 (9집) (180g Grey Silver Vinyl + 48p Photobook - 컬러바이닐 + 48페이지 사진집/ 책자) *예약상품 (9월 15일부터 배송 시작)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22736&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22736&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Fri, 01 Sep 2023 03:08:40 GMT</pubDate>
+            <content:encoded><![CDATA[53,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202309/3ae590c7d25d57e18ec827fe8fc81c6c.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[HYBS / Tip Toe (Limited 7" Splatter Vinyl) *예약상품 (10월말 발송 예정)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=22735&amp;cate_no=25&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Tue, 29 Aug 2023 08:11:51 GMT</pubDate>
             <content:encoded><![CDATA[40,300원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202308/d08f5bebc249670c14793953758edd8c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김정훈 / blue & disappear (Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22722&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22722&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Tue, 29 Aug 2023 07:07:21 GMT</pubDate>
-            <content:encoded><![CDATA[38,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202308/0aa743d0c3057502b4c1fdcdc8fc9315.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
