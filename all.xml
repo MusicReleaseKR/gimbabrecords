@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 02 Sep 2023 12:14:10 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Sep 2023 13:10:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -104,6 +104,14 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202308/001df8a47b06b446a8b83d8beedfc65c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[OST (Son Lux) / Everything Everywhere All at Once 에브리씽 에브리웨어 올 앳 원스 (Black & White Vinyl, 2LP) *한정수량 할인 + 추가 할인 (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22753&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22753&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Sat, 02 Sep 2023 13:08:16 GMT</pubDate>
+            <content:encoded><![CDATA[49,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202309/79a381e9bdcd054ada382a5bb2d5c3e6.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[WILDES / Klischee (Colored Vinyl, 사인반, Limited Edition) (김밥레코즈 ─ Vinyl)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=22750&amp;cate_no=25&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=22750&amp;cate_no=25&amp;display_group=1</guid>
@@ -190,14 +198,6 @@
             <pubDate>Fri, 01 Sep 2023 06:10:51 GMT</pubDate>
             <content:encoded><![CDATA[65,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/201610/5506_shop1_163342.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Tyler, The Creator / Call Me If You Get Lost: The Estate Sale (Geneva Blue Vinyl, 3LP, Limited Deluxe Edition)*예약상품 (9월 15일 이후 배송 예정) (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22738&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22738&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Fri, 01 Sep 2023 06:10:51 GMT</pubDate>
-            <content:encoded><![CDATA[72,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202309/13b027f151cdd0cd38289e4d37f11c94.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Mitski / The Land Is Inhospitable and So Are We (Cassette) *예약상품 (9월 15일 발매) (김밥레코즈 ─ Cassette)]]></title>
