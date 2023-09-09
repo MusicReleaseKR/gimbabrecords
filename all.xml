@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 09 Sep 2023 06:11:45 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Sep 2023 07:08:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Mario Rui Silva / Stories From Another Time 1982​-​1988 (CD) (김밥레코즈 ─ CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22795&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22795&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Sat, 09 Sep 2023 07:06:39 GMT</pubDate>
+            <content:encoded><![CDATA[22,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202309/767a28fb8db47bdbdd1af6d921183fc1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Romy / Mid Air (CD, 수입반) (김밥레코즈 ─ CD)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=22785&amp;cate_no=24&amp;display_group=1</link>
@@ -96,12 +104,12 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202309/9e79e688c02252d29d2448e8c7231f90.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Nils Petter Molvaer / Khmer (CD) *한정수량 할인 (김밥레코즈 ─ CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22774&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22774&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Wed, 06 Sep 2023 10:08:08 GMT</pubDate>
-            <content:encoded><![CDATA[19,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/201910/46c5668f2e20a2f77421a74ab71f1c5e.jpeg" length="0" type="image/jpeg"/>
+            <title><![CDATA[Mario Rui Silva / Stories From Another Time 1982​-​1988 (Vinyl, 2LP) (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22794&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22794&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Sat, 09 Sep 2023 07:06:46 GMT</pubDate>
+            <content:encoded><![CDATA[38,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202309/c721788584beceb68751e29ee82c50cd.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[알레프 / 사과향 (140g Pink Splatter Color Vinyl) *예약상품 (12월 22일 이후 배송 예정) / 9월 15일까지 결제가 완료된 주문은 추가 5% 적립 (김밥레코즈 ─ Vinyl)]]></title>
@@ -190,14 +198,6 @@
             <pubDate>Wed, 06 Sep 2023 09:08:03 GMT</pubDate>
             <content:encoded><![CDATA[37,200원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202309/74d04eaa484e6c66b2c8d8e246c346fc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Anthony Williams / Spring (Vinyl, Blue Note Classic Vinyl Series) (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22768&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22768&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Wed, 06 Sep 2023 09:08:03 GMT</pubDate>
-            <content:encoded><![CDATA[37,200원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202309/fbef2691b18d1b772c83600b4b106cf6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Mitski / The Land Is Inhospitable and So Are We (Cassette) *예약상품 (9월 15일 발매) (김밥레코즈 ─ Cassette)]]></title>
@@ -1352,6 +1352,14 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202304/f4615527ed1e45c459d3efb14a7c1774.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Mario Rui Silva / Stories From Another Time 1982​-​1988 (CD) (김밥레코즈 ─ CD ─ World)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22795&amp;cate_no=79&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22795&amp;cate_no=79&amp;display_group=1</guid>
+            <pubDate>Sat, 09 Sep 2023 07:08:17 GMT</pubDate>
+            <content:encoded><![CDATA[22,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202309/767a28fb8db47bdbdd1af6d921183fc1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Cesaria Evora / Cafe Atlantico (CD) *한정수량 할인 (김밥레코즈 ─ CD ─ World)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=22783&amp;cate_no=79&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=22783&amp;cate_no=79&amp;display_group=1</guid>
@@ -1438,14 +1446,6 @@
             <pubDate>Tue, 15 Aug 2023 13:10:45 GMT</pubDate>
             <content:encoded><![CDATA[18,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202308/02cc3841bf84744a0bb6a09a507288cd.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Astrud Gilberto / Windy (SHM-CD) *한정수량 할인 (김밥레코즈 ─ CD ─ World)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22649&amp;cate_no=79&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22649&amp;cate_no=79&amp;display_group=1</guid>
-            <pubDate>Tue, 15 Aug 2023 13:10:45 GMT</pubDate>
-            <content:encoded><![CDATA[18,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202308/2126a64d2b6078d5ed8fed7e91e7a6eb.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Joe Hisaishi (히사이시 조) / A Symphonic Celebration - Music From the Studio Ghibli 스튜디오 지브리 애니메이션 음악 (CD, 국내반) (김밥레코즈 ─ CD ─ Classical/Crossover)]]></title>
