@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Sep 2023 13:13:08 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Sep 2023 14:10:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -32,7 +32,7 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202308/9e7c91c70fc2bffbcc8b6a9e7477d099.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Yurie Kokubu / Relief 72 Hours (Blu-spec CD) (김밥레코즈 ─ CD)]]></title>
+            <title><![CDATA[Yurie Kokubu / Relief 72 Hours (Blu-spec CD2) (김밥레코즈 ─ CD)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=22817&amp;cate_no=24&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=22817&amp;cate_no=24&amp;display_group=1</guid>
             <pubDate>Tue, 12 Sep 2023 06:10:19 GMT</pubDate>
@@ -1664,7 +1664,7 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202308/9e7c91c70fc2bffbcc8b6a9e7477d099.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Yurie Kokubu / Relief 72 Hours (Blu-spec CD) (김밥레코즈 ─ CD ─ Japanese)]]></title>
+            <title><![CDATA[Yurie Kokubu / Relief 72 Hours (Blu-spec CD2) (김밥레코즈 ─ CD ─ Japanese)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=22817&amp;cate_no=90&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=22817&amp;cate_no=90&amp;display_group=1</guid>
             <pubDate>Tue, 12 Sep 2023 06:12:22 GMT</pubDate>
