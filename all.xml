@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Sep 2023 12:16:14 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Sep 2023 13:12:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -128,7 +128,7 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202309/37dd643e6f2a9292bbf7230fd65c6265.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Say Sue Me / 10 (EP, Transparent Clear Vinyl, Limited Edition, 45 RPM) (김밥레코즈 ─ Vinyl)]]></title>
+            <title><![CDATA[세이수미 Say Sue Me / 10 (EP, Transparent Clear Vinyl, Limited Edition, 45 RPM) (김밥레코즈 ─ Vinyl)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=22844&amp;cate_no=25&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=22844&amp;cate_no=25&amp;display_group=1</guid>
             <pubDate>Fri, 15 Sep 2023 08:10:25 GMT</pubDate>
@@ -1736,7 +1736,7 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202308/4584a454061cf492bb5cc0fbcabeeebd.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Say Sue Me / 10 (EP, Transparent Clear Vinyl, Limited Edition, 45 RPM) (김밥레코즈 ─ Vinyl ─ Korean)]]></title>
+            <title><![CDATA[세이수미 Say Sue Me / 10 (EP, Transparent Clear Vinyl, Limited Edition, 45 RPM) (김밥레코즈 ─ Vinyl ─ Korean)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=22844&amp;cate_no=52&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=22844&amp;cate_no=52&amp;display_group=1</guid>
             <pubDate>Fri, 15 Sep 2023 08:12:22 GMT</pubDate>
