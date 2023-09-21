@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Sep 2023 07:10:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Sep 2023 08:12:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -104,6 +104,46 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202301/372a35539c889aacead60d7e918aadb3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Liam Gallagher / Knebworth 22 (Vinyl, 2LP) (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22904&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22904&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Thu, 21 Sep 2023 08:10:42 GMT</pubDate>
+            <content:encoded><![CDATA[58,300원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202309/8bfaa8779bea4d7d7deeb5ab16914bfa.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[OST / Guardians Of The Galaxy: Awesome Mix Vol. 2 가디언즈 오브 갤럭시 2 (Orange Galaxy Vinyl, Limited Edition) *한정수량 할인 (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22903&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22903&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Thu, 21 Sep 2023 08:10:42 GMT</pubDate>
+            <content:encoded><![CDATA[46,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202309/659ff19d6b896ab2f4ab377b08d68be1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[James Blake / Playing Robots Into Heaven (Deluxe White Vinyl + Bonus 12" Vinyl + Poster, Indie Store Exclusive Limited Edition) *한정수량 할인 (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22902&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22902&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Thu, 21 Sep 2023 08:10:42 GMT</pubDate>
+            <content:encoded><![CDATA[59,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202309/940742ed92ccfd53a6efc1bd531e576e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Rina Sawayama / Hold The Girl (Opaque White & Cobalt Blue Vinyl, 1st Anniversary Edition) (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22901&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22901&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Thu, 21 Sep 2023 08:10:42 GMT</pubDate>
+            <content:encoded><![CDATA[35,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202309/81af54bd54b51260328af85b08cafad4.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Skid Row / Slave To The Grind (180g Orange & Black Marbled Vinyl, 2LP) (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22900&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22900&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Thu, 21 Sep 2023 08:10:42 GMT</pubDate>
+            <content:encoded><![CDATA[59,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202309/8157c9e2c5d902509c36a39c5552ffac.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Skid Row / Subhuman Race (180g Blue & Black Vinyl, 2LP) (김밥레코즈 ─ Vinyl)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=22899&amp;cate_no=25&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=22899&amp;cate_no=25&amp;display_group=1</guid>
@@ -158,46 +198,6 @@
             <pubDate>Thu, 21 Sep 2023 07:08:02 GMT</pubDate>
             <content:encoded><![CDATA[58,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202309/d66ab442d1362d320243718f78dd11c9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Astrud Gilberto with Stanley Turrentine / Gilberto With Turrentine (Limited Colored Vinyl) *한정수량 할인 (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22892&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22892&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Wed, 20 Sep 2023 19:06:57 GMT</pubDate>
-            <content:encoded><![CDATA[42,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202309/c484acdc3ebc54d17e8fef75fcd14d21.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Oasis / The Masterplan (Limited Silver Vinyl, 2LP, Remaster) *예약상품 (11월 중순 이후 배송) (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22891&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22891&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Wed, 20 Sep 2023 19:06:57 GMT</pubDate>
-            <content:encoded><![CDATA[59,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202309/fede70285edda90b5d4d0d768642bfe8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Oasis / The Masterplan (Black Vinyl, 2LP, Remastered) *예약상품 (11월 중순 이후 배송 예정) (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22890&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22890&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Wed, 20 Sep 2023 19:06:57 GMT</pubDate>
-            <content:encoded><![CDATA[49,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202309/048fa57bc70191a5b903df1372032411.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아이들(Idol) / 아이들과 함께 춤을 (Limited Green Vinyl) (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22880&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22880&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Wed, 20 Sep 2023 19:06:57 GMT</pubDate>
-            <content:encoded><![CDATA[40,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202309/2cba96b50925f7508d0efbf6944fa40f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[데블스 / 1집 추억의 길, 연인의 속삭임 (180g Color Vinyl) (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22879&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22879&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Wed, 20 Sep 2023 19:06:57 GMT</pubDate>
-            <content:encoded><![CDATA[40,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202309/48c76e609d3d7802992648c5f211ef2a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[She & Him / A Very She & Him Christmas (Cassette) (김밥레코즈 ─ Cassette)]]></title>
