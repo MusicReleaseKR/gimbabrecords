@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ Vinyl</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Sep 2023 02:17:19 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Sep 2023 03:10:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[OST (Lena Raine) / Celeste 셀레스트 (Original Video Game Soundtrack) (Limited Pink Vinyl 2LP) *예약상품 (10월말 배송 예정)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22931&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22931&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Thu, 28 Sep 2023 03:08:36 GMT</pubDate>
+            <content:encoded><![CDATA[54,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202309/2678e956fae7f4cda498c87e56eebe6c.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[유다빈밴드 / 유다빈밴드 1집 (Vinyl) *예약상품 (10월 11일부터 발송)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=22930&amp;cate_no=25&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Fri, 22 Sep 2023 06:10:26 GMT</pubDate>
             <content:encoded><![CDATA[46,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202309/282b740c29e06b595b3296a365839262.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Cesaria Evora / Sao Vicente Di Longe (Limited Colored Vinyl, 2LP) *한정수량 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22913&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22913&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Fri, 22 Sep 2023 06:10:26 GMT</pubDate>
-            <content:encoded><![CDATA[46,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202309/47202ce0c689f8661c8014ca00b35275.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
