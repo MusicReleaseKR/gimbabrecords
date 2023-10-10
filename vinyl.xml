@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ Vinyl</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 10 Oct 2023 08:12:59 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Oct 2023 09:10:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[개인구매링크 (김*현님)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22959&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22959&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Tue, 10 Oct 2023 09:08:50 GMT</pubDate>
+            <content:encoded><![CDATA[54,000원]]></content:encoded>
+            <enclosure url="http://img.echosting.cafe24.com/thumb/img_product_medium.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[Marcos Valle & Azymuth / Fly Cruzeiro (Limited Colored Vinyl, 500매 한정)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=22957&amp;cate_no=25&amp;display_group=1</link>
@@ -93,14 +101,6 @@
             <guid>http://gimbabrecords.com/product/detail.html?product_no=22946&amp;cate_no=25&amp;display_group=1</guid>
             <pubDate>Thu, 05 Oct 2023 09:08:24 GMT</pubDate>
             <content:encoded><![CDATA[55,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/201706/7362_shop1_365232.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Ryuichi Sakamoto / Async (Vinyl, 2LP, 2023 Repress)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22945&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22945&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Thu, 05 Oct 2023 09:08:24 GMT</pubDate>
-            <content:encoded><![CDATA[57,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/201706/7362_shop1_365232.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
