@@ -4,9 +4,33 @@
         <title>김밥레코즈 ─ Vinyl</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 10 Oct 2023 15:10:45 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Oct 2023 16:12:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Sufjan Stevens / Javelin (Indie Exclusive Lemonade Colored Vinyl + 48p booklet) *한정수량 할인 + 추가 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22970&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22970&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Tue, 10 Oct 2023 16:10:20 GMT</pubDate>
+            <content:encoded><![CDATA[35,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202310/75437a33ffae82bda521b653368feff3.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Sufjan Stevens / Javelin (Indie Exclusive Lemonade Colored Vinyl + 48p booklet) *한정수량 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22969&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22969&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Tue, 10 Oct 2023 16:10:20 GMT</pubDate>
+            <content:encoded><![CDATA[36,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202310/8a715f378d044fc1aeb5de3e3a8af9b0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Sufjan Stevens / Javelin (Black Vinyl + 48p Booklet) *한정수량 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22968&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22968&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Tue, 10 Oct 2023 16:10:20 GMT</pubDate>
+            <content:encoded><![CDATA[33,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202310/69a2e2aa831a2c7187b8c6dd4f55cb41.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Betty Davis / Betty Davis (Coke Bottle Clear Vinyl, Limited Edition, Reissue)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=22966&amp;cate_no=25&amp;display_group=1</link>
@@ -78,30 +102,6 @@
             <pubDate>Tue, 10 Oct 2023 04:10:08 GMT</pubDate>
             <content:encoded><![CDATA[42,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202310/938b7d954686cc2e44190551933defa2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Lisa Ono / Bossa Carioca (Vinyl) *한정수량 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22956&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22956&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Sat, 07 Oct 2023 05:07:15 GMT</pubDate>
-            <content:encoded><![CDATA[45,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202310/a83f8cdbea81a0d9a1a73c2f180256e9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Jorja Smith / falling or flying (Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22955&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22955&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Fri, 06 Oct 2023 08:10:53 GMT</pubDate>
-            <content:encoded><![CDATA[44,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202310/35c77ba146f8faf57315ce1f83edd02f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Dora Morelenbaum / Vento De Beirada (Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22954&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22954&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Fri, 06 Oct 2023 08:10:53 GMT</pubDate>
-            <content:encoded><![CDATA[30,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202310/bd73c049642f35955153668e60d9e151.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
