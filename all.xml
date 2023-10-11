@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 11 Oct 2023 10:11:16 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Oct 2023 11:09:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1532,7 +1532,7 @@
             <link>http://gimbabrecords.com/product/detail.html?product_no=19306&amp;cate_no=50&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=19306&amp;cate_no=50&amp;display_group=1</guid>
             <pubDate>Wed, 16 Nov 2022 17:23:29 GMT</pubDate>
-            <content:encoded><![CDATA[52,000원]]></content:encoded>
+            <content:encoded><![CDATA[55,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202206/d4975f117d171b30beb4f28886688b41.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
