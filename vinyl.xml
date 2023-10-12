@@ -4,9 +4,25 @@
         <title>김밥레코즈 ─ Vinyl</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 Oct 2023 05:10:40 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Oct 2023 06:13:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Todd Rundgren / Something/Anything? (180g Vinyl, 2LP) *한정수량 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22974&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22974&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Thu, 12 Oct 2023 06:10:53 GMT</pubDate>
+            <content:encoded><![CDATA[46,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202310/981d067dc297dafd174c5f29cac29e65.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Adriana Calcanhotto / Errante (Vinyl, Gatefold)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22973&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22973&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Thu, 12 Oct 2023 06:10:53 GMT</pubDate>
+            <content:encoded><![CDATA[42,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202310/752b186e2a7c48ff3daee3b024411bae.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Sufjan Stevens / Javelin (Indie Exclusive Lemonade Colored Vinyl + 48p booklet) *한정수량 할인 + 추가 할인]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=22970&amp;cate_no=25&amp;display_group=1</link>
@@ -86,22 +102,6 @@
             <pubDate>Tue, 10 Oct 2023 10:09:15 GMT</pubDate>
             <content:encoded><![CDATA[59,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202310/381e6b584b6691b2a3be358cc5b0ba3a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[유재하 / 사랑하기 때문에 Special Vinyl Edition (180g Emerald Vinyl 에메랄드 컬러반) *10월 11일 0시~24시 사이 구매 및 결제를 완료하신 분들께는 추가로 약 5% (3,000원)를 추가 적립해  드립니다 (배송완료 후 일괄 적립).]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22958&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22958&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Tue, 10 Oct 2023 17:08:02 GMT</pubDate>
-            <content:encoded><![CDATA[62,400원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202306/0b735a45c498584db9c18994b4111a3d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Marcos Valle & Azymuth / Fly Cruzeiro (Limited Colored Vinyl, 500매 한정)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22957&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22957&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Wed, 11 Oct 2023 01:42:12 GMT</pubDate>
-            <content:encoded><![CDATA[42,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202310/938b7d954686cc2e44190551933defa2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
