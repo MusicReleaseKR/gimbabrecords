@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 13 Oct 2023 06:13:28 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Oct 2023 07:10:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -104,6 +104,30 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202309/e68f28282e1d805be40997b75ab3924f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Yung Bae / B4E (Vinyl) (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22993&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22993&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Fri, 13 Oct 2023 07:08:04 GMT</pubDate>
+            <content:encoded><![CDATA[42,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202310/f57a0d328b6efbbb64ebb3b36c4c4415.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Who / Who's Next (180g Vinyl, Deluxe Remastered Edition, 50th Anniversary) (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22992&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22992&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Fri, 13 Oct 2023 07:08:04 GMT</pubDate>
+            <content:encoded><![CDATA[47,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202310/3bcf9a5233a5840cbcbfac08e6e19b8d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Joe Hisaishi (히사이시 조) / A Symphonic Celebration - Music From the Studio Ghibli 스튜디오 지브리 애니메이션 음악 (Sky Blue Vinyl, Limited Edition) (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22991&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22991&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Fri, 13 Oct 2023 07:08:04 GMT</pubDate>
+            <content:encoded><![CDATA[69,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202308/2df27975b7ee4c6b9e129af76aa69657.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[김트리오 / Riverside Rendezvous: 12 Hits (130g Black Vinyl) *예약상품 (10월 26일 발매 예정) (김밥레코즈 ─ Vinyl)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=22989&amp;cate_no=25&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=22989&amp;cate_no=25&amp;display_group=1</guid>
@@ -174,30 +198,6 @@
             <pubDate>Thu, 12 Oct 2023 07:09:07 GMT</pubDate>
             <content:encoded><![CDATA[31,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202310/318d756e8fc309b95799cb283944faa5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Whitney Houston / Whitney (Mobile Fidelity HQ Pressing / Limited Numbered Edition) (Vinyl) *할인상품 (쟈켓 모서리 작은 눌림) (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22976&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22976&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Thu, 12 Oct 2023 07:09:07 GMT</pubDate>
-            <content:encoded><![CDATA[73,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202310/6c883f518b2909ad9f3990bade54deff.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Whitney Houston / Whitney (Mobile Fidelity HQ Pressing / Limited Numbered Edition) (Vinyl) (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22975&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22975&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Thu, 12 Oct 2023 07:09:07 GMT</pubDate>
-            <content:encoded><![CDATA[74,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202310/6c883f518b2909ad9f3990bade54deff.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Todd Rundgren / Something/Anything? (180g Vinyl, 2LP) *한정수량 할인 (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22974&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22974&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Thu, 12 Oct 2023 06:10:53 GMT</pubDate>
-            <content:encoded><![CDATA[46,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202310/981d067dc297dafd174c5f29cac29e65.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Explosions in the Sky / End (Cassette) *한정수량 할인 (김밥레코즈 ─ Cassette)]]></title>
