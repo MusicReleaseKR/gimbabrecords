@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ CD</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 16 Oct 2023 05:10:47 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Oct 2023 06:13:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[jisokuryClub (지소쿠리클럽) / EP Lunker (CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=23012&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=23012&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Mon, 16 Oct 2023 06:11:37 GMT</pubDate>
+            <content:encoded><![CDATA[20,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202310/9490e70168cdca09fdce9a13e498bc63.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[The Beatles / Sgt. Pepper's Lonely Hearts Club Band (Anniversary Super Deluxe Limited Edition 4CD+Blu-ray+DVD+144p 책자) *매장 10주년 기념 한정수량 할인 (구매시 유의사항을 꼭 확인하세요)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=23011&amp;cate_no=24&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Fri, 13 Oct 2023 09:08:17 GMT</pubDate>
             <content:encoded><![CDATA[15,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202310/bf25083205c5e0c70ecbd1879e0d841d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Love / Forever Changes (Expanded & Remastered CD + bonus tracks) *한정수량 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=23000&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=23000&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Fri, 13 Oct 2023 09:08:17 GMT</pubDate>
-            <content:encoded><![CDATA[15,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/201609/5153_shop1_636190.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
