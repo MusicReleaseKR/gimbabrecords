@@ -4,9 +4,25 @@
         <title>김밥레코즈 ─ CD</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 17 Oct 2023 14:09:54 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Oct 2023 15:11:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Official HIGE DANdism / Report (CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=23029&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=23029&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Tue, 17 Oct 2023 15:08:43 GMT</pubDate>
+            <content:encoded><![CDATA[25,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202310/da1a1a5d48cd75e408f460fb2b89346d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Official HIGE DANdism / Man In The Mirror (CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=23028&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=23028&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Tue, 17 Oct 2023 15:08:43 GMT</pubDate>
+            <content:encoded><![CDATA[19,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202310/abe1031e629bc13ae911a42832765b5d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Official HIGE DANdism / Escaparade (CD)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=23027&amp;cate_no=24&amp;display_group=1</link>
@@ -86,22 +102,6 @@
             <pubDate>Fri, 13 Oct 2023 10:08:46 GMT</pubDate>
             <content:encoded><![CDATA[14,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202310/8b6a3fc4d570dfb4546910226d9e5bae.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Skid Row / Skid Row (CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=23006&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=23006&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Fri, 13 Oct 2023 10:08:46 GMT</pubDate>
-            <content:encoded><![CDATA[15,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202309/0e78fd6d253ffb09ae899f658c7077d0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Skid Row / Slave To The Grind (CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=23005&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=23005&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Fri, 13 Oct 2023 10:08:46 GMT</pubDate>
-            <content:encoded><![CDATA[15,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202309/8157c9e2c5d902509c36a39c5552ffac.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
