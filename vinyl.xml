@@ -4,9 +4,25 @@
         <title>김밥레코즈 ─ Vinyl</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 17 Oct 2023 05:10:06 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Oct 2023 06:13:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Neil Young & Crazy Horse / Odeon Budokan (Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=23022&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=23022&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Tue, 17 Oct 2023 06:11:39 GMT</pubDate>
+            <content:encoded><![CDATA[33,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202310/00260711e0b3d107fef92e77362f338c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Earl Sweatshirt / SICK! (Black Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=23020&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=23020&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Tue, 17 Oct 2023 06:11:39 GMT</pubDate>
+            <content:encoded><![CDATA[39,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202309/6fbd21e133be62317f1599ec7b00bd13.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Wayne Shorter / Schizophrenia (180g Vinyl, Blue Note Tone Poet Series, RTI Pressings) *한정기간 추가 3,000원 적립 (10월 31일까지)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=23019&amp;cate_no=25&amp;display_group=1</link>
@@ -86,22 +102,6 @@
             <pubDate>Fri, 13 Oct 2023 08:11:09 GMT</pubDate>
             <content:encoded><![CDATA[119,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202310/69f9d9b463aa62cbe5186345b8063c08.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[James Blake / Playing Robots Into Heaven (Vinyl, Gatefold)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22994&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22994&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Fri, 13 Oct 2023 08:11:09 GMT</pubDate>
-            <content:encoded><![CDATA[47,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202310/23fe0d8624b95de48ab99e8394407bb4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Yung Bae / B4E (Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22993&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22993&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Fri, 13 Oct 2023 07:08:04 GMT</pubDate>
-            <content:encoded><![CDATA[42,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202310/f57a0d328b6efbbb64ebb3b36c4c4415.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
