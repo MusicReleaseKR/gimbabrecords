@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ Pre-Order</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 17 Oct 2023 07:10:11 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Oct 2023 08:13:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[파란노을 Parannoul / After The Magic (Magenta Colored Vinyl, Limited Edition) *예약상품 (10월 20일 이후 배송 시작)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22925&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22925&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Sat, 07 Oct 2023 05:07:36 GMT</pubDate>
+            <content:encoded><![CDATA[44,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202309/9ac16df6f1083219f9e29cd9e7473bc5.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[김뜻돌 / 꿈에서 걸려온 전화 (투명 블루 Vinyl, 발매 3주년 기념반) *예약상품 (11월 23일 발매 예정) / 1인 1매만 구매 가능 / 별도의 입금기한 설정]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=22951&amp;cate_no=42&amp;display_group=1</link>
@@ -46,14 +54,6 @@
             <pubDate>Tue, 17 Oct 2023 06:12:02 GMT</pubDate>
             <content:encoded><![CDATA[52,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202306/cdf07eb18c741b629054359d1a6ae108.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[파란노을 Parannoul / After The Magic (Magenta Colored Vinyl, Limited Edition) *예약상품 (10월 20일 이후 배송 시작)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22925&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22925&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Sat, 07 Oct 2023 05:07:36 GMT</pubDate>
-            <content:encoded><![CDATA[44,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202309/9ac16df6f1083219f9e29cd9e7473bc5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[김트리오 / Riverside Rendezvous: 12 Hits (130g Black Vinyl) *예약상품 (10월 26일 발매 예정)]]></title>
