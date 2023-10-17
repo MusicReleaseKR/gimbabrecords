@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 17 Oct 2023 13:13:32 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Oct 2023 14:09:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Official HIGE DANdism / Escaparade (CD) (김밥레코즈 ─ CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=23027&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=23027&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Tue, 17 Oct 2023 14:07:36 GMT</pubDate>
+            <content:encoded><![CDATA[34,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202310/dbcd7eae4648f08ebc28cf6bddb630bc.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Official HIGE DANdism / Chessboard/ Nichijou (CD) (김밥레코즈 ─ CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=23026&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=23026&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Tue, 17 Oct 2023 14:07:36 GMT</pubDate>
+            <content:encoded><![CDATA[15,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202310/5e063cb27f5dae7bef543bb962904557.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Molly Burch / Daydreamer (CD) *예약상품 (11월초 배송 예정) (김밥레코즈 ─ CD)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=23021&amp;cate_no=24&amp;display_group=1</link>
@@ -86,22 +102,6 @@
             <pubDate>Fri, 13 Oct 2023 10:08:46 GMT</pubDate>
             <content:encoded><![CDATA[15,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202309/8157c9e2c5d902509c36a39c5552ffac.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Helloween / Pink Bubbles Go Ape (CD, Expanded Edition) *한정수량 할인 (김밥레코즈 ─ CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=23004&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=23004&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Fri, 13 Oct 2023 10:08:46 GMT</pubDate>
-            <content:encoded><![CDATA[15,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/201701/5989_shop1_293916.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Coverdale/Page / Coverdale/Page (CD) *한정수량 할인 (김밥레코즈 ─ CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=23003&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=23003&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Fri, 13 Oct 2023 10:08:46 GMT</pubDate>
-            <content:encoded><![CDATA[15,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202310/9cc1e523eb0a77076ffd48ab3e85c60e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[무키무키만만수 / 2012 (Black Vinyl) *예약상품 (10월 26일 발매 예정) (김밥레코즈 ─ Vinyl)]]></title>
@@ -1640,6 +1640,30 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202210/cfa26e40165b9ed191f863740f371b37.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Official HIGE DANdism / Man In The Mirror (CD) (김밥레코즈 ─ CD ─ Japanese)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=23028&amp;cate_no=90&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=23028&amp;cate_no=90&amp;display_group=1</guid>
+            <pubDate>Tue, 17 Oct 2023 14:09:38 GMT</pubDate>
+            <content:encoded><![CDATA[19,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202310/abe1031e629bc13ae911a42832765b5d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Official HIGE DANdism / Escaparade (CD) (김밥레코즈 ─ CD ─ Japanese)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=23027&amp;cate_no=90&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=23027&amp;cate_no=90&amp;display_group=1</guid>
+            <pubDate>Tue, 17 Oct 2023 14:09:38 GMT</pubDate>
+            <content:encoded><![CDATA[34,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202310/dbcd7eae4648f08ebc28cf6bddb630bc.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Official HIGE DANdism / Chessboard/ Nichijou (CD) (김밥레코즈 ─ CD ─ Japanese)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=23026&amp;cate_no=90&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=23026&amp;cate_no=90&amp;display_group=1</guid>
+            <pubDate>Tue, 17 Oct 2023 14:09:38 GMT</pubDate>
+            <content:encoded><![CDATA[15,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202310/5e063cb27f5dae7bef543bb962904557.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Noriko Miyamoto with Isao Suzuki / Push (CD, UK Import) (김밥레코즈 ─ CD ─ Japanese)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=22850&amp;cate_no=90&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=22850&amp;cate_no=90&amp;display_group=1</guid>
@@ -1710,30 +1734,6 @@
             <pubDate>Tue, 12 Sep 2023 06:12:22 GMT</pubDate>
             <content:encoded><![CDATA[37,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202309/50aaffb5bd38363242972aaa1d5cf497.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[kunmohile / kunmohile (CD) (김밥레코즈 ─ CD ─ Japanese)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22815&amp;cate_no=90&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22815&amp;cate_no=90&amp;display_group=1</guid>
-            <pubDate>Tue, 12 Sep 2023 06:12:22 GMT</pubDate>
-            <content:encoded><![CDATA[28,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202309/92cf77b7a1225dee949757c9e301c2ce.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Tokyo Incidents / Adult 大人 "Femme" Edition (CD) (김밥레코즈 ─ CD ─ Japanese)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22699&amp;cate_no=90&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22699&amp;cate_no=90&amp;display_group=1</guid>
-            <pubDate>Wed, 23 Aug 2023 10:10:01 GMT</pubDate>
-            <content:encoded><![CDATA[34,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202308/597779412e97b9a8ca9b2ea02b2c7a6f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Aimyon / Kimi Wa Rock Wo Kikanai 君はロックを聴かない (CD) (김밥레코즈 ─ CD ─ Japanese)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22698&amp;cate_no=90&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22698&amp;cate_no=90&amp;display_group=1</guid>
-            <pubDate>Wed, 23 Aug 2023 10:10:01 GMT</pubDate>
-            <content:encoded><![CDATA[13,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202308/4584a454061cf492bb5cc0fbcabeeebd.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[무키무키만만수 / 2012 (Black Vinyl) *예약상품 (10월 26일 발매 예정) (김밥레코즈 ─ Vinyl ─ Korean)]]></title>
