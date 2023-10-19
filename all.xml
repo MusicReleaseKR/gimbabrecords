@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 19 Oct 2023 06:13:37 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 Oct 2023 07:10:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -648,7 +648,7 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202308/6ed79030b18fc3673326baa1c47e31d0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[위댄스 / 숨(SUM) (CD) (김밥레코즈 ─ CD ─ Korean)]]></title>
+            <title><![CDATA[위댄스 / 숨(SUM) (CD) *10월 27일 이후 발송 (김밥레코즈 ─ CD ─ Korean)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=22662&amp;cate_no=29&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=22662&amp;cate_no=29&amp;display_group=1</guid>
             <pubDate>Thu, 17 Aug 2023 09:08:36 GMT</pubDate>
@@ -864,12 +864,12 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202307/ca73d611af9fe0c94648905b9ef668b7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Ryuichi Sakamoto / 12 (CD, 국내반) (김밥레코즈 ─ CD ─ Electronic/Dance)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22391&amp;cate_no=31&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22391&amp;cate_no=31&amp;display_group=1</guid>
-            <pubDate>Thu, 06 Jul 2023 16:12:21 GMT</pubDate>
-            <content:encoded><![CDATA[19,300원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202307/3fc2e880126cc675348bc37a1b14045a.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[Christine And The Queens / Paranoia, Angels, True Love (3CD) (김밥레코즈 ─ CD ─ Electronic/Dance)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22388&amp;cate_no=31&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22388&amp;cate_no=31&amp;display_group=1</guid>
+            <pubDate>Thu, 19 Oct 2023 07:08:58 GMT</pubDate>
+            <content:encoded><![CDATA[36,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202307/72b337d5c779e6fdb1372f5cdf021384.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Ben Sidran / Feel Your Groove (CD, "황금시대 숨은 명반" 시리즈) (김밥레코즈 ─ CD ─ R&B/Soul/Funk)]]></title>
@@ -1308,7 +1308,7 @@
             <link>http://gimbabrecords.com/product/detail.html?product_no=22670&amp;cate_no=48&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=22670&amp;cate_no=48&amp;display_group=1</guid>
             <pubDate>Fri, 18 Aug 2023 12:14:07 GMT</pubDate>
-            <content:encoded><![CDATA[17,800원]]></content:encoded>
+            <content:encoded><![CDATA[20,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202308/2df27975b7ee4c6b9e129af76aa69657.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1460,7 +1460,7 @@
             <link>http://gimbabrecords.com/product/detail.html?product_no=22670&amp;cate_no=50&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=22670&amp;cate_no=50&amp;display_group=1</guid>
             <pubDate>Fri, 18 Aug 2023 12:14:19 GMT</pubDate>
-            <content:encoded><![CDATA[17,800원]]></content:encoded>
+            <content:encoded><![CDATA[20,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202308/2df27975b7ee4c6b9e129af76aa69657.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
