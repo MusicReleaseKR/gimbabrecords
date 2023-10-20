@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ Vinyl</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 20 Oct 2023 16:12:48 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Oct 2023 17:09:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Barry Manilow / Even Now (Limited Colored Vinyl, 2,000매 한정반) *1회 한정 판매]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=23081&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=23081&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Fri, 20 Oct 2023 17:07:23 GMT</pubDate>
+            <content:encoded><![CDATA[42,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202310/e8f4388de9ea831f8ce18a6139c63a93.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Ed Motta / Behind The Tea Chronicles (180g Vinyl)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=23079&amp;cate_no=25&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Fri, 20 Oct 2023 09:08:12 GMT</pubDate>
             <content:encoded><![CDATA[41,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202310/c9ab1fe122e02c843480bc0bf56cb15f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Mario Castro & Samba S.A / Mario Castro & Samba S.A (Vinyl) *한정수량 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=23068&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=23068&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Fri, 20 Oct 2023 08:10:39 GMT</pubDate>
-            <content:encoded><![CDATA[39,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202310/be698c4810fccb88ef6576d3d6aba68f.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
