@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ Pre-Order</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 23 Oct 2023 17:09:38 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Oct 2023 18:11:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Elliott Smith / Figure 8 (180g 2LP) *예약상품 (10월 27일 이후로 배송)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=64&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=64&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Mon, 23 Oct 2023 17:07:58 GMT</pubDate>
+            <content:encoded><![CDATA[59,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/201507/64_shop1_876525.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Elliott Smith / Roman Candle (Vinyl) *예약상품 (11월 6일 이후 배송)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=3694&amp;cate_no=42&amp;display_group=1</link>
@@ -30,14 +38,6 @@
             <pubDate>Mon, 23 Oct 2023 17:07:58 GMT</pubDate>
             <content:encoded><![CDATA[59,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/201512/2395_shop1_725381.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Elliott Smith / Figure 8 (180g 2LP) *예약상품 (10월 27일 이후로 배송)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=64&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=64&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Mon, 23 Oct 2023 17:07:58 GMT</pubDate>
-            <content:encoded><![CDATA[45,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/201507/64_shop1_876525.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Elliott Smith / Either/Or (Vinyl) *예약상품 (11월 6일 이후 배송)]]></title>
