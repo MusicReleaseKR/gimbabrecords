@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ CD</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 24 Oct 2023 06:13:36 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Oct 2023 07:10:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[wave to earth (웨이브투어스) / 정규 1집 0.1 flaws and all. (2CD, 패키지 슬리브 + 북클릿)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=23090&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=23090&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Tue, 24 Oct 2023 07:08:34 GMT</pubDate>
+            <content:encoded><![CDATA[23,800원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202310/7a55d8afb3cbcf8006c0d9f8a79cb7cc.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Impellitteri / Complete Beast (6CD Box Set)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=23088&amp;cate_no=24&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Wed, 18 Oct 2023 08:10:41 GMT</pubDate>
             <content:encoded><![CDATA[13,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202310/b050280f67870b6955f527a0eb042a2e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Eggs Over Easy / Good 'N' Cheap (CD, "황금시대 숨은 명반" 시리즈)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=23048&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=23048&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Wed, 18 Oct 2023 08:10:41 GMT</pubDate>
-            <content:encoded><![CDATA[13,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202310/aca5aff8c8708e46022178daf9cd41bd.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
