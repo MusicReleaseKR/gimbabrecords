@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 24 Oct 2023 08:13:55 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Oct 2023 09:11:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Trio Beyond /Saudades (2CD) *ECM 한정수량 할인 (김밥레코즈 ─ CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=23094&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=23094&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Tue, 24 Oct 2023 09:08:41 GMT</pubDate>
+            <content:encoded><![CDATA[31,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202310/f1b52c894cd0d91bf328f2c65f4ca7d1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[wave to earth (웨이브투어스) / 정규 1집 0.1 flaws and all. (2CD, 패키지 슬리브 + 북클릿) (김밥레코즈 ─ CD)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=23090&amp;cate_no=24&amp;display_group=1</link>
@@ -96,12 +104,20 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202310/c978f68314c43e16f2129117af4d0770.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Stealers Wheel / Stealers Wheel (CD, "황금시대 숨은 명반" 시리즈) (김밥레코즈 ─ CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=23049&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=23049&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Wed, 18 Oct 2023 08:10:41 GMT</pubDate>
-            <content:encoded><![CDATA[13,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202310/b050280f67870b6955f527a0eb042a2e.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[The Strokes / Angles (Purple Vinyl, Limited Edition) *한정수량 할인 (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=23093&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=23093&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Tue, 24 Oct 2023 09:08:50 GMT</pubDate>
+            <content:encoded><![CDATA[45,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202310/f5bef5d810cc74ab37d1e98a412521fc.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Sigur Ros / Atta (Vinyl, 2LP) *한정수량 할인 (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=23092&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=23092&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Tue, 24 Oct 2023 09:08:50 GMT</pubDate>
+            <content:encoded><![CDATA[51,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202310/6013c30c0d2be8af3767e91c272c74e6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[서울전자음악단 / 2집 Life Is Strange (180g Vinyl, 2LP, 2023 Newly Mixed Edition) (김밥레코즈 ─ Vinyl)]]></title>
@@ -182,22 +198,6 @@
             <pubDate>Fri, 20 Oct 2023 09:08:12 GMT</pubDate>
             <content:encoded><![CDATA[49,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202310/3ef0bd3ace2e548ff286171cbcadd75a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[De La Soul / Art Official Intelligence: Mosaic Thump (Vinyl, 2LP) (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=23072&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=23072&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Fri, 20 Oct 2023 09:08:12 GMT</pubDate>
-            <content:encoded><![CDATA[49,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202310/a86568d0ffb8a1f151a1c472bc947005.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Cacophony (Marty Friedman & Jason Becker) / Speed Metal Symphony (Lemonade Yellow Vinyl, 35th Anniversary Limited Edition, Remastered) (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=23071&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=23071&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Fri, 20 Oct 2023 09:08:12 GMT</pubDate>
-            <content:encoded><![CDATA[33,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202211/f13a563a7575d2ef8fe00af340322176.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Grandaddy / Sumday: The Cassette Demos (Cassette) (김밥레코즈 ─ Cassette)]]></title>
@@ -1064,6 +1064,14 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202307/b6f23890f72b7d1a2e837b0a59c88212.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Trio Beyond /Saudades (2CD) *ECM 한정수량 할인 (김밥레코즈 ─ CD ─ Jazz)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=23094&amp;cate_no=46&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=23094&amp;cate_no=46&amp;display_group=1</guid>
+            <pubDate>Tue, 24 Oct 2023 09:10:11 GMT</pubDate>
+            <content:encoded><![CDATA[31,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202310/f1b52c894cd0d91bf328f2c65f4ca7d1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Kurt Elling & Charlie Hunter / Superblue: The Iridescent Spree (CD) (김밥레코즈 ─ CD ─ Jazz)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=23085&amp;cate_no=46&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=23085&amp;cate_no=46&amp;display_group=1</guid>
@@ -1150,14 +1158,6 @@
             <pubDate>Wed, 23 Aug 2023 10:09:23 GMT</pubDate>
             <content:encoded><![CDATA[13,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/201802/10113_shop1_796556.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Thelonious Monk / Underground (CD) *한정수량 할인 (김밥레코즈 ─ CD ─ Jazz)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22692&amp;cate_no=46&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22692&amp;cate_no=46&amp;display_group=1</guid>
-            <pubDate>Wed, 23 Aug 2023 10:09:23 GMT</pubDate>
-            <content:encoded><![CDATA[13,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/201807/11336_shop1_15309382510878.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[The Lions / Soul Riot (CD) (김밥레코즈 ─ CD ─ Reggae)]]></title>
