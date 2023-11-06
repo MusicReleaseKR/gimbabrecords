@@ -4,7 +4,7 @@
         <title>김밥레코즈 ─ Pre-Order</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Nov 2023 09:11:08 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Nov 2023 10:11:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -80,14 +80,6 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202311/415c2108abdd77d72eb87e1cd85118d6.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[Wild Nothing / Hold (Sea Blue In Coke Bottle Green Vinyl, Limited Edition) *한정수량 할인 / 예약상품 (11월 7일 이후 배송)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=23106&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=23106&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Mon, 06 Nov 2023 09:09:22 GMT</pubDate>
-            <content:encoded><![CDATA[35,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202310/2d35c5eb67e367bd025156462ec9cfb1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Bruno Berle / No Reino Dos Afetos (Vinyl) *예약상품 (11월 20일경 배송 예정)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=21764&amp;cate_no=42&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=21764&amp;cate_no=42&amp;display_group=1</guid>
@@ -102,6 +94,14 @@
             <pubDate>Mon, 06 Nov 2023 09:09:23 GMT</pubDate>
             <content:encoded><![CDATA[34,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202310/69a2e2aa831a2c7187b8c6dd4f55cb41.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[OST (Lena Raine) / Celeste 셀레스트 (Original Video Game Soundtrack) (Limited Pink Vinyl 2LP) *예약상품 (11월초 배송 예정)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22931&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22931&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Mon, 06 Nov 2023 10:09:46 GMT</pubDate>
+            <content:encoded><![CDATA[54,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202309/2678e956fae7f4cda498c87e56eebe6c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
