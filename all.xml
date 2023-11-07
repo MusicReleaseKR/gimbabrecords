@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Nov 2023 09:10:28 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Nov 2023 10:11:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -104,11 +104,19 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/201811/4dfc74fa3b157fd6db30790b6acdd415.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
+            <title><![CDATA[OST (Danny Elfman) / The Nightmare Before Christmas 팀 버튼의 크리스마스 악몽 (Zoetrope Picture Disc, 2LP) (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=23197&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=23197&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Tue, 07 Nov 2023 10:08:58 GMT</pubDate>
+            <content:encoded><![CDATA[49,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202311/0ee15dcef7d4bcd4e55686b4eaee4687.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[OST (Various Artists) / Home Alone Christmas 나홀로 집에 1,2편 삽입 음악을 수록한 앨범 (Black Vinyl) (김밥레코즈 ─ Vinyl)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=23196&amp;cate_no=25&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=23196&amp;cate_no=25&amp;display_group=1</guid>
             <pubDate>Tue, 07 Nov 2023 09:08:26 GMT</pubDate>
-            <content:encoded><![CDATA[31,500원]]></content:encoded>
+            <content:encoded><![CDATA[37,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202011/39be36edd98d3204bab9291201816670.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -189,14 +197,6 @@
             <guid>http://gimbabrecords.com/product/detail.html?product_no=23169&amp;cate_no=25&amp;display_group=1</guid>
             <pubDate>Fri, 03 Nov 2023 07:08:27 GMT</pubDate>
             <content:encoded><![CDATA[35,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202311/eb925d28a5f7c760df7ad2e44a1ff31f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Caroline Polachek / Desire, I Want To Turn Into You (Limited Metallic Copper Vinyl) (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=23168&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=23168&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Fri, 03 Nov 2023 07:08:27 GMT</pubDate>
-            <content:encoded><![CDATA[36,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202311/eb925d28a5f7c760df7ad2e44a1ff31f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
