@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Nov 2023 08:13:02 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Nov 2023 09:10:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -104,6 +104,46 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/201811/4dfc74fa3b157fd6db30790b6acdd415.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
+            <title><![CDATA[Prep / Prep (Limited Clear Vinyl) (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=23225&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=23225&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Thu, 09 Nov 2023 09:08:19 GMT</pubDate>
+            <content:encoded><![CDATA[33,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202102/8f2fbb7e82187ec02cb04e536b4801a3.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Maple Glider / I Get Into Trouble (Neon Pink Vinyl, Limited Edition) *할인상품 (쟈켓 모서리에 작은 눌림 자국이 있습니다.) (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=23224&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=23224&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Thu, 09 Nov 2023 09:08:19 GMT</pubDate>
+            <content:encoded><![CDATA[38,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202311/e66333c860e39818ada5d9bb9d477746.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Maple Glider / I Get Into Trouble (Neon Pink Vinyl, Limited Edition) (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=23223&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=23223&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Thu, 09 Nov 2023 09:08:19 GMT</pubDate>
+            <content:encoded><![CDATA[39,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202311/e66333c860e39818ada5d9bb9d477746.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Caroline Polachek / Desire, I Want To Turn Into You (Tigers Eye Colored Vinyl, Indie Exclusive Limited Edition) (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=23222&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=23222&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Thu, 09 Nov 2023 09:08:19 GMT</pubDate>
+            <content:encoded><![CDATA[39,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202311/0d959674be0595f7b7d351a8fb2bd72c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Haim / Days Are Gone (Deluxe Green Vinyl, 2LP, 10th Anniversary Edition) *한정수량 할인 (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=23221&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=23221&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Thu, 09 Nov 2023 09:08:19 GMT</pubDate>
+            <content:encoded><![CDATA[69,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202311/e1edc621f2031016baabca75934f7ebc.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Joji / Ballads 1 (Exclusive Translucent Red Vinyl, 5th Anniversary Limited Edition) (김밥레코즈 ─ Vinyl)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=23220&amp;cate_no=25&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=23220&amp;cate_no=25&amp;display_group=1</guid>
@@ -158,46 +198,6 @@
             <pubDate>Thu, 09 Nov 2023 08:10:53 GMT</pubDate>
             <content:encoded><![CDATA[58,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202310/381e6b584b6691b2a3be358cc5b0ba3a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Van Halen / The Collection II (5LP Box Set) (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=23213&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=23213&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Thu, 09 Nov 2023 08:10:53 GMT</pubDate>
-            <content:encoded><![CDATA[188,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202311/7b3083d08dc6c3a89ed5d47a5243cb2e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Black Sabbath / Reunion (Purple Smoke Vinyl, 3LP, Indie Exclusive Limited Edition) (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=23212&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=23212&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Thu, 09 Nov 2023 08:10:53 GMT</pubDate>
-            <content:encoded><![CDATA[79,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202311/994bb71963952411a45e9171695c21ca.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Tom Waits / Rain Dogs (180g Vinyl, Newly Remastered Edition) *한정수량 할인 (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=23211&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=23211&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Thu, 09 Nov 2023 07:07:40 GMT</pubDate>
-            <content:encoded><![CDATA[49,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202311/afcead83e00f8155652303ff86fda166.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Tom Waits / Bone Machine (180g Vinyl, Newly Remastered Edition) *한정수량 할인 (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=23210&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=23210&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Thu, 09 Nov 2023 07:07:40 GMT</pubDate>
-            <content:encoded><![CDATA[49,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202311/0b1de2d4be93c9e42b2294d6ffbfffc6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Tom Waits / The Black Rider (180g Vinyl, Newly Remastered Edition) *한정수량 할인 (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=23209&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=23209&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Thu, 09 Nov 2023 07:07:40 GMT</pubDate>
-            <content:encoded><![CDATA[49,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202311/b144c324411f458d7353609e7b97a6d0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Mogwaa / Translucent (Cassette) *예약상품 (11월 13일 발매) (김밥레코즈 ─ Cassette)]]></title>
