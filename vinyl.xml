@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ Vinyl</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Nov 2023 05:09:55 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Nov 2023 06:13:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Specifics / II (Vinyl) *예약상품 (2월초 배송 예정)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=23227&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=23227&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Fri, 10 Nov 2023 06:10:46 GMT</pubDate>
+            <content:encoded><![CDATA[46,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202311/86fb0b1ddfec6430ff2dc5552c1525a5.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Prep / Prep (Limited Clear Vinyl)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=23225&amp;cate_no=25&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Thu, 09 Nov 2023 08:10:53 GMT</pubDate>
             <content:encoded><![CDATA[43,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202311/f9022775425003e05408bba077f64e7f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Onra / Chinoiseries (Vinyl, 2LP, 2023 Repress) *할인상품 (쟈켓 모서리에 작은 눌림이 있습니다.)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=23214&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=23214&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Thu, 09 Nov 2023 08:10:53 GMT</pubDate>
-            <content:encoded><![CDATA[58,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202310/381e6b584b6691b2a3be358cc5b0ba3a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
