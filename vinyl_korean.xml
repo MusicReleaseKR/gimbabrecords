@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ Vinyl ─ Korean</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Nov 2023 07:10:15 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Nov 2023 08:12:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Say Sue Me 세이수미 / The Last Thing Left (Black Vinyl) *UK 수입 한정수량 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=23238&amp;cate_no=52&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=23238&amp;cate_no=52&amp;display_group=1</guid>
+            <pubDate>Fri, 10 Nov 2023 08:12:43 GMT</pubDate>
+            <content:encoded><![CDATA[41,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/0a5579020620e054cb7d3d3710958b0c.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Mogwaa / Translucent (Black Vinyl) *예약상품 (11월 13일 발매)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=23193&amp;cate_no=52&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Thu, 12 Oct 2023 08:12:37 GMT</pubDate>
             <content:encoded><![CDATA[38,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202310/8a5534340890d895015b74104460a5b7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[유재하 / 사랑하기 때문에 Special Vinyl Edition (180g Emerald Vinyl 에메랄드 컬러반)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22958&amp;cate_no=52&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22958&amp;cate_no=52&amp;display_group=1</guid>
-            <pubDate>Tue, 10 Oct 2023 17:10:04 GMT</pubDate>
-            <content:encoded><![CDATA[62,400원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202306/0b735a45c498584db9c18994b4111a3d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
