@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 11 Nov 2023 07:08:29 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Nov 2023 08:12:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -392,6 +392,14 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202304/7b006abb8bad3c9f5f32382858af7ca6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Brad Mehldau / Largo (Vinyl, 2LP) *예약상품 (11월 24일 이후 배송) (김밥레코즈 ─ Pre-Order)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=23216&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=23216&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Sat, 11 Nov 2023 08:10:37 GMT</pubDate>
+            <content:encoded><![CDATA[64,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/201708/8142_shop1_663710.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[넉살X까데호 / 당신께 (180g 베이비핑크 불투명 Vinyl, 한정반) *예약상품 (11월 23일 발매 예정, 11월 15일 자정 주문 마감) (김밥레코즈 ─ Pre-Order)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=23264&amp;cate_no=42&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=23264&amp;cate_no=42&amp;display_group=1</guid>
@@ -478,14 +486,6 @@
             <pubDate>Sun, 05 Nov 2023 16:09:05 GMT</pubDate>
             <content:encoded><![CDATA[30,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202108/14bc7efced37882a32cb437b5a8c8430.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Mogwaa / Translucent (CD) *예약상품 (11월 13일 발매) (김밥레코즈 ─ Pre-Order)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=23195&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=23195&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Tue, 07 Nov 2023 07:08:05 GMT</pubDate>
-            <content:encoded><![CDATA[16,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202311/7e1ba884901f037237d9ec42abf630fc.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Elton John / Goodbye Yellow Brick Road (Remastered CD) *한정수량 할인 (김밥레코즈 ─ Bargain Bin)]]></title>
