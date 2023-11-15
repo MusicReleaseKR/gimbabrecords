@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Nov 2023 16:12:32 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Nov 2023 17:09:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -200,14 +200,6 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202311/72eadf009fd684c05170e0ba2c1ef967.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Beirut / Hadsel (Cassette) *한정수량 할인 (김밥레코즈 ─ Cassette)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=23306&amp;cate_no=26&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=23306&amp;cate_no=26&amp;display_group=1</guid>
-            <pubDate>Wed, 15 Nov 2023 08:10:49 GMT</pubDate>
-            <content:encoded><![CDATA[18,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202311/84ca718e612375e14ed62413026a8a74.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[the neverminds / nevermind, the summer. (Cassette) *예약상품 (11월 마지막 주 발송) (김밥레코즈 ─ Cassette)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=23303&amp;cate_no=26&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=23303&amp;cate_no=26&amp;display_group=1</guid>
@@ -294,6 +286,14 @@
             <pubDate>Sat, 09 Sep 2023 15:07:26 GMT</pubDate>
             <content:encoded><![CDATA[23,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202309/54d0173f6b6a5f642a35a0c573fbba0f.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[DJ Tenniscoats / Reggae Mix (Cassette, 소량 한정제작) (김밥레코즈 ─ Cassette)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22797&amp;cate_no=26&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22797&amp;cate_no=26&amp;display_group=1</guid>
+            <pubDate>Wed, 15 Nov 2023 17:07:47 GMT</pubDate>
+            <content:encoded><![CDATA[16,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202309/7c3366a2da6c70bd7d8959a0348c1c8d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Audio Technica Turntable - AT-SB727 휴대용 무선 블루투스 턴테이블 (김밥레코즈 ─ Movies/Merch)]]></title>
