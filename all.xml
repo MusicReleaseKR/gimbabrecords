@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Nov 2023 09:10:23 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Nov 2023 10:11:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -392,6 +392,14 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202306/f66ac6d3964960f0af01d8eccf9e1359.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Ryuichi Sakamoto / 1996 (CD, 친환경 패키지) *한정수량 할인 / 예약상품 (11월 23일 이후 배송) (김밥레코즈 ─ Pre-Order)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=11344&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=11344&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Wed, 22 Nov 2023 10:09:36 GMT</pubDate>
+            <content:encoded><![CDATA[29,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/201807/11344_shop1_15309663502995.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[산울림 / 동요 전집 (컬러 4LP Box Set, Limited Edition) *예약상품 (11월 28일 발매 예정) / 11월 24일 오전 11시까지 결제가 완료된 주문에 한해 8,000원 추가 적립 (김밥레코즈 ─ Pre-Order)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=23329&amp;cate_no=42&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=23329&amp;cate_no=42&amp;display_group=1</guid>
@@ -478,14 +486,6 @@
             <pubDate>Thu, 16 Nov 2023 08:11:07 GMT</pubDate>
             <content:encoded><![CDATA[46,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202311/00f5e9f5e79d703b49cd8814fb93324e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[YAKUL / In Our World (Vinyl) *예약상품 (2024년 2월초 배송 예정) (김밥레코즈 ─ Pre-Order)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=23230&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=23230&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Wed, 22 Nov 2023 08:11:25 GMT</pubDate>
-            <content:encoded><![CDATA[46,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202311/b5cd9d18ff83b98fcf31be4f1ffb1ea4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Elton John / Goodbye Yellow Brick Road (Remastered CD) *한정수량 할인 (김밥레코즈 ─ Bargain Bin)]]></title>
