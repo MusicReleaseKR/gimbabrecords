@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Nov 2023 07:09:17 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Nov 2023 08:12:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -104,6 +104,22 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202311/2b370a1086c046f4b92e795c5bf3cacc.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[King Crimson / Live In Washington & Albany 2021 (200g Vinyl, 3LP, Limited Edition) *한정수량 할인 (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=23333&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=23333&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Thu, 23 Nov 2023 08:10:30 GMT</pubDate>
+            <content:encoded><![CDATA[77,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202311/d92072ee5ce8403067a28b2554197e16.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Beatles /1967-1970  Blue Album (180g Vinyl, 3LP, Half-Speed Master, 2023 Edition) *한정수량 할인 (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=23332&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=23332&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Thu, 23 Nov 2023 08:10:30 GMT</pubDate>
+            <content:encoded><![CDATA[108,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202311/c89238b05af3b36c1b447b6f56bc76d0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Britney Spears / Oops!...I Did It Again (20th Anniversary, Limited Picture Disc) *2023 블랙프라이데이 할인 (김밥레코즈 ─ Vinyl)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=23330&amp;cate_no=25&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=23330&amp;cate_no=25&amp;display_group=1</guid>
@@ -182,22 +198,6 @@
             <pubDate>Thu, 16 Nov 2023 10:08:45 GMT</pubDate>
             <content:encoded><![CDATA[53,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202311/06854b084ca699d0f0bfb23036df6b61.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Amy Winehouse / Live At Glastonbury 2007 (Exclusive Clear Vinyl, 2LP) *한정수량 할인 (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=23314&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=23314&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Thu, 16 Nov 2023 10:08:45 GMT</pubDate>
-            <content:encoded><![CDATA[42,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202206/30ed2723895b938ee92e11db5fd9e886.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Purple Disco Machine, Duke Dumont & Nothing But Thieves / Something On My Mind (12" Vinyl, Limited Edition) (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=23313&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=23313&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Thu, 16 Nov 2023 10:08:45 GMT</pubDate>
-            <content:encoded><![CDATA[29,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202311/59bd0175347555b7522fd0acf09842d4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[the neverminds / nevermind, the summer. (Cassette) *예약상품 (11월 마지막 주 발송) (김밥레코즈 ─ Cassette)]]></title>
