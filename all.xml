@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Nov 2023 17:08:53 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Nov 2023 18:11:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -104,6 +104,22 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202311/2b370a1086c046f4b92e795c5bf3cacc.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Freddie Hubbard & Art Blakey / Feel The Wind (2023 reissue, 180g Black Vinyl, Limited Edition) (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=23341&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=23341&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Thu, 23 Nov 2023 18:10:00 GMT</pubDate>
+            <content:encoded><![CDATA[39,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202311/90803618338742a76cd65c89c7474a53.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Freddie Hubbard & Art Blakey / Feel The Wind (2023 reissue, Limited Clear Vinyl, 200매 한정반) (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=23340&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=23340&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Thu, 23 Nov 2023 18:10:00 GMT</pubDate>
+            <content:encoded><![CDATA[39,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202311/1ceb65c42e023c038faa5a1dac56ac0f.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Bill Evans / From Left To Right (Vinyl, Limited Edition) *할인상품 (상세페이지 "구매시 유의사항"을 참조하세요) (김밥레코즈 ─ Vinyl)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=23339&amp;cate_no=25&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=23339&amp;cate_no=25&amp;display_group=1</guid>
@@ -182,22 +198,6 @@
             <pubDate>Wed, 22 Nov 2023 03:09:04 GMT</pubDate>
             <content:encoded><![CDATA[178,200원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202311/58ed09aac5564c1b2edf3c82c06aaf4d.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Actress / R.I.P. (Vinyl, 2LP) *2023 블랙프라이데이 할인 (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=23328&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=23328&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Tue, 21 Nov 2023 15:07:49 GMT</pubDate>
-            <content:encoded><![CDATA[33,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202311/7c3cb7a47077701802087396ca635c3e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Miles Davis & Michel Legrand / Dingo: Selections from the Motion Picture Soundtrack (Limited Red Vinyl) *2023 블랙프라이데이 할인 (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=23327&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=23327&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Tue, 21 Nov 2023 15:07:49 GMT</pubDate>
-            <content:encoded><![CDATA[29,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202311/bd33f1ec6818369589249fc68b4806bf.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[the neverminds / nevermind, the summer. (Cassette) *예약상품 (11월 마지막 주 발송) (김밥레코즈 ─ Cassette)]]></title>
