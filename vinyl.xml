@@ -4,7 +4,7 @@
         <title>김밥레코즈 ─ Vinyl</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Dec 2023 10:10:31 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Dec 2023 11:08:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -32,12 +32,20 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202309/3eb6abf4281cbc1b1c02dafd75d78dce.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[OST / The Royal Tenenbaums 로얄 테넌바움 (Sky Blue & Olive Green Vinyl, 2LP, 2023 RSD Black Friday) *1인 1매만 구매가 가능하며 무통장입금 주문 입금기한은 주문 후 1시간 이내입니다.]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=23424&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=23424&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Fri, 01 Dec 2023 11:07:06 GMT</pubDate>
+            <content:encoded><![CDATA[61,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202312/8ba69843724da29b4bcf1f1628ea258e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Vince Guaraldi Trio / A Charlie Brown Christmas (2023 "Christmas Tree" Green Vinyl, Original Stereo Mix)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=23423&amp;cate_no=25&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=23423&amp;cate_no=25&amp;display_group=1</guid>
             <pubDate>Fri, 01 Dec 2023 08:11:07 GMT</pubDate>
             <content:encoded><![CDATA[38,600원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202312/fd1307048e5003942cc250a9f2186afe.png" length="0" type="image/png"/>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202312/67d714169d9d0ab9939e81510bfdcc6a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Buck Meek / Haunted Mountain (Vinyl)]]></title>
@@ -94,14 +102,6 @@
             <pubDate>Thu, 30 Nov 2023 11:07:09 GMT</pubDate>
             <content:encoded><![CDATA[59,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202311/3c6863f5fb8bcd0ea2eb59132cba4e8d.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Whitney Houston / My Love Is Your Love (Black Vinyl, 2LP, 25th Anniversary) *한정수량 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=23408&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=23408&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Thu, 30 Nov 2023 11:07:09 GMT</pubDate>
-            <content:encoded><![CDATA[54,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202311/1747ac41b6a45a47236bbd5a0903e2bf.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
