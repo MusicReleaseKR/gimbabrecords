@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Dec 2023 07:09:59 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Dec 2023 08:13:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -392,6 +392,14 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202306/0d7e009acd82c552165c53b49f58a014.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
+            <title><![CDATA[Kiyoshi Sugimoto / Our Time (Vinyl) *예약상품 (12월 15일 이후  배송 예정) (김밥레코즈 ─ Pre-Order)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22628&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22628&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Mon, 04 Dec 2023 08:11:49 GMT</pubDate>
+            <content:encoded><![CDATA[49,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202308/3e67ab7888aea8b5e826859449b9cf62.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Tool / Lateralus (Picture Disc Vinyl, 2LP, Limited Edition) *예약상품 (12월 18일 이후 배송) (김밥레코즈 ─ Pre-Order)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=23357&amp;cate_no=42&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=23357&amp;cate_no=42&amp;display_group=1</guid>
@@ -478,13 +486,6 @@
             <pubDate>Wed, 29 Nov 2023 09:08:53 GMT</pubDate>
             <content:encoded><![CDATA[44,600원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202311/4e0ba69e5e56bbb551d46a692a72ac74.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Chet Baker / Four (Vinyl, JPN Pressing, Limited Edition) *수요조사 (김밥레코즈 ─ Pre-Order)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=17299&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=17299&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Mon, 04 Dec 2023 06:11:40 GMT</pubDate>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202109/e24c4d8f204b3d3927c669df073b293c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Elton John / Goodbye Yellow Brick Road (Remastered CD) *한정수량 할인 (김밥레코즈 ─ Bargain Bin)]]></title>
