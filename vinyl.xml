@@ -4,9 +4,25 @@
         <title>김밥레코즈 ─ Vinyl</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Dec 2023 10:11:14 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Dec 2023 11:09:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[삐삐밴드 / 불가능한작전 (Vinyl, Limited Edition) *예약상품 (12월 20일 이후 배송) / 12월 12일까지 결제가 완료된 주문에 대해서는 2,500원을 추가 적립해드립니다. (배송 시작 시점에 적립)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=23461&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=23461&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Thu, 07 Dec 2023 11:07:29 GMT</pubDate>
+            <content:encoded><![CDATA[44,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202312/aabd97d8aac9d219478e8ff0b274cb76.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[삐삐밴드 / 문화혁명(文化革命) (Vinyl, Limited Edition) *예약상품 (12월 20일 이후 배송) *12월 12일까지 결제가 완료된 주문에 대해서는 2,500원을 추가 적립해드립니다. (배송 시작 시점 적립 예정)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=23460&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=23460&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Thu, 07 Dec 2023 11:07:29 GMT</pubDate>
+            <content:encoded><![CDATA[44,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202312/faa1723c5ccb5e912eaf13bee5a6844e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Dorothy Ashby / The Rubaiyat of Dorothy Ashby (Vinyl, Verve By Request 시리즈, Third Man Records Pressing) *할인상품 (쟈켓 모서리에 작은 눌림이 있습니다.)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=23459&amp;cate_no=25&amp;display_group=1</link>
@@ -86,22 +102,6 @@
             <pubDate>Tue, 05 Dec 2023 13:11:53 GMT</pubDate>
             <content:encoded><![CDATA[39,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202312/b1e658220a1b430e9bfe85bf9f5ed423.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Various Artists (무한궤도, 티삼스, 높은음자리 등) / 80년대 가요제 (180g Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=23449&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=23449&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Tue, 05 Dec 2023 09:08:41 GMT</pubDate>
-            <content:encoded><![CDATA[40,100원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202312/3bccef9d155eb7f28e9bbce53cd537fc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[정태춘 / 1집 시인의 마을 (180g Vinyl, Remastered 2021)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=23448&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=23448&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Tue, 05 Dec 2023 09:08:41 GMT</pubDate>
-            <content:encoded><![CDATA[40,100원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202312/8ec0afdcb7c75f33ed5785eb3d995235.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
