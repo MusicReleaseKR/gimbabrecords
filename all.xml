@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Dec 2023 10:10:34 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Dec 2023 11:09:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -104,6 +104,14 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202311/e126454ad773eaba8f6720fcf3a4dd7e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[A Winged Victory For The Sullen / Invisible Cities (Limited Beer Orange Edition) *2023 블랙프라이데이 할인 / 절판 레코드 특별전 (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=23494&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=23494&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Fri, 08 Dec 2023 11:07:13 GMT</pubDate>
+            <content:encoded><![CDATA[31,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202312/6b4d5febe39e150708157be89cdb33aa.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Margo Guryan / I Ought To Stay Away From You b/w Why Do I Cry (7" Vinyl, NUMERO 739) (김밥레코즈 ─ Vinyl)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=23492&amp;cate_no=25&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=23492&amp;cate_no=25&amp;display_group=1</guid>
@@ -190,14 +198,6 @@
             <pubDate>Fri, 08 Dec 2023 08:11:07 GMT</pubDate>
             <content:encoded><![CDATA[39,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202207/68ed4f27c13019276aae0e786149450b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sigrid / How To Let Go (Limited Opaque Blue Vinyl, 2LP, Special Edition) *2023 블랙프라이데이 할인 (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=23479&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=23479&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Fri, 08 Dec 2023 08:11:07 GMT</pubDate>
-            <content:encoded><![CDATA[38,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202312/afa1038f9f60fb3749c6a30682d73850.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[겸 GYE0M  / 남은 것들은 짙은 향기와 마지막 사랑 (Cassette) (김밥레코즈 ─ Cassette)]]></title>
