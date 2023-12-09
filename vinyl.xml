@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ Vinyl</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 09 Dec 2023 11:08:16 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Dec 2023 12:14:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[4월과 5월 (4월과 5월 외 여러 음악가) / 4월과 5월 작품집 : 오아시스 포크 훼스티발 vol.1 (Vinyl) *2023 블랙프라이데이 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=23495&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=23495&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Sat, 09 Dec 2023 12:13:04 GMT</pubDate>
+            <content:encoded><![CDATA[35,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202312/cbaea14f9cfe59327bae63cd22dcac7e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[A Winged Victory For The Sullen / Invisible Cities (Limited Beer Orange Edition) *2023 블랙프라이데이 할인 / 절판 레코드 특별전]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=23494&amp;cate_no=25&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Fri, 08 Dec 2023 08:11:07 GMT</pubDate>
             <content:encoded><![CDATA[45,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202312/57274791be0f80388653fc8f129c57c1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Roxy Music / For Your Pleasure (180g Vinyl, Half Speed Remaster) *2023 블랙프라이데이 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=23480&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=23480&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Fri, 08 Dec 2023 08:11:07 GMT</pubDate>
-            <content:encoded><![CDATA[39,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/68ed4f27c13019276aae0e786149450b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
