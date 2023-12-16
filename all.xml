@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 16 Dec 2023 14:09:32 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Dec 2023 15:08:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Benny Sings / Champagne People (CD) (김밥레코즈 ─ CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=23530&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=23530&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Sat, 16 Dec 2023 15:07:08 GMT</pubDate>
+            <content:encoded><![CDATA[22,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202312/7f53fdada4fd6a49d3753758c978b0cf.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[OST (Brian Eno) / RAMS 디터람스 (CD) (김밥레코즈 ─ CD)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=23529&amp;cate_no=24&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Fri, 01 Dec 2023 08:11:02 GMT</pubDate>
             <content:encoded><![CDATA[31,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202312/48968ab49c41bcd9dca2fb3c1265d081.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Dire Straits / Brothers In Arms (SACD Hybrid, 20th Anniversary Edition) *한정수량 할인 (김밥레코즈 ─ CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=23421&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=23421&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Fri, 01 Dec 2023 08:11:02 GMT</pubDate>
-            <content:encoded><![CDATA[17,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202312/9ed94a974ed706cb19b665ff662ffd1e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[PinkPantheress / Heaven Knows (White Vinyl) (김밥레코즈 ─ Vinyl)]]></title>
@@ -680,6 +680,14 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202311/e0849a760b7a828be3a53db82992de02.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Benny Sings / Champagne People (CD) (김밥레코즈 ─ CD ─ Pop/Rock)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=23530&amp;cate_no=30&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=23530&amp;cate_no=30&amp;display_group=1</guid>
+            <pubDate>Sat, 16 Dec 2023 15:07:45 GMT</pubDate>
+            <content:encoded><![CDATA[22,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202312/7f53fdada4fd6a49d3753758c978b0cf.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[PinkPantheress / Heaven Knows (CD) (김밥레코즈 ─ CD ─ Pop/Rock)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=23528&amp;cate_no=30&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=23528&amp;cate_no=30&amp;display_group=1</guid>
@@ -766,14 +774,6 @@
             <pubDate>Tue, 28 Nov 2023 08:11:56 GMT</pubDate>
             <content:encoded><![CDATA[17,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202311/de0e1c6a3d4836e0bc00352bcad09bbd.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Blur / The Ballad Of Darren (CD) (김밥레코즈 ─ CD ─ Pop/Rock)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=23378&amp;cate_no=30&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=23378&amp;cate_no=30&amp;display_group=1</guid>
-            <pubDate>Tue, 28 Nov 2023 08:11:56 GMT</pubDate>
-            <content:encoded><![CDATA[24,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202308/10057142baf50c4d57788abd8d3c6bc3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[PinkPantheress / Heaven Knows (CD) (김밥레코즈 ─ CD ─ Electronic/Dance)]]></title>
