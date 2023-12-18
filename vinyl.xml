@@ -4,17 +4,9 @@
         <title>김밥레코즈 ─ Vinyl</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Dec 2023 11:09:13 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Dec 2023 12:16:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[Erik Truffaz / Rollin' (CD) *유니버설 재즈 클래식 베스트셀러 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=23542&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=23542&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Mon, 18 Dec 2023 08:12:02 GMT</pubDate>
-            <content:encoded><![CDATA[15,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202312/bf8fa0758c294906f10fe4603f054446.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[Jockstrap & Taylor Skye / I<3UQTINVU (Red Vinyl, Limited Edition)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=23539&amp;cate_no=25&amp;display_group=1</link>
@@ -102,6 +94,14 @@
             <pubDate>Fri, 15 Dec 2023 09:08:33 GMT</pubDate>
             <content:encoded><![CDATA[34,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202312/f7dbcff92615ac3797c0a9515d8ee9d9.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Cecile McLorin Salvant / Melusine (Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=23525&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=23525&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Mon, 18 Dec 2023 12:15:03 GMT</pubDate>
+            <content:encoded><![CDATA[41,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202312/b9690d9a59de000659daac4f52bf2034.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
