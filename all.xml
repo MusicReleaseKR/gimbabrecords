@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Dec 2023 13:12:06 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Dec 2023 14:09:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[고희안 하와이 트리오 (Koheean Hawaii Trio) / Pink Island (CD) *예약상품 (12월 22일부터 배송) (김밥레코즈 ─ CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=23558&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=23558&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Tue, 19 Dec 2023 14:07:26 GMT</pubDate>
+            <content:encoded><![CDATA[14,900원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202312/d10ec96ff7fba58bb12fecee689089ea.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[The Rolling Stones / Their Satanic Majesties Request (SHM-CD) *2023 블랙프라이데이 할인 (김밥레코즈 ─ CD)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=23545&amp;cate_no=24&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Thu, 14 Dec 2023 07:07:58 GMT</pubDate>
             <content:encoded><![CDATA[21,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202312/46e13ed0ca07a1a2bd45a341c987df85.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Tuesday Beach Club / EP Tuesday Beach Club (CD) (김밥레코즈 ─ CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=23505&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=23505&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Tue, 12 Dec 2023 09:08:12 GMT</pubDate>
-            <content:encoded><![CDATA[12,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202312/b35229ce021a9258d809c02b46ff2527.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[최백호 / 정규앨범 7 (seven) (Vinyl, Limited Edition) (김밥레코즈 ─ Vinyl)]]></title>
@@ -392,6 +392,14 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202304/7b006abb8bad3c9f5f32382858af7ca6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[고희안 하와이 트리오 (Koheean Hawaii Trio) / Pink Island (CD) *예약상품 (12월 22일부터 배송) (김밥레코즈 ─ Pre-Order)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=23558&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=23558&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Tue, 19 Dec 2023 14:07:50 GMT</pubDate>
+            <content:encoded><![CDATA[14,900원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202312/d10ec96ff7fba58bb12fecee689089ea.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Jay Richford & Gary Stevan / Feelings (Vinyl, UK Be With Records reissue) *예약상품 (1월 12일 이후 배송 예정) (김밥레코즈 ─ Pre-Order)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=16116&amp;cate_no=42&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=16116&amp;cate_no=42&amp;display_group=1</guid>
@@ -478,14 +486,6 @@
             <pubDate>Sun, 17 Dec 2023 15:08:06 GMT</pubDate>
             <content:encoded><![CDATA[40,200원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202209/e39e95ee51ac7802a327bb65bc977add.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Beatles / Now And Then (12" Black Vinyl) *예약상품 (2024년 1월 11일 이후 배송 예정) (김밥레코즈 ─ Pre-Order)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=23159&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=23159&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Fri, 15 Dec 2023 14:08:21 GMT</pubDate>
-            <content:encoded><![CDATA[38,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202312/ccd02db2c0610ea457a56f5a1f93a8fb.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Elton John / Goodbye Yellow Brick Road (Remastered CD) *한정수량 할인 (김밥레코즈 ─ Bargain Bin)]]></title>
@@ -584,6 +584,14 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/20200116/e82866f62238f9002802e651bae8b5ed.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[고희안 하와이 트리오 (Koheean Hawaii Trio) / Pink Island (CD) *예약상품 (12월 22일부터 배송) (김밥레코즈 ─ CD ─ Korean)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=23558&amp;cate_no=29&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=23558&amp;cate_no=29&amp;display_group=1</guid>
+            <pubDate>Tue, 19 Dec 2023 14:08:02 GMT</pubDate>
+            <content:encoded><![CDATA[14,900원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202312/d10ec96ff7fba58bb12fecee689089ea.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[기리보이 / 정규 10집 소설 쓰고 자빠졌네 (CD + ALBUM BOOK 120p + 내지 + 포스터 2종) (김밥레코즈 ─ CD ─ Korean)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=23508&amp;cate_no=29&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=23508&amp;cate_no=29&amp;display_group=1</guid>
@@ -670,14 +678,6 @@
             <pubDate>Mon, 13 Nov 2023 06:11:33 GMT</pubDate>
             <content:encoded><![CDATA[13,400원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202311/a2744db4a41a4184a5407d8a42f6d13c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NO:EL (노엘) / 정규 3집 TRIPONOEL (CD, 하드케이스 + 앨범커버 + 포토리릭북) (김밥레코즈 ─ CD ─ Korean)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=23265&amp;cate_no=29&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=23265&amp;cate_no=29&amp;display_group=1</guid>
-            <pubDate>Mon, 13 Nov 2023 06:11:33 GMT</pubDate>
-            <content:encoded><![CDATA[26,700원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202311/e0849a760b7a828be3a53db82992de02.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[The Rolling Stones / Their Satanic Majesties Request (SHM-CD) *2023 블랙프라이데이 할인 (김밥레코즈 ─ CD ─ Pop/Rock)]]></title>
