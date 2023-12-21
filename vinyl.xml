@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ Vinyl</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Dec 2023 08:12:20 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Dec 2023 09:09:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[King Crimson / Music Is Our Friend (Live In Washington & Albany 2021, 200g Vinyl, 3LP, Limited Edition) *한정수량 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=23576&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=23576&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Thu, 21 Dec 2023 09:08:17 GMT</pubDate>
+            <content:encoded><![CDATA[77,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202311/d92072ee5ce8403067a28b2554197e16.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Ludovico Einaudi / Experience (7" Vinyl) *유니버설 재즈 클래식 베스트셀러 할인]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=23573&amp;cate_no=25&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Wed, 20 Dec 2023 07:06:29 GMT</pubDate>
             <content:encoded><![CDATA[37,200원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202312/bc639eaa07cff4a49297d473342a2dd4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Astrud Gilberto / Great Women Of Song: Astrud Gilberto (Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=23562&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=23562&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Wed, 20 Dec 2023 07:06:29 GMT</pubDate>
-            <content:encoded><![CDATA[37,200원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202312/81601cebadadda5500830fa905945701.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
