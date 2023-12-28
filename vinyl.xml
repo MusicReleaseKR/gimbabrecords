@@ -4,7 +4,7 @@
         <title>김밥레코즈 ─ Vinyl</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Dec 2023 10:10:34 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Dec 2023 11:08:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -80,6 +80,14 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202312/fd8b03a9325ce1b95efaeaa19ccc5030.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Sheena Ringo (시이나 링고) / 平成風俗 (헤이세이 풍속) (Vinyl, 2LP, Limited Edition) *1인 1매만 구매 가능합니다.]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=23601&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=23601&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Thu, 28 Dec 2023 11:07:04 GMT</pubDate>
+            <content:encoded><![CDATA[45,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202312/5a73f64899128de17079cb2ac6c16082.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Sheena Ringo (시이나 링고) / Holiday Jazz on 25th November, 2013 (12" Vinyl, 45 RPM, Limited Edition) *1인 최대 2매 구매 가능합니다.]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=23600&amp;cate_no=25&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=23600&amp;cate_no=25&amp;display_group=1</guid>
@@ -94,14 +102,6 @@
             <pubDate>Thu, 28 Dec 2023 06:10:59 GMT</pubDate>
             <content:encoded><![CDATA[43,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202312/384fa2d45ef92e27ab9b4c14dd47b368.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Lisa Ono / Boas Festas2 ~Feliz Natal~ (Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=23598&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=23598&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Thu, 28 Dec 2023 06:10:59 GMT</pubDate>
-            <content:encoded><![CDATA[45,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202312/83524e9d5b818f8ab54ba474847f0725.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
