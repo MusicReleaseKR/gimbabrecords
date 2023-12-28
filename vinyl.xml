@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ Vinyl</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Dec 2023 08:12:20 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Dec 2023 09:09:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Death Grips / The Money Store (Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=23609&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=23609&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Thu, 28 Dec 2023 09:08:05 GMT</pubDate>
+            <content:encoded><![CDATA[41,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202306/5a2f7411044f4983e35040c2ca616e1e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[JPEGMAFIA, Danny Brown / Scaring The Hoes (White Vinyl, Gatefold)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=23608&amp;cate_no=25&amp;display_group=1</link>
@@ -36,7 +44,7 @@
             <link>http://gimbabrecords.com/product/detail.html?product_no=23605&amp;cate_no=25&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=23605&amp;cate_no=25&amp;display_group=1</guid>
             <pubDate>Thu, 28 Dec 2023 07:07:28 GMT</pubDate>
-            <content:encoded><![CDATA[49,700원]]></content:encoded>
+            <content:encoded><![CDATA[47,900원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202312/2b6673ea9e380a8f15121be4de024f11.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -44,7 +52,7 @@
             <link>http://gimbabrecords.com/product/detail.html?product_no=23604&amp;cate_no=25&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=23604&amp;cate_no=25&amp;display_group=1</guid>
             <pubDate>Thu, 28 Dec 2023 07:07:28 GMT</pubDate>
-            <content:encoded><![CDATA[49,700원]]></content:encoded>
+            <content:encoded><![CDATA[47,900원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202312/d056124b0cfad3ea33c3654bc864ad26.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -94,14 +102,6 @@
             <pubDate>Tue, 26 Dec 2023 11:06:47 GMT</pubDate>
             <content:encoded><![CDATA[57,200원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202312/b3a1e855ea3e00019233f7cd7bd2422a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[McCoy Tyner / Extensions (180g Vinyl, Blue Note Tone Poet Series, RTI Pressings)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=23593&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=23593&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Tue, 26 Dec 2023 11:06:47 GMT</pubDate>
-            <content:encoded><![CDATA[60,100원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202312/92789f8b98e21cfc6ec5c9092cb41ea4.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

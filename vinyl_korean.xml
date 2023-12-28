@@ -4,7 +4,7 @@
         <title>김밥레코즈 ─ Vinyl ─ Korean</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Dec 2023 08:12:20 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Dec 2023 09:09:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -12,7 +12,7 @@
             <link>http://gimbabrecords.com/product/detail.html?product_no=23605&amp;cate_no=52&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=23605&amp;cate_no=52&amp;display_group=1</guid>
             <pubDate>Thu, 28 Dec 2023 07:09:07 GMT</pubDate>
-            <content:encoded><![CDATA[49,700원]]></content:encoded>
+            <content:encoded><![CDATA[47,900원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202312/2b6673ea9e380a8f15121be4de024f11.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -20,7 +20,7 @@
             <link>http://gimbabrecords.com/product/detail.html?product_no=23604&amp;cate_no=52&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=23604&amp;cate_no=52&amp;display_group=1</guid>
             <pubDate>Thu, 28 Dec 2023 07:09:07 GMT</pubDate>
-            <content:encoded><![CDATA[49,700원]]></content:encoded>
+            <content:encoded><![CDATA[47,900원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202312/d056124b0cfad3ea33c3654bc864ad26.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
