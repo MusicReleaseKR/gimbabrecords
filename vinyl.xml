@@ -4,9 +4,33 @@
         <title>김밥레코즈 ─ Vinyl</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Dec 2023 07:09:13 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Dec 2023 08:12:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[JPEGMAFIA, Danny Brown / Scaring The Hoes (White Vinyl, Gatefold)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=23608&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=23608&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Thu, 28 Dec 2023 08:10:29 GMT</pubDate>
+            <content:encoded><![CDATA[55,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202312/0acaa38626bd178b349e32381c23c17d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Jose James / No Beginning No End 2 (Vinyl, 2LP) *할인상품 (쟈켓 상단부 찢어짐 Seam split이 있습니다.)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=23607&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=23607&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Thu, 28 Dec 2023 08:10:29 GMT</pubDate>
+            <content:encoded><![CDATA[42,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/20200411/8043c757b3a1bf5e9ba6107630a4bd1b.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Chet Baker Quintet (Featuring Warne Marsh) / Blues For A Reason (180g Vinyl, Gatefold)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=23606&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=23606&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Thu, 28 Dec 2023 08:10:29 GMT</pubDate>
+            <content:encoded><![CDATA[46,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202312/5ea798d7174cbd6f5ca14dbc07150b77.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[김상희 / Love Story (Vinyl)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=23605&amp;cate_no=25&amp;display_group=1</link>
@@ -78,30 +102,6 @@
             <pubDate>Tue, 26 Dec 2023 11:06:47 GMT</pubDate>
             <content:encoded><![CDATA[60,100원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202312/92789f8b98e21cfc6ec5c9092cb41ea4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[John Scofield / A Go Go (180g Vinyl, Verve By Request Series)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=23592&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=23592&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Tue, 26 Dec 2023 11:06:47 GMT</pubDate>
-            <content:encoded><![CDATA[47,200원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202312/d8d11755a084c74e57315ce7b5e0884b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Melvin Jackson / Funky Skull (180g Vinyl, Verve By Request Series)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=23591&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=23591&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Tue, 26 Dec 2023 11:06:47 GMT</pubDate>
-            <content:encoded><![CDATA[47,200원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202312/f3e87360a4e3676afb878fa0a7f076d4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Max Roach / Moon-Faced And Starry-Eyed (180g Vinyl, Verve By Request Series)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=23590&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=23590&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Tue, 26 Dec 2023 11:06:47 GMT</pubDate>
-            <content:encoded><![CDATA[47,200원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202312/e2bfe5c37e912be37fa37ce5c4e6c0cd.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
