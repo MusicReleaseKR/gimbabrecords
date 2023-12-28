@@ -4,9 +4,25 @@
         <title>김밥레코즈 ─ Vinyl</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Dec 2023 06:12:47 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Dec 2023 07:09:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김상희 / Love Story (Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=23605&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=23605&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Thu, 28 Dec 2023 07:07:28 GMT</pubDate>
+            <content:encoded><![CDATA[49,700원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202312/2b6673ea9e380a8f15121be4de024f11.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김상희 / Sings Tom Jones & Burt Bacharach (Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=23604&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=23604&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Thu, 28 Dec 2023 07:07:28 GMT</pubDate>
+            <content:encoded><![CDATA[49,700원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202312/d056124b0cfad3ea33c3654bc864ad26.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Taeko Onuki (Taeko Ohnuki) / Romantique (Limited Clear Yellow Vinyl) *1인 2매까지 구매 가능]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=23599&amp;cate_no=25&amp;display_group=1</link>
@@ -48,7 +64,7 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202312/1c02e429d0f50d3570aa8b92cc0c319d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Tony Bennett & Bill Evans / The Tony Bennett/Bill Evans Album (180g Vinyl, Craft Recordings' Original Jazz Classic Series) *1인 1매만 주문 가능]]></title>
+            <title><![CDATA[Tony Bennett & Bill Evans / The Tony Bennett/Bill Evans Album (180g Vinyl, Craft Recordings' Original Jazz Classic Series)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=23594&amp;cate_no=25&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=23594&amp;cate_no=25&amp;display_group=1</guid>
             <pubDate>Tue, 26 Dec 2023 11:06:47 GMT</pubDate>
@@ -86,22 +102,6 @@
             <pubDate>Tue, 26 Dec 2023 11:06:47 GMT</pubDate>
             <content:encoded><![CDATA[47,200원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202312/e2bfe5c37e912be37fa37ce5c4e6c0cd.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Junior Mance / Junior (180g Vinyl, Verve By Request Series)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=23589&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=23589&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Tue, 26 Dec 2023 11:06:47 GMT</pubDate>
-            <content:encoded><![CDATA[47,200원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202312/cb5d73039166bca0b9a501f01b765bb0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Don Cherry / Art Deco (180g Vinyl, Verve By Request Series)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=23588&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=23588&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Tue, 26 Dec 2023 11:06:47 GMT</pubDate>
-            <content:encoded><![CDATA[47,200원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202312/2c97c77e3bb9616b30be25b8b95cd637.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
