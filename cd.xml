@@ -4,9 +4,33 @@
         <title>김밥레코즈 ─ CD</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Dec 2023 09:10:11 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Dec 2023 10:10:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Pearl Jam / Vitalogy (CD, 3곡이 추가된 Expanded Edition, US Import) *한정수량 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=23617&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=23617&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Fri, 29 Dec 2023 10:08:53 GMT</pubDate>
+            <content:encoded><![CDATA[15,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/201702/6436_shop1_276138.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[edbl & friends / Jackson Method (CD, JPN Import)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=23616&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=23616&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Fri, 29 Dec 2023 10:08:53 GMT</pubDate>
+            <content:encoded><![CDATA[29,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202312/6e2ed1d94bc22f9d701e8c07646a3dc6.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[edbl & friends / JPRK (CD, JPN Import)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=23615&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=23615&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Fri, 29 Dec 2023 10:08:53 GMT</pubDate>
+            <content:encoded><![CDATA[29,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202312/e5aa8710036096aa9e754744b94b6c43.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[천진우 / 3집 천진우 캐롤 모음집 (CD)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=23613&amp;cate_no=24&amp;display_group=1</link>
@@ -78,30 +102,6 @@
             <pubDate>Tue, 19 Dec 2023 14:07:26 GMT</pubDate>
             <content:encoded><![CDATA[14,900원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202312/d10ec96ff7fba58bb12fecee689089ea.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Rolling Stones / Their Satanic Majesties Request (SHM-CD) *2023 블랙프라이데이 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=23545&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=23545&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Mon, 18 Dec 2023 08:11:57 GMT</pubDate>
-            <content:encoded><![CDATA[15,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202312/1016230fbd83a9499f40b5b6b80495dc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Rolling Stones / Hot Rocks (SHM-CD) *2023 블랙프라이데이 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=23544&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=23544&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Mon, 18 Dec 2023 08:11:57 GMT</pubDate>
-            <content:encoded><![CDATA[17,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202312/c6f38fb23528b87e8adbfdf11c1efd32.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sam Smith / Gloria (CD) *2023 블랙프라이데이 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=23543&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=23543&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Mon, 18 Dec 2023 08:11:57 GMT</pubDate>
-            <content:encoded><![CDATA[15,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202302/0f6fb9407d1a7c039fddb7a89d38a424.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

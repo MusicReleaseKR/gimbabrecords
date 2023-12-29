@@ -4,9 +4,25 @@
         <title>김밥레코즈 ─ Vinyl</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Dec 2023 09:10:11 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Dec 2023 10:10:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[OST (Queen) / Bohemian Rhapsody 보헤미안 랩소디 (180g 2LP, EU Pressing) *2023 블랙프라이데이 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=23619&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=23619&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Fri, 29 Dec 2023 10:08:59 GMT</pubDate>
+            <content:encoded><![CDATA[47,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/201812/3b1a9616ce624813131d1761e87725f2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Black Pumas / Chronicles Of A Diamond (Clear Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=23618&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=23618&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Fri, 29 Dec 2023 10:08:59 GMT</pubDate>
+            <content:encoded><![CDATA[44,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202312/20f37a8ce0d1e3394ab0d32e96ec0170.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Dabeull / Cosmic Fonk (12" Vinyl) *1인 1매만 구매가 가능합니다.]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=23610&amp;cate_no=25&amp;display_group=1</link>
@@ -86,22 +102,6 @@
             <pubDate>Thu, 28 Dec 2023 11:07:04 GMT</pubDate>
             <content:encoded><![CDATA[45,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202312/5a73f64899128de17079cb2ac6c16082.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Ringo Sheena (시이나 링고, Shenna Ringo) / Holiday Jazz on 25th November, 2013 (12" Vinyl, 45 RPM, Limited Edition) *1인 최대 2매 구매 가능합니다.]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=23600&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=23600&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Thu, 28 Dec 2023 10:08:44 GMT</pubDate>
-            <content:encoded><![CDATA[31,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202312/3425efb1c900c678170fa7020350fdd9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Taeko Onuki (Taeko Ohnuki) / Romantique (Limited Clear Yellow Vinyl) *1인 2매까지 구매 가능]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=23599&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=23599&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Thu, 28 Dec 2023 06:10:59 GMT</pubDate>
-            <content:encoded><![CDATA[43,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202312/384fa2d45ef92e27ab9b4c14dd47b368.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
