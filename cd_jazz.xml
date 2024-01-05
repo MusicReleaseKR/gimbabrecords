@@ -4,7 +4,7 @@
         <title>김밥레코즈 ─ CD ─ Jazz</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Jan 2024 06:12:52 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Jan 2024 07:10:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -60,7 +60,7 @@
             <link>http://gimbabrecords.com/product/detail.html?product_no=23388&amp;cate_no=46&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=23388&amp;cate_no=46&amp;display_group=1</guid>
             <pubDate>Tue, 28 Nov 2023 11:08:12 GMT</pubDate>
-            <content:encoded><![CDATA[18,000원]]></content:encoded>
+            <content:encoded><![CDATA[18,600원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202311/9279bd22953a25e7ca0638a952a81894.jpg" length="0" type="image/jpg"/>
         </item>
         <item>

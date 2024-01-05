@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Jan 2024 06:12:52 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Jan 2024 07:10:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -280,20 +280,20 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202309/2cff3b35eb035bd046580ac98a92e9d1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[OST (Various Artists) / Guardians Of The Galaxy Vol. 3: Awesome Mix Vol. 3 가디언즈 오브 갤럭시 3 (Cassette) (김밥레코즈 ─ Cassette)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22887&amp;cate_no=26&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22887&amp;cate_no=26&amp;display_group=1</guid>
-            <pubDate>Thu, 28 Dec 2023 08:10:35 GMT</pubDate>
-            <content:encoded><![CDATA[29,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202309/f5389612571d9ba4b6ad328ee123ccb5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[파란노을 Parannoul / After the Magic (Cassette) (김밥레코즈 ─ Cassette)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=22855&amp;cate_no=26&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=22855&amp;cate_no=26&amp;display_group=1</guid>
             <pubDate>Tue, 26 Dec 2023 06:10:51 GMT</pubDate>
             <content:encoded><![CDATA[19,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202309/62ad0de81af1454ac374651bf45d1153.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Tatsuro Yamashita / It's A Poppin' Time (Cassette) (김밥레코즈 ─ Cassette)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22805&amp;cate_no=26&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22805&amp;cate_no=26&amp;display_group=1</guid>
+            <pubDate>Fri, 05 Jan 2024 07:08:37 GMT</pubDate>
+            <content:encoded><![CDATA[52,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202309/7e9cbf98cbc14239b959efe684014992.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Audio Technica Turntable - AT-SB727 YE (옐로우 색상) 휴대용 무선 블루투스 턴테이블 (김밥레코즈 ─ Movies/Merch)]]></title>
@@ -1116,7 +1116,7 @@
             <link>http://gimbabrecords.com/product/detail.html?product_no=23388&amp;cate_no=46&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=23388&amp;cate_no=46&amp;display_group=1</guid>
             <pubDate>Tue, 28 Nov 2023 11:08:12 GMT</pubDate>
-            <content:encoded><![CDATA[18,000원]]></content:encoded>
+            <content:encoded><![CDATA[18,600원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202311/9279bd22953a25e7ca0638a952a81894.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1556,7 +1556,7 @@
             <link>http://gimbabrecords.com/product/detail.html?product_no=23383&amp;cate_no=51&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=23383&amp;cate_no=51&amp;display_group=1</guid>
             <pubDate>Tue, 28 Nov 2023 09:10:08 GMT</pubDate>
-            <content:encoded><![CDATA[18,500원]]></content:encoded>
+            <content:encoded><![CDATA[19,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202310/1f7415855617c01d5a41dd6638eecb24.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1652,7 +1652,7 @@
             <link>http://gimbabrecords.com/product/detail.html?product_no=23383&amp;cate_no=90&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=23383&amp;cate_no=90&amp;display_group=1</guid>
             <pubDate>Tue, 28 Nov 2023 09:10:14 GMT</pubDate>
-            <content:encoded><![CDATA[18,500원]]></content:encoded>
+            <content:encoded><![CDATA[19,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202310/1f7415855617c01d5a41dd6638eecb24.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
