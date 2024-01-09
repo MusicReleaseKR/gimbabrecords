@@ -4,9 +4,25 @@
         <title>김밥레코즈 ─ CD ─ Pop/Rock</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 Jan 2024 08:12:44 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Jan 2024 09:10:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Rainbow / On Stage (Remastered CD) *한정수량 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=23674&amp;cate_no=30&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=23674&amp;cate_no=30&amp;display_group=1</guid>
+            <pubDate>Tue, 09 Jan 2024 09:09:39 GMT</pubDate>
+            <content:encoded><![CDATA[14,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202401/e73cc8499cf10824a778e4951dc2b8ed.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Rainbow / Rising (Remastered CD) *한정수량 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=23673&amp;cate_no=30&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=23673&amp;cate_no=30&amp;display_group=1</guid>
+            <pubDate>Tue, 09 Jan 2024 09:09:39 GMT</pubDate>
+            <content:encoded><![CDATA[14,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202401/0bc6603f2b54a08135594559249fa87f.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Paul McCartney / Kisses On The Bottom (CD, Deluxe Edition) *2023 블랙프라이데이 할인]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=23669&amp;cate_no=30&amp;display_group=1</link>
@@ -86,22 +102,6 @@
             <pubDate>Thu, 21 Dec 2023 09:08:49 GMT</pubDate>
             <content:encoded><![CDATA[14,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202312/03c724db0b5bb167ccc734545137321d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Rolling Stones / Their Satanic Majesties Request (SHM-CD, Mono, Gatefold, Limited Edition) *2023 블랙프라이데이 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=23545&amp;cate_no=30&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=23545&amp;cate_no=30&amp;display_group=1</guid>
-            <pubDate>Mon, 18 Dec 2023 08:12:34 GMT</pubDate>
-            <content:encoded><![CDATA[15,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202312/1016230fbd83a9499f40b5b6b80495dc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Rolling Stones / Hot Rocks (SHM-CD) *2023 블랙프라이데이 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=23544&amp;cate_no=30&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=23544&amp;cate_no=30&amp;display_group=1</guid>
-            <pubDate>Mon, 18 Dec 2023 08:12:34 GMT</pubDate>
-            <content:encoded><![CDATA[17,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202312/c6f38fb23528b87e8adbfdf11c1efd32.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
