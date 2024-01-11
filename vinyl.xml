@@ -4,9 +4,33 @@
         <title>김밥레코즈 ─ Vinyl</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 Jan 2024 06:12:59 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Jan 2024 07:10:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Kate Bush / Hounds Of Love (180g Raspberry Beret Colored Vinyl, Remastered, Indie Exclusive Limited Edition)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=23681&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=23681&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Thu, 11 Jan 2024 07:08:32 GMT</pubDate>
+            <content:encoded><![CDATA[59,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202401/9e72cebe77c1241f8bf28043a63dfe62.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Camel / Rain Dances (Vinyl) *2023 블랙프라이데이 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=23680&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=23680&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Thu, 11 Jan 2024 07:08:32 GMT</pubDate>
+            <content:encoded><![CDATA[34,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202401/6aff9061cf27516e142300cb927ae4e3.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[AC/DC / The Razor's Edge (Vinyl) *한정수량 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=23679&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=23679&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Thu, 11 Jan 2024 07:08:32 GMT</pubDate>
+            <content:encoded><![CDATA[36,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202401/a2927881e39ffe79c390839096da17b5.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[머드 더 스튜던트 (Mudd the Student) / Field Trip (7" Single Black Vinyl x 2, 45RPM)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=23678&amp;cate_no=25&amp;display_group=1</link>
@@ -78,30 +102,6 @@
             <pubDate>Mon, 08 Jan 2024 07:08:33 GMT</pubDate>
             <content:encoded><![CDATA[39,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202401/2ae2c2aaf612e7e160b524ba8e474f0e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Felipe Gordon / Psychedelic Melancholia (Vinyl, Gatefold)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=23655&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=23655&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Mon, 08 Jan 2024 07:08:33 GMT</pubDate>
-            <content:encoded><![CDATA[33,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202401/b93533466f99a9aabd3cd2a5daa272aa.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Cannonball Adderley / Somethin' Else (180g SuperVinyl Box Set, 2LP, 45 RPM, Limited Numbered Edition) *"매장수령" 주문시 10,000원 추가 적립]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=23637&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=23637&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Fri, 05 Jan 2024 08:11:09 GMT</pubDate>
-            <content:encoded><![CDATA[220,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202401/02bb399c251cbed23eefadcc8bec2501.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Bill Withers / His Ultimate Collection (Limited Blue Marbled Vinyl) *2023 블랙프라이데이 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=23636&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=23636&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Fri, 05 Jan 2024 06:11:17 GMT</pubDate>
-            <content:encoded><![CDATA[26,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202209/9df6aff9cb13519f776e5b4cd8722508.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
