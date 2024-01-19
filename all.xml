@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 19 Jan 2024 14:09:42 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Jan 2024 15:10:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -120,7 +120,7 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202401/fc4199370b9c64ea453f9c354e198f6e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Dylan Chambers / It's Time For Dylan Chambers! (Vinyl + OBI) (김밥레코즈 ─ Vinyl)]]></title>
+            <title><![CDATA[Dylan Chambers / It's Time For Dylan Chambers! (Vinyl) (김밥레코즈 ─ Vinyl)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=23733&amp;cate_no=25&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=23733&amp;cate_no=25&amp;display_group=1</guid>
             <pubDate>Fri, 19 Jan 2024 09:08:25 GMT</pubDate>
