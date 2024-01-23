@@ -4,9 +4,25 @@
         <title>김밥레코즈 ─ Vinyl</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 Jan 2024 09:10:42 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Jan 2024 10:10:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[OST(Ludwig Goransson) / 오펜하이머 Oppenheimer : A Film By Christopher Nolan Original Soundtrack오펜하이머 Oppenheimer : A Film By Christopher Nolan Original Soundtrack (Vinyl, 3LP, Black Colored)  *예약상품 (4월 초 배송 예정)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=23856&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=23856&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Tue, 23 Jan 2024 10:09:04 GMT</pubDate>
+            <content:encoded><![CDATA[89,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202401/387c861d809c67b7908370d20d172636.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[OST(Ludwig Goransson) / 오펜하이머 Oppenheimer : A Film By Christopher Nolan Original Soundtrack (Vinyl, 3LP, 140g Opaque Orange Colored)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=23853&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=23853&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Tue, 23 Jan 2024 10:09:04 GMT</pubDate>
+            <content:encoded><![CDATA[92,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202401/3668dee9e2813d9de5a8c95ec4759ac4.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[OST (John Barry) / Midnight Cowboy 미드나잇 카우보이 (180g Vinyl, 2LP, Limited Edition) *한정수량 할인]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=23843&amp;cate_no=25&amp;display_group=1</link>
@@ -86,22 +102,6 @@
             <pubDate>Tue, 23 Jan 2024 07:08:44 GMT</pubDate>
             <content:encoded><![CDATA[38,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202401/d9ca5a3c2839b0b2cbfa29a6db1e7df5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[bohemianvoodoo / CROSSING (Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=23797&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=23797&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Tue, 23 Jan 2024 07:08:44 GMT</pubDate>
-            <content:encoded><![CDATA[47,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202401/5de9747edea269a62fb9f7d5d209fa1e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Lana Del Rey / Candy Necklace (Limited 7" Picture Disc) *예약상품 (2월 13일 이후 배송 예정)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=23787&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=23787&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Mon, 22 Jan 2024 14:08:53 GMT</pubDate>
-            <content:encoded><![CDATA[29,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202401/4093c3496d72e0bfd3d38d765f608717.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
