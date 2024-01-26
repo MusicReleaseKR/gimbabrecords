@@ -4,9 +4,41 @@
         <title>김밥레코즈 ─ CD ─ Pop/Rock</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 Jan 2024 09:10:43 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Jan 2024 10:09:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Taylor Swift / Red (CD) *한정 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=23929&amp;cate_no=30&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=23929&amp;cate_no=30&amp;display_group=1</guid>
+            <pubDate>Fri, 26 Jan 2024 10:08:37 GMT</pubDate>
+            <content:encoded><![CDATA[49,400원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202401/132d2aaef811ffe0dd943e29a83d9805.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Taylor Swift / 1989 (CD)*한정 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=23928&amp;cate_no=30&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=23928&amp;cate_no=30&amp;display_group=1</guid>
+            <pubDate>Fri, 26 Jan 2024 10:08:37 GMT</pubDate>
+            <content:encoded><![CDATA[14,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202401/00294d994c690bae0d593465a4d69a22.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Taylor Swift / Midnights (CD, Moon Stone Blue Edition)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=23927&amp;cate_no=30&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=23927&amp;cate_no=30&amp;display_group=1</guid>
+            <pubDate>Fri, 26 Jan 2024 10:08:37 GMT</pubDate>
+            <content:encoded><![CDATA[29,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202401/b712ae11473fa1ab29f9c772171caf1e.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Taylor Swift / 1989 (Taylor's Version) (CD, Crystal Skies Blue Edition, 접이식 포스터 포함.]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=23926&amp;cate_no=30&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=23926&amp;cate_no=30&amp;display_group=1</guid>
+            <pubDate>Fri, 26 Jan 2024 10:08:37 GMT</pubDate>
+            <content:encoded><![CDATA[29,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202401/860c8faba86324450875765c92f33120.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Bruno Major / Columbo (CD)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=23925&amp;cate_no=30&amp;display_group=1</link>
@@ -70,38 +102,6 @@
             <pubDate>Fri, 26 Jan 2024 09:09:32 GMT</pubDate>
             <content:encoded><![CDATA[14,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202307/858c7a0b186bfe91634553f2daa1f54c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[New Order / Music Complete (CD) *2023 블랙프라이데이 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=23910&amp;cate_no=30&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=23910&amp;cate_no=30&amp;display_group=1</guid>
-            <pubDate>Fri, 26 Jan 2024 08:10:52 GMT</pubDate>
-            <content:encoded><![CDATA[14,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/201510/1547_shop1_158721.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Michelle / After Dinner, We Talk Dreams (CD) *2023 블랙프라이데이 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=23909&amp;cate_no=30&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=23909&amp;cate_no=30&amp;display_group=1</guid>
-            <pubDate>Fri, 26 Jan 2024 08:10:52 GMT</pubDate>
-            <content:encoded><![CDATA[14,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202401/ae13f3d8525b8d418dc3fe008b69dab3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Editors / Black Gold : Best Of Editors (Deluxe 2CD) *2023 블랙프라이데이 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=23907&amp;cate_no=30&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=23907&amp;cate_no=30&amp;display_group=1</guid>
-            <pubDate>Fri, 26 Jan 2024 08:10:52 GMT</pubDate>
-            <content:encoded><![CDATA[14,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202303/ac7c0f21cbb04342bf9ee1f2bf788884.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Father John Misty / Chloe And The Next 20th Century (CD, EU Bella Union) *2023 블랙프라이데이 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=23906&amp;cate_no=30&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=23906&amp;cate_no=30&amp;display_group=1</guid>
-            <pubDate>Fri, 26 Jan 2024 08:10:52 GMT</pubDate>
-            <content:encoded><![CDATA[14,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202401/4b586e54d31df0e67fd9b22bb6bd7601.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
