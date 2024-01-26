@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ Vinyl</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 Jan 2024 06:12:13 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Jan 2024 07:09:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Taylor Swift / 1989 (Taylor's Version) (Tangerine Colored Vinyl, 2LP, Special Edition, 프랑스 프레싱) *한정수량 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=23877&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=23877&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Fri, 26 Jan 2024 07:07:13 GMT</pubDate>
+            <content:encoded><![CDATA[63,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202401/0f05b3112c7e9e77b2d5d17256c29507.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Kali Uchis / Orquideas (Vinyl, Gatefold)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=23871&amp;cate_no=25&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Tue, 23 Jan 2024 10:09:04 GMT</pubDate>
             <content:encoded><![CDATA[92,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202401/387c861d809c67b7908370d20d172636.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[OST(Ludwig Goransson) / 오펜하이머 Oppenheimer : A Film By Christopher Nolan Original Soundtrack (Vinyl, 3LP, 140g Opaque Orange Colored)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=23853&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=23853&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Tue, 23 Jan 2024 10:09:04 GMT</pubDate>
-            <content:encoded><![CDATA[92,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202401/3668dee9e2813d9de5a8c95ec4759ac4.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
