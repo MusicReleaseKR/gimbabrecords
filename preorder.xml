@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ Pre-Order</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 Jan 2024 07:09:03 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Jan 2024 08:12:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[OST (The Wonders 외) / That Thing You Do! 댓 싱 유 두 (Red Vinyl + Bonus 7" + 12p booklet) *예약상품 (3월 중 배송 예정)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22923&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22923&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Fri, 26 Jan 2024 08:10:34 GMT</pubDate>
+            <content:encoded><![CDATA[79,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202309/8a9e5d4da6e12f5ca827e788a2f398c0.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[OST / Chungking Express 重慶森林 중경삼림 (CD, ARS Series, Limited Edition) *예약상품 (2월 20일 이후 배송 예정)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=17280&amp;cate_no=42&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Wed, 24 Jan 2024 10:09:31 GMT</pubDate>
             <content:encoded><![CDATA[87,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202204/4d36893aa59d91985304c31b840dae0c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Lana Del Rey / Say Yes To Heaven (Limited 7" Picture Disc) *예약상품 (2월 13일 이후 배송 예정)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=23786&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=23786&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Mon, 22 Jan 2024 14:09:09 GMT</pubDate>
-            <content:encoded><![CDATA[29,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202401/bb02d5160b0229184ba24133811c40f6.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
