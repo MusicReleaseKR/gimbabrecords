@@ -4,7 +4,7 @@
         <title>김밥레코즈 ─ Vinyl</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 28 Jan 2024 12:13:32 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Jan 2024 13:10:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -96,12 +96,12 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202401/bba998c7d46bd1237ccf3943a0684fce.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[Fred Again .. & Brian Eno / Secret Life (Vinyl, Gatefold Sleeve) *한정 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=23888&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=23888&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Sat, 27 Jan 2024 09:06:53 GMT</pubDate>
-            <content:encoded><![CDATA[36,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202401/b9b43d016cf3509b90bf2a2e1b06dc9e.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[Youth Lagoon / Heaven Is A Junkyard (Vinyl, Black, Gatefold Sleeve)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=23889&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=23889&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Sun, 28 Jan 2024 13:08:36 GMT</pubDate>
+            <content:encoded><![CDATA[42,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202401/92679bd8344c21029225b7330d9ecef6.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
