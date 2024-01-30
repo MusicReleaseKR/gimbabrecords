@@ -4,9 +4,33 @@
         <title>김밥레코즈 ─ Vinyl</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 Jan 2024 08:12:15 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Jan 2024 09:10:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[터치드 (TOUCHED) / EP 2집 Yellow Supernova Remnant (180g Yellow Splatter Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=24128&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=24128&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Tue, 30 Jan 2024 09:08:50 GMT</pubDate>
+            <content:encoded><![CDATA[50,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202401/405edf5c0cdca1d14038df10273b4483.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Charlie Megira / Da Abtomatic Meisterzinger Mambo Chic (Vinyl, Reissue, Numero Group NUM912)*한정 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=24126&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=24126&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Tue, 30 Jan 2024 09:08:50 GMT</pubDate>
+            <content:encoded><![CDATA[38,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202401/d62d1d7cf9dedc24a04939759bd8855a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Elephant Gym / Work (White + Spring Rain Blue Vinyl + Download)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=24124&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=24124&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Tue, 30 Jan 2024 09:08:50 GMT</pubDate>
+            <content:encoded><![CDATA[33,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202401/548536aacad2e9a9fd4ba7b12f42e055.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Ben Folds / What Matters Most (Limited Yellow Vinyl)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=24123&amp;cate_no=25&amp;display_group=1</link>
@@ -78,30 +102,6 @@
             <pubDate>Tue, 30 Jan 2024 06:11:11 GMT</pubDate>
             <content:encoded><![CDATA[32,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202401/97a48d68d89721bb2476b25acc7b7dd3.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Sunset Rollercoaster, Phum Viphurit / 小陽台 Little Balcony EP (Vinyl, 7", Transparent Green Colored, "Infinity Sunset") *한정 할]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=24113&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=24113&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Tue, 30 Jan 2024 06:11:11 GMT</pubDate>
-            <content:encoded><![CDATA[32,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202401/49e3292cc311a5259069e525712eee14.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Sunset Rollercoaster, never young beach / 隱帕斯波艾歐 Impossible Isle  EP (Vinyl, 7", Burgundy Colored, "Infinity Sunset") *한정 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=24112&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=24112&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Tue, 30 Jan 2024 06:11:11 GMT</pubDate>
-            <content:encoded><![CDATA[32,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202401/fc86901954b1b9ff15553e88a9705100.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Sunset Rollercoaster, Michael Seyer / 亞熱帶的南方 Subtropical South EP (Vinyl, 7", Transparent Ice Blue Colored, "Infinity Sunset") *한정 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=24111&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=24111&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Tue, 30 Jan 2024 06:11:11 GMT</pubDate>
-            <content:encoded><![CDATA[32,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202401/262fae247556012ec1d8c60d0a100c9e.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

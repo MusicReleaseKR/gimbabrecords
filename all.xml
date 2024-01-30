@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 Jan 2024 08:12:15 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Jan 2024 09:10:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Chick Corea / Chick Corea Elektric Band (CD) (김밥레코즈 ─ CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=24125&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=24125&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Tue, 30 Jan 2024 09:08:44 GMT</pubDate>
+            <content:encoded><![CDATA[20,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202401/1fe090210bd434e688d99019b4b9a118.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Eliane Elias, Chick Corea, Chucho Valdés / Mirror Mirror (CD) (김밥레코즈 ─ CD)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=24118&amp;cate_no=24&amp;display_group=1</link>
@@ -96,12 +104,28 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202401/6631c6ebb61ef0a0571c78fff118406d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Teddy Pendergrass / Original Album Series (5CD) *한정수량 할인 (김밥레코즈 ─ CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=23920&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=23920&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Fri, 26 Jan 2024 09:08:51 GMT</pubDate>
-            <content:encoded><![CDATA[27,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202401/40b410c2dff75090f8f671ece2fbbbe9.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[터치드 (TOUCHED) / EP 2집 Yellow Supernova Remnant (180g Yellow Splatter Vinyl) (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=24128&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=24128&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Tue, 30 Jan 2024 09:08:50 GMT</pubDate>
+            <content:encoded><![CDATA[50,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202401/405edf5c0cdca1d14038df10273b4483.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Charlie Megira / Da Abtomatic Meisterzinger Mambo Chic (Vinyl, Reissue, Numero Group NUM912)*한정 할인 (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=24126&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=24126&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Tue, 30 Jan 2024 09:08:50 GMT</pubDate>
+            <content:encoded><![CDATA[38,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202401/d62d1d7cf9dedc24a04939759bd8855a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Elephant Gym / Work (White + Spring Rain Blue Vinyl + Download) (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=24124&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=24124&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Tue, 30 Jan 2024 09:08:50 GMT</pubDate>
+            <content:encoded><![CDATA[33,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202401/548536aacad2e9a9fd4ba7b12f42e055.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Ben Folds / What Matters Most (Limited Yellow Vinyl) (김밥레코즈 ─ Vinyl)]]></title>
@@ -174,30 +198,6 @@
             <pubDate>Tue, 30 Jan 2024 06:11:11 GMT</pubDate>
             <content:encoded><![CDATA[32,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202401/97a48d68d89721bb2476b25acc7b7dd3.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Sunset Rollercoaster, Phum Viphurit / 小陽台 Little Balcony EP (Vinyl, 7", Transparent Green Colored, "Infinity Sunset") *한정 할 (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=24113&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=24113&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Tue, 30 Jan 2024 06:11:11 GMT</pubDate>
-            <content:encoded><![CDATA[32,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202401/49e3292cc311a5259069e525712eee14.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Sunset Rollercoaster, never young beach / 隱帕斯波艾歐 Impossible Isle  EP (Vinyl, 7", Burgundy Colored, "Infinity Sunset") *한정 할인 (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=24112&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=24112&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Tue, 30 Jan 2024 06:11:11 GMT</pubDate>
-            <content:encoded><![CDATA[32,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202401/fc86901954b1b9ff15553e88a9705100.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Sunset Rollercoaster, Michael Seyer / 亞熱帶的南方 Subtropical South EP (Vinyl, 7", Transparent Ice Blue Colored, "Infinity Sunset") *한정 할인 (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=24111&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=24111&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Tue, 30 Jan 2024 06:11:11 GMT</pubDate>
-            <content:encoded><![CDATA[32,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202401/262fae247556012ec1d8c60d0a100c9e.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[Grey October Sound / Lo-Fi City Pop (Cassette) (김밥레코즈 ─ Cassette)]]></title>
@@ -1064,6 +1064,14 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/20191205/71567280c27b2f4533ab1c37eeefc78d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Chick Corea / Chick Corea Elektric Band (CD) (김밥레코즈 ─ CD ─ Jazz)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=24125&amp;cate_no=46&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=24125&amp;cate_no=46&amp;display_group=1</guid>
+            <pubDate>Tue, 30 Jan 2024 09:09:51 GMT</pubDate>
+            <content:encoded><![CDATA[20,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202401/1fe090210bd434e688d99019b4b9a118.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Eliane Elias, Chick Corea, Chucho Valdés / Mirror Mirror (CD) (김밥레코즈 ─ CD ─ Jazz)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=24118&amp;cate_no=46&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=24118&amp;cate_no=46&amp;display_group=1</guid>
@@ -1150,14 +1158,6 @@
             <pubDate>Fri, 05 Jan 2024 09:09:20 GMT</pubDate>
             <content:encoded><![CDATA[18,600원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202401/439e46f7a90cbf7a0015b2df5ea4e479.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Bill Evans / The Paris Concert: Edition One (SHM-CD) (김밥레코즈 ─ CD ─ Jazz)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=23646&amp;cate_no=46&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=23646&amp;cate_no=46&amp;display_group=1</guid>
-            <pubDate>Fri, 05 Jan 2024 09:09:20 GMT</pubDate>
-            <content:encoded><![CDATA[18,600원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202401/f01c380fe60f0ec7f00d43bc02506eaf.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[The Lions / Soul Riot (CD) (김밥레코즈 ─ CD ─ Reggae)]]></title>
@@ -1736,6 +1736,14 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202208/ec8a6181da2768f9f1b28c85fccdd24c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[터치드 (TOUCHED) / EP 2집 Yellow Supernova Remnant (180g Yellow Splatter Vinyl) (김밥레코즈 ─ Vinyl ─ Korean)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=24128&amp;cate_no=52&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=24128&amp;cate_no=52&amp;display_group=1</guid>
+            <pubDate>Tue, 30 Jan 2024 09:10:33 GMT</pubDate>
+            <content:encoded><![CDATA[50,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202401/405edf5c0cdca1d14038df10273b4483.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Parannoul (파란노을), Asian Glow (아시안 글로우) , sonhos tomam conta / Downfall of the Neon Youth (“Blue Ether” Colored Vinyl, 2LP, Limited Edition) *1인 1매만 구매 가능 (김밥레코즈 ─ Vinyl ─ Korean)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=24110&amp;cate_no=52&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=24110&amp;cate_no=52&amp;display_group=1</guid>
@@ -1822,14 +1830,6 @@
             <pubDate>Wed, 10 Jan 2024 07:09:55 GMT</pubDate>
             <content:encoded><![CDATA[37,200원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202401/eb313abc95859739e653a040d210d488.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[다브다 / Yonder EP (Cloudy Clear Vinyl, 45RPM) (김밥레코즈 ─ Vinyl ─ Korean)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=23676&amp;cate_no=52&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=23676&amp;cate_no=52&amp;display_group=1</guid>
-            <pubDate>Wed, 10 Jan 2024 07:09:55 GMT</pubDate>
-            <content:encoded><![CDATA[35,800원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202401/fba1dba367c4f405390f405af74361b4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[The Beatles / 1+ (CD+2장의 Blu-Ray 디스크 - 진귀한 영상을 서라운드 사운드로 만날 수 있는 27편의 프로모션 비디오 및 23편의 영상, 총 50편의 영상과 멤버들의 코멘터리 수록) *매장 10주년 기념 한정수량 할 (김밥레코즈 ─ Movies/Merch ─ DVD/Blu-Ray)]]></title>
