@@ -4,7 +4,7 @@
         <title>김밥레코즈 ─ Vinyl</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 Jan 2024 09:10:39 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Jan 2024 10:11:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Tue, 30 Jan 2024 09:08:50 GMT</pubDate>
             <content:encoded><![CDATA[50,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202401/405edf5c0cdca1d14038df10273b4483.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[카더가든 / APARTMENT (Clear & Black Marble Colored Vinyl, 2LP, Final Pressing)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=24127&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=24127&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Tue, 30 Jan 2024 10:09:20 GMT</pubDate>
+            <content:encoded><![CDATA[66,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202401/b8374eeca0a909231265202253a3760b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Charlie Megira / Da Abtomatic Meisterzinger Mambo Chic (Vinyl, Reissue, Numero Group NUM912)*한정 할인]]></title>
@@ -94,14 +102,6 @@
             <pubDate>Tue, 30 Jan 2024 08:10:21 GMT</pubDate>
             <content:encoded><![CDATA[36,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202401/8d89bcf7e980e7e0391938c7a09c13ef.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Edison Song, O3ohn오존 / 我們的態度 Posture and Attitude EP (Vinyl, 7", Transparent Orange Colored, "Infinity Sunset") *한정 할]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=24114&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=24114&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Tue, 30 Jan 2024 06:11:11 GMT</pubDate>
-            <content:encoded><![CDATA[32,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202401/97a48d68d89721bb2476b25acc7b7dd3.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
