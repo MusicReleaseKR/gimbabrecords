@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 31 Jan 2024 14:09:07 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Jan 2024 15:09:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -72,14 +72,6 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202401/860c8faba86324450875765c92f33120.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Bruno Major / A Song For Every Moon (CD, Digipak) (김밥레코즈 ─ CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=23923&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=23923&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Mon, 29 Jan 2024 03:08:26 GMT</pubDate>
-            <content:encoded><![CDATA[24,900원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202401/cb20db783dfaca4e2249152a5c300f71.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Viagra Boys / Cave World (CD) (김밥레코즈 ─ CD)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=23922&amp;cate_no=24&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=23922&amp;cate_no=24&amp;display_group=1</guid>
@@ -102,6 +94,14 @@
             <pubDate>Wed, 31 Jan 2024 10:08:07 GMT</pubDate>
             <content:encoded><![CDATA[27,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202401/40b410c2dff75090f8f671ece2fbbbe9.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Corrs / Original Album Series (5CD) *한정수량 할인 (김밥레코즈 ─ CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=23919&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=23919&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Wed, 31 Jan 2024 15:07:43 GMT</pubDate>
+            <content:encoded><![CDATA[27,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202401/f0ff2164f11358fb4b4b6cecbd41e0bd.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[OST(Various Artists) / Belle 용과 주근깨 공주 Original Motion Picture Soundtrack (2LP, Gatefold Sleeve, 'Pop Sensation' Blue/Pink Split Colored) *2023 블랙프라이데이 할인 (김밥레코즈 ─ Vinyl)]]></title>
