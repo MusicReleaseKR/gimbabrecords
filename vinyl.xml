@@ -4,17 +4,9 @@
         <title>김밥레코즈 ─ Vinyl</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 31 Jan 2024 21:10:19 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Jan 2024 22:09:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[OST(Various Artists) / Belle 용과 주근깨 공주 Original Motion Picture Soundtrack (2LP, Gatefold Sleeve, 'Pop Sensation' Blue/Pink Split Colored) *2023 블랙프라이데이 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=24196&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=24196&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Wed, 31 Jan 2024 05:07:37 GMT</pubDate>
-            <content:encoded><![CDATA[32,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202401/670053627d27340e3f335201fbc3207c.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[OST(V.A.)/ Top Gun: Maverick 탑건: 매버릭 Music From The Motion Picture (Vinyl, White Colored, Gatefold Sleeve)*한정 할인]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=24194&amp;cate_no=25&amp;display_group=1</link>
@@ -102,6 +94,14 @@
             <pubDate>Wed, 31 Jan 2024 10:08:13 GMT</pubDate>
             <content:encoded><![CDATA[37,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202401/8fba99b265a27b171c1995c975ea5ccc.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Beths / Future Me Hates Me (Limited Deep Blue Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=24116&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=24116&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Wed, 31 Jan 2024 22:07:58 GMT</pubDate>
+            <content:encoded><![CDATA[37,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/201903/54b69cd74696ea7658cb73c8950218bb.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
