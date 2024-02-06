@@ -4,7 +4,7 @@
         <title>김밥레코즈 ─ Bargain Bin</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 06 Feb 2024 13:10:55 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Feb 2024 14:09:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -88,20 +88,20 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/20200113/9dff1b953a32fe1ac92401ad76077683.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Soundgarden / Superunknown (180g Double Vinyl, Gatefold + 12p Book With Photos & Art)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=14276&amp;cate_no=43&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=14276&amp;cate_no=43&amp;display_group=1</guid>
-            <pubDate>Sat, 27 Jan 2024 02:13:04 GMT</pubDate>
-            <content:encoded><![CDATA[54,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/201509/1074_shop1_671542.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Michael Buble / Nobody But Me (Vinyl) *2023 블랙프라이데이 할인]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=14267&amp;cate_no=43&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=14267&amp;cate_no=43&amp;display_group=1</guid>
             <pubDate>Mon, 05 Feb 2024 06:11:04 GMT</pubDate>
             <content:encoded><![CDATA[25,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/20191205/78627f8569fe13b055edc09cfb685151.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Duke Ellington & Count Basie / First Time! The Count Meets the Duke (CD) *할인상품]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=13803&amp;cate_no=43&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=13803&amp;cate_no=43&amp;display_group=1</guid>
+            <pubDate>Tue, 06 Feb 2024 14:07:55 GMT</pubDate>
+            <content:encoded><![CDATA[11,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/201909/5b2024bfac79a37cf3230b1a8bc1e0de.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
