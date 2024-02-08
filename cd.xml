@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ CD</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 08 Feb 2024 09:09:45 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Feb 2024 10:10:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Supertramp / Breakfast In America (Remastered CD) *한정수량 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=24571&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=24571&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Thu, 08 Feb 2024 10:08:23 GMT</pubDate>
+            <content:encoded><![CDATA[15,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202402/99ed43391a72f2e537f67405454086df.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Bruce Hornsby / The Way It Is (CD, US Import) *한정수량 할인]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=24570&amp;cate_no=24&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Tue, 06 Feb 2024 09:07:45 GMT</pubDate>
             <content:encoded><![CDATA[18,600원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202402/de33e5f6b24508dd090652715b6265e2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Cure / Wish (Remastered CD, 30th Anniversary Edition) *한정수량 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=24418&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=24418&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Mon, 05 Feb 2024 08:10:28 GMT</pubDate>
-            <content:encoded><![CDATA[15,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202309/d66ab442d1362d320243718f78dd11c9.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
