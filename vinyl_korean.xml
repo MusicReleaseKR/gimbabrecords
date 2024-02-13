@@ -4,7 +4,7 @@
         <title>김밥레코즈 ─ Vinyl ─ Korean</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 13 Feb 2024 11:10:28 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Feb 2024 12:15:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,14 +30,6 @@
             <pubDate>Mon, 05 Feb 2024 05:10:16 GMT</pubDate>
             <content:encoded><![CDATA[45,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202402/09219a269ec188398e267bc150018278.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[산울림 / Vol. 3: My Heart - My Soul Is A Wasteland (내 마음) (180g Vinyl, 수입 완제품) *예약상품 (3월 15일 발매 예정)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=24323&amp;cate_no=52&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=24323&amp;cate_no=52&amp;display_group=1</guid>
-            <pubDate>Thu, 01 Feb 2024 09:11:13 GMT</pubDate>
-            <content:encoded><![CDATA[48,600원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202402/8a1ab25faf34e1c0ce83c2ce852e0fff.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[산울림 / Vol. 1: Already Now (아니벌써) (180g Vinyl, 수입 완제품) *예약상품 (3월 15일 발매 예정)]]></title>
@@ -102,6 +94,14 @@
             <pubDate>Tue, 13 Feb 2024 08:13:26 GMT</pubDate>
             <content:encoded><![CDATA[37,200원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202401/cb859253f007eaccec9068d42acc56bd.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김도언 / Damage (180g Black Vinyl, Gatefold)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=23677&amp;cate_no=52&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=23677&amp;cate_no=52&amp;display_group=1</guid>
+            <pubDate>Tue, 13 Feb 2024 12:14:56 GMT</pubDate>
+            <content:encoded><![CDATA[37,200원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202401/eb313abc95859739e653a040d210d488.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

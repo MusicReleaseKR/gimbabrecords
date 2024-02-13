@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 13 Feb 2024 11:10:28 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Feb 2024 12:15:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1760,14 +1760,6 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202402/09219a269ec188398e267bc150018278.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[산울림 / Vol. 3: My Heart - My Soul Is A Wasteland (내 마음) (180g Vinyl, 수입 완제품) *예약상품 (3월 15일 발매 예정) (김밥레코즈 ─ Vinyl ─ Korean)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=24323&amp;cate_no=52&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=24323&amp;cate_no=52&amp;display_group=1</guid>
-            <pubDate>Thu, 01 Feb 2024 09:11:13 GMT</pubDate>
-            <content:encoded><![CDATA[48,600원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202402/8a1ab25faf34e1c0ce83c2ce852e0fff.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[산울림 / Vol. 1: Already Now (아니벌써) (180g Vinyl, 수입 완제품) *예약상품 (3월 15일 발매 예정) (김밥레코즈 ─ Vinyl ─ Korean)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=24321&amp;cate_no=52&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=24321&amp;cate_no=52&amp;display_group=1</guid>
@@ -1830,6 +1822,14 @@
             <pubDate>Tue, 13 Feb 2024 08:13:26 GMT</pubDate>
             <content:encoded><![CDATA[37,200원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202401/cb859253f007eaccec9068d42acc56bd.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김도언 / Damage (180g Black Vinyl, Gatefold) (김밥레코즈 ─ Vinyl ─ Korean)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=23677&amp;cate_no=52&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=23677&amp;cate_no=52&amp;display_group=1</guid>
+            <pubDate>Tue, 13 Feb 2024 12:14:56 GMT</pubDate>
+            <content:encoded><![CDATA[37,200원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202401/eb313abc95859739e653a040d210d488.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[The Beatles / 1+ (CD+2장의 Blu-Ray 디스크 - 진귀한 영상을 서라운드 사운드로 만날 수 있는 27편의 프로모션 비디오 및 23편의 영상, 총 50편의 영상과 멤버들의 코멘터리 수록) *매장 10주년 기념 한정수량 할 (김밥레코즈 ─ Movies/Merch ─ DVD/Blu-Ray)]]></title>
