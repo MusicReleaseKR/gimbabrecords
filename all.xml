@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 13 Feb 2024 15:09:07 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Feb 2024 16:11:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -1760,14 +1760,6 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202402/09219a269ec188398e267bc150018278.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[산울림 / Vol. 1: Already Now (아니벌써) (180g Vinyl, 수입 완제품) *예약상품 (3월 15일 발매 예정) (김밥레코즈 ─ Vinyl ─ Korean)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=24321&amp;cate_no=52&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=24321&amp;cate_no=52&amp;display_group=1</guid>
-            <pubDate>Thu, 01 Feb 2024 09:11:13 GMT</pubDate>
-            <content:encoded><![CDATA[48,600원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202402/642b9e56a1a1d465226f2c7fe76bf019.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[터치드 (TOUCHED) / EP 2집 Yellow Supernova Remnant (180g Yellow Splatter Vinyl) (김밥레코즈 ─ Vinyl ─ Korean)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=24128&amp;cate_no=52&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=24128&amp;cate_no=52&amp;display_group=1</guid>
@@ -1830,6 +1822,14 @@
             <pubDate>Tue, 13 Feb 2024 12:14:56 GMT</pubDate>
             <content:encoded><![CDATA[37,200원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202401/eb313abc95859739e653a040d210d488.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[다브다 / Yonder EP (Cloudy Clear Vinyl, 45RPM) (김밥레코즈 ─ Vinyl ─ Korean)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=23676&amp;cate_no=52&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=23676&amp;cate_no=52&amp;display_group=1</guid>
+            <pubDate>Tue, 13 Feb 2024 16:11:38 GMT</pubDate>
+            <content:encoded><![CDATA[35,800원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202401/fba1dba367c4f405390f405af74361b4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[The Beatles / 1+ (CD+2장의 Blu-Ray 디스크 - 진귀한 영상을 서라운드 사운드로 만날 수 있는 27편의 프로모션 비디오 및 23편의 영상, 총 50편의 영상과 멤버들의 코멘터리 수록) *매장 10주년 기념 한정수량 할 (김밥레코즈 ─ Movies/Merch ─ DVD/Blu-Ray)]]></title>
