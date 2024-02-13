@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 13 Feb 2024 06:12:35 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Feb 2024 07:09:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[개인결제창 (최*원님) (김밥레코즈 ─ CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=24579&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=24579&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Tue, 13 Feb 2024 07:08:08 GMT</pubDate>
+            <content:encoded><![CDATA[83,000원]]></content:encoded>
+            <enclosure url="http://img.echosting.cafe24.com/thumb/img_product_medium.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[England Dan & John Ford Coley / Dowdy Ferry Road (CD) *한정수량 할인 (김밥레코즈 ─ CD)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=24578&amp;cate_no=24&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Tue, 06 Feb 2024 10:08:45 GMT</pubDate>
             <content:encoded><![CDATA[18,900원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202205/aa86965d1ac73d4325902fcf0bfc70b0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Massive Attack / Mezzanine XX (2CD, 20th Anniversary Edition) *한정수량 할인 (김밥레코즈 ─ CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=24446&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=24446&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Tue, 06 Feb 2024 10:08:45 GMT</pubDate>
-            <content:encoded><![CDATA[19,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/201611/5808_shop1_367231.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Fishmans / Uchu Best Of Fishmans (Limited Clear Orange Colored Vinyl, 2LP) *예약상품 (8월초 배송 예정) (김밥레코즈 ─ Vinyl)]]></title>
