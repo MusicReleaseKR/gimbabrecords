@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 16 Feb 2024 11:08:07 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Feb 2024 12:14:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Hanah Spring / SOZO (CD) (김밥레코즈 ─ CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=24608&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=24608&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Fri, 16 Feb 2024 12:12:59 GMT</pubDate>
+            <content:encoded><![CDATA[31,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202402/8af7bae2c13ef18e3c87802127d4132c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Clifford Jordan Quartet / Glass Bead Games (CD + OBI) (김밥레코즈 ─ CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=24607&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=24607&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Fri, 16 Feb 2024 12:12:59 GMT</pubDate>
+            <content:encoded><![CDATA[29,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202402/f115fc086f1c315a94b077936f4c14f4.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Weldon Irvine / In Harmony (CD + OBI) (김밥레코즈 ─ CD)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=24606&amp;cate_no=24&amp;display_group=1</link>
@@ -86,30 +102,6 @@
             <pubDate>Mon, 12 Feb 2024 04:10:09 GMT</pubDate>
             <content:encoded><![CDATA[11,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202402/8eebcfa82046140e5fbbb1d0aa28a1d8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Logic / Confessions Of A Dangerous Mind (CD) *한정수량 할인 (김밥레코즈 ─ CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=24574&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=24574&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Sun, 11 Feb 2024 04:10:42 GMT</pubDate>
-            <content:encoded><![CDATA[15,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202402/197877229efebb16f70b858f3888487b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Supertramp / Breakfast In America (Remastered CD) *한정수량 할인 (김밥레코즈 ─ CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=24571&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=24571&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Thu, 08 Feb 2024 10:08:23 GMT</pubDate>
-            <content:encoded><![CDATA[15,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202402/99ed43391a72f2e537f67405454086df.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Weldon Irvine / In Harmony (Vinyl + OBI) (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=24604&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=24604&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Fri, 16 Feb 2024 11:06:14 GMT</pubDate>
-            <content:encoded><![CDATA[46,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202402/71e1a48129e940a5ba7d98f8dfe5ba50.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Weldon Irvine / In Harmony (Vinyl + OBI) *할인상품 (구매 시 유의사항을 참조하세요.) (김밥레코즈 ─ Vinyl)]]></title>
@@ -198,6 +190,14 @@
             <pubDate>Thu, 15 Feb 2024 14:07:29 GMT</pubDate>
             <content:encoded><![CDATA[49,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202402/3e1ffe7f50a89fb29f78006dfce86d11.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Ryo Fukui / Scenery (Limited Colored Vinyl) *예약상품 (6월 17일 이후 배송 예정) (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=24584&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=24584&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Fri, 16 Feb 2024 12:13:05 GMT</pubDate>
+            <content:encoded><![CDATA[49,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202402/1680e084adea06de647cf388f78711ac.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Grey October Sound / Lo-Fi City Pop (Cassette) (김밥레코즈 ─ Cassette)]]></title>
@@ -873,14 +873,6 @@
         </item>
         <item>
             <title><![CDATA[Weldon Irvine / In Harmony (CD + OBI) (김밥레코즈 ─ CD ─ R&B/Soul/Funk)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=24607&amp;cate_no=44&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=24607&amp;cate_no=44&amp;display_group=1</guid>
-            <pubDate>Fri, 16 Feb 2024 11:07:05 GMT</pubDate>
-            <content:encoded><![CDATA[29,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202402/36305845efdbad2a8ea49a3266dac811.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Weldon Irvine / In Harmony (CD + OBI) (김밥레코즈 ─ CD ─ R&B/Soul/Funk)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=24606&amp;cate_no=44&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=24606&amp;cate_no=44&amp;display_group=1</guid>
             <pubDate>Fri, 16 Feb 2024 11:07:05 GMT</pubDate>
@@ -966,6 +958,14 @@
             <pubDate>Fri, 26 Jan 2024 08:11:03 GMT</pubDate>
             <content:encoded><![CDATA[14,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202401/1dbacf8d4de518ceb597f0ca0ffba06d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Jorja Smith / falling or flying (CD + Booklet, Digipak) (김밥레코즈 ─ CD ─ R&B/Soul/Funk)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=23726&amp;cate_no=44&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=23726&amp;cate_no=44&amp;display_group=1</guid>
+            <pubDate>Fri, 16 Feb 2024 12:13:56 GMT</pubDate>
+            <content:encoded><![CDATA[25,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202310/35c77ba146f8faf57315ce1f83edd02f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Logic / Confessions Of A Dangerous Mind (CD) *한정수량 할인 (김밥레코즈 ─ CD ─ Hip Hop)]]></title>
@@ -1064,12 +1064,12 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202311/50594d99c0046a8c643a65234599a1e9.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Weldon Irvine / In Harmony (CD + OBI) (김밥레코즈 ─ CD ─ Jazz)]]></title>
+            <title><![CDATA[Clifford Jordan Quartet / Glass Bead Games (CD + OBI) (김밥레코즈 ─ CD ─ Jazz)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=24607&amp;cate_no=46&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=24607&amp;cate_no=46&amp;display_group=1</guid>
             <pubDate>Fri, 16 Feb 2024 11:07:17 GMT</pubDate>
             <content:encoded><![CDATA[29,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202402/36305845efdbad2a8ea49a3266dac811.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202402/f115fc086f1c315a94b077936f4c14f4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Weldon Irvine / In Harmony (CD + OBI) (김밥레코즈 ─ CD ─ Jazz)]]></title>
@@ -1640,6 +1640,14 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202212/71aaed6e8676854a8f0a856046edf226.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Hanah Spring / SOZO (CD) (김밥레코즈 ─ CD ─ Japanese)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=24608&amp;cate_no=90&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=24608&amp;cate_no=90&amp;display_group=1</guid>
+            <pubDate>Fri, 16 Feb 2024 12:14:45 GMT</pubDate>
+            <content:encoded><![CDATA[31,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202402/8af7bae2c13ef18e3c87802127d4132c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[NONA REEVES / 3X3 (CD, 2023 재발매, Limited Edition, Papersleeve) (김밥레코즈 ─ CD ─ Japanese)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=23811&amp;cate_no=90&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=23811&amp;cate_no=90&amp;display_group=1</guid>
@@ -1726,14 +1734,6 @@
             <pubDate>Wed, 18 Oct 2023 07:10:02 GMT</pubDate>
             <content:encoded><![CDATA[18,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202310/b59637cd7fa539dda7b68010a18760eb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Kingo Hamada / Heart Cocktail (CD) (김밥레코즈 ─ CD ─ Japanese)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=23031&amp;cate_no=90&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=23031&amp;cate_no=90&amp;display_group=1</guid>
-            <pubDate>Wed, 18 Oct 2023 07:10:02 GMT</pubDate>
-            <content:encoded><![CDATA[18,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202208/ec8a6181da2768f9f1b28c85fccdd24c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[김사월 / 3집 헤븐 (Vinyl) *예약상품 (7월 1일 발매 예정, 2월 21일 자정 주문 마감) (김밥레코즈 ─ Vinyl ─ Korean)]]></title>
