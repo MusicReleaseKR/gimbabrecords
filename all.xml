@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 17 Feb 2024 06:11:36 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 17 Feb 2024 07:09:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,14 +22,6 @@
             <pubDate>Fri, 16 Feb 2024 12:12:59 GMT</pubDate>
             <content:encoded><![CDATA[29,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202402/f115fc086f1c315a94b077936f4c14f4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Weldon Irvine / In Harmony (CD + OBI) (김밥레코즈 ─ CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=24606&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=24606&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Fri, 16 Feb 2024 11:06:07 GMT</pubDate>
-            <content:encoded><![CDATA[29,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202402/36305845efdbad2a8ea49a3266dac811.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Weldon Irvine / Weldon & The Kats (CD + Japanese OBI) (김밥레코즈 ─ CD)]]></title>
@@ -102,6 +94,14 @@
             <pubDate>Mon, 12 Feb 2024 04:10:09 GMT</pubDate>
             <content:encoded><![CDATA[11,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202402/8eebcfa82046140e5fbbb1d0aa28a1d8.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Logic / Confessions Of A Dangerous Mind (CD) *한정수량 할인 (김밥레코즈 ─ CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=24574&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=24574&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Sat, 17 Feb 2024 07:07:37 GMT</pubDate>
+            <content:encoded><![CDATA[15,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202402/197877229efebb16f70b858f3888487b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Weldon Irvine / Weldon & The Kats (Vinyl + OBI) *예약상품 (3월 6일 이후 배송 예정) (김밥레코즈 ─ Vinyl)]]></title>
@@ -1776,14 +1776,6 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202402/c9b3273b8af1f131a47ff0d9f1bc0cf7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[곽태풍 / 나는야 락스타 ! (Red Vinyl, Limited Edition) *예약상품 (2월 16일 발매 예정) (김밥레코즈 ─ Vinyl ─ Korean)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=24417&amp;cate_no=52&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=24417&amp;cate_no=52&amp;display_group=1</guid>
-            <pubDate>Mon, 05 Feb 2024 05:10:16 GMT</pubDate>
-            <content:encoded><![CDATA[45,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202402/09219a269ec188398e267bc150018278.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[터치드 (TOUCHED) / EP 2집 Yellow Supernova Remnant (180g Yellow Splatter Vinyl) (김밥레코즈 ─ Vinyl ─ Korean)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=24128&amp;cate_no=52&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=24128&amp;cate_no=52&amp;display_group=1</guid>
@@ -1830,6 +1822,14 @@
             <pubDate>Tue, 13 Feb 2024 05:09:37 GMT</pubDate>
             <content:encoded><![CDATA[64,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202401/c394fb6d7ef9bcac04d29c6d0eed4199.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[머드 더 스튜던트 (Mudd the Student) / Field Trip (7" Single Black Vinyl x 2, 45RPM) (김밥레코즈 ─ Vinyl ─ Korean)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=23678&amp;cate_no=52&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=23678&amp;cate_no=52&amp;display_group=1</guid>
+            <pubDate>Sat, 17 Feb 2024 07:09:29 GMT</pubDate>
+            <content:encoded><![CDATA[37,200원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202401/cb859253f007eaccec9068d42acc56bd.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[The Beatles / 1+ (CD+2장의 Blu-Ray 디스크 - 진귀한 영상을 서라운드 사운드로 만날 수 있는 27편의 프로모션 비디오 및 23편의 영상, 총 50편의 영상과 멤버들의 코멘터리 수록) *매장 10주년 기념 한정수량 할 (김밥레코즈 ─ Movies/Merch ─ DVD/Blu-Ray)]]></title>
