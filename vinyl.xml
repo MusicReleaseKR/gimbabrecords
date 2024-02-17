@@ -4,7 +4,7 @@
         <title>김밥레코즈 ─ Vinyl</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 16 Feb 2024 23:09:37 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 17 Feb 2024 00:35:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -46,6 +46,14 @@
             <pubDate>Fri, 16 Feb 2024 07:07:37 GMT</pubDate>
             <content:encoded><![CDATA[34,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202402/4f4db432128c68a891205fb505d4fcff.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Oumou Sangare / Timbuktu (180g Vinyl, OBI + 4p 책자 포함) *2023 블랙프라이데이 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=24590&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=24590&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Sat, 17 Feb 2024 00:33:49 GMT</pubDate>
+            <content:encoded><![CDATA[31,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202402/9b2867d953b7b8df8a083327e45cdea3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[개인결제창 (김*준님)]]></title>
@@ -94,14 +102,6 @@
             <pubDate>Fri, 16 Feb 2024 18:10:49 GMT</pubDate>
             <content:encoded><![CDATA[59,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202402/4884f2ea1a3fd4b5849c6c7f6cc71640.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김사월 / 3집 헤븐 (Vinyl) *예약상품 (7월 1일 발매 예정, 2월 21일 자정 주문 마감)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=24582&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=24582&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Fri, 16 Feb 2024 18:10:49 GMT</pubDate>
-            <content:encoded><![CDATA[49,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202402/7c5f86dee37227bb308096350136608c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
