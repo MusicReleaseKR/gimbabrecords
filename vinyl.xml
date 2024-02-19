@@ -4,7 +4,7 @@
         <title>김밥레코즈 ─ Vinyl</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 19 Feb 2024 09:10:37 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Feb 2024 10:11:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,14 +14,6 @@
             <pubDate>Mon, 19 Feb 2024 08:10:58 GMT</pubDate>
             <content:encoded><![CDATA[40,300원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202402/f6b45adbb3093fe939f79f42ef215f4e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Weldon Irvine / Mr Clean ​/​ Homey (Limited 7" Vinyl) *절판 레코드 특별전]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=24611&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=24611&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Mon, 19 Feb 2024 08:10:58 GMT</pubDate>
-            <content:encoded><![CDATA[24,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202402/fb603120090fa9131475516f54a09220.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Weldon Irvine / In Harmony (Vinyl + OBI) *예약상품 (3월 6일 이후 배송 예정)]]></title>
@@ -102,6 +94,14 @@
             <pubDate>Fri, 16 Feb 2024 16:09:44 GMT</pubDate>
             <content:encoded><![CDATA[51,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202402/2ebc8ca7639c05b19d02885aca20bfa1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Ryo Fukui / Mellow Dream (Limited Colored Vinyl) *예약상품 (6월 17일 이후 배송)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=24585&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=24585&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Mon, 19 Feb 2024 10:09:11 GMT</pubDate>
+            <content:encoded><![CDATA[49,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202402/3e1ffe7f50a89fb29f78006dfce86d11.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
