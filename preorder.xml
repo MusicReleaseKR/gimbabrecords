@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ Pre-Order</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 20 Feb 2024 16:11:36 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Feb 2024 17:08:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Hilton Felton / A Man For All Reasons (Vinyl) *예약상품 (3월 6일 이후 배송 예정)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=24588&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=24588&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Tue, 20 Feb 2024 17:07:37 GMT</pubDate>
+            <content:encoded><![CDATA[46,500원]]></content:encoded>
+            <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202402/4543145b9a4723e2576fd6c63acc885f.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[MGMT / Loss Of Life (Black Vinyl) *예약상품 (2월 29일 이후 배송 예정)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=24401&amp;cate_no=42&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Sat, 17 Feb 2024 06:10:06 GMT</pubDate>
             <content:encoded><![CDATA[46,500원]]></content:encoded>
             <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202402/633fdf3247681b624a0cce70a9043c70.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Hilton Felton / Family And Friends (Vinyl) *예약상품 (3월 6일 이후 배송 예정)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=24587&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=24587&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Sat, 17 Feb 2024 06:10:06 GMT</pubDate>
-            <content:encoded><![CDATA[46,500원]]></content:encoded>
-            <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202402/32d60a75707f08008298f9617a89873e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
