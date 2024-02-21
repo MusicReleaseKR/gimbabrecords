@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ Pre-Order</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 21 Feb 2024 01:42:40 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Feb 2024 02:16:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[wave to earth (웨이브투어스) / uncounted 0.00 (투명 블루 Vinyl, Limited Edition) *예약상품 (7월 19일 발매 예정, 3월 14일 주문 마감)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=24627&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=24627&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Wed, 21 Feb 2024 02:14:50 GMT</pubDate>
+            <content:encoded><![CDATA[59,400원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202402/555197dd040ec3d46af15255ea271fde.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[MGMT / Loss Of Life (Limited Blue Jay Opaque Colored Vinyl, 독립매장 한정반) *예약상품 (2월 29일 이후 배송 예정)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=24402&amp;cate_no=42&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Sat, 17 Feb 2024 06:10:06 GMT</pubDate>
             <content:encoded><![CDATA[46,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202402/71e1a48129e940a5ba7d98f8dfe5ba50.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Weldon Irvine / Weldon & The Kats (Vinyl + OBI) *예약상품 (3월 6일 이후 배송 예정)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=24602&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=24602&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Sat, 17 Feb 2024 06:10:06 GMT</pubDate>
-            <content:encoded><![CDATA[46,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202402/633fdf3247681b624a0cce70a9043c70.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
