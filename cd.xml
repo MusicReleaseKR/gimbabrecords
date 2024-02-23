@@ -4,9 +4,25 @@
         <title>김밥레코즈 ─ CD</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 23 Feb 2024 07:10:50 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Feb 2024 08:12:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Peter Gabriel / I/O (2CD, 6-panel digisleeve w/ booklet)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=24671&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=24671&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Fri, 23 Feb 2024 08:10:42 GMT</pubDate>
+            <content:encoded><![CDATA[30,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202402/891655f54cac34bdb466ba9c4beb241b.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Peter Gabriel / I/O (2CD + 1 Blu-ray Audio, 8-panel digisleeve w/ booklet)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=24670&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=24670&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Fri, 23 Feb 2024 08:10:42 GMT</pubDate>
+            <content:encoded><![CDATA[37,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202402/4a20799a25542eb9a1758793ac0f77ca.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Espen Eriksen Trio / Perfectly Unhappy (CD, Digipak)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=24653&amp;cate_no=24&amp;display_group=1</link>
@@ -86,22 +102,6 @@
             <pubDate>Mon, 19 Feb 2024 07:10:02 GMT</pubDate>
             <content:encoded><![CDATA[27,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202402/90e3217b18d9ebab784dc28a728e72b9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Ryokuoushoku Shakai 緑黄色社会 / Pink Blue (CD, JPN Import)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=24618&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=24618&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Mon, 19 Feb 2024 07:10:02 GMT</pubDate>
-            <content:encoded><![CDATA[37,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202402/d6a415646ebc261374a2b00ec47df845.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Ryokuoushoku Shakai 緑黄色社会 / Singalong (CD, JPN Import)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=24617&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=24617&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Mon, 19 Feb 2024 07:10:02 GMT</pubDate>
-            <content:encoded><![CDATA[37,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202402/d90821baba0a74b364c08151542c6737.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
