@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 23 Feb 2024 16:10:53 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Feb 2024 17:09:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -104,14 +104,6 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202402/38130c5771ad13e8fd4b722194fbe49e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Ennio Morricone & Dulce Pontes / Focus (Vinyl, 2LP) *유니버설 재즈 클래식 베스트셀러 할인 (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=24685&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=24685&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Fri, 23 Feb 2024 10:09:27 GMT</pubDate>
-            <content:encoded><![CDATA[69,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202402/b3a3854a028b098093af44e0d6017a24.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Ennio Morricone / 60 Years of Music (180g Vinyl, 2LP) *2023 블랙프라이데이 할인 (김밥레코즈 ─ Vinyl)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=24684&amp;cate_no=25&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=24684&amp;cate_no=25&amp;display_group=1</guid>
@@ -198,6 +190,14 @@
             <pubDate>Fri, 23 Feb 2024 09:07:57 GMT</pubDate>
             <content:encoded><![CDATA[41,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202103/7394416826a70563a58ca22905571b63.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[I Don't Know How But They Found Me / Razzmatazz (Indie Exclusive Cream Vinyl) *한정수량 할인 (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=24673&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=24673&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Fri, 23 Feb 2024 17:07:42 GMT</pubDate>
+            <content:encoded><![CDATA[38,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202402/a5325dd3cafa29c74b8dcd08759901f8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[세실리 렌즈 (Cecily Renns) / 모두 살아 (EVERYONE, LIVE) (Cassette) (김밥레코즈 ─ Cassette)]]></title>
@@ -488,14 +488,6 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202402/b338a8103ae8991a21138c80e3b046eb.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Ennio Morricone & Dulce Pontes / Focus (Vinyl, 2LP) *유니버설 재즈 클래식 베스트셀러 할인 (김밥레코즈 ─ Bargain Bin)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=24685&amp;cate_no=43&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=24685&amp;cate_no=43&amp;display_group=1</guid>
-            <pubDate>Fri, 23 Feb 2024 10:09:52 GMT</pubDate>
-            <content:encoded><![CDATA[69,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202402/b3a3854a028b098093af44e0d6017a24.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Ennio Morricone / 60 Years of Music (180g Vinyl, 2LP) *2023 블랙프라이데이 할인 (김밥레코즈 ─ Bargain Bin)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=24684&amp;cate_no=43&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=24684&amp;cate_no=43&amp;display_group=1</guid>
@@ -582,6 +574,14 @@
             <pubDate>Fri, 23 Feb 2024 10:09:52 GMT</pubDate>
             <content:encoded><![CDATA[41,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202103/7394416826a70563a58ca22905571b63.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Jimmy Smith / The Cat (Vinyl, Vital Vinyl Series) *유니버설 재즈 클래식 베스트셀러 할인 (김밥레코즈 ─ Bargain Bin)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=24658&amp;cate_no=43&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=24658&amp;cate_no=43&amp;display_group=1</guid>
+            <pubDate>Fri, 23 Feb 2024 17:08:05 GMT</pubDate>
+            <content:encoded><![CDATA[28,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202402/af06073b2c5c0cd50cf5dd710526aa6f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[김효은, 던말릭 / 49 (CD) (김밥레코즈 ─ CD ─ Korean)]]></title>
