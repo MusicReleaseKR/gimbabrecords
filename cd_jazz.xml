@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ CD ─ Jazz</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 27 Feb 2024 08:12:12 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Feb 2024 09:09:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Django Reinhardt / Djangology (CD, OJC Remasters) *한정수량 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=24704&amp;cate_no=46&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=24704&amp;cate_no=46&amp;display_group=1</guid>
+            <pubDate>Tue, 27 Feb 2024 09:08:53 GMT</pubDate>
+            <content:encoded><![CDATA[12,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202402/f7e5ae6e0ceef7e3e4a5096e8b21b83e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[OST (Eleni Karaindrou) / Eternity And A Day 영원과 하루 (CD)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=24689&amp;cate_no=46&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Mon, 19 Feb 2024 08:11:59 GMT</pubDate>
             <content:encoded><![CDATA[18,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/201602/3062_shop1_509377.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Pedro Martins / Radio Misterio (CD, JPN Import)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=24620&amp;cate_no=46&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=24620&amp;cate_no=46&amp;display_group=1</guid>
-            <pubDate>Mon, 19 Feb 2024 07:11:07 GMT</pubDate>
-            <content:encoded><![CDATA[29,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202402/1e4b7838f54788f2e5895a83551a8a92.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
