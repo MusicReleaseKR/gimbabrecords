@@ -4,9 +4,33 @@
         <title>김밥레코즈 ─ Pre-Order</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 27 Feb 2024 13:10:48 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Feb 2024 14:10:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Rashinban 나침반 / Rago (Vinyl) *예약상품 (6월말 배송 예정)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=24720&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=24720&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Tue, 27 Feb 2024 14:08:20 GMT</pubDate>
+            <content:encoded><![CDATA[46,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202402/2370728167d542dc9101e997f22b52e8.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Rashinban 나침반 / Seika (Vinyl) *예약상품 (6월말 배송 예정)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=24721&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=24721&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Tue, 27 Feb 2024 14:08:20 GMT</pubDate>
+            <content:encoded><![CDATA[46,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202402/a88316e47e005a38c68a69ed1f485fde.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Tsuki No Wa / Ninth Elegy (Vinyl) *예약상품 (5월초 배송 예정)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=24719&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=24719&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Tue, 27 Feb 2024 14:08:20 GMT</pubDate>
+            <content:encoded><![CDATA[45,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202402/d332d8a7859a7e31927db072dfffe6a0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[POiSON GiRL FRiEND / Melting Moment (Vinyl) *예약상품 (4월말 발송 예정)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=24718&amp;cate_no=42&amp;display_group=1</link>
@@ -78,30 +102,6 @@
             <pubDate>Wed, 21 Feb 2024 15:08:51 GMT</pubDate>
             <content:encoded><![CDATA[49,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202402/62b45f4a1cd2296115dff6739c7d3a4e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[OST (이재진) / 서울의 봄 Original Soundtrack (Vinyl, 2LP, Limited Edition) *예약상품 (3월 8일 발매 예정)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=23692&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=23692&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Thu, 22 Feb 2024 07:08:29 GMT</pubDate>
-            <content:encoded><![CDATA[64,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202401/c394fb6d7ef9bcac04d29c6d0eed4199.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Ryo Fukui / Mellow Dream (Limited Colored Vinyl) *예약상품 (6월 17일 이후 배송)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=24585&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=24585&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Wed, 21 Feb 2024 16:10:52 GMT</pubDate>
-            <content:encoded><![CDATA[49,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202402/3e1ffe7f50a89fb29f78006dfce86d11.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Weldon Irvine / In Harmony (Vinyl + OBI) *예약상품 (3월 6일 이후 배송 예정)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=24604&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=24604&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Thu, 22 Feb 2024 04:09:33 GMT</pubDate>
-            <content:encoded><![CDATA[46,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202402/71e1a48129e940a5ba7d98f8dfe5ba50.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

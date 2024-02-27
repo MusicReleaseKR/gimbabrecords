@@ -4,9 +4,33 @@
         <title>김밥레코즈 ─ Vinyl</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 27 Feb 2024 13:10:48 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Feb 2024 14:10:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Rashinban 나침반 / Seika (Vinyl) *예약상품 (6월말 배송 예정)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=24721&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=24721&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Tue, 27 Feb 2024 14:08:01 GMT</pubDate>
+            <content:encoded><![CDATA[46,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202402/a88316e47e005a38c68a69ed1f485fde.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Rashinban 나침반 / Rago (Vinyl) *예약상품 (6월말 배송 예정)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=24720&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=24720&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Tue, 27 Feb 2024 14:08:01 GMT</pubDate>
+            <content:encoded><![CDATA[46,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202402/2370728167d542dc9101e997f22b52e8.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Tsuki No Wa / Ninth Elegy (Vinyl) *예약상품 (5월초 배송 예정)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=24719&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=24719&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Tue, 27 Feb 2024 14:08:01 GMT</pubDate>
+            <content:encoded><![CDATA[45,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202402/d332d8a7859a7e31927db072dfffe6a0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[POiSON GiRL FRiEND / Melting Moment (Vinyl) *예약상품 (4월말 발송 예정)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=24718&amp;cate_no=25&amp;display_group=1</link>
@@ -78,30 +102,6 @@
             <pubDate>Fri, 23 Feb 2024 09:07:57 GMT</pubDate>
             <content:encoded><![CDATA[27,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202402/5f4de47885f288b63fbc1fad1aa701c2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[La Roux / Trouble In Paradise (Vinyl) *2023 블랙프라이데이 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=24675&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=24675&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Fri, 23 Feb 2024 09:07:57 GMT</pubDate>
-            <content:encoded><![CDATA[35,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202402/020e018d2e9294b7a7fac5992e741d46.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[The Pop Group / Y (Vinyl, 2LP) *2023 블랙프라이데이 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=24674&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=24674&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Fri, 23 Feb 2024 09:07:57 GMT</pubDate>
-            <content:encoded><![CDATA[41,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202103/7394416826a70563a58ca22905571b63.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[I Don't Know How But They Found Me / Razzmatazz (Indie Exclusive Cream Vinyl) *한정수량 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=24673&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=24673&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Fri, 23 Feb 2024 17:07:42 GMT</pubDate>
-            <content:encoded><![CDATA[38,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202402/a5325dd3cafa29c74b8dcd08759901f8.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
