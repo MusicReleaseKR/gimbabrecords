@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ Vinyl</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 27 Feb 2024 14:10:12 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Feb 2024 15:10:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Som Imaginário (Som Imaginario) / Banda Da Capital]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=24722&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=24722&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Tue, 27 Feb 2024 15:08:25 GMT</pubDate>
+            <content:encoded><![CDATA[35,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202402/9b39f5f07f9873b8fae49b0ca57c59a3.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Rashinban 나침반 / Seika (Vinyl) *예약상품 (6월말 배송 예정)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=24721&amp;cate_no=25&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Fri, 23 Feb 2024 09:07:57 GMT</pubDate>
             <content:encoded><![CDATA[26,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202402/42504fb1220affe552ae94031c921a34.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[O.M.D (Orchestral Manoeuvres In The Dark) / Architecture & Morality (Vinyl, Abbey Road Half Speed Mastering) *2023 블랙프라이데이 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=24676&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=24676&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Fri, 23 Feb 2024 09:07:57 GMT</pubDate>
-            <content:encoded><![CDATA[27,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202402/5f4de47885f288b63fbc1fad1aa701c2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
