@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ Vinyl ─ Korean</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 28 Feb 2024 10:11:10 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Feb 2024 11:09:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[전기뱀장어 / 최고의 연애 (Cream Colored Vinyl, 2LP) *예약상품 (3월 27일 발매, 3월 11일 주문 마감)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=24727&amp;cate_no=52&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=24727&amp;cate_no=52&amp;display_group=1</guid>
+            <pubDate>Wed, 28 Feb 2024 11:09:04 GMT</pubDate>
+            <content:encoded><![CDATA[64,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202402/c43040112008ccf73c3b89e1d965e117.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[장현 And The Men / 석양 / 아름다운 강산 (180g Vinyl)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=24665&amp;cate_no=52&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Tue, 06 Feb 2024 14:09:15 GMT</pubDate>
             <content:encoded><![CDATA[46,800원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202401/df4382e3f85a945d9c3b476dca53207b.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[산울림 / 10집 너의 의미 (180g Black Vinyl, 2,000장 넘버링 한정반) *예약상품 (3월 14일 발매 예정) / 1인 2매까지 구매 가능 / 별도의 입금기한 설정]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=23693&amp;cate_no=52&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=23693&amp;cate_no=52&amp;display_group=1</guid>
-            <pubDate>Sat, 24 Feb 2024 07:09:35 GMT</pubDate>
-            <content:encoded><![CDATA[46,800원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202401/10b6ca224c725530707092507229eec2.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
