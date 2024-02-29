@@ -4,9 +4,57 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 29 Feb 2024 09:11:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 29 Feb 2024 10:10:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Charles Mingus / Presents Charles Mingus (Remastered CD) (김밥레코즈 ─ CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=24738&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=24738&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Thu, 29 Feb 2024 10:08:08 GMT</pubDate>
+            <content:encoded><![CDATA[21,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202402/6fd2d1310fe4329978d0759734c6e17b.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[John Zorn / Homenaje A Remedios Varo (CD, Digipak) (김밥레코즈 ─ CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=24737&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=24737&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Thu, 29 Feb 2024 10:08:08 GMT</pubDate>
+            <content:encoded><![CDATA[29,700원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202402/fd7d13ec71d47864431468fed90e3e56.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Terri Lyne Carrington / New Standards Vol. 1 (CD) (김밥레코즈 ─ CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=24736&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=24736&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Thu, 29 Feb 2024 10:08:08 GMT</pubDate>
+            <content:encoded><![CDATA[21,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202302/8e8e7483b9c79c610266ebf65856ec18.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Jill Barber / Chansons (CD, Digipak) (김밥레코즈 ─ CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=24735&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=24735&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Thu, 29 Feb 2024 10:08:08 GMT</pubDate>
+            <content:encoded><![CDATA[20,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/20200116/731729622a3542296c185220be65fafd.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Stacey Kent / Let Yourself Go: A Tribute To Fred Astaire (CD) (김밥레코즈 ─ CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=24734&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=24734&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Thu, 29 Feb 2024 10:08:08 GMT</pubDate>
+            <content:encoded><![CDATA[21,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202401/600f19aa94bec43f021ae3504ec7d0f9.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Kristjan Jarvi / Max Richter: Exiles 막스 리히터: 생귈리에르 오디세이를 위한 음악 (CD) *유니버설 재즈 클래식 베스트셀러 할인 (김밥레코즈 ─ CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=24733&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=24733&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Thu, 29 Feb 2024 10:08:08 GMT</pubDate>
+            <content:encoded><![CDATA[16,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202402/5af359130d199d57436e327318c93d3e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[조성진 / Chopin: Piano Concerto Op.21, Scherzos 쇼팽: 피아노 협주곡 2번, 스케르초 (Deluxe CD, Hard Cover) *유니버설 재즈 클래식 베스트셀러 할인 (김밥레코즈 ─ CD)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=24732&amp;cate_no=24&amp;display_group=1</link>
@@ -56,52 +104,20 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202402/623ac45d863ec38893e6bd0e2fa30a7d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[slowthai / Tyron (CD) *한정수량 할인 (김밥레코즈 ─ CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=24716&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=24716&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Tue, 27 Feb 2024 10:09:24 GMT</pubDate>
-            <content:encoded><![CDATA[17,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202402/e523c199e79b31ac1e6a9b7772846dcf.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[Charles Mingus / Mingus (Remastered 180g Vinyl, Stereo) (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=24740&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=24740&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Thu, 29 Feb 2024 10:08:14 GMT</pubDate>
+            <content:encoded><![CDATA[38,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202301/c03532c7ce977b1f319050defde6accf.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Vince Staples / Vince Staples (CD) *2023 블랙프라이데이 할인 (김밥레코즈 ─ CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=24715&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=24715&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Tue, 27 Feb 2024 10:09:24 GMT</pubDate>
-            <content:encoded><![CDATA[15,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/6a9a5a2c9f57fa45b11cb7e073dfc4ce.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Lukas Graham / Lukas Graham (CD) *2023 블랙프라이데이 할인 (김밥레코즈 ─ CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=24714&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=24714&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Tue, 27 Feb 2024 10:09:24 GMT</pubDate>
-            <content:encoded><![CDATA[17,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/201607/4651_shop1_557146.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sigrid / How To Let Go (2CD, Deluxe Edition) *2023 블랙프라이데이 할인 (김밥레코즈 ─ CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=24713&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=24713&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Tue, 27 Feb 2024 10:09:24 GMT</pubDate>
-            <content:encoded><![CDATA[18,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202312/afa1038f9f60fb3749c6a30682d73850.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Susanne Sundfor (Susanne Sundfør) / Blomi (Blómi) (CD) *2023 블랙프라이데이 할인 (김밥레코즈 ─ CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=24712&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=24712&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Tue, 27 Feb 2024 10:09:24 GMT</pubDate>
-            <content:encoded><![CDATA[15,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202305/4cf75830a88c10cd4fecced59821267b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[OST (Alexandre Desplat) / The French Dispatch 프렌치 디스패치 (CD) *2023 블랙프라이데이 할인 (김밥레코즈 ─ CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=24711&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=24711&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Tue, 27 Feb 2024 10:09:24 GMT</pubDate>
-            <content:encoded><![CDATA[15,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202402/98bd5a50db2d513a51df688c644671f3.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[Charles Mingus / Presents Charles Mingus (Remastered 180g Vinyl, Stereo) (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=24739&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=24739&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Thu, 29 Feb 2024 10:08:14 GMT</pubDate>
+            <content:encoded><![CDATA[38,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202402/6fd2d1310fe4329978d0759734c6e17b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[전기뱀장어 / 최고의 연애 (Cream Colored Vinyl, 2LP) *예약상품 (3월 27일 발매, 3월 11일 주문 마감) (김밥레코즈 ─ Vinyl)]]></title>
@@ -182,22 +198,6 @@
             <pubDate>Tue, 27 Feb 2024 12:13:21 GMT</pubDate>
             <content:encoded><![CDATA[68,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202402/49b02b96c5e4daccfbb691b72cdfe797.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Roxy Music / Stranded (Remastered CD) *한정수량 할인 (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=24693&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=24693&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Tue, 27 Feb 2024 09:07:51 GMT</pubDate>
-            <content:encoded><![CDATA[15,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202205/e43d53363681fe51888e1ef772f43a5d.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[The Hives / Tyrannosaurus Hives (White Vinyl) *2023 블랙프라이데이 할인 (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=24683&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=24683&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Fri, 23 Feb 2024 10:09:27 GMT</pubDate>
-            <content:encoded><![CDATA[32,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202402/7c1ca67309fb240fca61102143c3e34d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[세실리 렌즈 (Cecily Renns) / 모두 살아 (EVERYONE, LIVE) (Cassette) (김밥레코즈 ─ Cassette)]]></title>
@@ -488,6 +488,14 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202402/072c73d357094ef2fb435d649a052024.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
+            <title><![CDATA[Kristjan Jarvi / Max Richter: Exiles 막스 리히터: 생귈리에르 오디세이를 위한 음악 (CD) *유니버설 재즈 클래식 베스트셀러 할인 (김밥레코즈 ─ Bargain Bin)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=24733&amp;cate_no=43&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=24733&amp;cate_no=43&amp;display_group=1</guid>
+            <pubDate>Thu, 29 Feb 2024 10:08:38 GMT</pubDate>
+            <content:encoded><![CDATA[16,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202402/5af359130d199d57436e327318c93d3e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[조성진 / Chopin: Piano Concerto Op.21, Scherzos 쇼팽: 피아노 협주곡 2번, 스케르초 (Deluxe CD, Hard Cover) *유니버설 재즈 클래식 베스트셀러 할인 (김밥레코즈 ─ Bargain Bin)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=24732&amp;cate_no=43&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=24732&amp;cate_no=43&amp;display_group=1</guid>
@@ -574,14 +582,6 @@
             <pubDate>Fri, 23 Feb 2024 10:09:52 GMT</pubDate>
             <content:encoded><![CDATA[27,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202402/5f4de47885f288b63fbc1fad1aa701c2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[La Roux / Trouble In Paradise (Vinyl) *2023 블랙프라이데이 할인 (김밥레코즈 ─ Bargain Bin)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=24675&amp;cate_no=43&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=24675&amp;cate_no=43&amp;display_group=1</guid>
-            <pubDate>Fri, 23 Feb 2024 10:09:52 GMT</pubDate>
-            <content:encoded><![CDATA[35,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202402/020e018d2e9294b7a7fac5992e741d46.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[보이콜드 / EP Sick of Love (CD + 가사집 + 스티커 3종 + 북마크) (김밥레코즈 ─ CD ─ Korean)]]></title>
@@ -680,6 +680,14 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202401/056dc4ef896629b9d04369c27f2d1b48.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Jill Barber / Chansons (CD, Digipak) (김밥레코즈 ─ CD ─ Pop/Rock)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=24735&amp;cate_no=30&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=24735&amp;cate_no=30&amp;display_group=1</guid>
+            <pubDate>Thu, 29 Feb 2024 10:08:50 GMT</pubDate>
+            <content:encoded><![CDATA[20,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/20200116/731729622a3542296c185220be65fafd.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
             <title><![CDATA[Lukas Graham / Lukas Graham (CD) *2023 블랙프라이데이 할인 (김밥레코즈 ─ CD ─ Pop/Rock)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=24714&amp;cate_no=30&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=24714&amp;cate_no=30&amp;display_group=1</guid>
@@ -766,14 +774,6 @@
             <pubDate>Tue, 27 Feb 2024 09:08:29 GMT</pubDate>
             <content:encoded><![CDATA[15,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/201903/01ed8445237d0d0716040bb599a37d04.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Camel / Rain Dances (CD + Bonus tracks) *한정수량 할인 (김밥레코즈 ─ CD ─ Pop/Rock)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=24694&amp;cate_no=30&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=24694&amp;cate_no=30&amp;display_group=1</guid>
-            <pubDate>Tue, 27 Feb 2024 09:08:29 GMT</pubDate>
-            <content:encoded><![CDATA[15,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202401/6aff9061cf27516e142300cb927ae4e3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Peter Gabriel / Peter Gabriel 2 (Remastered CD) (김밥레코즈 ─ CD ─ Electronic/Dance)]]></title>
@@ -1064,6 +1064,46 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202311/0d0b78829cd1f531307c533048788f73.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Charles Mingus / Presents Charles Mingus (Remastered CD) (김밥레코즈 ─ CD ─ Jazz)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=24738&amp;cate_no=46&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=24738&amp;cate_no=46&amp;display_group=1</guid>
+            <pubDate>Thu, 29 Feb 2024 10:09:13 GMT</pubDate>
+            <content:encoded><![CDATA[21,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202402/6fd2d1310fe4329978d0759734c6e17b.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[John Zorn / Homenaje A Remedios Varo (CD, Digipak) (김밥레코즈 ─ CD ─ Jazz)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=24737&amp;cate_no=46&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=24737&amp;cate_no=46&amp;display_group=1</guid>
+            <pubDate>Thu, 29 Feb 2024 10:09:13 GMT</pubDate>
+            <content:encoded><![CDATA[29,700원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202402/fd7d13ec71d47864431468fed90e3e56.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Terri Lyne Carrington / New Standards Vol. 1 (CD) (김밥레코즈 ─ CD ─ Jazz)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=24736&amp;cate_no=46&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=24736&amp;cate_no=46&amp;display_group=1</guid>
+            <pubDate>Thu, 29 Feb 2024 10:09:13 GMT</pubDate>
+            <content:encoded><![CDATA[21,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202302/8e8e7483b9c79c610266ebf65856ec18.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Jill Barber / Chansons (CD, Digipak) (김밥레코즈 ─ CD ─ Jazz)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=24735&amp;cate_no=46&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=24735&amp;cate_no=46&amp;display_group=1</guid>
+            <pubDate>Thu, 29 Feb 2024 10:09:13 GMT</pubDate>
+            <content:encoded><![CDATA[20,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/20200116/731729622a3542296c185220be65fafd.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Stacey Kent / Let Yourself Go: A Tribute To Fred Astaire (CD) (김밥레코즈 ─ CD ─ Jazz)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=24734&amp;cate_no=46&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=24734&amp;cate_no=46&amp;display_group=1</guid>
+            <pubDate>Thu, 29 Feb 2024 10:09:13 GMT</pubDate>
+            <content:encoded><![CDATA[21,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202401/600f19aa94bec43f021ae3504ec7d0f9.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Jamie Cullum / Twentysomething (CD, Special Edition) *한정수량 할인 (김밥레코즈 ─ CD ─ Jazz)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=24710&amp;cate_no=46&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=24710&amp;cate_no=46&amp;display_group=1</guid>
@@ -1118,46 +1158,6 @@
             <pubDate>Fri, 23 Feb 2024 10:10:30 GMT</pubDate>
             <content:encoded><![CDATA[21,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202402/bf2a6d3d3a7e6992fd2c5ac83038556a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Dino Saluzzi / Cite De La Musique (CD) (김밥레코즈 ─ CD ─ Jazz)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=24688&amp;cate_no=46&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=24688&amp;cate_no=46&amp;display_group=1</guid>
-            <pubDate>Fri, 23 Feb 2024 10:10:30 GMT</pubDate>
-            <content:encoded><![CDATA[21,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202402/9bb31c07163e65d78a38fa7f52ab5c95.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Dino Saluzzi / Albores (CD) (김밥레코즈 ─ CD ─ Jazz)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=24687&amp;cate_no=46&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=24687&amp;cate_no=46&amp;display_group=1</guid>
-            <pubDate>Fri, 23 Feb 2024 10:10:30 GMT</pubDate>
-            <content:encoded><![CDATA[21,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202402/2e7d690a55e3562309848b00c7173da6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Keith Jarrett / My Song (CD, EU Import) (김밥레코즈 ─ CD ─ Jazz)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=24686&amp;cate_no=46&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=24686&amp;cate_no=46&amp;display_group=1</guid>
-            <pubDate>Fri, 23 Feb 2024 10:10:30 GMT</pubDate>
-            <content:encoded><![CDATA[21,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202207/c68801b21fd6f6d100833da3213647f2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Espen Eriksen Trio / Perfectly Unhappy (CD, Digipak) (김밥레코즈 ─ CD ─ Jazz)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=24653&amp;cate_no=46&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=24653&amp;cate_no=46&amp;display_group=1</guid>
-            <pubDate>Thu, 22 Feb 2024 09:10:15 GMT</pubDate>
-            <content:encoded><![CDATA[24,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/201805/10960_shop1_15269950820542.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Espen Eriksen Trio With Andy Sheppard / As Good As It Gets (CD, Digipak) (김밥레코즈 ─ CD ─ Jazz)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=24652&amp;cate_no=46&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=24652&amp;cate_no=46&amp;display_group=1</guid>
-            <pubDate>Thu, 22 Feb 2024 09:10:15 GMT</pubDate>
-            <content:encoded><![CDATA[24,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202312/695f46b465ce759cbce2e227958c2a44.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[The Lions / Soul Riot (CD) (김밥레코즈 ─ CD ─ Reggae)]]></title>
@@ -1448,12 +1448,12 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202301/372a35539c889aacead60d7e918aadb3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Claudio Abbado / Bruckner: Symphony No. 9 in D Minor 브루크너: 교향곡 9번 (CD) *유니버설 재즈 클래식 베스트셀러 할인 (김밥레코즈 ─ CD ─ Classical/Crossover)]]></title>
+            <title><![CDATA[Kristjan Jarvi / Max Richter: Exiles 막스 리히터: 생귈리에르 오디세이를 위한 음악 (CD) *유니버설 재즈 클래식 베스트셀러 할인 (김밥레코즈 ─ CD ─ Classical/Crossover)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=24733&amp;cate_no=50&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=24733&amp;cate_no=50&amp;display_group=1</guid>
             <pubDate>Thu, 29 Feb 2024 09:10:47 GMT</pubDate>
             <content:encoded><![CDATA[16,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202402/6aadcc365f49da87cff652ff5e5b8f73.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202402/5af359130d199d57436e327318c93d3e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[조성진 / Chopin: Piano Concerto Op.21, Scherzos 쇼팽: 피아노 협주곡 2번, 스케르초 (Deluxe CD, Hard Cover) *유니버설 재즈 클래식 베스트셀러 할인 (김밥레코즈 ─ CD ─ Classical/Crossover)]]></title>
