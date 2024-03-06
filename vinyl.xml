@@ -4,9 +4,33 @@
         <title>김밥레코즈 ─ Vinyl</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Mar 2024 10:10:29 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Mar 2024 11:08:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[권진아 / 우리의 방식 (180g White Vinyl) *예약상품 (5월 13일 발매, 3월 13일까지 결제가 완료 시 2,500원 추가 적립) / 1인 2매까지 구매 가능]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=24773&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=24773&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Wed, 06 Mar 2024 11:07:29 GMT</pubDate>
+            <content:encoded><![CDATA[49,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202403/e7784010982755121920eb250235df62.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Shigeo Sekito / Special Sound Series Vol. 3 華麗なるエレクトーン (ザ・ワード) (Vinyl, Reissue)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=24772&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=24772&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Wed, 06 Mar 2024 11:07:29 GMT</pubDate>
+            <content:encoded><![CDATA[51,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202403/2c0cdadffc615bed4bf689c27efc9aee.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Shigeo Sekito / Special Sound Series Vol. 1 華麗なるエレクトーン (ザ・ワード) (Vinyl, Reissue) *할인상품 (쟈켓 모서리에 작은 눌림이 있습니다.)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=24771&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=24771&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Wed, 06 Mar 2024 11:07:29 GMT</pubDate>
+            <content:encoded><![CDATA[50,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202403/0f7a66cd8296c1a8521af281b169ac44.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Novo Amor & Ed Tullett / Heiress (Vinyl, 2LP)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=24770&amp;cate_no=25&amp;display_group=1</link>
@@ -78,30 +102,6 @@
             <pubDate>Wed, 06 Mar 2024 08:11:54 GMT</pubDate>
             <content:encoded><![CDATA[39,900원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202403/917114c8174d8e8ae0182749c01ffca8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Pia Fraus / Evening Colours (Vinyl+ OBI, Limited Edition, JPN Import)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=24761&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=24761&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Wed, 06 Mar 2024 07:07:54 GMT</pubDate>
-            <content:encoded><![CDATA[48,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202403/4bf829ab8b36c03b9b1dd2ab413cd059.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Happy End / Kazemachi Roman (風街ろまん) (Clear Vinyl, Limited Edition)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=24760&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=24760&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Tue, 05 Mar 2024 10:09:12 GMT</pubDate>
-            <content:encoded><![CDATA[45,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/201803/10301_shop1_616643.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Dina Ogon / Oas (Black Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=24759&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=24759&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Tue, 05 Mar 2024 10:09:12 GMT</pubDate>
-            <content:encoded><![CDATA[48,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202403/a1f01a6e59447bbc43c63121e22888a7.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
