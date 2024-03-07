@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Mar 2024 09:08:49 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Mar 2024 10:10:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -680,6 +680,14 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202401/5197aa62d3a86934605e739226d23eba.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Novo Amor / Birthplace (CD) (김밥레코즈 ─ CD ─ Pop/Rock)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=24782&amp;cate_no=30&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=24782&amp;cate_no=30&amp;display_group=1</guid>
+            <pubDate>Thu, 07 Mar 2024 10:09:21 GMT</pubDate>
+            <content:encoded><![CDATA[24,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202403/30eeab4f6d75d3a33420123f05be7199.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Fever Ray / Radical Romantics (CD) *한정수량 할인 (김밥레코즈 ─ CD ─ Pop/Rock)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=24781&amp;cate_no=30&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=24781&amp;cate_no=30&amp;display_group=1</guid>
@@ -766,14 +774,6 @@
             <pubDate>Tue, 27 Feb 2024 09:08:29 GMT</pubDate>
             <content:encoded><![CDATA[15,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202402/b712cb71d6eada332af46859eec77140.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Gorillaz / The Singles Collection 2001-2011 (CD) *한정수량 할인 (김밥레코즈 ─ CD ─ Pop/Rock)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=24697&amp;cate_no=30&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=24697&amp;cate_no=30&amp;display_group=1</guid>
-            <pubDate>Tue, 27 Feb 2024 09:08:29 GMT</pubDate>
-            <content:encoded><![CDATA[15,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202402/d42bcff6980071f9be5a4643b3df8586.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Fever Ray / Radical Romantics (CD) *한정수량 할인 (김밥레코즈 ─ CD ─ Electronic/Dance)]]></title>
