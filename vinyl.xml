@@ -4,9 +4,33 @@
         <title>김밥레코즈 ─ Vinyl</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Mar 2024 06:12:56 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Mar 2024 07:09:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Tigran Hamasyan / A Fable (Vinyl, 2LP) *유니버설 재즈 클래식 베스트셀러 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=24780&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=24780&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Thu, 07 Mar 2024 07:07:33 GMT</pubDate>
+            <content:encoded><![CDATA[39,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202403/79291792b77918fc702b7be10c8134ae.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Art Blakey & Jazz Messengers / Reflections In Blue (180g Translucent Blue Vinyl, Limited Numbered Edition) *2023 블랙프라이데이 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=24779&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=24779&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Thu, 07 Mar 2024 07:07:33 GMT</pubDate>
+            <content:encoded><![CDATA[28,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202403/f3a07e21688dd2e46ce62a9ab546f338.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Julio Iglesias / His Ultimate Collection (Limited Orange Vinyl) *한정수량 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=24778&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=24778&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Thu, 07 Mar 2024 07:07:33 GMT</pubDate>
+            <content:encoded><![CDATA[24,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202403/906892512fb18e78f53b1aa084dd0b1a.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Elvis Costello / Spike (180g Black Vinyl, 2LP) *2023 블랙프라이데이 할인]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=24777&amp;cate_no=25&amp;display_group=1</link>
@@ -78,30 +102,6 @@
             <pubDate>Wed, 06 Mar 2024 08:11:54 GMT</pubDate>
             <content:encoded><![CDATA[42,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202403/872508270ae3cdda74f2106e4c26ec02.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Novo Amor / Birthplace (Recycled Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=24768&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=24768&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Wed, 06 Mar 2024 08:11:54 GMT</pubDate>
-            <content:encoded><![CDATA[42,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202403/30eeab4f6d75d3a33420123f05be7199.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Maria Rita / Brasileira (Vinyl, Gatefold, Mr. Bongo Reissue)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=24767&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=24767&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Wed, 06 Mar 2024 08:11:54 GMT</pubDate>
-            <content:encoded><![CDATA[39,900원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202403/5c8547c626ac5a0e50b03591be148d55.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Brittany Howard / What Now (Vinyl, Gatefold)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=24765&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=24765&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Wed, 06 Mar 2024 08:11:54 GMT</pubDate>
-            <content:encoded><![CDATA[47,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202403/c083325d445d87809c060615079b95cb.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
