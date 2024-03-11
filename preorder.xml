@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ Pre-Order</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Mar 2024 14:09:17 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Mar 2024 15:10:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Alvvays / Alvvays (Black Vinyl + Download, UK / EU Import) *2023 블랙프라이데이 할인 / 예약상품 (3월 13일 이후 배송 예정)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22541&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22541&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Mon, 11 Mar 2024 15:09:15 GMT</pubDate>
+            <content:encoded><![CDATA[28,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/201602/2723_shop1_968546.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Alvvays / Antisocialites (BLACK Vinyl + Download, UK / EU Import) *2023 블랙프라이데이 할인 / 예약상품 (3월 13일 이후 배송 예정)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=22542&amp;cate_no=42&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Fri, 01 Mar 2024 15:09:33 GMT</pubDate>
             <content:encoded><![CDATA[45,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202403/97ee41360349e8375a4f059b127d98d7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[POiSON GiRL FRiEND / Melting Moment (Vinyl) *예약상품 (4월말 발송 예정)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=24718&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=24718&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Tue, 27 Feb 2024 13:09:28 GMT</pubDate>
-            <content:encoded><![CDATA[43,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202402/d3e2fc9669364083f0c55535a56a842a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
