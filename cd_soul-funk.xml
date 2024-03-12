@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ CD ─ R&amp;B/Soul/Funk</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Mar 2024 09:11:34 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Mar 2024 10:10:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Vulfpeck / Mr. Finish Line (CD, Japanese Pressing + 보너스 트랙)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=24837&amp;cate_no=44&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=24837&amp;cate_no=44&amp;display_group=1</guid>
+            <pubDate>Tue, 12 Mar 2024 10:09:18 GMT</pubDate>
+            <content:encoded><![CDATA[32,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202403/853780a40b3909b277692b705041d9d0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Asha Puthli / The Essential Asha Puthli (CD, UK Import)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=24822&amp;cate_no=44&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Fri, 26 Jan 2024 09:09:44 GMT</pubDate>
             <content:encoded><![CDATA[27,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202401/40b410c2dff75090f8f671ece2fbbbe9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Puma Blue / In Praise Of Shadows (CD) *2023 블랙프라이데이 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=23912&amp;cate_no=44&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=23912&amp;cate_no=44&amp;display_group=1</guid>
-            <pubDate>Fri, 26 Jan 2024 09:09:44 GMT</pubDate>
-            <content:encoded><![CDATA[14,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202307/858c7a0b186bfe91634553f2daa1f54c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
