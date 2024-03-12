@@ -4,9 +4,25 @@
         <title>김밥레코즈 ─ CD ─ R&amp;B/Soul/Funk</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Mar 2024 06:12:04 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Mar 2024 07:09:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Asha Puthli / The Essential Asha Puthli (CD, UK Import)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=24822&amp;cate_no=44&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=24822&amp;cate_no=44&amp;display_group=1</guid>
+            <pubDate>Tue, 12 Mar 2024 07:08:53 GMT</pubDate>
+            <content:encoded><![CDATA[25,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202401/beb7ce32eed4d14fe6ad5af103c8bad9.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[O'Donel Levy / Simba (CD, EU Import)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=24821&amp;cate_no=44&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=24821&amp;cate_no=44&amp;display_group=1</guid>
+            <pubDate>Tue, 12 Mar 2024 07:08:53 GMT</pubDate>
+            <content:encoded><![CDATA[26,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202403/04dbcac4d5b5016643402cbcfd4407c1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[The Stylistics / Very Best Of Stylistics (CD) *한정수량 할인]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=24705&amp;cate_no=44&amp;display_group=1</link>
@@ -86,22 +102,6 @@
             <pubDate>Fri, 26 Jan 2024 08:11:03 GMT</pubDate>
             <content:encoded><![CDATA[14,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/20200517/2f592238773f660544917bec989d110f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Arlo Parks / My Soft Machine (CD, Gatefold Sleeve) *2023 블랙프라이데이 할]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=23876&amp;cate_no=44&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=23876&amp;cate_no=44&amp;display_group=1</guid>
-            <pubDate>Fri, 26 Jan 2024 08:11:03 GMT</pubDate>
-            <content:encoded><![CDATA[14,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202401/e107bdd4f34c66a43c43c5bd79efd43a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Arlo Parks / Collapsed In Sunbeams (CD, Gatefold Sleeve) *2023 블랙프라이데이 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=23875&amp;cate_no=44&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=23875&amp;cate_no=44&amp;display_group=1</guid>
-            <pubDate>Fri, 26 Jan 2024 08:11:03 GMT</pubDate>
-            <content:encoded><![CDATA[14,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202401/1dbacf8d4de518ceb597f0ca0ffba06d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
