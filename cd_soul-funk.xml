@@ -4,7 +4,7 @@
         <title>김밥레코즈 ─ CD ─ R&amp;B/Soul/Funk</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Mar 2024 14:10:07 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Mar 2024 15:09:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -88,20 +88,20 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202402/e738c5ae0c881734daf3fddae0b390ee.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Vulfpeck / The Beautiful Game (CD, Japanese Pressing + 보너스 트랙)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=24300&amp;cate_no=44&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=24300&amp;cate_no=44&amp;display_group=1</guid>
-            <pubDate>Tue, 12 Mar 2024 09:10:33 GMT</pubDate>
-            <content:encoded><![CDATA[32,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202402/06090160ad3c71391de0838d48652b9c.png" length="0" type="image/png"/>
+            <title><![CDATA[Skinshape / Life & Love (CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=24370&amp;cate_no=44&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=24370&amp;cate_no=44&amp;display_group=1</guid>
+            <pubDate>Tue, 12 Mar 2024 15:08:52 GMT</pubDate>
+            <content:encoded><![CDATA[22,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202402/8078c7801f1b7c164a873be98ec4766d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Vulfpeck / Thrill Of The Arts (CD, Japanese Pressing)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=24299&amp;cate_no=44&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=24299&amp;cate_no=44&amp;display_group=1</guid>
-            <pubDate>Tue, 12 Mar 2024 09:10:33 GMT</pubDate>
-            <content:encoded><![CDATA[32,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202402/a3ae42ef6794eb3a7749c23481d55518.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[Snoh Aalegra / Temporary Highs In The Violet (CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=24363&amp;cate_no=44&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=24363&amp;cate_no=44&amp;display_group=1</guid>
+            <pubDate>Tue, 12 Mar 2024 15:08:52 GMT</pubDate>
+            <content:encoded><![CDATA[21,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202402/e41d08e5d8b7d0cd2347ae7b26a745f6.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
