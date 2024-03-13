@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ Pre-Order</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Mar 2024 14:09:52 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Mar 2024 15:11:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Bobby Caldwell / Bobby Caldwell (Vinyl, 2023 Remastered Reissue) *예약상품 (3월 22일 이후 배송 예정)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22506&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22506&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Wed, 13 Mar 2024 15:10:28 GMT</pubDate>
+            <content:encoded><![CDATA[42,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202307/f5154886df1ce6e026d1d28cbadbc1c1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Hakushi Hasegawa / Somoku Hodo (Limited Edition Translucent Green Vinyl) *예약상품 (3월말 배송 예정)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=24844&amp;cate_no=42&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Mon, 11 Mar 2024 09:10:23 GMT</pubDate>
             <content:encoded><![CDATA[28,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/201709/8470_shop1_690942.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Bruno Berle / No Reino Dos Afetos 2 (Cassette) *예약상품 (4월 12일경 배송 예정)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=24812&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=24812&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Mon, 11 Mar 2024 07:09:01 GMT</pubDate>
-            <content:encoded><![CDATA[25,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202403/26afd6a7ffafde45322ce0dd83a89cc3.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
