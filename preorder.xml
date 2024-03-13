@@ -4,7 +4,7 @@
         <title>김밥레코즈 ─ Pre-Order</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Mar 2024 11:11:32 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Mar 2024 12:15:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,22 @@
             <pubDate>Wed, 13 Mar 2024 11:10:00 GMT</pubDate>
             <content:encoded><![CDATA[48,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202403/6a81e1712d9ee2f285b7292c33c57089.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[O'Donel Levy / Simba (Vinyl, Mr. Bongo Reissue) *한정수량 할인 / 예약상품 (3월 28일 이전 발송 예정)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=24791&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=24791&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Wed, 13 Mar 2024 07:07:53 GMT</pubDate>
+            <content:encoded><![CDATA[39,900원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202403/04dbcac4d5b5016643402cbcfd4407c1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Colin Blunstone / One Year (50th Anniversary Edition with Bonus LP, 2LP, 보너스트랙 14곡 추가) *예약상품 (3월말 발송 예정)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=18644&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=18644&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Wed, 13 Mar 2024 07:07:53 GMT</pubDate>
+            <content:encoded><![CDATA[49,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202204/42e64c81dc1940980b8d88214cd69e6a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Jahari Massamba Unit (Madlib + Karriem Riggins) / YHWH is LOVE (Vinyl) *예약상품 (3월말 배송 예정)]]></title>
@@ -48,28 +64,12 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202403/a8a2ffcfc167010c8880d0b56274db43.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[O'Donel Levy / Simba (Vinyl, Mr. Bongo Reissue) *한정수량 할인 / 예약상품 (3월 28일 이전 발송 예정)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=24791&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=24791&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Wed, 13 Mar 2024 07:07:53 GMT</pubDate>
-            <content:encoded><![CDATA[39,900원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202403/04dbcac4d5b5016643402cbcfd4407c1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[파란노을 Parannoul / After the Magic (CD, US Import) *예약상품 (3월말 배송 예정)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=22256&amp;cate_no=42&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=22256&amp;cate_no=42&amp;display_group=1</guid>
             <pubDate>Wed, 13 Mar 2024 07:07:53 GMT</pubDate>
             <content:encoded><![CDATA[19,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202306/37e78c42b43704bc2e3a7c623038bef0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Colin Blunstone / One Year (50th Anniversary Edition with Bonus LP, 2LP, 보너스트랙 14곡 추가) *예약상품 (3월말 발송 예정)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=18644&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=18644&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Wed, 13 Mar 2024 07:07:53 GMT</pubDate>
-            <content:encoded><![CDATA[49,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202204/42e64c81dc1940980b8d88214cd69e6a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[산울림 / 10집 너의 의미 (180g Black Vinyl, 2,000장 넘버링 한정반) *예약상품 (3월 27일 발매 예정) / 1인 2매까지 구매 가능 / 별도의 입금기한 설정]]></title>
