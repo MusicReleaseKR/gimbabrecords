@@ -4,7 +4,7 @@
         <title>김밥레코즈 ─ Vinyl</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Mar 2024 06:12:30 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Mar 2024 07:10:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -72,14 +72,6 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202403/a4f898414640801722c88ccdf8eb1e1e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Nouvelle Vague / Nouvelle Vague (Remastered Vinyl, 2LP, 20th Anniversary Reissue, Limited  Edition)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=24827&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=24827&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Tue, 12 Mar 2024 09:09:43 GMT</pubDate>
-            <content:encoded><![CDATA[44,800원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202403/7f1c2451b0a8afb2744f5ce4342a930f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Nouvelle Vague / Bande A Part (Remastered Vinyl, 2LP, 20th Anniversary Reissue, Limited  Edition)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=24826&amp;cate_no=25&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=24826&amp;cate_no=25&amp;display_group=1</guid>
@@ -102,6 +94,14 @@
             <pubDate>Tue, 12 Mar 2024 09:09:43 GMT</pubDate>
             <content:encoded><![CDATA[42,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202403/09bf63bb4ff33d228bb782207ced474a.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[Asha Puthli / The Essential Asha Puthli (Black Vinyl, 2LP, Mr. Bongo Reissue)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=24823&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=24823&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Thu, 14 Mar 2024 07:09:03 GMT</pubDate>
+            <content:encoded><![CDATA[43,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202401/beb7ce32eed4d14fe6ad5af103c8bad9.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
