@@ -4,7 +4,7 @@
         <title>김밥레코즈 ─ Vinyl</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Mar 2024 05:10:46 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Mar 2024 06:12:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -88,20 +88,20 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202403/5a358f292d3fcbdd0cabccfd9f90ea63.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Hakushi Hasegawa / Somoku Hodo (Limited Edition Translucent Green Vinyl) *예약상품 (3월말 배송 예정)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=24844&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=24844&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Fri, 15 Mar 2024 03:09:54 GMT</pubDate>
-            <content:encoded><![CDATA[48,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202403/6a81e1712d9ee2f285b7292c33c57089.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Jahari Massamba Unit (Madlib + Karriem Riggins) / YHWH is LOVE (Vinyl) *예약상품 (3월말 배송 예정)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=24843&amp;cate_no=25&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=24843&amp;cate_no=25&amp;display_group=1</guid>
             <pubDate>Wed, 13 Mar 2024 09:09:25 GMT</pubDate>
             <content:encoded><![CDATA[42,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202403/6e04afe7d9880aea63cfa4ab67bad699.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[toe / Our Latest Number (Black & White Half-And-Half Vinyl, Obi, Screenprinted B-side) *예약상품 (4월말 배송 예정)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=24842&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=24842&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Fri, 15 Mar 2024 06:11:08 GMT</pubDate>
+            <content:encoded><![CDATA[34,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202403/42f4aa8aa18fd1f1cea3dcc7140ced38.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
