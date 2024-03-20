@@ -4,9 +4,25 @@
         <title>김밥레코즈 ─ CD</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Mar 2024 07:11:32 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Mar 2024 08:12:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Patti Smith / Land (1975-2002) (2CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=24901&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=24901&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Wed, 20 Mar 2024 08:10:37 GMT</pubDate>
+            <content:encoded><![CDATA[17,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202403/c124ef7ab9da26102a1d2d5c45642254.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Jamiroquai / The Return Of The Space Cowboy (Expanded 2CD, EU Import) *한정수량 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=24900&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=24900&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Wed, 20 Mar 2024 08:10:37 GMT</pubDate>
+            <content:encoded><![CDATA[18,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202403/a2bb1da3d4609f0f8996782f28ca3d78.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Jamiroquai / Emergency on Planet Earth (Expanded 2CD, EU Import) *한정수량 할인]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=24899&amp;cate_no=24&amp;display_group=1</link>
@@ -86,22 +102,6 @@
             <pubDate>Tue, 19 Mar 2024 05:08:53 GMT</pubDate>
             <content:encoded><![CDATA[21,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202402/868f8de2df1d3e6b4ceb18dfd1a1b333.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Easy Life / Maybe In Another Life (CD) *한정수량 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=24886&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=24886&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Tue, 19 Mar 2024 05:08:53 GMT</pubDate>
-            <content:encoded><![CDATA[19,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202401/d6ebb713a9066273525365dd2bfe7da4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Oasis / (What's The Story) Morning Glory (CD, EU Import)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=24885&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=24885&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Tue, 19 Mar 2024 04:09:55 GMT</pubDate>
-            <content:encoded><![CDATA[17,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/201604/3617_shop1_509455.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
