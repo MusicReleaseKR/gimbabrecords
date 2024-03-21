@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ Vinyl</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Mar 2024 07:10:18 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Mar 2024 08:12:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[OST (Masahiro Ikumi, Yuji Yoshida) / Perfect Blue 퍼펙트 블루 (LITA Exclusive Purple & Gold Splatter Vinyl, 2LP, Deluxe Audiophile Edition)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=24912&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=24912&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Thu, 21 Mar 2024 08:10:35 GMT</pubDate>
+            <content:encoded><![CDATA[61,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202403/2c31485df02d3428a989f097bbd4b8b3.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Various Artists / Wamono Disco - Nippon Columbia Disco & Boogie Hits 1978-1982 (180g Vinyl)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=24911&amp;cate_no=25&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Mon, 18 Mar 2024 08:10:35 GMT</pubDate>
             <content:encoded><![CDATA[36,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202403/950113e8ebdac42f703930498d9aaae4.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Tori Amos / Under The Pink (Pink Translucent Vinyl, 2LP, Limited Edition) *한정수량 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=24882&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=24882&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Mon, 18 Mar 2024 08:10:35 GMT</pubDate>
-            <content:encoded><![CDATA[37,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202205/72b82c2327b550baf7bf6cc1750bf5bc.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
