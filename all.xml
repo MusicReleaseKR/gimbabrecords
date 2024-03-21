@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Mar 2024 16:12:38 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Mar 2024 17:09:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -104,14 +104,6 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202402/868f8de2df1d3e6b4ceb18dfd1a1b333.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[OST (Jon Brion) / Punch - Drunk Love 펀치 드렁크 러브 (20th Anniversary, Gatefold, Black Vinyl) (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=24922&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=24922&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Thu, 21 Mar 2024 14:08:07 GMT</pubDate>
-            <content:encoded><![CDATA[59,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202403/0afa540df00b27db806d03603effb3e4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Jacob Collier / Djesse Vol. 4 (Vinyl, 2LP) (김밥레코즈 ─ Vinyl)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=24921&amp;cate_no=25&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=24921&amp;cate_no=25&amp;display_group=1</guid>
@@ -198,6 +190,14 @@
             <pubDate>Thu, 21 Mar 2024 07:08:29 GMT</pubDate>
             <content:encoded><![CDATA[40,100원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202403/c613a761ba7a65c693bd3824d7155f1a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Michael Hurley / Sweetkorn (Vinyl) (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=24909&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=24909&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Thu, 21 Mar 2024 17:07:42 GMT</pubDate>
+            <content:encoded><![CDATA[33,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202403/e5d5327a04391adf558d7661581f69d7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Earl Sweatshirt & The Alchemist / VOIR DIRE (Cassette) (김밥레코즈 ─ Cassette)]]></title>
