@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Mar 2024 05:10:18 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Mar 2024 06:12:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -104,6 +104,30 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202401/d6ebb713a9066273525365dd2bfe7da4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Fred again.. / Actual Life 3 (Clear Vinyl) (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=24906&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=24906&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Thu, 21 Mar 2024 06:10:39 GMT</pubDate>
+            <content:encoded><![CDATA[34,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202403/2fccab89af0e591f8832a40a23af8898.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Melanie Martinez / Portals (Bloodshot Translucent Vinyl) (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=24905&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=24905&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Thu, 21 Mar 2024 06:10:39 GMT</pubDate>
+            <content:encoded><![CDATA[37,800원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202403/fd0d6aa67c7b9056840b0425a3224273.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Anne-Marie / Unhealthy (Clear Vinyl) (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=24904&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=24904&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Thu, 21 Mar 2024 06:10:39 GMT</pubDate>
+            <content:encoded><![CDATA[37,800원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202403/d934b6dbd5473086eff211ab9ff54118.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Taylor Swift  / The Tortured Poets Department  (Standard Ghosted White Vinyl 2LP, Bonus Track “The Manuscript” 수록, 24페이지 책자가 담긴 Book-bound 쟈켓) *예약상품 (4월말 배송 예정) (김밥레코즈 ─ Vinyl)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=24903&amp;cate_no=25&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=24903&amp;cate_no=25&amp;display_group=1</guid>
@@ -174,30 +198,6 @@
             <pubDate>Mon, 18 Mar 2024 08:10:35 GMT</pubDate>
             <content:encoded><![CDATA[39,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202403/9ff2d4b60f989d02d4eeeee027ee23b6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Who / The Who Sell Out (Vinyl, 1LP Half-Speed Master) *한정수량 할인 (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=24877&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=24877&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Mon, 18 Mar 2024 08:10:35 GMT</pubDate>
-            <content:encoded><![CDATA[34,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/201511/2218_shop1_434716.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Red Hot Chili Peppers / By The Way (Vinyl, 2LP) (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=24876&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=24876&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Mon, 18 Mar 2024 08:10:35 GMT</pubDate>
-            <content:encoded><![CDATA[39,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202403/aabe6a9b20a6c13f916e261e1aff530f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Two Door Cinema Club / False Alarm (Black Vinyl) *한정수량 할인 (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=24875&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=24875&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Mon, 18 Mar 2024 07:09:47 GMT</pubDate>
-            <content:encoded><![CDATA[29,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/201907/e9969697e72509cb9099e00e9920880e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Earl Sweatshirt & The Alchemist / VOIR DIRE (Cassette) (김밥레코즈 ─ Cassette)]]></title>
@@ -280,20 +280,20 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202402/d435303fcb8fbc9217ebd49adbec2576.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Duster / Contemporary Movement (Cassette, Light Grey Shell, Numero Group NUM1287) (김밥레코즈 ─ Cassette)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=24531&amp;cate_no=26&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=24531&amp;cate_no=26&amp;display_group=1</guid>
-            <pubDate>Tue, 12 Mar 2024 10:08:36 GMT</pubDate>
-            <content:encoded><![CDATA[19,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202402/a68c848e99ee46d0173c8792647d1d98.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Everyone Asked About You / Paper Airplanes, Paper Hearts (Cassette,White Shell, Numero Group NUM217) (김밥레코즈 ─ Cassette)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=24530&amp;cate_no=26&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=24530&amp;cate_no=26&amp;display_group=1</guid>
             <pubDate>Tue, 12 Mar 2024 10:08:36 GMT</pubDate>
             <content:encoded><![CDATA[19,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202402/a3d37794d0231bdf35b78f2f96b03562.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Sam Gendel & Antonia Cytrynowicz / Live A Little (Cassette, Obi) (김밥레코즈 ─ Cassette)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=24529&amp;cate_no=26&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=24529&amp;cate_no=26&amp;display_group=1</guid>
+            <pubDate>Thu, 21 Mar 2024 06:10:46 GMT</pubDate>
+            <content:encoded><![CDATA[17,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202402/305655ff1eb3486b5544b17f82ed8d12.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Audio Technica Turntable - AT-SB727 YE (옐로우 색상) 휴대용 무선 블루투스 턴테이블 (선착순 5대 한정 결제가 완료된 주문에 한해 15,000원을 추가 적립해드립니다.) (김밥레코즈 ─ Movies/Merch)]]></title>
