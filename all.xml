@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Mar 2024 06:13:06 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Mar 2024 07:10:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Herhums (허험스) / 정규 2집 To Save Us All (CD) (김밥레코즈 ─ CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=24943&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=24943&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Tue, 26 Mar 2024 07:08:07 GMT</pubDate>
+            <content:encoded><![CDATA[18,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202403/d812928cd152dfbbd16da0b2718ddbf4.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Bone Thugs-N-Harmony / E. 1999 Eternal (CD, bonus track) *예약상품 (4월 5일 이후 배송 예정) (김밥레코즈 ─ CD)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=24942&amp;cate_no=24&amp;display_group=1</link>
@@ -86,14 +94,6 @@
             <pubDate>Wed, 20 Mar 2024 07:09:34 GMT</pubDate>
             <content:encoded><![CDATA[13,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202403/629387cd9dfb02a02847bcfbb872535f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Avril Lavigne / The Best Damn Thing (CD) *한정수량 할인 (김밥레코즈 ─ CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=24893&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=24893&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Sat, 23 Mar 2024 13:07:08 GMT</pubDate>
-            <content:encoded><![CDATA[12,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202401/18ae5c163c168cf787e5852ec83bbee2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Maria Rita / Brasileira (CD, Mr. Bongo Reissue) (김밥레코즈 ─ CD)]]></title>
@@ -584,6 +584,14 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/201804/10758_shop1_108440.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[Herhums (허험스) / 정규 2집 To Save Us All (CD) (김밥레코즈 ─ CD ─ Korean)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=24943&amp;cate_no=29&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=24943&amp;cate_no=29&amp;display_group=1</guid>
+            <pubDate>Tue, 26 Mar 2024 07:08:44 GMT</pubDate>
+            <content:encoded><![CDATA[18,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202403/d812928cd152dfbbd16da0b2718ddbf4.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
             <title><![CDATA[김창완 / 나는 지구인이다 (2CD Box Set) (김밥레코즈 ─ CD ─ Korean)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=24913&amp;cate_no=29&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=24913&amp;cate_no=29&amp;display_group=1</guid>
@@ -670,14 +678,6 @@
             <pubDate>Wed, 24 Jan 2024 07:08:41 GMT</pubDate>
             <content:encoded><![CDATA[10,400원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202401/041808ff6f84edb8d0981ec3cb6bd681.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[실리카겔 / 정규 2집 POWER ANDRE 99 (2CD + Booklet + 3D 렌티큘러 카드) (김밥레코즈 ─ CD ─ Korean)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=23758&amp;cate_no=29&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=23758&amp;cate_no=29&amp;display_group=1</guid>
-            <pubDate>Mon, 22 Jan 2024 09:09:37 GMT</pubDate>
-            <content:encoded><![CDATA[26,700원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202401/776af03c5531498b2bb9e86603c3b222.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Bleachers / Bleachers (CD, Gatefold) (김밥레코즈 ─ CD ─ Pop/Rock)]]></title>
