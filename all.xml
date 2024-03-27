@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Mar 2024 08:12:53 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Mar 2024 09:11:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -104,6 +104,38 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202403/629387cd9dfb02a02847bcfbb872535f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Ducks Ltd. / Harm's Way (Limited 'Garden Fountain' Coloured Vinyl) (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=24953&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=24953&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Wed, 27 Mar 2024 09:09:25 GMT</pubDate>
+            <content:encoded><![CDATA[38,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202403/c9886f302fab91d81815c8680b702304.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Sagittarius / Blue Marble (White Vinyl, Reissue) (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=24952&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=24952&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Wed, 27 Mar 2024 09:09:25 GMT</pubDate>
+            <content:encoded><![CDATA[36,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202403/6cae648da7ad1245a5a1b7935ce1bd2d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Wayne Shorter / Live At The Detroit Jazz Festival Artist: Wayne Shorter (Vinyl, 2LP) (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=24951&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=24951&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Wed, 27 Mar 2024 09:09:25 GMT</pubDate>
+            <content:encoded><![CDATA[48,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202403/6adb10325f3ff8b309c0d865fa4e6619.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Max Roach / We Insist! Max Roach's Freedom Now Suite (180g Vinyl) (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=24950&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=24950&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Wed, 27 Mar 2024 09:09:25 GMT</pubDate>
+            <content:encoded><![CDATA[38,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202403/60e4f853c6740024922940f2243b7adb.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Deodato / Prelude (180g Green & Yellow Marbled Vinyl, Limited Numbered Edition) *한정수량 할인 (김밥레코즈 ─ Vinyl)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=24949&amp;cate_no=25&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=24949&amp;cate_no=25&amp;display_group=1</guid>
@@ -166,38 +198,6 @@
             <pubDate>Fri, 22 Mar 2024 10:08:19 GMT</pubDate>
             <content:encoded><![CDATA[40,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202403/3da6ba5da3aa87f06d9bf514e7bb968b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sebastien Tellier / Confection (Vinyl, Gatefold) (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=24929&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=24929&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Fri, 22 Mar 2024 10:08:19 GMT</pubDate>
-            <content:encoded><![CDATA[45,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202403/c1b64ae3eb005597522cb043f785a2f1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sebastien Tellier / L'Aventura (Vinyl, 2LP) (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=24928&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=24928&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Fri, 22 Mar 2024 10:08:19 GMT</pubDate>
-            <content:encoded><![CDATA[44,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202403/2e64d37e774c4a4a8a3cacafa8ea8e58.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Ben Frost / Scope Neglect (Vinyl) (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=24927&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=24927&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Fri, 22 Mar 2024 10:08:19 GMT</pubDate>
-            <content:encoded><![CDATA[45,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202403/ea6857e039cac87890d3d6bd400d91ae.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Ariana Grande / My Everything (Vinyl, Gatefold) *한정 수량 할인 (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=24925&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=24925&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Sat, 23 Mar 2024 05:08:39 GMT</pubDate>
-            <content:encoded><![CDATA[42,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202401/bad711db2c6f229ef08714fcaa4f78f0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Yard Act / Where's My Utopia? (Cassette) (김밥레코즈 ─ Cassette)]]></title>
@@ -392,6 +392,14 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202301/2e5adf6462db196b4bf2a3f834c1946d.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
+            <title><![CDATA[The Supreme Jubilees / It'll All Be Over (Opaque Maroon & Transparent Yellow Vinyl) *2023 블랙프라이데이할인 / 예약상품 (4월 중순 이후 배송 예정) (김밥레코즈 ─ Pre-Order)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22568&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22568&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Wed, 27 Mar 2024 09:09:43 GMT</pubDate>
+            <content:encoded><![CDATA[29,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/201711/8932_shop1_324880.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Bruno Berle / No Reino Dos Afetos 2 (Limited White Vinyl) *예약상품 (4월 12일경 배송 예정) (김밥레코즈 ─ Pre-Order)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=24809&amp;cate_no=42&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=24809&amp;cate_no=42&amp;display_group=1</guid>
@@ -478,14 +486,6 @@
             <pubDate>Sat, 16 Mar 2024 15:07:06 GMT</pubDate>
             <content:encoded><![CDATA[44,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202403/723ca30b3bdb158b5cfe94f94fbdd268.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Bone Thugs-N-Harmony / E. 1999 Eternal (CD, bonus track) *예약상품 (4월 5일 이후 배송 예정) (김밥레코즈 ─ Pre-Order)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=24942&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=24942&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Mon, 25 Mar 2024 08:12:33 GMT</pubDate>
-            <content:encoded><![CDATA[24,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202403/507a35c4d8125e0af4cd631ab048bfce.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Tigran Hamasyan / A Fable (Vinyl, 2LP) *유니버설 재즈 클래식 베스트셀러 할인 (김밥레코즈 ─ Bargain Bin)]]></title>
@@ -1752,14 +1752,6 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202403/4c5d5f3e75e7ebe89df500ad001d2f70.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[산울림 / 어린이에게 보내는 산울림의 동요 선물 제2집 : 산할아버지 (140g 투명 블루 Vinyl, Limited Edition) (김밥레코즈 ─ Vinyl ─ Korean)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=24916&amp;cate_no=52&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=24916&amp;cate_no=52&amp;display_group=1</guid>
-            <pubDate>Thu, 21 Mar 2024 09:10:21 GMT</pubDate>
-            <content:encoded><![CDATA[46,800원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202403/1a5bc628ae8782525019968f2019f0d9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[전인권 & 허성욱 / 1979~1987 추억들국화 (180g Vinyl) (김밥레코즈 ─ Vinyl ─ Korean)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=24915&amp;cate_no=52&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=24915&amp;cate_no=52&amp;display_group=1</guid>
@@ -1830,6 +1822,14 @@
             <pubDate>Wed, 27 Mar 2024 01:42:54 GMT</pubDate>
             <content:encoded><![CDATA[57,200원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202402/496d1fb2afd7862e010d4955bbb9700a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[KERO ONE / Early Believers (Vinyl, 2LP, JPN Import) (김밥레코즈 ─ Vinyl ─ Korean)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=24252&amp;cate_no=52&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=24252&amp;cate_no=52&amp;display_group=1</guid>
+            <pubDate>Wed, 27 Mar 2024 09:11:06 GMT</pubDate>
+            <content:encoded><![CDATA[65,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202402/74de15f8d212d1e48113013653bc3b9c.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[Roy Orbison / Black & White Night (DVD, NTSC) *한정수량 할인 (김밥레코즈 ─ Movies/Merch ─ DVD/Blu-Ray)]]></title>
