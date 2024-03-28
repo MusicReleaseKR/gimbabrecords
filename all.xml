@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Mar 2024 05:10:55 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Mar 2024 06:13:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -72,14 +72,6 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/201510/1319_shop1_869586.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Yellow Magic Orchestra (YMO) / YMO USA & Yellow Magic Orchestra (2CD, EU Import, Jewel Case) *한정수량 할인 (김밥레코즈 ─ CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=24898&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=24898&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Wed, 20 Mar 2024 07:09:34 GMT</pubDate>
-            <content:encoded><![CDATA[18,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/201611/5768_shop1_246634.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Shakti With John McLaughlin / Natural Elements (CD) *한정수량 할인 (김밥레코즈 ─ CD)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=24896&amp;cate_no=24&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=24896&amp;cate_no=24&amp;display_group=1</guid>
@@ -102,6 +94,14 @@
             <pubDate>Tue, 26 Mar 2024 18:09:32 GMT</pubDate>
             <content:encoded><![CDATA[13,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202403/629387cd9dfb02a02847bcfbb872535f.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Maria Rita / Brasileira (CD, Mr. Bongo Reissue) (김밥레코즈 ─ CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=24892&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=24892&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Thu, 28 Mar 2024 06:10:39 GMT</pubDate>
+            <content:encoded><![CDATA[26,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202403/5c8547c626ac5a0e50b03591be148d55.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Strawberry Guy / Taking My Time To Be (Vinyl, 2024 White Color Repress) *예약상품 (4월 18일 이후 배송 예정) (김밥레코즈 ─ Vinyl)]]></title>
@@ -224,14 +224,6 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202403/b43a19d2a4c953f9aed8084c18c9ba77.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Faye Webster / Underdressed at the Symphony (Cassette) (김밥레코즈 ─ Cassette)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=24748&amp;cate_no=26&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=24748&amp;cate_no=26&amp;display_group=1</guid>
-            <pubDate>Thu, 29 Feb 2024 11:06:45 GMT</pubDate>
-            <content:encoded><![CDATA[18,600원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202402/7c4da59520a46ab81ffc253fbbbcd7ca.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[세실리 렌즈 (Cecily Renns) / 모두 살아 (EVERYONE, LIVE) (Cassette) (김밥레코즈 ─ Cassette)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=24661&amp;cate_no=26&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=24661&amp;cate_no=26&amp;display_group=1</guid>
@@ -294,6 +286,14 @@
             <pubDate>Wed, 27 Mar 2024 12:14:27 GMT</pubDate>
             <content:encoded><![CDATA[17,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202402/1349c49b0c999eb0a8f70eaebf3cb624.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Shame / Food For Worms (Cassette, Blue Shell, Limited Edition) (김밥레코즈 ─ Cassette)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=24525&amp;cate_no=26&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=24525&amp;cate_no=26&amp;display_group=1</guid>
+            <pubDate>Thu, 28 Mar 2024 06:10:51 GMT</pubDate>
+            <content:encoded><![CDATA[16,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202402/a2ed2922fe07518d59891c5b15dcf0ca.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Audio Technica Turntable - AT-SB727 YE (옐로우 색상) 휴대용 무선 블루투스 턴테이블 (선착순 5대 한정 결제가 완료된 주문에 한해 15,000원을 추가 적립해드립니다.) (김밥레코즈 ─ Movies/Merch)]]></title>
