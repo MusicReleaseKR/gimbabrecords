@@ -4,7 +4,7 @@
         <title>김밥레코즈 ─ Cassette</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 03 Apr 2024 13:12:18 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Apr 2024 14:09:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -56,14 +56,6 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202402/8d0e12d83e202a8d66137fdc0ef5a352.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[Beach Fossils / Bunny (Cassette, Powder Blue Colored)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=24532&amp;cate_no=26&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=24532&amp;cate_no=26&amp;display_group=1</guid>
-            <pubDate>Thu, 14 Mar 2024 08:11:07 GMT</pubDate>
-            <content:encoded><![CDATA[17,200원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202402/d435303fcb8fbc9217ebd49adbec2576.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Everyone Asked About You / Paper Airplanes, Paper Hearts (Cassette,White Shell, Numero Group NUM217)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=24530&amp;cate_no=26&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=24530&amp;cate_no=26&amp;display_group=1</guid>
@@ -102,6 +94,14 @@
             <pubDate>Thu, 28 Mar 2024 06:10:51 GMT</pubDate>
             <content:encoded><![CDATA[16,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202402/a2ed2922fe07518d59891c5b15dcf0ca.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Rubblebucket / Earth Worship (Cassette, Pink Shell)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=24522&amp;cate_no=26&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=24522&amp;cate_no=26&amp;display_group=1</guid>
+            <pubDate>Wed, 03 Apr 2024 14:07:49 GMT</pubDate>
+            <content:encoded><![CDATA[17,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202402/19f9be28f17b865c699319145864c9e0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
