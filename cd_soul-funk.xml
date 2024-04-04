@@ -1,8 +1,107 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://gimbabrecords.com/product/list.html?cate_no=44</id>
-    <title>김밥레코즈 ─ CD ─ R&amp;B/Soul/Funk</title>
-    <updated>2024-04-04T18:13:15.735Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>http://gimbabrecords.com/product/favicon.ico</icon>
-</feed>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>김밥레코즈 ─ CD ─ R&amp;B/Soul/Funk</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Thu, 04 Apr 2024 19:10:08 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Terrace Martin, Robert Glasper, 9th Wonder, Kamasi Washington / Dinner Party & Dessert (CD, DIgipak)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=24938&amp;cate_no=44&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=24938&amp;cate_no=44&amp;display_group=1</guid>
+            <pubDate>Thu, 04 Apr 2024 19:09:01 GMT</pubDate>
+            <content:encoded><![CDATA[23,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202403/fad65e88d70519e70489334f6703fb8e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Jamiroquai / The Return Of The Space Cowboy (Expanded 2CD, EU Import) *한정수량 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=24900&amp;cate_no=44&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=24900&amp;cate_no=44&amp;display_group=1</guid>
+            <pubDate>Thu, 04 Apr 2024 19:09:01 GMT</pubDate>
+            <content:encoded><![CDATA[18,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202403/a2bb1da3d4609f0f8996782f28ca3d78.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Jamiroquai / Emergency on Planet Earth (Expanded 2CD, EU Import) *한정수량 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=24899&amp;cate_no=44&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=24899&amp;cate_no=44&amp;display_group=1</guid>
+            <pubDate>Thu, 04 Apr 2024 19:09:01 GMT</pubDate>
+            <content:encoded><![CDATA[18,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/201510/1319_shop1_869586.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Raye / My 21st Century Blues (CD, Digipak)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=24887&amp;cate_no=44&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=24887&amp;cate_no=44&amp;display_group=1</guid>
+            <pubDate>Thu, 04 Apr 2024 19:09:01 GMT</pubDate>
+            <content:encoded><![CDATA[21,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202402/868f8de2df1d3e6b4ceb18dfd1a1b333.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Dabeull / Analog Love (CD) *예약상품 (4월 24일 이후 배송 예정)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=24884&amp;cate_no=44&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=24884&amp;cate_no=44&amp;display_group=1</guid>
+            <pubDate>Thu, 04 Apr 2024 19:09:01 GMT</pubDate>
+            <content:encoded><![CDATA[23,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202403/0391984539d455a0e39a7a35fc3c2075.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Vulfpeck / Mr. Finish Line (CD, Japanese Pressing + 보너스 트랙)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=24837&amp;cate_no=44&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=24837&amp;cate_no=44&amp;display_group=1</guid>
+            <pubDate>Thu, 04 Apr 2024 19:09:01 GMT</pubDate>
+            <content:encoded><![CDATA[32,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202403/853780a40b3909b277692b705041d9d0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Asha Puthli / The Essential Asha Puthli (CD, UK Import)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=24822&amp;cate_no=44&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=24822&amp;cate_no=44&amp;display_group=1</guid>
+            <pubDate>Thu, 04 Apr 2024 19:09:01 GMT</pubDate>
+            <content:encoded><![CDATA[25,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202401/beb7ce32eed4d14fe6ad5af103c8bad9.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[O'Donel Levy / Simba (CD, EU Import)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=24821&amp;cate_no=44&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=24821&amp;cate_no=44&amp;display_group=1</guid>
+            <pubDate>Thu, 04 Apr 2024 19:09:01 GMT</pubDate>
+            <content:encoded><![CDATA[26,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202403/04dbcac4d5b5016643402cbcfd4407c1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Stylistics / Very Best Of Stylistics (CD) *한정수량 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=24705&amp;cate_no=44&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=24705&amp;cate_no=44&amp;display_group=1</guid>
+            <pubDate>Thu, 04 Apr 2024 19:09:01 GMT</pubDate>
+            <content:encoded><![CDATA[12,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202402/66d05a413287d1e9dba8c0fd1e194b21.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Weldon Irvine / In Harmony (CD + OBI)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=24606&amp;cate_no=44&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=24606&amp;cate_no=44&amp;display_group=1</guid>
+            <pubDate>Thu, 04 Apr 2024 19:09:01 GMT</pubDate>
+            <content:encoded><![CDATA[29,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202402/36305845efdbad2a8ea49a3266dac811.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Weldon Irvine / Weldon & The Kats (CD + Japanese OBI)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=24605&amp;cate_no=44&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=24605&amp;cate_no=44&amp;display_group=1</guid>
+            <pubDate>Thu, 04 Apr 2024 19:09:01 GMT</pubDate>
+            <content:encoded><![CDATA[29,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202402/7d0268fb58879edd509212de612f22bd.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Babyface / A Collection Of His Greatest Hits (CD) *2023 블랙프라이데이 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=24597&amp;cate_no=44&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=24597&amp;cate_no=44&amp;display_group=1</guid>
+            <pubDate>Thu, 04 Apr 2024 19:09:01 GMT</pubDate>
+            <content:encoded><![CDATA[11,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202402/8e0a849c6566a03f468298c3ede66d4d.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>
