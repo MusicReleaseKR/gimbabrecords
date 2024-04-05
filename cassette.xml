@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ Cassette</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Apr 2024 09:10:06 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Apr 2024 10:11:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Laufey / Bewitched (Cassette)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=25022&amp;cate_no=26&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=25022&amp;cate_no=26&amp;display_group=1</guid>
+            <pubDate>Fri, 05 Apr 2024 10:09:46 GMT</pubDate>
+            <content:encoded><![CDATA[20,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202402/b091cc4eaafaa895fab38f8bd7ced4c9.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Yard Act / Where's My Utopia? (Cassette)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=24937&amp;cate_no=26&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Thu, 28 Mar 2024 06:10:51 GMT</pubDate>
             <content:encoded><![CDATA[16,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202402/a2ed2922fe07518d59891c5b15dcf0ca.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Rubblebucket / Earth Worship (Cassette, Pink Shell)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=24522&amp;cate_no=26&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=24522&amp;cate_no=26&amp;display_group=1</guid>
-            <pubDate>Wed, 03 Apr 2024 14:07:49 GMT</pubDate>
-            <content:encoded><![CDATA[17,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202402/19f9be28f17b865c699319145864c9e0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
