@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 05 Apr 2024 08:12:10 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Apr 2024 09:10:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -104,6 +104,14 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/201709/8535_shop1_309560.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Danger Mouse & Black Thought / Cheat Codes (Vinyl) (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=25010&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=25010&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Fri, 05 Apr 2024 09:08:20 GMT</pubDate>
+            <content:encoded><![CDATA[43,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202402/1c71f3e11fa0cc615fec5188f1bdd4ac.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[Masayoshi Takanaka / Super Takanaka Live! (Limited Colored Vinyl, Remastered, 2024 애비로드 리마스터) *예약상품 (8월 16일 이후 배송 예정) (김밥레코즈 ─ Vinyl)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=25009&amp;cate_no=25&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=25009&amp;cate_no=25&amp;display_group=1</guid>
@@ -190,14 +198,6 @@
             <pubDate>Thu, 04 Apr 2024 08:11:30 GMT</pubDate>
             <content:encoded><![CDATA[31,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202404/25ffdc9db1b7e99bd5e049cb5c5202dd.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[OST (Ennio Morricone) / Nuovo Cinema Paradiso 시네마 천국 (180g Vinyl) *한정수량 할인 (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=24998&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=24998&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Thu, 04 Apr 2024 08:11:30 GMT</pubDate>
-            <content:encoded><![CDATA[45,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202404/013482143bdcd545e8ed8fe2c0d35048.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Yard Act / Where's My Utopia? (Cassette) (김밥레코즈 ─ Cassette)]]></title>
