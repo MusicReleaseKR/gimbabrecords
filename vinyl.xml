@@ -4,7 +4,7 @@
         <title>김밥레코즈 ─ Vinyl</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 Apr 2024 09:11:14 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Apr 2024 10:11:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -64,14 +64,6 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202404/3da1e3c50c94046fce04ceab6f43c58f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[5 Seconds Of Summer / Calm (Vinyl) *2023 블랙프라이데이 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=25012&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=25012&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Fri, 05 Apr 2024 10:09:39 GMT</pubDate>
-            <content:encoded><![CDATA[29,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202404/fb14fa9a7be23f886c7129427ce7440f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[MØ (MO) / No Mythologies To Follow (Translucent Red Vinyl, 2LP, 10th Anniversary Edition)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=25011&amp;cate_no=25&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=25011&amp;cate_no=25&amp;display_group=1</guid>
@@ -102,6 +94,14 @@
             <pubDate>Sun, 07 Apr 2024 06:10:09 GMT</pubDate>
             <content:encoded><![CDATA[45,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202404/d3f9fd3c186a97ef980182f53ac717c0.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Masayoshi Takanaka / An Insatiable High (Limited Colored Vinyl, Remastered, 2024 애비로드 리마스터) *예약상품 (8월 16일 이후 배송 예정)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=25007&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=25007&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Tue, 09 Apr 2024 10:09:40 GMT</pubDate>
+            <content:encoded><![CDATA[45,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202404/0c4ed250dd6e89c720a13247dd887fa2.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
