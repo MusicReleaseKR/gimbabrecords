@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ Bargain Bin</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 Apr 2024 08:13:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Apr 2024 09:11:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[The Clash / London Calling: 40th Anniversary Scrapbook Edition (120p 하드커버 스크랩북 + Deluxe CD) *한정수량 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=25032&amp;cate_no=43&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=25032&amp;cate_no=43&amp;display_group=1</guid>
+            <pubDate>Thu, 11 Apr 2024 09:09:43 GMT</pubDate>
+            <content:encoded><![CDATA[46,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202404/751e83c9cf4dd493a48f19db70dca58f.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Jim Sullivan / U.F.O. (Black Vinyl) *2023 블랙프라이데이 할인]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=24907&amp;cate_no=43&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Tue, 02 Apr 2024 07:10:22 GMT</pubDate>
             <content:encoded><![CDATA[24,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202403/906892512fb18e78f53b1aa084dd0b1a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Elvis Costello / Spike (180g Black Vinyl, 2LP) *2023 블랙프라이데이 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=24777&amp;cate_no=43&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=24777&amp;cate_no=43&amp;display_group=1</guid>
-            <pubDate>Thu, 11 Apr 2024 08:11:38 GMT</pubDate>
-            <content:encoded><![CDATA[30,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202403/c474a29f31129bcf18d44c872decdb79.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

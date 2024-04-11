@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ CD ─ Soundtracks</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 Apr 2024 08:13:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Apr 2024 09:11:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[OST (Alexandre Desplat) / Little Women (CD) *한정수량 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=25029&amp;cate_no=48&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=25029&amp;cate_no=48&amp;display_group=1</guid>
+            <pubDate>Thu, 11 Apr 2024 09:10:38 GMT</pubDate>
+            <content:encoded><![CDATA[14,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202404/bfecda2ff5a2ec9e5d5261e87e4fc3f3.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[OST / Jackie Brown 재키 브라운 (CD) *한정수량 할인]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=24988&amp;cate_no=48&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Thu, 14 Mar 2024 08:12:13 GMT</pubDate>
             <content:encoded><![CDATA[15,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202402/e7d36d25510516f1175910e977302cbb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[OST (Jonny Greenwood) / The Power Of The Dog 파워 오브 도그, Soundtrack From The Netflix Film (CD) *한정 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=24356&amp;cate_no=48&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=24356&amp;cate_no=48&amp;display_group=1</guid>
-            <pubDate>Thu, 14 Mar 2024 08:12:13 GMT</pubDate>
-            <content:encoded><![CDATA[16,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202402/183b4ba265a70ad35a54b51b48976ce7.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
