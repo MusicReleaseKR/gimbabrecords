@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 Apr 2024 15:10:36 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Apr 2024 16:11:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -390,6 +390,22 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202301/2e5adf6462db196b4bf2a3f834c1946d.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
+            <title><![CDATA[Bruno Berle / No Reino Dos Afetos 2 (Limited White Vinyl, 45rpm) *예약상품 (4월 12일경 배송 예정) (김밥레코즈 ─ Pre-Order)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=24809&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=24809&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Thu, 11 Apr 2024 08:11:31 GMT</pubDate>
+            <content:encoded><![CDATA[38,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202403/cfb782a4a7aefd17fdc223e1812903d5.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Bruno Berle / No Reino Dos Afetos 2 (Black Vinyl, 45rpm) *예약상품 (4월 12일경 배송 예정) (김밥레코즈 ─ Pre-Order)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=24810&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=24810&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Thu, 11 Apr 2024 08:11:31 GMT</pubDate>
+            <content:encoded><![CDATA[35,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202403/dd81d4c8af63d8b8f34bb8a45b01bed6.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Katy Kirby / Blue Raspberry (Vinyl) *예약상품 (4월 18일 이후 배송 예정) (김밥레코즈 ─ Pre-Order)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=24642&amp;cate_no=42&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=24642&amp;cate_no=42&amp;display_group=1</guid>
@@ -420,22 +436,6 @@
             <pubDate>Thu, 11 Apr 2024 08:11:31 GMT</pubDate>
             <content:encoded><![CDATA[25,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202403/26afd6a7ffafde45322ce0dd83a89cc3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Bruno Berle / No Reino Dos Afetos 2 (Black Vinyl) *예약상품 (4월 12일경 배송 예정) (김밥레코즈 ─ Pre-Order)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=24810&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=24810&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Thu, 11 Apr 2024 08:11:31 GMT</pubDate>
-            <content:encoded><![CDATA[35,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202403/dd81d4c8af63d8b8f34bb8a45b01bed6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Bruno Berle / No Reino Dos Afetos 2 (Limited White Vinyl) *예약상품 (4월 12일경 배송 예정) (김밥레코즈 ─ Pre-Order)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=24809&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=24809&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Thu, 11 Apr 2024 08:11:31 GMT</pubDate>
-            <content:encoded><![CDATA[38,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202403/cfb782a4a7aefd17fdc223e1812903d5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[산울림 / 12집 불안한 행복 (180g Black Vinyl, 2,000장 넘버링 한정반) *예약상품 (4월 16일 발매 예정, 4월 11일 주문 마감) (김밥레코즈 ─ Pre-Order)]]></title>
