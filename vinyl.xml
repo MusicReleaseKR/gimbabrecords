@@ -4,17 +4,9 @@
         <title>김밥레코즈 ─ Vinyl</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 Apr 2024 11:09:25 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Apr 2024 12:15:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[OST (음악 Hiromi) / Blue Giant 블루 자이언트 (애니메이션 극장판 사운드트랙, 2LP, Limited Blue Colored Edition, EU Pressing)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=25028&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=25028&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Tue, 09 Apr 2024 15:08:50 GMT</pubDate>
-            <content:encoded><![CDATA[64,400원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202404/438ecbdd64962c7ccd2770024004e9ac.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[Amy Winehouse / Back To Black (Vinyl) *TEST VINYL 1]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=25026&amp;cate_no=25&amp;display_group=1</link>
@@ -101,6 +93,14 @@
             <pubDate>Sun, 07 Apr 2024 06:10:09 GMT</pubDate>
             <content:encoded><![CDATA[45,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202404/d3f9fd3c186a97ef980182f53ac717c0.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[Masayoshi Takanaka / An Insatiable High (Limited Colored Vinyl, Remastered, 2024 애비로드 리마스터) *예약상품 (8월 16일 이후 배송 예정)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=25007&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=25007&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Thu, 11 Apr 2024 12:13:39 GMT</pubDate>
+            <content:encoded><![CDATA[45,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202404/0c4ed250dd6e89c720a13247dd887fa2.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
