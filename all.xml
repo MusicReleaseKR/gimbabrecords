@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 Apr 2024 11:11:07 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Apr 2024 12:15:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -127,14 +127,6 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202404/c18be8254469c221d601aa8409a2567d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[OI' Dirty Bastard / Return To The 36 Chambers (Vinyl, 2LP) (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=25039&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=25039&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Fri, 12 Apr 2024 11:08:59 GMT</pubDate>
-            <content:encoded><![CDATA[50,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/201607/4517_shop1_696256.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Cory Wong / The Lucky One (Gold Vinyl, 2LP, Limited Edition) *한정수량 할인 (김밥레코즈 ─ Vinyl)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=25038&amp;cate_no=25&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=25038&amp;cate_no=25&amp;display_group=1</guid>
@@ -196,6 +188,14 @@
             <pubDate>Fri, 05 Apr 2024 10:09:39 GMT</pubDate>
             <content:encoded><![CDATA[48,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202404/56127872207146f5cae8bddff483fb72.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Hecker & Okkyung Lee / Statistique Synthétique / Teum (The Silvery Slit) (Vinyl) (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=25016&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=25016&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Fri, 12 Apr 2024 12:13:38 GMT</pubDate>
+            <content:encoded><![CDATA[37,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202404/a2ac528d29e5c85abb23cd16be4eaa00.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Freddie Gibbs / $oul $old $eparately (Soul Sold Separately) (Cassette, Transparent Red Shell) (김밥레코즈 ─ Cassette)]]></title>
