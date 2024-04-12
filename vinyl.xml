@@ -4,9 +4,25 @@
         <title>김밥레코즈 ─ Vinyl</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 Apr 2024 08:12:18 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Apr 2024 09:11:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Cory Wong / The Lucky One (Gold Vinyl, 2LP, Limited Edition) *한정수량 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=25038&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=25038&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Fri, 12 Apr 2024 09:09:51 GMT</pubDate>
+            <content:encoded><![CDATA[59,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202404/962a78d49a6df7c075c3dcebf2e1e532.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Sprain / The Lamb As Effigy Or Three Hundred And Fifty XOXOXOS For A Spark Union With My Darling Divine (Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=25037&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=25037&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Fri, 12 Apr 2024 09:09:51 GMT</pubDate>
+            <content:encoded><![CDATA[52,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202404/2290d9159995144e45d01ee50d767b5f.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Andre 3000 / New Blue Sun (Vinyl, 3LP, Limited Edition)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=25036&amp;cate_no=25&amp;display_group=1</link>
@@ -85,22 +101,6 @@
             <pubDate>Fri, 05 Apr 2024 10:09:39 GMT</pubDate>
             <content:encoded><![CDATA[55,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202404/72eef37674b058281e8ad40956328daa.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Danger Mouse & Black Thought / Cheat Codes (Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=25010&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=25010&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Fri, 05 Apr 2024 09:08:20 GMT</pubDate>
-            <content:encoded><![CDATA[43,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202402/1c71f3e11fa0cc615fec5188f1bdd4ac.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Masayoshi Takanaka / Super Takanaka Live! (Limited Colored Vinyl, Remastered, 2024 애비로드 리마스터) *예약상품 (8월 16일 이후 배송 예정)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=25009&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=25009&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Sat, 06 Apr 2024 16:08:57 GMT</pubDate>
-            <content:encoded><![CDATA[45,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202404/2f4c77fcec88ed2b0c1ddfa5db3c2887.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
