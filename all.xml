@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 13 Apr 2024 09:09:30 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 Apr 2024 10:09:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -151,6 +151,14 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202404/c18be8254469c221d601aa8409a2567d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[OI' Dirty Bastard / Return To The 36 Chambers (Vinyl, 2LP) *할인상품 (쟈켓 하단부 미세한 주름) (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=25039&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=25039&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Sat, 13 Apr 2024 10:08:08 GMT</pubDate>
+            <content:encoded><![CDATA[49,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/201607/4517_shop1_696256.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Cory Wong / The Lucky One (Gold Vinyl, 2LP, Limited Edition) *한정수량 할인 (김밥레코즈 ─ Vinyl)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=25038&amp;cate_no=25&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=25038&amp;cate_no=25&amp;display_group=1</guid>
@@ -188,14 +196,6 @@
             <pubDate>Mon, 08 Apr 2024 07:09:54 GMT</pubDate>
             <content:encoded><![CDATA[49,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202404/71bbdef8255e77269211e32ddffff1d5.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Jesus And Mary Chain / Glasgow Eyes (Transparent Red Vinyl) (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=25020&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=25020&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Mon, 08 Apr 2024 09:09:25 GMT</pubDate>
-            <content:encoded><![CDATA[46,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202404/c1d2d90eadb1d25d077afa25b43f6545.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Freddie Gibbs / $oul $old $eparately (Soul Sold Separately) (Cassette, Transparent Red Shell) (김밥레코즈 ─ Cassette)]]></title>
