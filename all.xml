@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 13 Apr 2024 06:10:42 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 Apr 2024 07:10:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -103,6 +103,30 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202404/0b17f23593691cfbb582d66ccd528a0e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[The Libertines /All Quiet On The Eastern Esplanade (Vinyl) (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=25050&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=25050&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Sat, 13 Apr 2024 07:08:33 GMT</pubDate>
+            <content:encoded><![CDATA[48,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202404/88d75d10a4fd2d337d098a707cfd5df7.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[DJ Shaodw / Endtroducing ... (2024 Half Speed Abbey Road Master, 2LP) (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=25049&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=25049&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Sat, 13 Apr 2024 07:08:33 GMT</pubDate>
+            <content:encoded><![CDATA[51,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202404/d6de02215f33a17f15ed51427d5b9c0a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Gossip / Real Power (Vinyl) (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=25048&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=25048&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Sat, 13 Apr 2024 07:08:33 GMT</pubDate>
+            <content:encoded><![CDATA[48,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202404/f38d3f00566e0630dbb6bb3f22497ce0.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Chet Baker / Straight From The Heart - The Great Last Concert, Vol. II (Vinyl, Gatefold) (김밥레코즈 ─ Vinyl)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=25047&amp;cate_no=25&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=25047&amp;cate_no=25&amp;display_group=1</guid>
@@ -111,7 +135,7 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202404/28337ee59096b6e4d4f6a9b9039ad024.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Conan Gray / Found Heaven (Transparent Yellow Vinyl, Limited Edition) (김밥레코즈 ─ Vinyl)]]></title>
+            <title><![CDATA[Conan Gray / Found Heaven (Transparent Yellow Vinyl) (김밥레코즈 ─ Vinyl)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=25046&amp;cate_no=25&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=25046&amp;cate_no=25&amp;display_group=1</guid>
             <pubDate>Fri, 12 Apr 2024 10:09:37 GMT</pubDate>
@@ -172,30 +196,6 @@
             <pubDate>Mon, 08 Apr 2024 09:09:25 GMT</pubDate>
             <content:encoded><![CDATA[46,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202404/c1d2d90eadb1d25d077afa25b43f6545.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sam Evian / Plunge (Vinyl) (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=25019&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=25019&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Fri, 05 Apr 2024 10:09:39 GMT</pubDate>
-            <content:encoded><![CDATA[38,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202404/7d70e7d76693c8760c38a52833e6f463.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Lonnie Liston Smith / Live! (Vinyl, Gatefold) (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=25018&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=25018&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Fri, 05 Apr 2024 10:09:39 GMT</pubDate>
-            <content:encoded><![CDATA[48,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202404/56127872207146f5cae8bddff483fb72.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Hecker & Okkyung Lee / Statistique Synthétique / Teum (The Silvery Slit) (Vinyl) (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=25016&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=25016&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Fri, 12 Apr 2024 12:13:38 GMT</pubDate>
-            <content:encoded><![CDATA[37,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202404/a2ac528d29e5c85abb23cd16be4eaa00.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Freddie Gibbs / $oul $old $eparately (Soul Sold Separately) (Cassette, Transparent Red Shell) (김밥레코즈 ─ Cassette)]]></title>
