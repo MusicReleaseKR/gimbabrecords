@@ -4,7 +4,7 @@
         <title>김밥레코즈 ─ CD</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 13 Apr 2024 01:30:38 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 Apr 2024 02:10:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,14 +14,6 @@
             <pubDate>Fri, 12 Apr 2024 09:09:44 GMT</pubDate>
             <content:encoded><![CDATA[14,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/201803/2330_shop1_449828.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Kanye West / Graduation (CD, Digisleeve, US Import) *미국수입 힙합시디 할인전]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=25042&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=25042&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Fri, 12 Apr 2024 09:09:44 GMT</pubDate>
-            <content:encoded><![CDATA[14,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202404/ce92617364cd9592b6e065196f3cc29c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Talib Kweli & Madlib / Liberation 2 (CD, US Import)]]></title>
@@ -101,6 +93,14 @@
             <pubDate>Thu, 04 Apr 2024 08:11:24 GMT</pubDate>
             <content:encoded><![CDATA[19,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202404/305e36071fee9af634aa46f393f90af2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Stone Temple Pilots / Core (CD) *한정수량 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=24994&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=24994&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Sat, 13 Apr 2024 02:08:31 GMT</pubDate>
+            <content:encoded><![CDATA[13,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202404/0b17f23593691cfbb582d66ccd528a0e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
