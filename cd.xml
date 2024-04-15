@@ -4,7 +4,7 @@
         <title>김밥레코즈 ─ CD</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 15 Apr 2024 06:13:37 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Apr 2024 07:09:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,6 +22,14 @@
             <pubDate>Sat, 13 Apr 2024 18:08:40 GMT</pubDate>
             <content:encoded><![CDATA[19,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202404/0e0b7073bfe429821095229cd4ff26ed.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Andre 3000 / New Blue Sun (2CD) *예약 주문 (4월 16일까지 결제가 완료된 주문은 4월 26일경 배송이 진행될 예정입니다.)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=25052&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=25052&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Mon, 15 Apr 2024 07:07:14 GMT</pubDate>
+            <content:encoded><![CDATA[38,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202404/15a1fea32a7a708da658c1a4e36a7019.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[N.W.A / Straight Outta Compton (CD, US Import) *미국수입 힙합시디 할인전]]></title>
@@ -94,13 +102,6 @@
             <pubDate>Sun, 14 Apr 2024 14:26:23 GMT</pubDate>
             <content:encoded><![CDATA[14,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202404/bfecda2ff5a2ec9e5d5261e87e4fc3f3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Marcos Valle / Tempo Da Gente (CD, Limited Edition) *TEST CD 2]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=25027&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=25027&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Sun, 14 Apr 2024 14:26:23 GMT</pubDate>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202404/a6c57aeccaed764107c91f1b5ef36b7b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

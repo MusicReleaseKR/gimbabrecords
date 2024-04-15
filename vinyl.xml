@@ -4,7 +4,7 @@
         <title>김밥레코즈 ─ Vinyl</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 15 Apr 2024 06:13:37 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Apr 2024 07:09:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,14 +30,6 @@
             <pubDate>Sat, 13 Apr 2024 07:08:33 GMT</pubDate>
             <content:encoded><![CDATA[48,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202404/88d75d10a4fd2d337d098a707cfd5df7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[DJ Shaodw / Endtroducing ... (2024 Half Speed Abbey Road Master, 2LP)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=25049&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=25049&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Sat, 13 Apr 2024 07:08:33 GMT</pubDate>
-            <content:encoded><![CDATA[51,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202404/d6de02215f33a17f15ed51427d5b9c0a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Gossip / Real Power (Vinyl, Gatefold)]]></title>
@@ -86,6 +78,14 @@
             <pubDate>Fri, 12 Apr 2024 09:09:51 GMT</pubDate>
             <content:encoded><![CDATA[59,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202404/962a78d49a6df7c075c3dcebf2e1e532.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Andre 3000 / New Blue Sun (Vinyl, 3LP, Limited Edition) *예약상품 (4월 19일까지 결제가 완료된 주문은 5월 2일경에 배송이 진행될 예정입니다.)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=25036&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=25036&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Mon, 15 Apr 2024 07:07:21 GMT</pubDate>
+            <content:encoded><![CDATA[122,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202404/bf372d86c923f0f9c2c7ba85babacbb6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Azymuth / Outubro (Limited Colored Vinyl - Deep Aqua 색상)]]></title>
