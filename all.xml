@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 15 Apr 2024 04:27:29 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Apr 2024 05:10:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -390,6 +390,22 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202301/2e5adf6462db196b4bf2a3f834c1946d.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
+            <title><![CDATA[[음반 매장에서 듣는 음악 강의 시리즈 1] 재즈를 어떻게 즐겨야 할까? - 재즈 칼럼리스트 황덕호와 함께 하는 재즈 강의 + 음악 감상 (3강 "미국 흑인 음악과 재즈" 5월 7일 저녁 8시) (김밥레코즈 ─ Pre-Order)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=25057&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=25057&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Mon, 15 Apr 2024 05:08:42 GMT</pubDate>
+            <content:encoded><![CDATA[10,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202404/22d91c01a4d666e2816d1388521573bd.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[음반 매장에서 듣는 음악 강의 시리즈 1] 재즈를 어떻게 즐겨야 할까? - 재즈 칼럼리스트 황덕호와 함께 하는 재즈 강의 + 음악 감상 (4강 "재즈의 매력" 5월 21일 저녁 8시) (김밥레코즈 ─ Pre-Order)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=25058&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=25058&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Mon, 15 Apr 2024 05:08:42 GMT</pubDate>
+            <content:encoded><![CDATA[10,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202404/e3ffdfab5072a4da2fa540085d1fcb38.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Furui Riho / Love One Another (Clear Red Vinyl) *예약상품 (6월 중순 배송 예정) (김밥레코즈 ─ Pre-Order)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=25055&amp;cate_no=42&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=25055&amp;cate_no=42&amp;display_group=1</guid>
@@ -468,22 +484,6 @@
             <pubDate>Wed, 10 Apr 2024 11:09:32 GMT</pubDate>
             <content:encoded><![CDATA[46,800원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202403/b99e1cc935da95a54673d786b595e63d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Booker T & The MGs / Green Onions (60th Anniversary, Limited Green Colored Vinyl, Remastered) *예약상품 (4월 22일 이후 배송 예정) (김밥레코즈 ─ Pre-Order)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=24954&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=24954&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Tue, 09 Apr 2024 17:08:49 GMT</pubDate>
-            <content:encoded><![CDATA[43,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202403/fdda31002ce6a570574998218008efe5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Dabeull / Analog Love (Vinyl) *예약상품 (4월 24일 전후 배송 예정) (김밥레코즈 ─ Pre-Order)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=24873&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=24873&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Tue, 09 Apr 2024 10:10:00 GMT</pubDate>
-            <content:encoded><![CDATA[44,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202403/723ca30b3bdb158b5cfe94f94fbdd268.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Bruce Springsteen / Born To Run : 30th Anniversary Edition (3CD Set + 48페이지 하드커버 포토북) *한정수량 할인 (김밥레코즈 ─ Bargain Bin)]]></title>
