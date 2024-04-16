@@ -4,7 +4,7 @@
         <title>김밥레코즈 ─ Vinyl</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 Apr 2024 05:11:51 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Apr 2024 06:13:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -96,12 +96,12 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202404/c18be8254469c221d601aa8409a2567d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[OI' Dirty Bastard / Return To The 36 Chambers (Vinyl, 2LP) *할인상품 (쟈켓 하단부 미세한 주름)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=25039&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=25039&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Sat, 13 Apr 2024 10:08:08 GMT</pubDate>
-            <content:encoded><![CDATA[49,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/201607/4517_shop1_696256.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[Cory Wong / The Lucky One (Gold Vinyl, 2LP, Limited Edition) *한정수량 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=25038&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=25038&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Tue, 16 Apr 2024 06:11:11 GMT</pubDate>
+            <content:encoded><![CDATA[59,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202404/962a78d49a6df7c075c3dcebf2e1e532.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

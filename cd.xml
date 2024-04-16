@@ -4,7 +4,7 @@
         <title>김밥레코즈 ─ CD</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 Apr 2024 05:11:51 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Apr 2024 06:13:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -46,14 +46,6 @@
             <pubDate>Fri, 12 Apr 2024 09:09:44 GMT</pubDate>
             <content:encoded><![CDATA[26,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202404/6feba80c0515ae88de56bf27519d0b79.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Metro Boomin / Heroes & Villains (CD, US Import)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=25040&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=25040&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Fri, 12 Apr 2024 09:09:44 GMT</pubDate>
-            <content:encoded><![CDATA[28,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202404/edfecbcfe9c9a3dac3ebccb341932830.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Bruce Springsteen / Born To Run : 30th Anniversary Edition (3CD Set + 48페이지 하드커버 포토북) *한정수량 할인]]></title>
@@ -102,6 +94,13 @@
             <pubDate>Sun, 14 Apr 2024 14:26:23 GMT</pubDate>
             <content:encoded><![CDATA[14,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202404/bfecda2ff5a2ec9e5d5261e87e4fc3f3.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Marcos Valle / Tempo Da Gente (CD, Limited Edition) *TEST CD 2]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=25027&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=25027&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Tue, 16 Apr 2024 06:11:04 GMT</pubDate>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202404/a6c57aeccaed764107c91f1b5ef36b7b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
