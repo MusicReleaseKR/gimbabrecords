@@ -4,9 +4,33 @@
         <title>김밥레코즈 ─ Vinyl</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 Apr 2024 07:11:07 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Apr 2024 08:13:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[OST (Various Artists) / I'm Not There 아임 낫 데어 (Vinyl, 4LP) *한정수량 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=25066&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=25066&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Tue, 16 Apr 2024 08:11:18 GMT</pubDate>
+            <content:encoded><![CDATA[75,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202404/99964c02fc379040377696150cb8b66e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Robert Johnson / King Of The Delta Blues Singers (Vinyl, Exclusively Remastered) *한정수량 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=25065&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=25065&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Tue, 16 Apr 2024 08:11:18 GMT</pubDate>
+            <content:encoded><![CDATA[39,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202404/be89cff624791ff959318b644ea9c7eb.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Stanley Turrentine / Sugar (Limited Translucent Orange Marbled Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=25064&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=25064&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Tue, 16 Apr 2024 08:11:18 GMT</pubDate>
+            <content:encoded><![CDATA[45,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202404/8e5488c9d496db825fab0d439beec23d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Freddie Gibbs / You Only Live 2wice (Deep Red Vinyl + Download)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=25062&amp;cate_no=25&amp;display_group=1</link>
@@ -78,30 +102,6 @@
             <pubDate>Fri, 12 Apr 2024 10:09:37 GMT</pubDate>
             <content:encoded><![CDATA[48,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202404/e93601a1a14c712042527b7041cf61d9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Julia Holter / Something In The Room She Moves (Vinyl, 2LP + Download)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=25045&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=25045&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Fri, 12 Apr 2024 10:09:37 GMT</pubDate>
-            <content:encoded><![CDATA[44,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202404/c18be8254469c221d601aa8409a2567d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Cory Wong / The Lucky One (Gold Vinyl, 2LP, Limited Edition) *한정수량 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=25038&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=25038&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Tue, 16 Apr 2024 06:11:11 GMT</pubDate>
-            <content:encoded><![CDATA[59,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202404/962a78d49a6df7c075c3dcebf2e1e532.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Andre 3000 / New Blue Sun (Vinyl, 3LP, Limited Edition) *예약상품 (4월 19일까지 결제가 완료된 주문은 5월 2일경에 배송이 진행될 예정입니다.)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=25036&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=25036&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Tue, 16 Apr 2024 07:08:56 GMT</pubDate>
-            <content:encoded><![CDATA[122,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202404/bf372d86c923f0f9c2c7ba85babacbb6.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
