@@ -4,17 +4,9 @@
         <title>김밥레코즈 ─ Vinyl</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 Apr 2024 06:13:13 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Apr 2024 07:11:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[Dabeull / Analog Love (Deluxe Edition - Clear Vinyl + 10") *1인 1매만 구매가 가능합니다. (4월 18일 이후 배송 예정)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=25063&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=25063&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Tue, 16 Apr 2024 05:09:49 GMT</pubDate>
-            <content:encoded><![CDATA[61,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202404/af4fb13beedbc0ac9c1990446fcd9c71.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[Freddie Gibbs / You Only Live 2wice (Deep Red Vinyl + Download)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=25062&amp;cate_no=25&amp;display_group=1</link>
@@ -102,6 +94,14 @@
             <pubDate>Tue, 16 Apr 2024 06:11:11 GMT</pubDate>
             <content:encoded><![CDATA[59,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202404/962a78d49a6df7c075c3dcebf2e1e532.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Andre 3000 / New Blue Sun (Vinyl, 3LP, Limited Edition) *예약상품 (4월 19일까지 결제가 완료된 주문은 5월 2일경에 배송이 진행될 예정입니다.)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=25036&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=25036&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Tue, 16 Apr 2024 07:08:56 GMT</pubDate>
+            <content:encoded><![CDATA[122,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202404/bf372d86c923f0f9c2c7ba85babacbb6.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
