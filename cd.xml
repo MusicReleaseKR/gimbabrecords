@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ CD</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 Apr 2024 10:10:53 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Apr 2024 11:09:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Brel, Brassens / Les Voisins Magnifiques (5CD) *2023 블랙프라이데이 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=25077&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=25077&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Tue, 16 Apr 2024 11:07:09 GMT</pubDate>
+            <content:encoded><![CDATA[29,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202404/6b345846b990eaac13ac37370763267c.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Current Joys / Different Age (CD)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=25070&amp;cate_no=24&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Thu, 11 Apr 2024 09:09:07 GMT</pubDate>
             <content:encoded><![CDATA[46,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202404/751e83c9cf4dd493a48f19db70dca58f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Vampire Weekend / Father Of The Bride (CD, EU Import) *한정수량 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=25031&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=25031&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Thu, 11 Apr 2024 09:09:07 GMT</pubDate>
-            <content:encoded><![CDATA[14,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/201906/18c393bd4130f7b65be373bfdbacabd3.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
