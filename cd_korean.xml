@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ CD ─ Korean</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 Apr 2024 09:10:07 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Apr 2024 10:11:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[구남과여라이딩스텔라 / 5집 1969 (CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=25084&amp;cate_no=29&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=25084&amp;cate_no=29&amp;display_group=1</guid>
+            <pubDate>Wed, 17 Apr 2024 10:09:40 GMT</pubDate>
+            <content:encoded><![CDATA[17,800원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202404/82855904518a2d0d260b3ff4ded1aa18.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Naivesign (나이브사인) / EP You will never know till it happens to you (CD, Digipak)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=24969&amp;cate_no=29&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Thu, 01 Feb 2024 12:14:04 GMT</pubDate>
             <content:encoded><![CDATA[14,900원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202402/ca3925f5dab92992e91918f37480e660.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[기리보이 / 10.5집 별책 (CD + 80p 앨범북 + 포스터 2종)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=23863&amp;cate_no=29&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=23863&amp;cate_no=29&amp;display_group=1</guid>
-            <pubDate>Thu, 25 Jan 2024 08:11:37 GMT</pubDate>
-            <content:encoded><![CDATA[20,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202401/ad08e64551a92f43b7c1671a579fa447.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
