@@ -4,9 +4,33 @@
         <title>김밥레코즈 ─ CD</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 17 Apr 2024 11:09:51 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Apr 2024 12:16:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[King Crimson / The Elements (2020 Tour Box) (2CD + 24p 부클릿, 하드커버 책자)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=25088&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=25088&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Wed, 17 Apr 2024 12:14:25 GMT</pubDate>
+            <content:encoded><![CDATA[22,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202404/5aed707021b9f8ec59d90ab478210ad9.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[King Crimson / The Elements (2019 Tour Box) (2CD + 28p 부클릿, 하드커버 책자)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=25087&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=25087&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Wed, 17 Apr 2024 12:14:25 GMT</pubDate>
+            <content:encoded><![CDATA[22,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202404/c02d736879ad11bf394efc313c40c588.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[King Crimson / The Elements (2014 Tour Box) (2CD + 24p 부클릿, 하드커버 책자)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=25086&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=25086&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Wed, 17 Apr 2024 12:14:25 GMT</pubDate>
+            <content:encoded><![CDATA[22,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202404/1a325f1d38888e952796410aaae94f64.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[구남과여라이딩스텔라 / 5집 1969 (CD)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=25084&amp;cate_no=24&amp;display_group=1</link>
@@ -78,30 +102,6 @@
             <pubDate>Thu, 11 Apr 2024 10:09:19 GMT</pubDate>
             <content:encoded><![CDATA[25,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202404/e3f0ed785200eb0a42ec7404e119193c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Manic Street Preachers / This Is My Truth Tell Me Yours: 20 Year Collectors' Edition (3CD Set + 32p 하드커버 포토북) *한정수량 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=25033&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=25033&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Thu, 11 Apr 2024 10:09:19 GMT</pubDate>
-            <content:encoded><![CDATA[37,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202404/632d67812b396bebae3ebb78156729b8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Clash / London Calling: 40th Anniversary Scrapbook Edition (120p 하드커버 스크랩북 + Deluxe CD) *한정수량 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=25032&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=25032&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Thu, 11 Apr 2024 09:09:07 GMT</pubDate>
-            <content:encoded><![CDATA[46,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202404/751e83c9cf4dd493a48f19db70dca58f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Vampire Weekend / Father Of The Bride (CD, EU Import) *한정수량 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=25031&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=25031&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Tue, 16 Apr 2024 12:13:45 GMT</pubDate>
-            <content:encoded><![CDATA[14,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/201906/18c393bd4130f7b65be373bfdbacabd3.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
