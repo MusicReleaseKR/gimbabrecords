@@ -4,7 +4,7 @@
         <title>김밥레코즈 ─ Vinyl ─ Korean</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 Apr 2024 19:09:49 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Apr 2024 20:11:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,14 +22,6 @@
             <pubDate>Mon, 22 Apr 2024 09:11:24 GMT</pubDate>
             <content:encoded><![CDATA[55,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202404/a7027922e1c676a5f76f56e3957ae613.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Various / RE: sonance The Vinyl  (180g 터키석 컬러 바이닐, 2024 RSD Korea "First") *4월 26일부터 배송이 시작됩니다.]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=25124&amp;cate_no=52&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=25124&amp;cate_no=52&amp;display_group=1</guid>
-            <pubDate>Mon, 22 Apr 2024 19:09:42 GMT</pubDate>
-            <content:encoded><![CDATA[44,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202404/63d3c6ff787d203752cc3b527e3b0162.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[ATEEZ 에이티즈 / THE WORLD EP.FIN : WILL (X Ver.) (LP + Bonus 7" + 포토카드 + 엽서 + 포스터) (2024 RSD Exclusive) *4월 23-24일 양일에 걸쳐 배송이 시작됩니다. / 자세한 사항은 상품 페이지를 참조하세요.]]></title>
@@ -102,6 +94,14 @@
             <pubDate>Mon, 22 Apr 2024 17:09:18 GMT</pubDate>
             <content:encoded><![CDATA[49,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202403/04573aa641fb4bf6d873c6ad2d99d528.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[윤지영 / 고향 가는 길 (180g Vinyl) *절판 레코드 특별전]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=24910&amp;cate_no=52&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=24910&amp;cate_no=52&amp;display_group=1</guid>
+            <pubDate>Mon, 22 Apr 2024 20:11:10 GMT</pubDate>
+            <content:encoded><![CDATA[40,100원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202403/c613a761ba7a65c693bd3824d7155f1a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
