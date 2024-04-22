@@ -4,7 +4,7 @@
         <title>김밥레코즈 ─ Bargain Bin</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 Apr 2024 14:10:14 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Apr 2024 15:11:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -48,14 +48,6 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202404/f36628d0acff2249f38542b2f7748dce.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Arlo Parks / My Soft Machine (Transparent Green Vinyl, Indie Exclusive Limited Edition, Gatefold Sleeve) *2023 블랙프라이데이 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=24947&amp;cate_no=43&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=24947&amp;cate_no=43&amp;display_group=1</guid>
-            <pubDate>Mon, 22 Apr 2024 10:11:06 GMT</pubDate>
-            <content:encoded><![CDATA[28,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202401/52f621dfa44ceaff79dd7ff1ae47d441.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Jim Sullivan / U.F.O. (Black Vinyl) *2023 블랙프라이데이 할인]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=24907&amp;cate_no=43&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=24907&amp;cate_no=43&amp;display_group=1</guid>
@@ -96,12 +88,20 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202403/9ff2d4b60f989d02d4eeeee027ee23b6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Two Door Cinema Club / False Alarm (Black Vinyl) *한정수량 할인 / 2023 블랙 프라이데이 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=24875&amp;cate_no=43&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=24875&amp;cate_no=43&amp;display_group=1</guid>
-            <pubDate>Sun, 31 Mar 2024 11:07:53 GMT</pubDate>
-            <content:encoded><![CDATA[29,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/201907/e9969697e72509cb9099e00e9920880e.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[Beastie Boys / Solid Gold Hits (CD, US Import) *미국수입 힙합시디 할인전]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=24857&amp;cate_no=43&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=24857&amp;cate_no=43&amp;display_group=1</guid>
+            <pubDate>Mon, 22 Apr 2024 15:10:15 GMT</pubDate>
+            <content:encoded><![CDATA[13,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202403/40b9f3ecda7e2748932260cfda8333e8.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[5 Seconds Of Summer / Sounds Good Feels Good (CD) *한정수량 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=24819&amp;cate_no=43&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=24819&amp;cate_no=43&amp;display_group=1</guid>
+            <pubDate>Mon, 22 Apr 2024 15:10:15 GMT</pubDate>
+            <content:encoded><![CDATA[14,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202403/535e2b2185410c485a675b078bd7538c.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
