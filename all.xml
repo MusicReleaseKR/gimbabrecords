@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 Apr 2024 09:11:30 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Apr 2024 10:12:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -168,14 +168,6 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202404/7c99cad2336aa8f0c5aa91e77c22619f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Bill Evans / Consecration Immortal (Vinyl, 2024 RSD Japan) (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=25132&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=25132&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Mon, 22 Apr 2024 09:09:41 GMT</pubDate>
-            <content:encoded><![CDATA[55,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202404/7f56f448bfd8d62437d4c2c5708afe6a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Bill Evans / Consecration 2 (Vinyl, 2024 RSD Japan) (김밥레코즈 ─ Vinyl)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=25131&amp;cate_no=25&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=25131&amp;cate_no=25&amp;display_group=1</guid>
@@ -192,12 +184,20 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202404/7dcef00dc9d7efc6f38c63d7957f029b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Bill Evans / Everybody Digs Evans (Mono Mix, Limited Edition, 2024 RSD First) (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=25129&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=25129&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Mon, 22 Apr 2024 09:09:41 GMT</pubDate>
-            <content:encoded><![CDATA[57,200원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202404/466772f18f2c17409f2a4c889b33b6f7.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[확인(HWAKIN) / 칸(KHAN) (180g White Vinyl, 2024 RSD Korea "First") *예약상품 (4월 26일부터 발송이 시작됩니다.) (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=25128&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=25128&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Mon, 22 Apr 2024 10:10:39 GMT</pubDate>
+            <content:encoded><![CDATA[49,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202404/dbd4257467cb4d91d70e8c59b95c3acc.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[조율 / Earwitness Remix (10" Vinyl, 2024 RSD Korea "First") *잔여수량 판매 (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=25127&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=25127&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Mon, 22 Apr 2024 10:10:39 GMT</pubDate>
+            <content:encoded><![CDATA[28,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202404/02e621a501f76f41a43ab81c9f7851f6.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[Mei Semones / Kabutomushi (Cassette) (김밥레코즈 ─ Cassette)]]></title>
@@ -392,20 +392,20 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202301/2e5adf6462db196b4bf2a3f834c1946d.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[이준형 / UTOPIA (180g Black Vinyl, 2024 RSD Korea "First") *예약상품 (4월 26일부터 배송) (김밥레코즈 ─ Pre-Order)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=25125&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=25125&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Mon, 22 Apr 2024 06:11:39 GMT</pubDate>
-            <content:encoded><![CDATA[55,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202404/a7027922e1c676a5f76f56e3957ae613.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Various / RE: sonance The Vinyl  (180g 터키석 컬러 바이닐, 2024 RSD Korea "First") *4월 26일부터 배송이 시작됩니다. (김밥레코즈 ─ Pre-Order)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=25124&amp;cate_no=42&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=25124&amp;cate_no=42&amp;display_group=1</guid>
             <pubDate>Mon, 22 Apr 2024 06:11:39 GMT</pubDate>
             <content:encoded><![CDATA[44,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202404/63d3c6ff787d203752cc3b527e3b0162.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이준형 / UTOPIA (180g Black Vinyl, 2024 RSD Korea "First") *예약상품 (4월 26일부터 배송) (김밥레코즈 ─ Pre-Order)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=25125&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=25125&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Mon, 22 Apr 2024 06:11:39 GMT</pubDate>
+            <content:encoded><![CDATA[55,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202404/a7027922e1c676a5f76f56e3957ae613.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[버둥 / 지지않는 곳으로 가자 (발매 3주년 기념 투명 민트 컬러 Vinyl + Poster, Limited Edition) *예약상품 (7월 18일 발매, 4월 22일 주문 마감) (김밥레코즈 ─ Pre-Order)]]></title>
@@ -528,6 +528,14 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202404/f36628d0acff2249f38542b2f7748dce.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Arlo Parks / My Soft Machine (Transparent Green Vinyl, Indie Exclusive Limited Edition, Gatefold Sleeve) *2023 블랙프라이데이 할인 (김밥레코즈 ─ Bargain Bin)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=24947&amp;cate_no=43&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=24947&amp;cate_no=43&amp;display_group=1</guid>
+            <pubDate>Mon, 22 Apr 2024 10:11:06 GMT</pubDate>
+            <content:encoded><![CDATA[28,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202401/52f621dfa44ceaff79dd7ff1ae47d441.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Jim Sullivan / U.F.O. (Black Vinyl) *2023 블랙프라이데이 할인 (김밥레코즈 ─ Bargain Bin)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=24907&amp;cate_no=43&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=24907&amp;cate_no=43&amp;display_group=1</guid>
@@ -574,14 +582,6 @@
             <pubDate>Sun, 31 Mar 2024 11:07:53 GMT</pubDate>
             <content:encoded><![CDATA[29,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/201907/e9969697e72509cb9099e00e9920880e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Beastie Boys / Solid Gold Hits (CD, US Import) *미국수입 힙합시디 할인전 (김밥레코즈 ─ Bargain Bin)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=24857&amp;cate_no=43&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=24857&amp;cate_no=43&amp;display_group=1</guid>
-            <pubDate>Wed, 17 Apr 2024 18:11:04 GMT</pubDate>
-            <content:encoded><![CDATA[13,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202403/40b9f3ecda7e2748932260cfda8333e8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[구남과여라이딩스텔라 / 5집 1969 (CD) (김밥레코즈 ─ CD ─ Korean)]]></title>
