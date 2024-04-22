@@ -4,17 +4,9 @@
         <title>김밥레코즈 ─ Pre-Order</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 22 Apr 2024 08:13:48 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Apr 2024 09:11:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[터치드(TOUCHED) / Purple (2nd pressing, Dark Purple Colored Vinyl, 2024 RSD Korea "First") *4월 22일 오후 3시 판매 / 4월 26일부터 발송이 시작됩니다.]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=22933&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=22933&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Mon, 22 Apr 2024 06:11:39 GMT</pubDate>
-            <content:encoded><![CDATA[49,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202310/a52cf9d182ae004ccb7daf9a67271dcf.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[이준형 / UTOPIA (180g Black Vinyl, 2024 RSD Korea "First") *예약상품 (4월 26일부터 배송)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=25125&amp;cate_no=42&amp;display_group=1</link>
@@ -24,20 +16,36 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202404/a7027922e1c676a5f76f56e3957ae613.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[확인(HWAKIN) / 칸(KHAN) (180g White Vinyl, 2024 RSD Korea "First") *예약상품 (4월 26일부터 발송이 시작됩니다.)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=25128&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=25128&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Mon, 22 Apr 2024 06:11:39 GMT</pubDate>
-            <content:encoded><![CDATA[49,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202404/dbd4257467cb4d91d70e8c59b95c3acc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Various / RE: sonance The Vinyl  (180g 터키석 컬러 바이닐, 2024 RSD Korea "First") *4월 26일부터 배송이 시작됩니다.]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=25124&amp;cate_no=42&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=25124&amp;cate_no=42&amp;display_group=1</guid>
             <pubDate>Mon, 22 Apr 2024 06:11:39 GMT</pubDate>
             <content:encoded><![CDATA[44,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202404/63d3c6ff787d203752cc3b527e3b0162.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[버둥 / 지지않는 곳으로 가자 (발매 3주년 기념 투명 민트 컬러 Vinyl + Poster, Limited Edition) *예약상품 (7월 18일 발매, 4월 22일 주문 마감)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=25025&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=25025&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Mon, 22 Apr 2024 09:09:59 GMT</pubDate>
+            <content:encoded><![CDATA[49,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202404/71bbdef8255e77269211e32ddffff1d5.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[터치드(TOUCHED) / Purple (2nd pressing, Dark Purple Colored Vinyl, 2024 RSD Korea "First") *4월 22일 오후 3시 판매 / 4월 26일부터 발송이 시작됩니다.]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=22933&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=22933&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Mon, 22 Apr 2024 06:11:39 GMT</pubDate>
+            <content:encoded><![CDATA[49,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202310/a52cf9d182ae004ccb7daf9a67271dcf.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[확인(HWAKIN) / 칸(KHAN) (180g White Vinyl, 2024 RSD Korea "First") *예약상품 (4월 26일부터 발송이 시작됩니다.)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=25128&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=25128&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Mon, 22 Apr 2024 06:11:39 GMT</pubDate>
+            <content:encoded><![CDATA[49,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202404/dbd4257467cb4d91d70e8c59b95c3acc.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[toe / The Future Is Now (Green & Yellow Color-In-Color 10" Vinyl, 24x48 Poster Insert) *예약상품 (4월말 배송 예정)]]></title>
@@ -94,14 +102,6 @@
             <pubDate>Sun, 14 Apr 2024 14:26:51 GMT</pubDate>
             <content:encoded><![CDATA[51,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202404/0b41cbc4ee4155b95d7c627912e2d8e1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Furui Riho / Green Light (Clear Yellow Vinyl) *예약상품 (6월 중순 배송 예정)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=25056&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=25056&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Sun, 14 Apr 2024 14:26:51 GMT</pubDate>
-            <content:encoded><![CDATA[51,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202404/62412053f2dc4b673beb24417ffb48eb.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
