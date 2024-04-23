@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 Apr 2024 15:10:32 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Apr 2024 16:13:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -104,6 +104,22 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202404/c02d736879ad11bf394efc313c40c588.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Nujabes / Other Side of Phase (12" Vinyl) (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=25178&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=25178&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Tue, 23 Apr 2024 16:11:18 GMT</pubDate>
+            <content:encoded><![CDATA[25,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202404/0ae815e44fca8aa36bacb99078ef55e4.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Laufey / Bewitched: The Goddess Edition (2LP Box Pack, Navy Blue Vinyl, Booklet, Board Game) *구매시 유의사항을 확인하세요./ 4월 26일부터 배송 (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=25177&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=25177&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Tue, 23 Apr 2024 16:11:18 GMT</pubDate>
+            <content:encoded><![CDATA[55,900원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202404/79bf889f6c8c37a92dc140162b3e1c03.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Tom Verlaine / Souvenir From A Dream : The Tom Verlaine Albums (1979-1984) (4LP Clear Vinyl Box Set, 2024 RSD Exclusive, 2300세트 한정) (김밥레코즈 ─ Vinyl)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=25175&amp;cate_no=25&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=25175&amp;cate_no=25&amp;display_group=1</guid>
@@ -182,22 +198,6 @@
             <pubDate>Tue, 23 Apr 2024 05:08:42 GMT</pubDate>
             <content:encoded><![CDATA[51,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202404/b9bfe689089df755bde909d29b43e525.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Christian McBride & Edgar Meyer / But Who's Gonna Play The Melody? (2LP, 2024 RSD) (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=25162&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=25162&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Tue, 23 Apr 2024 05:08:42 GMT</pubDate>
-            <content:encoded><![CDATA[63,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202404/9bdc85dd9e6e8eec2575f427f97e2561.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Stars / Five Ghosts (with The Seance EP) (2LP, Coloured Vinyl, 2024 RSD) (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=25161&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=25161&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Tue, 23 Apr 2024 14:07:53 GMT</pubDate>
-            <content:encoded><![CDATA[59,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202404/2826867c1abea17cfdfab3e41329ef9b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Mei Semones / Kabutomushi (Cassette) (김밥레코즈 ─ Cassette)]]></title>
@@ -392,6 +392,14 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202301/76ed2f51d9b2e9ccdf0bb72f5631e0d5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Laufey / Bewitched: The Goddess Edition (2LP Box Pack, Navy Blue Vinyl, Booklet, Board Game) *구매시 유의사항을 확인하세요./ 4월 26일부터 배송 (김밥레코즈 ─ Pre-Order)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=25177&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=25177&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Tue, 23 Apr 2024 16:11:36 GMT</pubDate>
+            <content:encoded><![CDATA[55,900원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202404/79bf889f6c8c37a92dc140162b3e1c03.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Andre 3000 / New Blue Sun (2CD) *예약 주문 (5월 3일 이후 배송이 진행될 예정입니다.) (김밥레코즈 ─ Pre-Order)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=25052&amp;cate_no=42&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=25052&amp;cate_no=42&amp;display_group=1</guid>
@@ -478,14 +486,6 @@
             <pubDate>Fri, 19 Apr 2024 15:09:36 GMT</pubDate>
             <content:encoded><![CDATA[34,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202403/79e6f256048093839e5d11477fd2f614.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[toe / Our Latest Number (Black & White Half-And-Half Vinyl, Obi, Screenprinted B-side) *예약상품 (4월말 배송 예정) (김밥레코즈 ─ Pre-Order)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=24842&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=24842&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Fri, 19 Apr 2024 15:09:36 GMT</pubDate>
-            <content:encoded><![CDATA[34,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202403/42f4aa8aa18fd1f1cea3dcc7140ced38.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Brel, Brassens / Les Voisins Magnifiques (5CD) *2023 블랙프라이데이 할인 (김밥레코즈 ─ Bargain Bin)]]></title>
