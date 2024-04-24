@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ CD</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 Apr 2024 04:12:28 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Apr 2024 05:12:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Soulman / Echoes (CD, Digipak)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=25179&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=25179&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Wed, 24 Apr 2024 05:09:57 GMT</pubDate>
+            <content:encoded><![CDATA[16,900원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202404/344d3bb23f393ef3c1d0241b3f83dab0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Roger Waters / The Pros And Cons Of Hitch Hiking (CD, US Import) *미국수입 시디 할인전]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=25111&amp;cate_no=24&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Mon, 22 Apr 2024 12:15:00 GMT</pubDate>
             <content:encoded><![CDATA[22,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202404/5aed707021b9f8ec59d90ab478210ad9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[King Crimson / The Elements (2019 Tour Box) (2CD + 28p 부클릿, 하드커버 책자)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=25087&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=25087&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Tue, 23 Apr 2024 05:08:34 GMT</pubDate>
-            <content:encoded><![CDATA[22,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202404/c02d736879ad11bf394efc313c40c588.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
