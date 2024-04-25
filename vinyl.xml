@@ -4,7 +4,7 @@
         <title>김밥레코즈 ─ Vinyl</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 Apr 2024 06:13:16 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Apr 2024 07:11:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,14 +22,6 @@
             <pubDate>Wed, 24 Apr 2024 08:11:48 GMT</pubDate>
             <content:encoded><![CDATA[46,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202404/97c2bea574490273f50ad970cac3527b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Drop Nineteens / Delaware (180g Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=25191&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=25191&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Wed, 24 Apr 2024 08:11:48 GMT</pubDate>
-            <content:encoded><![CDATA[44,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202404/d561cf5ae2f5e24152ac5e1c327f66f6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Yard Act / The Overload (Transparent Green Vinyl, Indie Exclusive Limited Edition)]]></title>
@@ -102,6 +94,14 @@
             <pubDate>Thu, 25 Apr 2024 06:11:28 GMT</pubDate>
             <content:encoded><![CDATA[55,900원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202404/79bf889f6c8c37a92dc140162b3e1c03.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Tom Verlaine / Souvenir From A Dream : The Tom Verlaine Albums (1979-1984) (4LP Clear Vinyl Box Set, 2024 RSD Exclusive, 2300세트 한정)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=25175&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=25175&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Thu, 25 Apr 2024 07:09:23 GMT</pubDate>
+            <content:encoded><![CDATA[157,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202404/447b7cc00f1d05046b8534fd4249fba9.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
