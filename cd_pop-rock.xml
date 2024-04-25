@@ -4,9 +4,33 @@
         <title>김밥레코즈 ─ CD ─ Pop/Rock</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 25 Apr 2024 07:11:10 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Apr 2024 08:13:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Yard Act / Where's My Utopia? (CD, Digipak)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=25205&amp;cate_no=30&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=25205&amp;cate_no=30&amp;display_group=1</guid>
+            <pubDate>Thu, 25 Apr 2024 08:12:00 GMT</pubDate>
+            <content:encoded><![CDATA[27,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202403/a771e2233d710c04bf06249001a70908.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Police / Greatest Hits (CD, EU Import) *한정수량 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=25204&amp;cate_no=30&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=25204&amp;cate_no=30&amp;display_group=1</guid>
+            <pubDate>Thu, 25 Apr 2024 08:12:00 GMT</pubDate>
+            <content:encoded><![CDATA[15,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202404/8fd5af3fa95211a34dc4514e78a71097.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Cure / The Head On the Door (CD, EU Import) *한정수량 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=25203&amp;cate_no=30&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=25203&amp;cate_no=30&amp;display_group=1</guid>
+            <pubDate>Thu, 25 Apr 2024 08:12:00 GMT</pubDate>
+            <content:encoded><![CDATA[15,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202404/3817861ef1b25911ada1409ae8309863.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[The Cure / Seventeen Seconds (CD, EU Import) *한정수량 할인]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=25202&amp;cate_no=30&amp;display_group=1</link>
@@ -78,30 +102,6 @@
             <pubDate>Wed, 24 Apr 2024 07:08:56 GMT</pubDate>
             <content:encoded><![CDATA[24,900원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202404/7ccd940aeb9bcc2c2ebc46557086831a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Liam Gallagher / Knebworth 22 (CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=25182&amp;cate_no=30&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=25182&amp;cate_no=30&amp;display_group=1</guid>
-            <pubDate>Wed, 24 Apr 2024 07:08:56 GMT</pubDate>
-            <content:encoded><![CDATA[22,300원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202404/6b449a85800ae3f8ff702aef3bb47a19.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Ana Frango Eletrico / Me Chama De Gato Que Eu Sou Sua (CD, Digipak)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=25113&amp;cate_no=30&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=25113&amp;cate_no=30&amp;display_group=1</guid>
-            <pubDate>Fri, 19 Apr 2024 08:13:02 GMT</pubDate>
-            <content:encoded><![CDATA[27,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202310/d36dd6c136535bb4b5bd0a11ef8e06a7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Weezer / Pinkerton (CD, US Import) *미국수입 시디 할인전]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=25112&amp;cate_no=30&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=25112&amp;cate_no=30&amp;display_group=1</guid>
-            <pubDate>Thu, 18 Apr 2024 09:09:41 GMT</pubDate>
-            <content:encoded><![CDATA[14,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202404/d5587f8ae94443cfcb2ff27bfa1a95e0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
