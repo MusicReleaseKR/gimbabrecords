@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ CD</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 Apr 2024 09:11:42 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Apr 2024 10:10:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Kinoko Teikoku きのこ帝国 / eureka (CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=25216&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=25216&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Fri, 26 Apr 2024 10:08:19 GMT</pubDate>
+            <content:encoded><![CDATA[30,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202404/d3e66be80b8d1a0d17b2b94cf56ff138.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Yard Act / Where's My Utopia? (CD, Digipak)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=25205&amp;cate_no=24&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Thu, 25 Apr 2024 07:09:16 GMT</pubDate>
             <content:encoded><![CDATA[15,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202404/0b0c2475f148c371cddf70c8adee2215.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Green Day / Saviors (CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=25184&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=25184&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Wed, 24 Apr 2024 07:08:05 GMT</pubDate>
-            <content:encoded><![CDATA[24,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202402/bb55b98b12f73e9a36d01b7db1181f89.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
