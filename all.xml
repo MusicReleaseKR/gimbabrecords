@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 Apr 2024 12:16:11 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Apr 2024 13:10:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -184,20 +184,20 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202404/867306fc3c007be4bac2c164358d1ac6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Various Artists (Jim O'Rourke 외) / All Kinds Of People ~Love Burt Bacharach~ (Vinyl) (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=25194&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=25194&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Fri, 26 Apr 2024 13:08:19 GMT</pubDate>
+            <content:encoded><![CDATA[49,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202404/1ec85d827cbc645dfe546be8fad4e427.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Various Artists / 아름다운 사람아 아름다운 노래를 (Crystal Vinyl, Limited Edition) (김밥레코즈 ─ Vinyl)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=25193&amp;cate_no=25&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=25193&amp;cate_no=25&amp;display_group=1</guid>
             <pubDate>Wed, 24 Apr 2024 09:08:26 GMT</pubDate>
             <content:encoded><![CDATA[44,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202404/78fcc4c9365501c165fe4976453f8954.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Fabiano do Nascimento & Sam Gendel /The Room (Green Vinyl) (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=25192&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=25192&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Wed, 24 Apr 2024 08:11:48 GMT</pubDate>
-            <content:encoded><![CDATA[46,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202404/97c2bea574490273f50ad970cac3527b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Yard Act / Where's My Utopia? (CD, Digipak) (김밥레코즈 ─ Cassette)]]></title>
