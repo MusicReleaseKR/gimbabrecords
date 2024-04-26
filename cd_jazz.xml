@@ -4,9 +4,33 @@
         <title>김밥레코즈 ─ CD ─ Jazz</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 Apr 2024 10:10:35 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Apr 2024 11:10:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[O'Donel Levy / Dawn Of A New Day (CD, Japan Import, Groove Merchant Mo' Groovy Collection)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=25222&amp;cate_no=46&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=25222&amp;cate_no=46&amp;display_group=1</guid>
+            <pubDate>Fri, 26 Apr 2024 11:09:16 GMT</pubDate>
+            <content:encoded><![CDATA[12,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202404/73814801b4cb36dbf941112ad8ae389d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[O'Donel Levy / Everything I Do Gonna Be Funky (CD, Japan Import, Groove Merchant Mo' Groovy Collection)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=25221&amp;cate_no=46&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=25221&amp;cate_no=46&amp;display_group=1</guid>
+            <pubDate>Fri, 26 Apr 2024 11:09:16 GMT</pubDate>
+            <content:encoded><![CDATA[12,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202404/961ddda32a42558344fb635072b1ca1f.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[O'Donel Levy / Time Has Changed (CD, Japan Import, Groove Merchant Mo' Groovy Collection)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=25220&amp;cate_no=46&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=25220&amp;cate_no=46&amp;display_group=1</guid>
+            <pubDate>Fri, 26 Apr 2024 11:09:16 GMT</pubDate>
+            <content:encoded><![CDATA[12,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202404/ca5f15932804676f880f090f4579fcd0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Herbie Hancock / Head Hunters (CD, US Import) *미국수입 시디 할인전]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=25102&amp;cate_no=46&amp;display_group=1</link>
@@ -78,30 +102,6 @@
             <pubDate>Tue, 12 Mar 2024 07:09:06 GMT</pubDate>
             <content:encoded><![CDATA[26,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202403/04dbcac4d5b5016643402cbcfd4407c1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Opa / Back Home (CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=24808&amp;cate_no=46&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=24808&amp;cate_no=46&amp;display_group=1</guid>
-            <pubDate>Mon, 11 Mar 2024 07:09:44 GMT</pubDate>
-            <content:encoded><![CDATA[22,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202403/114001fd0a4a4d07ddfa684a1cd9a605.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Agustin Pereyra Lucena / Agustin Pereyra Lucena (CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=24787&amp;cate_no=46&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=24787&amp;cate_no=46&amp;display_group=1</guid>
-            <pubDate>Thu, 07 Mar 2024 11:08:14 GMT</pubDate>
-            <content:encoded><![CDATA[22,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202403/7238a3c2fa3e28781a78294ebc4dccd4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Charles Mingus / Presents Charles Mingus (Remastered CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=24738&amp;cate_no=46&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=24738&amp;cate_no=46&amp;display_group=1</guid>
-            <pubDate>Thu, 29 Feb 2024 10:09:13 GMT</pubDate>
-            <content:encoded><![CDATA[21,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202402/6fd2d1310fe4329978d0759734c6e17b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
