@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 26 Apr 2024 13:10:28 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Apr 2024 14:09:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Laufey / Bewitched: The Goddess Edition (CD, 4곡의 신곡 추가) (김밥레코즈 ─ CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=25223&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=25223&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Fri, 26 Apr 2024 14:07:40 GMT</pubDate>
+            <content:encoded><![CDATA[25,400원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202404/3c6328d1abdf443a93a4adf0a6cf4fce.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[O'Donel Levy / Dawn Of A New Day (CD, Japan Import, Groove Merchant Mo' Groovy Collection) (김밥레코즈 ─ CD)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=25222&amp;cate_no=24&amp;display_group=1</link>
@@ -96,14 +104,6 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202404/175855605c9df18f4094ec97c298fd7f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[The Cure / 4: 13 Dream (CD, EU Import) *한정수량 할인 (김밥레코즈 ─ CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=25200&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=25200&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Thu, 25 Apr 2024 08:11:17 GMT</pubDate>
-            <content:encoded><![CDATA[15,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202404/cd41d08ee357218b457636017e882f73.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[천진우 / 굴다리 (12" Marble Colored Vinyl) *예약상품 (4월 30일부터 배송) (김밥레코즈 ─ Vinyl)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=25217&amp;cate_no=25&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=25217&amp;cate_no=25&amp;display_group=1</guid>
@@ -184,20 +184,20 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202404/867306fc3c007be4bac2c164358d1ac6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Various Artists (Jim O'Rourke 외) / All Kinds Of People ~Love Burt Bacharach~ (Vinyl) (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=25194&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=25194&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Fri, 26 Apr 2024 13:08:19 GMT</pubDate>
-            <content:encoded><![CDATA[49,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202404/1ec85d827cbc645dfe546be8fad4e427.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Various Artists / 아름다운 사람아 아름다운 노래를 (Crystal Vinyl, Limited Edition) (김밥레코즈 ─ Vinyl)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=25193&amp;cate_no=25&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=25193&amp;cate_no=25&amp;display_group=1</guid>
             <pubDate>Wed, 24 Apr 2024 09:08:26 GMT</pubDate>
             <content:encoded><![CDATA[44,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202404/78fcc4c9365501c165fe4976453f8954.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Fabiano do Nascimento & Sam Gendel /The Room (Green Vinyl) (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=25192&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=25192&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Fri, 26 Apr 2024 14:07:48 GMT</pubDate>
+            <content:encoded><![CDATA[46,500원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202404/97c2bea574490273f50ad970cac3527b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Yard Act / Where's My Utopia? (CD, Digipak) (김밥레코즈 ─ Cassette)]]></title>
@@ -680,6 +680,14 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202402/de33e5f6b24508dd090652715b6265e2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Laufey / Bewitched: The Goddess Edition (CD, 4곡의 신곡 추가) (김밥레코즈 ─ CD ─ Pop/Rock)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=25223&amp;cate_no=30&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=25223&amp;cate_no=30&amp;display_group=1</guid>
+            <pubDate>Fri, 26 Apr 2024 14:08:32 GMT</pubDate>
+            <content:encoded><![CDATA[25,400원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202404/3c6328d1abdf443a93a4adf0a6cf4fce.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Yard Act / Where's My Utopia? (CD, Digipak) (김밥레코즈 ─ CD ─ Pop/Rock)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=25205&amp;cate_no=30&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=25205&amp;cate_no=30&amp;display_group=1</guid>
@@ -766,14 +774,6 @@
             <pubDate>Wed, 24 Apr 2024 07:08:56 GMT</pubDate>
             <content:encoded><![CDATA[24,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202402/bb55b98b12f73e9a36d01b7db1181f89.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Liam Gallagher & John Squire / Liam Gallagher & John Squire (CD) (김밥레코즈 ─ CD ─ Pop/Rock)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=25183&amp;cate_no=30&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=25183&amp;cate_no=30&amp;display_group=1</guid>
-            <pubDate>Wed, 24 Apr 2024 07:08:56 GMT</pubDate>
-            <content:encoded><![CDATA[24,900원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202404/7ccd940aeb9bcc2c2ebc46557086831a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Yeule / Glitch Princess (CD) (김밥레코즈 ─ CD ─ Electronic/Dance)]]></title>
@@ -1064,6 +1064,14 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202403/95da3f1eefc8e9dcb8111c706a4237f1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Laufey / Bewitched: The Goddess Edition (CD, 4곡의 신곡 추가) (김밥레코즈 ─ CD ─ Jazz)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=25223&amp;cate_no=46&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=25223&amp;cate_no=46&amp;display_group=1</guid>
+            <pubDate>Fri, 26 Apr 2024 14:09:01 GMT</pubDate>
+            <content:encoded><![CDATA[25,400원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202404/3c6328d1abdf443a93a4adf0a6cf4fce.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[O'Donel Levy / Dawn Of A New Day (CD, Japan Import, Groove Merchant Mo' Groovy Collection) (김밥레코즈 ─ CD ─ Jazz)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=25222&amp;cate_no=46&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=25222&amp;cate_no=46&amp;display_group=1</guid>
@@ -1150,14 +1158,6 @@
             <pubDate>Fri, 15 Mar 2024 10:09:26 GMT</pubDate>
             <content:encoded><![CDATA[25,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202403/b9e73d5e0054d0ed87135d059f1c79a3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[O'Donel Levy / Simba (CD, EU Import) (김밥레코즈 ─ CD ─ Jazz)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=24821&amp;cate_no=46&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=24821&amp;cate_no=46&amp;display_group=1</guid>
-            <pubDate>Tue, 12 Mar 2024 07:09:06 GMT</pubDate>
-            <content:encoded><![CDATA[26,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202403/04dbcac4d5b5016643402cbcfd4407c1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[The Lions / Soul Riot (CD) (김밥레코즈 ─ CD ─ Reggae)]]></title>
