@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 27 Apr 2024 15:09:20 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Apr 2024 16:10:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Sun Ra / Singles (The Definitive 45s Collection) (3CD) *온라인 매장 한정 할인 (김밥레코즈 ─ CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=25239&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=25239&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Sat, 27 Apr 2024 16:08:18 GMT</pubDate>
+            <content:encoded><![CDATA[25,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202404/04534e39839f2c15386d1b992b113108.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Richard Groove Holmes / New Groove (CD, JPN Import) (김밥레코즈 ─ CD)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=25238&amp;cate_no=24&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Sat, 27 Apr 2024 08:09:57 GMT</pubDate>
             <content:encoded><![CDATA[19,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202404/b935248d30304f928243623700840040.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Charli XCX / Charli (CD, Digipak, UK Import) (김밥레코즈 ─ CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=25226&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=25226&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Sat, 27 Apr 2024 15:07:12 GMT</pubDate>
-            <content:encoded><![CDATA[20,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202404/bea18092874f32529421652d2d8c590a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[천진우 / 굴다리 (12" Marble Colored Vinyl) *예약상품 (4월 30일부터 배송) (김밥레코즈 ─ Vinyl)]]></title>
@@ -488,7 +488,7 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202404/f4228bf0f2a2d0dfbf444787e2b64601.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Brel, Brassens / Les Voisins Magnifiques (5CD) *2023 블랙프라이데이 할인 (김밥레코즈 ─ Bargain Bin)]]></title>
+            <title><![CDATA[Jacques Brel & Georges Brassens / Les Voisins Magnifiques (5CD) *2023 블랙프라이데이 할인 (김밥레코즈 ─ Bargain Bin)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=25077&amp;cate_no=43&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=25077&amp;cate_no=43&amp;display_group=1</guid>
             <pubDate>Tue, 16 Apr 2024 11:07:43 GMT</pubDate>
@@ -1064,6 +1064,14 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202403/95da3f1eefc8e9dcb8111c706a4237f1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Sun Ra / Singles (The Definitive 45s Collection) (3CD) *온라인 매장 한정 할인 (김밥레코즈 ─ CD ─ Jazz)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=25239&amp;cate_no=46&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=25239&amp;cate_no=46&amp;display_group=1</guid>
+            <pubDate>Sat, 27 Apr 2024 16:09:35 GMT</pubDate>
+            <content:encoded><![CDATA[25,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202404/04534e39839f2c15386d1b992b113108.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Richard Groove Holmes / New Groove (CD, JPN Import) (김밥레코즈 ─ CD ─ Jazz)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=25238&amp;cate_no=46&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=25238&amp;cate_no=46&amp;display_group=1</guid>
@@ -1150,14 +1158,6 @@
             <pubDate>Sat, 27 Apr 2024 07:08:15 GMT</pubDate>
             <content:encoded><![CDATA[15,600원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202404/8dc123fcd84e31d3a9800bff5cef7073.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[George Benson / Body Talk (CD, Music On CD series, Super-Jewel Case) *온라인 한정 할인 (김밥레코즈 ─ CD ─ Jazz)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=25224&amp;cate_no=46&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=25224&amp;cate_no=46&amp;display_group=1</guid>
-            <pubDate>Fri, 26 Apr 2024 15:10:20 GMT</pubDate>
-            <content:encoded><![CDATA[12,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202404/08a1a159d06405d2d442d2ec732fa582.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[The Lions / Soul Riot (CD) (김밥레코즈 ─ CD ─ Reggae)]]></title>
@@ -1360,7 +1360,7 @@
             <enclosure url="http://gimbabrecords.com/web/product/medium/202310/d36dd6c136535bb4b5bd0a11ef8e06a7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Brel, Brassens / Les Voisins Magnifiques (5CD) *2023 블랙프라이데이 할인 (김밥레코즈 ─ CD ─ World)]]></title>
+            <title><![CDATA[Jacques Brel & Georges Brassens / Les Voisins Magnifiques (5CD) *2023 블랙프라이데이 할인 (김밥레코즈 ─ CD ─ World)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=25077&amp;cate_no=79&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=25077&amp;cate_no=79&amp;display_group=1</guid>
             <pubDate>Tue, 16 Apr 2024 11:08:44 GMT</pubDate>
