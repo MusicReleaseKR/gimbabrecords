@@ -4,9 +4,25 @@
         <title>김밥레코즈 ─ CD ─ Jazz</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 27 Apr 2024 07:09:07 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Apr 2024 08:12:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Branford Marsalis Quartet / The Secret Between The Shadow And The Soul (CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=25229&amp;cate_no=46&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=25229&amp;cate_no=46&amp;display_group=1</guid>
+            <pubDate>Sat, 27 Apr 2024 08:11:17 GMT</pubDate>
+            <content:encoded><![CDATA[18,700원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202404/b316af1855738dcb315bae8c7e9bd466.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Antonio Sanchez / New Life (CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=25228&amp;cate_no=46&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=25228&amp;cate_no=46&amp;display_group=1</guid>
+            <pubDate>Sat, 27 Apr 2024 08:11:17 GMT</pubDate>
+            <content:encoded><![CDATA[19,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202404/b935248d30304f928243623700840040.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Miles Davis & Robert Glasper / Everything's Beautiful (CD, 국내반) *절판된 시디의 마지막 재고]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=25227&amp;cate_no=46&amp;display_group=1</link>
@@ -86,22 +102,6 @@
             <pubDate>Wed, 03 Apr 2024 10:10:39 GMT</pubDate>
             <content:encoded><![CDATA[12,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202404/90ee74895ba7cba2a8a39c6d22435b3c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Jaco Pastorius / Word Of Mouth (CD) *한정수량 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=24989&amp;cate_no=46&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=24989&amp;cate_no=46&amp;display_group=1</guid>
-            <pubDate>Wed, 03 Apr 2024 10:10:39 GMT</pubDate>
-            <content:encoded><![CDATA[12,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/201805/10871_shop1_959499.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Terrace Martin, Robert Glasper, 9th Wonder, Kamasi Washington / Dinner Party & Dessert (CD, DIgipak)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=24938&amp;cate_no=46&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=24938&amp;cate_no=46&amp;display_group=1</guid>
-            <pubDate>Fri, 22 Mar 2024 10:09:21 GMT</pubDate>
-            <content:encoded><![CDATA[23,500원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202403/fad65e88d70519e70489334f6703fb8e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
