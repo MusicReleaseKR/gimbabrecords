@@ -4,7 +4,7 @@
         <title>김밥레코즈 ─ Vinyl</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 Apr 2024 15:10:56 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Apr 2024 16:12:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,14 +22,6 @@
             <pubDate>Fri, 26 Apr 2024 10:08:27 GMT</pubDate>
             <content:encoded><![CDATA[38,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202404/e0c52f3b2fc3fc55793a43bef27cb09c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Travis Scott / Utopia (Red Vinyl, 2LP, Limited Edition)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=25215&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=25215&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Fri, 26 Apr 2024 10:08:27 GMT</pubDate>
-            <content:encoded><![CDATA[60,800원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202404/294b5a0a1a85af0dc865eb961f947ce3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Travis Scott / Utopia (Blue Vinyl, 2LP, Limited Edition)]]></title>
@@ -102,6 +94,14 @@
             <pubDate>Sun, 28 Apr 2024 07:07:35 GMT</pubDate>
             <content:encoded><![CDATA[39,500원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202404/a1d817e1450d288d4a167b861328e9ce.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[AC/DC / High Voltage (Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=25189&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=25189&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Mon, 29 Apr 2024 16:10:27 GMT</pubDate>
+            <content:encoded><![CDATA[32,000원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202404/0d740b1b1a7ab92d77dca5819b30635a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
