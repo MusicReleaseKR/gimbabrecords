@@ -4,7 +4,7 @@
         <title>김밥레코즈 ─ Vinyl ─ Korean</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 Apr 2024 13:11:24 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Apr 2024 14:11:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -46,14 +46,6 @@
             <pubDate>Tue, 23 Apr 2024 04:11:35 GMT</pubDate>
             <content:encoded><![CDATA[28,000원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202404/02e621a501f76f41a43ab81c9f7851f6.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[소란(SORAN) / Polar (Vinyl, 투명주황색 레코드, 2024 RSD Korea "First") *잔여수량 판매]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=25126&amp;cate_no=52&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=25126&amp;cate_no=52&amp;display_group=1</guid>
-            <pubDate>Fri, 26 Apr 2024 07:12:23 GMT</pubDate>
-            <content:encoded><![CDATA[38,000원]]></content:encoded>
-            <enclosure url="http://gimbabrecords.com/web/product/medium/202404/9cd1844821f48020fa83d223df5a9c73.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이준형 / UTOPIA (180g Black Vinyl, 2024 RSD Korea "First")]]></title>
@@ -102,6 +94,14 @@
             <pubDate>Wed, 17 Apr 2024 12:16:13 GMT</pubDate>
             <content:encoded><![CDATA[46,800원]]></content:encoded>
             <enclosure url="http://gimbabrecords.com/web/product/medium/202403/bd2a0d18e802a6be3ab089ad8840a201.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[산울림 / 어린이에게 보내는 산울림의 동요 선물 제3집 : 이게 웬 긴 꼬리냐 (140g 스모키 그린 Vinyl, Limited Edition)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=24917&amp;cate_no=52&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=24917&amp;cate_no=52&amp;display_group=1</guid>
+            <pubDate>Mon, 29 Apr 2024 14:11:05 GMT</pubDate>
+            <content:encoded><![CDATA[46,800원]]></content:encoded>
+            <enclosure url="http://gimbabrecords.com/web/product/medium/202403/4c5d5f3e75e7ebe89df500ad001d2f70.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
