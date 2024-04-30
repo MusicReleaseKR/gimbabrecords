@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ CD ─ Japanese</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 Apr 2024 09:11:41 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Apr 2024 10:11:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Akina Nakamori / Crimson +1 (2CD, 2023 Lacquer Master Sound, Special Edition)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=25256&amp;cate_no=90&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=25256&amp;cate_no=90&amp;display_group=1</guid>
+            <pubDate>Tue, 30 Apr 2024 10:11:27 GMT</pubDate>
+            <content:encoded><![CDATA[30,500원]]></content:encoded>
+            <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202404/5f376a53948284eff32ce7a8dfa4b3dd.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Various Artists / City Music Tokyo (Multiple) (CD, Gatefold sleeve)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=25243&amp;cate_no=90&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Mon, 19 Feb 2024 07:11:42 GMT</pubDate>
             <content:encoded><![CDATA[37,500원]]></content:encoded>
             <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202402/d6a415646ebc261374a2b00ec47df845.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Ryokuoushoku Shakai 緑黄色社会 / Singalong (CD, JPN Import)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=24617&amp;cate_no=90&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=24617&amp;cate_no=90&amp;display_group=1</guid>
-            <pubDate>Mon, 19 Feb 2024 07:11:42 GMT</pubDate>
-            <content:encoded><![CDATA[37,500원]]></content:encoded>
-            <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202402/d90821baba0a74b364c08151542c6737.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
