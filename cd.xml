@@ -4,9 +4,25 @@
         <title>김밥레코즈 ─ CD</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 Apr 2024 07:11:13 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Apr 2024 08:13:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Novo Amor / Collapse List (CD, Gatefold sleeve)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=25244&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=25244&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Tue, 30 Apr 2024 08:11:47 GMT</pubDate>
+            <content:encoded><![CDATA[25,500원]]></content:encoded>
+            <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202404/bcacc4804304f8d18616a73015bae1f7.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Various Artists / City Music Tokyo (Multiple) (CD, Gatefold sleeve)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=25243&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=25243&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Tue, 30 Apr 2024 08:11:47 GMT</pubDate>
+            <content:encoded><![CDATA[33,000원]]></content:encoded>
+            <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202404/439aa791608ff70b5148ea53172b8e81.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Sun Ra / Singles (The Definitive 45s Collection) (3CD) *온라인 매장 한정 할인]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=25239&amp;cate_no=24&amp;display_group=1</link>
@@ -86,22 +102,6 @@
             <pubDate>Sat, 27 Apr 2024 17:06:39 GMT</pubDate>
             <content:encoded><![CDATA[20,500원]]></content:encoded>
             <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202404/bea18092874f32529421652d2d8c590a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Aaron Frazer / Introducing... (CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=25225&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=25225&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Sun, 28 Apr 2024 05:09:00 GMT</pubDate>
-            <content:encoded><![CDATA[18,600원]]></content:encoded>
-            <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202404/ff2c06f890ff0e4fb1c7b83211a34e65.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[George Benson / Body Talk (CD, Music On CD series, Super-Jewel Case) *온라인 한정 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=25224&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=25224&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Sun, 28 Apr 2024 05:09:00 GMT</pubDate>
-            <content:encoded><![CDATA[12,500원]]></content:encoded>
-            <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202404/08a1a159d06405d2d442d2ec732fa582.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
