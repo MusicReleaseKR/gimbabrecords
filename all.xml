@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 Apr 2024 10:11:41 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Apr 2024 11:10:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -80,14 +80,6 @@
             <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202404/04534e39839f2c15386d1b992b113108.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Jose James & Jef Neve / For All We Know (CD) *온라인 매장 한정 할인 (김밥레코즈 ─ CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=25236&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=25236&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Sat, 27 Apr 2024 14:06:50 GMT</pubDate>
-            <content:encoded><![CDATA[15,500원]]></content:encoded>
-            <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202404/990fa8e9955fb8a173425dc6d16b9554.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Enrico Rava & Dino Saluzzi Quintet / Volver (CD) *온라인 매장 한정 할인 (김밥레코즈 ─ CD)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=25235&amp;cate_no=24&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=25235&amp;cate_no=24&amp;display_group=1</guid>
@@ -102,6 +94,14 @@
             <pubDate>Sat, 27 Apr 2024 10:09:47 GMT</pubDate>
             <content:encoded><![CDATA[16,500원]]></content:encoded>
             <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202404/fd2b547db83b35d6b5061bc904258f40.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Valerie June / The Moon And Stars: Prescriptions For Dreamers (CD) *온라인 매장 한정 할인 (김밥레코즈 ─ CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=25233&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=25233&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Tue, 30 Apr 2024 11:08:20 GMT</pubDate>
+            <content:encoded><![CDATA[11,000원]]></content:encoded>
+            <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202404/8c2d8ff3b6cf86628230aac64f5e5426.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[김광석 / 다시 부르기 2 (180g Vinyl, 디지털 고음질 리마스터링) *예약상품 (11월 13일 발매 예정, 5월 3일 주문 마감) (김밥레코즈 ─ Vinyl)]]></title>
@@ -184,20 +184,20 @@
             <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202404/e0c52f3b2fc3fc55793a43bef27cb09c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Travis Scott / Utopia (Blue Vinyl, 2LP, Limited Edition) (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=25214&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=25214&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Fri, 26 Apr 2024 10:08:27 GMT</pubDate>
-            <content:encoded><![CDATA[60,800원]]></content:encoded>
-            <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202404/8f882534abb859eeca2f37db749e2a3b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Sault / Today & Tomorrow (Vinyl, Limited Edition) (김밥레코즈 ─ Vinyl)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=25212&amp;cate_no=25&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=25212&amp;cate_no=25&amp;display_group=1</guid>
             <pubDate>Fri, 26 Apr 2024 10:08:27 GMT</pubDate>
             <content:encoded><![CDATA[43,500원]]></content:encoded>
             <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202404/6bd20e3e4d40f03316c090f3017afa12.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Junko Ohashi & Minoya Central Station / Full House (Milky Pink Vinyl) *예약상품 (8월 중순 배송 예정) (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=25206&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=25206&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Tue, 30 Apr 2024 11:08:28 GMT</pubDate>
+            <content:encoded><![CDATA[48,500원]]></content:encoded>
+            <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202404/867306fc3c007be4bac2c164358d1ac6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Ruru 루루 / 나의 XX을 도와줘 (Cassette, Red Shell) (김밥레코즈 ─ Cassette)]]></title>
