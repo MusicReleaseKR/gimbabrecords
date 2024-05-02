@@ -4,16 +4,16 @@
         <title>김밥레코즈 ─ Pre-Order</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 May 2024 11:09:51 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 May 2024 12:16:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[실리카겔 / 정규 2집 POWER ANDRE 99 (Vinyl, 2LP) *예약상품 (5월 22일 발매 예정, 5월 12일 주문 마감)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=25260&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=25260&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Thu, 02 May 2024 06:12:07 GMT</pubDate>
-            <content:encoded><![CDATA[77,200원]]></content:encoded>
-            <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202405/e1053af806df8a24c99fabfe9e4a5a56.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[씨잼 (C JAMM) / 킁 (180g Orange & Red Marbled Vinyl, Limited Edition) *예약상품 (배송 일정은 추후 업데이트 예정) / 1인 2매까지 구매 가능 / 별도의 입금기한 설정]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=25241&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=25241&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Tue, 30 Apr 2024 05:11:28 GMT</pubDate>
+            <content:encoded><![CDATA[48,500원]]></content:encoded>
+            <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202404/c4063041d0609a11f18798987a1b32c3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[루시 / Chapter Of Youth (Color Vinyl + 포스터 + 포토북 + 스티커 + 코스터 + 책갈피) *예약상품 (5월 10일 이후 배송) / 1인 1매만 구매가 가능하고, 무통장입금 결제의 경우 별도의 기한이 설정되어 있습니다.]]></title>
@@ -22,6 +22,14 @@
             <pubDate>Tue, 30 Apr 2024 13:09:31 GMT</pubDate>
             <content:encoded><![CDATA[55,000원]]></content:encoded>
             <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202404/a07585b416dccfcab7df3a7ffe3f0ff1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[실리카겔 / 정규 2집 POWER ANDRE 99 (Vinyl, 2LP) *예약상품 (5월 22일 발매 예정, 5월 12일 주문 마감)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=25260&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=25260&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Thu, 02 May 2024 06:12:07 GMT</pubDate>
+            <content:encoded><![CDATA[77,200원]]></content:encoded>
+            <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202405/e1053af806df8a24c99fabfe9e4a5a56.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[김광석 / 다시 부르기 2 (180g Vinyl, 디지털 고음질 리마스터링) *예약상품 (11월 13일 발매 예정, 5월 3일 주문 마감)]]></title>
@@ -62,14 +70,6 @@
             <pubDate>Mon, 29 Apr 2024 08:13:15 GMT</pubDate>
             <content:encoded><![CDATA[68,000원]]></content:encoded>
             <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202402/49b02b96c5e4daccfbb691b72cdfe797.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[씨잼 (C JAMM) / 킁 (180g Orange & Red Marbled Vinyl, Limited Edition) *예약상품 (배송 일정은 추후 업데이트 예정) / 1인 2매까지 구매 가능 / 별도의 입금기한 설정]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=25241&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=25241&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Tue, 30 Apr 2024 05:11:28 GMT</pubDate>
-            <content:encoded><![CDATA[48,500원]]></content:encoded>
-            <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202404/c4063041d0609a11f18798987a1b32c3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[씨잼 (C JAMM) / 킁 (180g Black Vinyl) *예약상품 (6월 18일부터 순차 배송)]]></title>
