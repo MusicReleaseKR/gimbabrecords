@@ -4,16 +4,24 @@
         <title>김밥레코즈 ─ Vinyl</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 May 2024 10:11:05 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 May 2024 11:09:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Portishead / Roseland NYC Live (Remastered Red Vinyl, 2LP, 25th Anniversary Deluxe Edition) *한정수량 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=25266&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=25266&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Fri, 03 May 2024 11:07:23 GMT</pubDate>
+            <content:encoded><![CDATA[62,500원]]></content:encoded>
+            <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/201711/664_shop1_437860.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[Kendrick Lamar / good kid, m.A.A.d city (Exclusive Black Ice Translucent Vinyl, 2LP, 10th Anniversary Edition, Limited) *한정수량 할인]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=25265&amp;cate_no=25&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=25265&amp;cate_no=25&amp;display_group=1</guid>
             <pubDate>Fri, 03 May 2024 10:09:05 GMT</pubDate>
             <content:encoded><![CDATA[49,500원]]></content:encoded>
-            <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202405/c10a432f1caead7dc0ab7bf9258ce17f.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202405/299d9fd16918c9dda8dadcafa740f178.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Bob Dylan / Time Out Of Mind (Clear Gold Vinyl, 2LP, National Album Day, Limited Edition) *한정수량 할인]]></title>
@@ -94,14 +102,6 @@
             <pubDate>Tue, 30 Apr 2024 10:09:33 GMT</pubDate>
             <content:encoded><![CDATA[35,100원]]></content:encoded>
             <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202404/35ee9225155af96a00d52b247543b231.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Maria Argiro Chiara / Closer (Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=25246&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=25246&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Tue, 30 Apr 2024 08:11:55 GMT</pubDate>
-            <content:encoded><![CDATA[37,000원]]></content:encoded>
-            <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202404/513c5babcaa04d18c3bc43bd4c3d2a3a.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
