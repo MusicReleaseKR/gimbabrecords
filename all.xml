@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 May 2024 16:11:35 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 May 2024 17:10:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -64,14 +64,6 @@
             <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202404/bcacc4804304f8d18616a73015bae1f7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Various Artists / City Music Tokyo (Multiple) (CD, Gatefold sleeve) (김밥레코즈 ─ CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=25243&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=25243&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Tue, 30 Apr 2024 08:11:47 GMT</pubDate>
-            <content:encoded><![CDATA[33,000원]]></content:encoded>
-            <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202404/439aa791608ff70b5148ea53172b8e81.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Sun Ra / Singles (The Definitive 45s Collection) (3CD) *온라인 매장 한정 할인 (김밥레코즈 ─ CD)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=25239&amp;cate_no=24&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=25239&amp;cate_no=24&amp;display_group=1</guid>
@@ -102,6 +94,14 @@
             <pubDate>Tue, 30 Apr 2024 11:08:20 GMT</pubDate>
             <content:encoded><![CDATA[11,000원]]></content:encoded>
             <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202404/8c2d8ff3b6cf86628230aac64f5e5426.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Stan Getz Quartet / Getz At The Gate (Live At The Village Gate, Nov. 26, 1961) (2CD) *온라인 매장 한정 할인 (김밥레코즈 ─ CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=25232&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=25232&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Fri, 03 May 2024 17:07:54 GMT</pubDate>
+            <content:encoded><![CDATA[28,500원]]></content:encoded>
+            <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202404/7669c55049bf7c62a846af76c276a82d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Portishead / Roseland NYC Live (Remastered Red Vinyl, 2LP, 25th Anniversary Deluxe Edition) *한정수량 할인 (김밥레코즈 ─ Vinyl)]]></title>
