@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ Pre-Order</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 04 May 2024 01:44:51 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 May 2024 02:19:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[POiSON GiRL FRiEND / Melting Moment (Vinyl) *예약상품 (5월 22일 이후 배송 예정)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=24718&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=24718&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Sat, 04 May 2024 02:17:50 GMT</pubDate>
+            <content:encoded><![CDATA[43,500원]]></content:encoded>
+            <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202402/d3e2fc9669364083f0c55535a56a842a.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Various Artists / Our Town: Jazz Fusion, Funky Pop & Bossa Gayo Tracks from Dong-A Records  동아기획 컴필레이션 (Pink Vinyl, 해외 판매용) *예약상품 (5월 22일 이후 배송 예정)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=24890&amp;cate_no=42&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Thu, 25 Apr 2024 15:08:39 GMT</pubDate>
             <content:encoded><![CDATA[48,500원]]></content:encoded>
             <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202404/867306fc3c007be4bac2c164358d1ac6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Ichiko Aoba + Jun Miyake + Tatsuhisa Yamamoto + Hitoshi Watanabe / Pneuma (Vinyl, 2LP) *예약상품 (7월말 배송 예정)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=24717&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=24717&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Mon, 29 Apr 2024 08:13:15 GMT</pubDate>
-            <content:encoded><![CDATA[68,000원]]></content:encoded>
-            <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202402/49b02b96c5e4daccfbb691b72cdfe797.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
