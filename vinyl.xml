@@ -4,7 +4,7 @@
         <title>김밥레코즈 ─ Vinyl</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 05 May 2024 08:11:58 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 May 2024 09:11:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,14 +22,6 @@
             <pubDate>Fri, 03 May 2024 10:09:05 GMT</pubDate>
             <content:encoded><![CDATA[39,500원]]></content:encoded>
             <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202405/8b2923f3dc69e00cfc7995859b82f515.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[OST (Ryuichi Sakamoto, Alva Noto, Bryce Dessner) / The Revenant 레버넌트 (Vinyl, 2LP)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=25263&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=25263&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Fri, 03 May 2024 10:09:05 GMT</pubDate>
-            <content:encoded><![CDATA[50,000원]]></content:encoded>
-            <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202405/12a2deef1e7c99257a77de71a657c225.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Funkadelic / Free Your Mind And Your Ass Will Follow (Blue Vinyl, Limited Edition)]]></title>
@@ -102,6 +94,14 @@
             <pubDate>Sat, 04 May 2024 02:17:32 GMT</pubDate>
             <content:encoded><![CDATA[37,000원]]></content:encoded>
             <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202404/513c5babcaa04d18c3bc43bd4c3d2a3a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Beths / Expert In A Dying Field (Evergreen Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=25245&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=25245&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Sun, 05 May 2024 09:09:51 GMT</pubDate>
+            <content:encoded><![CDATA[36,500원]]></content:encoded>
+            <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202404/ea57197c085d46e0977ba7b4eaa9be5c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
