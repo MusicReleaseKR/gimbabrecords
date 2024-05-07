@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ CD ─ Pop/Rock</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 May 2024 09:10:31 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 May 2024 10:11:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Thin Lizzy / Live And Dangerous (Remastered CD) *한정수량 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=25269&amp;cate_no=30&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=25269&amp;cate_no=30&amp;display_group=1</guid>
+            <pubDate>Tue, 07 May 2024 10:10:24 GMT</pubDate>
+            <content:encoded><![CDATA[14,500원]]></content:encoded>
+            <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202405/986d4ded7ec088c89efcab720f14d3eb.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Novo Amor / Collapse List (CD, Gatefold sleeve)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=25244&amp;cate_no=30&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Thu, 25 Apr 2024 07:09:59 GMT</pubDate>
             <content:encoded><![CDATA[16,500원]]></content:encoded>
             <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202404/01c5e4a9e3e2ae4321bbe4e322305747.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Rush / The Studio Albums 1989-2007 (7CD Box Set) *한정수량 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=25197&amp;cate_no=30&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=25197&amp;cate_no=30&amp;display_group=1</guid>
-            <pubDate>Thu, 25 Apr 2024 07:09:59 GMT</pubDate>
-            <content:encoded><![CDATA[38,500원]]></content:encoded>
-            <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202404/005aab75ffc2871fc79a14c964d0ff00.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
