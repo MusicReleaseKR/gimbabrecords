@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 May 2024 20:10:56 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 May 2024 21:12:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -112,14 +112,6 @@
             <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202405/fff58b3d48bf57e2db16a42724a8211a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Keane / Live At Paridiso 29.11.04 (Limited Red & White Vinyl, 2LP, 2024 RSD First) (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=25286&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=25286&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Wed, 08 May 2024 16:10:48 GMT</pubDate>
-            <content:encoded><![CDATA[71,500원]]></content:encoded>
-            <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202405/16b9d287460b79c0f7d9769edbcb8abf.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Scott Walker / Tilt (Vinyl, 2LP, Half Speed Mastered, 45RPM, 2024 RSD) (김밥레코즈 ─ Vinyl)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=25285&amp;cate_no=25&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=25285&amp;cate_no=25&amp;display_group=1</guid>
@@ -198,6 +190,14 @@
             <pubDate>Wed, 08 May 2024 18:11:32 GMT</pubDate>
             <content:encoded><![CDATA[35,000원]]></content:encoded>
             <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202405/1651d2d3db7fddf647de06bacb310c20.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Ginger Root / Nisemono (Orange Translucent Vinyl, Limited Edition) (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=25273&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=25273&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Wed, 08 May 2024 21:10:32 GMT</pubDate>
+            <content:encoded><![CDATA[45,500원]]></content:encoded>
+            <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202405/abc4eef11cae876e0e97f403ae7fc7d0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Ruru 루루 / 나의 XX을 도와줘 (Cassette, Red Shell) (김밥레코즈 ─ Cassette)]]></title>
