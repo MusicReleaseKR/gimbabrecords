@@ -4,9 +4,57 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 May 2024 09:11:39 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 May 2024 10:12:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Kamasi Washington / Fearless Movement (2CD) (김밥레코즈 ─ CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=25318&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=25318&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Fri, 10 May 2024 10:10:11 GMT</pubDate>
+            <content:encoded><![CDATA[19,000원]]></content:encoded>
+            <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202405/bd1317d93b0d8bff60b28ef6ab4fbd4b.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Kim Gordon / The Collective (CD) (김밥레코즈 ─ CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=25317&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=25317&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Fri, 10 May 2024 10:10:11 GMT</pubDate>
+            <content:encoded><![CDATA[17,700원]]></content:encoded>
+            <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202405/95669b12371b765219953e57c2aa5bc3.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[black midi / Hellfire (CD) (김밥레코즈 ─ CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=25316&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=25316&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Fri, 10 May 2024 10:10:11 GMT</pubDate>
+            <content:encoded><![CDATA[17,700원]]></content:encoded>
+            <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202405/cf78a4f3af9dab38d4dc6dd580f75e82.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Blur / The Ballad Of Darren (CD, Deluxe Edition) (김밥레코즈 ─ CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=25315&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=25315&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Fri, 10 May 2024 10:10:11 GMT</pubDate>
+            <content:encoded><![CDATA[32,500원]]></content:encoded>
+            <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202308/10057142baf50c4d57788abd8d3c6bc3.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Green Day / The Studio Albums 1990 - 2009 (8CD Box Set, Limited Edition) *한정수량 할인 (김밥레코즈 ─ CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=25314&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=25314&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Fri, 10 May 2024 10:10:11 GMT</pubDate>
+            <content:encoded><![CDATA[41,500원]]></content:encoded>
+            <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202405/ef7d89f4d89b15b27091e6500a94f0fb.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Deftones / Diamond Eyes (CD) *한정수량 할인 (김밥레코즈 ─ CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=25313&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=25313&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Fri, 10 May 2024 10:10:11 GMT</pubDate>
+            <content:encoded><![CDATA[15,500원]]></content:encoded>
+            <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202405/9a1c2daed1aaea646a26563afbe95453.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Fabiana Palladino / Fabiana Palladino (CD) (김밥레코즈 ─ CD)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=25306&amp;cate_no=24&amp;display_group=1</link>
@@ -56,52 +104,28 @@
             <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202405/986d4ded7ec088c89efcab720f14d3eb.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Taylor Swift  / The Tortured Poets Department  (CD + 2-sided poster & handwritten lyrics) (김밥레코즈 ─ CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=25267&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=25267&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Fri, 03 May 2024 11:07:17 GMT</pubDate>
-            <content:encoded><![CDATA[33,800원]]></content:encoded>
-            <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202405/cd7b653349e09ed834d34a29361f01d8.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[Justice / Hyperdrama (Crystal Clear Vinyl, 2LP, Limited Edition) (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=25312&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=25312&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Fri, 10 May 2024 10:10:20 GMT</pubDate>
+            <content:encoded><![CDATA[62,500원]]></content:encoded>
+            <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202405/6623ffb09dc6563679402f78fb2aee31.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[Lee Konitz, Brad Mehldau, Charlie Haden, Paul Motian / Live At Birdland (SHM-CD) (김밥레코즈 ─ CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=25254&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=25254&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Tue, 30 Apr 2024 10:09:25 GMT</pubDate>
-            <content:encoded><![CDATA[19,000원]]></content:encoded>
-            <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202404/fe782ebca12fdd6722ff570b0b15fda1.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[Justice / Hyperdrama (Black Vinyl, 2LP) (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=25311&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=25311&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Fri, 10 May 2024 10:10:20 GMT</pubDate>
+            <content:encoded><![CDATA[57,500원]]></content:encoded>
+            <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202405/3699165bb83aa13b3363a235845f1bac.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Ralph Towner / Matchbook (SHM-CD) (김밥레코즈 ─ CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=25253&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=25253&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Tue, 30 Apr 2024 10:09:25 GMT</pubDate>
-            <content:encoded><![CDATA[19,000원]]></content:encoded>
-            <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202404/ad9e8b91e378e21cf2b7ae2518e11f8f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Keith Jarrett / Bye Bye Blackbird (SHM-CD) (김밥레코즈 ─ CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=25252&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=25252&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Tue, 30 Apr 2024 10:09:25 GMT</pubDate>
-            <content:encoded><![CDATA[18,000원]]></content:encoded>
-            <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202404/6e1d95375d6b4ca2a0a9e17251c68104.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Fred Hersch / Silent, Listening (CD) (김밥레코즈 ─ CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=25251&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=25251&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Tue, 30 Apr 2024 10:09:25 GMT</pubDate>
-            <content:encoded><![CDATA[21,000원]]></content:encoded>
-            <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202404/5a2e6e353be062c6ec0aacca02be4c67.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Novo Amor / Collapse List (CD, Gatefold sleeve) (김밥레코즈 ─ CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=25244&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=25244&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Tue, 30 Apr 2024 08:11:47 GMT</pubDate>
+            <title><![CDATA[Jungle / Happy Man & House In LA (12" Vinyl, 45 RPM) (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=25310&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=25310&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Fri, 10 May 2024 10:10:20 GMT</pubDate>
             <content:encoded><![CDATA[25,500원]]></content:encoded>
-            <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202404/bcacc4804304f8d18616a73015bae1f7.jpg" length="0" type="image/jpg"/>
+            <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202405/49202538c4141f66432cdac3c9e67bf7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Jungle / Good Times & Problemz (12" Vinyl, 45 RPM, RSD) (김밥레코즈 ─ Vinyl)]]></title>
@@ -174,30 +198,6 @@
             <pubDate>Fri, 10 May 2024 09:09:38 GMT</pubDate>
             <content:encoded><![CDATA[46,000원]]></content:encoded>
             <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202405/55c1601e190c4b1f34dfc3ee50116e31.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Jessica Pratt / Here In The Pitch (Brown Vinyl, Limited Edition) (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=25297&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=25297&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Fri, 10 May 2024 09:09:38 GMT</pubDate>
-            <content:encoded><![CDATA[43,000원]]></content:encoded>
-            <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202405/95ed72256ba2341ad5f6706d2e810fa7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Taylor Swift  / The Tortured Poets Department  (Phantom Clear Vinyl, 2LP, Bonus Track “The Manuscript” 수록, 24페이지 책자가 담긴 Book-bound 쟈켓) (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=25296&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=25296&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Fri, 10 May 2024 08:11:46 GMT</pubDate>
-            <content:encoded><![CDATA[81,500원]]></content:encoded>
-            <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202405/28d4ae59214dd8fee0550d3b4346201b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Shelly Manne & His Men / At The Black Hawk, Vol. 1 (180g Vinyl, Contemporary Records Acoustic Sounds Series) (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=25295&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=25295&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Thu, 09 May 2024 07:10:38 GMT</pubDate>
-            <content:encoded><![CDATA[57,200원]]></content:encoded>
-            <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202405/12e52bd9d383b30fbc89e5ed911d6898.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Ruru 루루 / 나의 XX을 도와줘 (Cassette, Red Shell) (김밥레코즈 ─ Cassette)]]></title>
@@ -680,6 +680,46 @@
             <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202402/623ac45d863ec38893e6bd0e2fa30a7d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Kim Gordon / The Collective (CD) (김밥레코즈 ─ CD ─ Pop/Rock)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=25317&amp;cate_no=30&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=25317&amp;cate_no=30&amp;display_group=1</guid>
+            <pubDate>Fri, 10 May 2024 10:11:02 GMT</pubDate>
+            <content:encoded><![CDATA[17,700원]]></content:encoded>
+            <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202405/95669b12371b765219953e57c2aa5bc3.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[black midi / Hellfire (CD) (김밥레코즈 ─ CD ─ Pop/Rock)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=25316&amp;cate_no=30&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=25316&amp;cate_no=30&amp;display_group=1</guid>
+            <pubDate>Fri, 10 May 2024 10:11:02 GMT</pubDate>
+            <content:encoded><![CDATA[17,700원]]></content:encoded>
+            <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202405/cf78a4f3af9dab38d4dc6dd580f75e82.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Blur / The Ballad Of Darren (CD, Deluxe Edition) (김밥레코즈 ─ CD ─ Pop/Rock)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=25315&amp;cate_no=30&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=25315&amp;cate_no=30&amp;display_group=1</guid>
+            <pubDate>Fri, 10 May 2024 10:11:02 GMT</pubDate>
+            <content:encoded><![CDATA[32,500원]]></content:encoded>
+            <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202308/10057142baf50c4d57788abd8d3c6bc3.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Green Day / The Studio Albums 1990 - 2009 (8CD Box Set, Limited Edition) *한정수량 할인 (김밥레코즈 ─ CD ─ Pop/Rock)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=25314&amp;cate_no=30&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=25314&amp;cate_no=30&amp;display_group=1</guid>
+            <pubDate>Fri, 10 May 2024 10:11:02 GMT</pubDate>
+            <content:encoded><![CDATA[41,500원]]></content:encoded>
+            <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202405/ef7d89f4d89b15b27091e6500a94f0fb.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Deftones / Diamond Eyes (CD) *한정수량 할인 (김밥레코즈 ─ CD ─ Pop/Rock)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=25313&amp;cate_no=30&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=25313&amp;cate_no=30&amp;display_group=1</guid>
+            <pubDate>Fri, 10 May 2024 10:11:02 GMT</pubDate>
+            <content:encoded><![CDATA[15,500원]]></content:encoded>
+            <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202405/9a1c2daed1aaea646a26563afbe95453.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Fabiana Palladino / Fabiana Palladino (CD) (김밥레코즈 ─ CD ─ Pop/Rock)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=25306&amp;cate_no=30&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=25306&amp;cate_no=30&amp;display_group=1</guid>
@@ -734,46 +774,6 @@
             <pubDate>Sat, 27 Apr 2024 07:07:49 GMT</pubDate>
             <content:encoded><![CDATA[20,500원]]></content:encoded>
             <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202404/bea18092874f32529421652d2d8c590a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Laufey / Bewitched: The Goddess Edition (CD, 4곡의 신곡 추가) (김밥레코즈 ─ CD ─ Pop/Rock)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=25223&amp;cate_no=30&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=25223&amp;cate_no=30&amp;display_group=1</guid>
-            <pubDate>Fri, 26 Apr 2024 14:08:32 GMT</pubDate>
-            <content:encoded><![CDATA[25,400원]]></content:encoded>
-            <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202404/3c6328d1abdf443a93a4adf0a6cf4fce.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Yard Act / Where's My Utopia? (CD, Digipak) (김밥레코즈 ─ CD ─ Pop/Rock)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=25205&amp;cate_no=30&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=25205&amp;cate_no=30&amp;display_group=1</guid>
-            <pubDate>Thu, 25 Apr 2024 08:12:00 GMT</pubDate>
-            <content:encoded><![CDATA[27,000원]]></content:encoded>
-            <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202403/a771e2233d710c04bf06249001a70908.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Police / Greatest Hits (CD, EU Import) *한정수량 할인 (김밥레코즈 ─ CD ─ Pop/Rock)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=25204&amp;cate_no=30&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=25204&amp;cate_no=30&amp;display_group=1</guid>
-            <pubDate>Thu, 25 Apr 2024 08:12:00 GMT</pubDate>
-            <content:encoded><![CDATA[15,500원]]></content:encoded>
-            <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202404/8fd5af3fa95211a34dc4514e78a71097.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Cure / The Head On the Door (CD, EU Import) *한정수량 할인 (김밥레코즈 ─ CD ─ Pop/Rock)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=25203&amp;cate_no=30&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=25203&amp;cate_no=30&amp;display_group=1</guid>
-            <pubDate>Thu, 25 Apr 2024 08:12:00 GMT</pubDate>
-            <content:encoded><![CDATA[15,500원]]></content:encoded>
-            <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202404/3817861ef1b25911ada1409ae8309863.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Cure / Seventeen Seconds (CD, EU Import) *한정수량 할인 (김밥레코즈 ─ CD ─ Pop/Rock)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=25202&amp;cate_no=30&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=25202&amp;cate_no=30&amp;display_group=1</guid>
-            <pubDate>Thu, 25 Apr 2024 07:09:59 GMT</pubDate>
-            <content:encoded><![CDATA[15,500원]]></content:encoded>
-            <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202404/e1240e323019cad9fb8ffcb25cdde310.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Erika de Casier / Still (CD) (김밥레코즈 ─ CD ─ Electronic/Dance)]]></title>
@@ -1064,6 +1064,14 @@
             <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202403/95da3f1eefc8e9dcb8111c706a4237f1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Kamasi Washington / Fearless Movement (2CD) (김밥레코즈 ─ CD ─ Jazz)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=25318&amp;cate_no=46&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=25318&amp;cate_no=46&amp;display_group=1</guid>
+            <pubDate>Fri, 10 May 2024 10:11:29 GMT</pubDate>
+            <content:encoded><![CDATA[19,000원]]></content:encoded>
+            <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202405/bd1317d93b0d8bff60b28ef6ab4fbd4b.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Nina Simone / Nina's Back (CD) (김밥레코즈 ─ CD ─ Jazz)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=25289&amp;cate_no=46&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=25289&amp;cate_no=46&amp;display_group=1</guid>
@@ -1150,14 +1158,6 @@
             <pubDate>Sat, 27 Apr 2024 10:11:01 GMT</pubDate>
             <content:encoded><![CDATA[16,500원]]></content:encoded>
             <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202404/fd2b547db83b35d6b5061bc904258f40.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Stan Getz Quartet / Getz At The Gate (Live At The Village Gate, Nov. 26, 1961) (2CD) *온라인 매장 한정 할인 (김밥레코즈 ─ CD ─ Jazz)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=25232&amp;cate_no=46&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=25232&amp;cate_no=46&amp;display_group=1</guid>
-            <pubDate>Sat, 27 Apr 2024 10:11:01 GMT</pubDate>
-            <content:encoded><![CDATA[28,500원]]></content:encoded>
-            <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202404/7669c55049bf7c62a846af76c276a82d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[The Lions / Soul Riot (CD) (김밥레코즈 ─ CD ─ Reggae)]]></title>
