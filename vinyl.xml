@@ -4,7 +4,7 @@
         <title>김밥레코즈 ─ Vinyl</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 11 May 2024 05:10:33 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 May 2024 06:12:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,6 +38,14 @@
             <pubDate>Fri, 10 May 2024 09:09:38 GMT</pubDate>
             <content:encoded><![CDATA[43,500원]]></content:encoded>
             <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202405/7ec8797854219901b46f97b8492fd42b.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Erlend Oye & La Comitiva / La Comitiva (Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=25307&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=25307&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Sat, 11 May 2024 06:10:31 GMT</pubDate>
+            <content:encoded><![CDATA[52,500원]]></content:encoded>
+            <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202405/49f7c9878b447bb59602e92490d31ff5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Fabiana Palladino / Fabiana Palladino (Vinyl)]]></title>
@@ -94,14 +102,6 @@
             <pubDate>Fri, 10 May 2024 18:10:59 GMT</pubDate>
             <content:encoded><![CDATA[81,500원]]></content:encoded>
             <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202405/28d4ae59214dd8fee0550d3b4346201b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Shelly Manne & His Men / At The Black Hawk, Vol. 1 (180g Vinyl, Contemporary Records Acoustic Sounds Series)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=25295&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=25295&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Sat, 11 May 2024 00:36:18 GMT</pubDate>
-            <content:encoded><![CDATA[57,200원]]></content:encoded>
-            <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202405/12e52bd9d383b30fbc89e5ed911d6898.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
