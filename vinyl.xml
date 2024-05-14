@@ -4,9 +4,25 @@
         <title>김밥레코즈 ─ Vinyl</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 May 2024 06:15:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 May 2024 07:11:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Jonathan Richman & The Modern Lovers / Jonathan Richman & The Modern Lovers (Gold Vinyl, Limited Numbered Edition) *한정수량 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=25334&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=25334&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Tue, 14 May 2024 07:09:23 GMT</pubDate>
+            <content:encoded><![CDATA[31,500원]]></content:encoded>
+            <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202405/50691e25e7a9e56e058cee964203c530.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Foo Fighters / Foo Fighters (Vinyl) *한정수량 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=25333&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=25333&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Tue, 14 May 2024 07:09:23 GMT</pubDate>
+            <content:encoded><![CDATA[31,000원]]></content:encoded>
+            <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202405/8a7138e7fb6400791f82fdb6f325f4c5.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Asami Kado / Anti Fleur (Limited Clear Vinyl) *예약상품 (9월 중순 배송 예정)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=25327&amp;cate_no=25&amp;display_group=1</link>
@@ -86,22 +102,6 @@
             <pubDate>Fri, 10 May 2024 10:10:20 GMT</pubDate>
             <content:encoded><![CDATA[57,500원]]></content:encoded>
             <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202405/3699165bb83aa13b3363a235845f1bac.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Jungle / Good Times & Problemz (12" Vinyl, 45 RPM, RSD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=25309&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=25309&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Fri, 10 May 2024 14:07:49 GMT</pubDate>
-            <content:encoded><![CDATA[33,500원]]></content:encoded>
-            <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202405/d03534b7348e90ec6b256cf210e287d8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Cedar Walton / Mobius (Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=25308&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=25308&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Mon, 13 May 2024 22:08:50 GMT</pubDate>
-            <content:encoded><![CDATA[43,500원]]></content:encoded>
-            <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202405/7ec8797854219901b46f97b8492fd42b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

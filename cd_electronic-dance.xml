@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ CD ─ Electronic/Dance</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 May 2024 06:15:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 May 2024 07:11:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Avicii / True (CD) *한정수량 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=25329&amp;cate_no=31&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=25329&amp;cate_no=31&amp;display_group=1</guid>
+            <pubDate>Tue, 14 May 2024 07:10:28 GMT</pubDate>
+            <content:encoded><![CDATA[15,500원]]></content:encoded>
+            <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202401/23beae4c92a7f35262d09a59257d3cd7.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Erika de Casier / Still (CD)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=25304&amp;cate_no=31&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Tue, 12 Mar 2024 11:07:34 GMT</pubDate>
             <content:encoded><![CDATA[18,500원]]></content:encoded>
             <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202402/5e22771fc56a04dc3ad4117770160d5d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Metronomy / The English Riviera (CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=24485&amp;cate_no=31&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=24485&amp;cate_no=31&amp;display_group=1</guid>
-            <pubDate>Tue, 12 Mar 2024 11:07:34 GMT</pubDate>
-            <content:encoded><![CDATA[15,500원]]></content:encoded>
-            <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202402/f6f1bd3a3f067b411c30afc8bf80ec48.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
