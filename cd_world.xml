@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ CD ─ World</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 May 2024 09:12:16 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 May 2024 10:11:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Bebel Gilberto / Joao (CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=25342&amp;cate_no=79&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=25342&amp;cate_no=79&amp;display_group=1</guid>
+            <pubDate>Tue, 14 May 2024 10:11:24 GMT</pubDate>
+            <content:encoded><![CDATA[21,700원]]></content:encoded>
+            <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202405/4af200832400ee9e386a17a53ff1df9c.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Joao Gilberto / Joao (SHM-CD) *한정수량 할인]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=25255&amp;cate_no=79&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Thu, 07 Mar 2024 11:08:31 GMT</pubDate>
             <content:encoded><![CDATA[20,500원]]></content:encoded>
             <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202402/971551f0e12be0a6be559477e9f8566e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Pedro Martins / Radio Misterio (CD, JPN Import)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=24620&amp;cate_no=79&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=24620&amp;cate_no=79&amp;display_group=1</guid>
-            <pubDate>Mon, 19 Feb 2024 07:11:25 GMT</pubDate>
-            <content:encoded><![CDATA[29,500원]]></content:encoded>
-            <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202402/1e4b7838f54788f2e5895a83551a8a92.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
