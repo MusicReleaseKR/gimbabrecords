@@ -4,9 +4,25 @@
         <title>김밥레코즈 ─ Pre-Order</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 May 2024 11:09:25 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 May 2024 12:18:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Yuka Noda / Ka Ri Bu No Yu Me : Light Fusion Fantasy (Vinyl) *예약상품 (8월초 배송 예정)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=25346&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=25346&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Wed, 15 May 2024 11:07:57 GMT</pubDate>
+            <content:encoded><![CDATA[45,000원]]></content:encoded>
+            <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202405/ff8847457b0055c854dcb9ff625f4fdb.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Cho Co Pa Co Cho Co Quin Quin / Tradition (Vinyl) *예약상품 (5월말 배송 예정)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=25349&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=25349&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Wed, 15 May 2024 12:16:51 GMT</pubDate>
+            <content:encoded><![CDATA[49,000원]]></content:encoded>
+            <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202405/e986c357dd0f9288b9b281ccf9e6b9ab.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Kaze Chorus Dan / Aiiro no Kisetsu (Vinyl) *예약상품 (8월초 배송 예정)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=25348&amp;cate_no=42&amp;display_group=1</link>
@@ -22,14 +38,6 @@
             <pubDate>Wed, 15 May 2024 11:07:57 GMT</pubDate>
             <content:encoded><![CDATA[33,000원]]></content:encoded>
             <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202405/022bab68108f34a31f0c9749368c784c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Yuka Noda / Ka Ri Bu No Yu Me : Light Fusion Fantasy (Vinyl) *예약상품 (8월초 배송 예정)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=25346&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=25346&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Wed, 15 May 2024 11:07:57 GMT</pubDate>
-            <content:encoded><![CDATA[45,000원]]></content:encoded>
-            <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202405/ff8847457b0055c854dcb9ff625f4fdb.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Miki Matsubara / Revue (Clear Red Vinyl) *예약상품 (8월 중순 배송 예정)]]></title>
@@ -94,14 +102,6 @@
             <pubDate>Sat, 11 May 2024 12:13:38 GMT</pubDate>
             <content:encoded><![CDATA[48,500원]]></content:encoded>
             <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202405/ddbc0b85736f749672c2f942f04d374b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Niningashi / Heavy Way (Vinyl) *예약상품 (5월말 배송 예정)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=25322&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=25322&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Sat, 11 May 2024 12:13:38 GMT</pubDate>
-            <content:encoded><![CDATA[41,500원]]></content:encoded>
-            <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202405/45fa6e650ffdcc906d0620643a1f2d1d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
