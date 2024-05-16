@@ -4,17 +4,9 @@
         <title>김밥레코즈 ─ Pre-Order</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 May 2024 14:11:20 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 May 2024 15:10:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[[음반 매장에서 듣는 음악 강의 시리즈 2] 라이브 연주를 통해 배우는 재즈와 라틴 음악 - 재즈 피아니스트 고희안의 연주와 강의를 통해 배우는 재즈의 스타일과 특징 2강) 5월 23일 목요일 저녁 8시 "비밥과 모던 재즈"]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=25369&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=25369&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Thu, 16 May 2024 13:10:21 GMT</pubDate>
-            <content:encoded><![CDATA[10,000원]]></content:encoded>
-            <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202405/903c8e8f5ea1fa9dea47a17c3663d74b.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[[음반 매장에서 듣는 음악 강의 시리즈 2]  라이브 연주를 통해 배우는 재즈와 라틴 음악 - 재즈 피아니스트 고희안의 연주와 강의를 통해 배우는 재즈의 스타일과 특징 1강) 5월 16일 목요일 저녁 8시  초기 재즈 (스윙)와 빌 에반스]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=25328&amp;cate_no=42&amp;display_group=1</link>
@@ -22,6 +14,14 @@
             <pubDate>Thu, 16 May 2024 13:10:21 GMT</pubDate>
             <content:encoded><![CDATA[10,000원]]></content:encoded>
             <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202405/8975cc4655eb1086440e82eeefdaff1f.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[음반 매장에서 듣는 음악 강의 시리즈 2] 라이브 연주를 통해 배우는 재즈와 라틴 음악 - 재즈 피아니스트 고희안의 연주와 강의를 통해 배우는 재즈의 스타일과 특징 2강) 5월 23일 목요일 저녁 8시 "비밥과 모던 재즈"]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=25369&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=25369&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Thu, 16 May 2024 13:10:21 GMT</pubDate>
+            <content:encoded><![CDATA[10,000원]]></content:encoded>
+            <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202405/903c8e8f5ea1fa9dea47a17c3663d74b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[씨잼 (C JAMM) / 킁 (180g Orange & Red Marbled Vinyl, Limited Edition) *예약상품 (6월 21일부터 순차 배송) / 1인 2매까지 구매 가능 / 별도의 입금기한 설정]]></title>
