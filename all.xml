@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 May 2024 05:11:40 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 May 2024 06:14:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -96,12 +96,12 @@
             <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202405/9a1c2daed1aaea646a26563afbe95453.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Charlotte Day Wilson / Cyan Blue (CD) (김밥레코즈 ─ CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=25302&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=25302&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Mon, 20 May 2024 09:10:46 GMT</pubDate>
-            <content:encoded><![CDATA[17,700원]]></content:encoded>
-            <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202405/1d4af4dc64993022c5a02ae29b7f1cd2.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[Nina Simone / Nina's Back (CD) (김밥레코즈 ─ CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=25289&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=25289&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Tue, 21 May 2024 06:12:12 GMT</pubDate>
+            <content:encoded><![CDATA[22,100원]]></content:encoded>
+            <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202405/823bfa9ef0b22bee8adaf028c1e22fb7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Peggy Gou / I Hear You (Blue Vinyl, Indie Store Exclusive) *예약상품 (6월 7일 발매예정) / 1인 1매만 구매 가능 (김밥레코즈 ─ Vinyl)]]></title>
