@@ -4,7 +4,7 @@
         <title>김밥레코즈 ─ Vinyl</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 May 2024 16:13:01 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 May 2024 17:10:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,14 +14,6 @@
             <pubDate>Thu, 23 May 2024 16:11:18 GMT</pubDate>
             <content:encoded><![CDATA[54,000원]]></content:encoded>
             <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202405/798f12f9879cb737cee64bf9bbc8c9a1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Bill Evans & Jim Hall / Undercurrent (Vinyl, Kevin Gray Cut, 2024 Jackpot Records Pressing)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=25414&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=25414&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Thu, 23 May 2024 15:08:53 GMT</pubDate>
-            <content:encoded><![CDATA[52,500원]]></content:encoded>
-            <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202405/7ef4790dad7af17b24b5e28b39e10a2d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Talking Heads / Live At WCOZ 77 (Vinyl, 2LP, Special Edition, 45RPM, 2024 RSD)]]></title>
@@ -102,6 +94,14 @@
             <pubDate>Wed, 22 May 2024 10:08:55 GMT</pubDate>
             <content:encoded><![CDATA[51,500원]]></content:encoded>
             <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202405/db792354be89c663cdab99b1b4b76bd3.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Horace Silver / Silver's Serenade (180g Vinyl, Blue Note Tone Poet Series, Gatefold, RTI Pressings)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=25399&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=25399&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Thu, 23 May 2024 17:08:37 GMT</pubDate>
+            <content:encoded><![CDATA[60,100원]]></content:encoded>
+            <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202405/8a8df71edddc68887d2197c9ee41107d.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
