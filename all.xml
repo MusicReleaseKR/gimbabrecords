@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 May 2024 02:25:24 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 May 2024 03:11:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -392,6 +392,22 @@
             <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202207/25264437a2759ba7e2bc62fec5848a2c.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
+            <title><![CDATA[Joao Donato / Serotonina (Vinyl) *예약상품 (5월 29일 이후 배송 예정) (김밥레코즈 ─ Pre-Order)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=24649&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=24649&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Thu, 23 May 2024 03:09:56 GMT</pubDate>
+            <content:encoded><![CDATA[49,500원]]></content:encoded>
+            <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202402/62b45f4a1cd2296115dff6739c7d3a4e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[POiSON GiRL FRiEND / Melting Moment (Vinyl) *예약상품 (5월 29일 이후 배송 예정) (김밥레코즈 ─ Pre-Order)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=24718&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=24718&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Thu, 23 May 2024 03:09:56 GMT</pubDate>
+            <content:encoded><![CDATA[43,500원]]></content:encoded>
+            <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202402/d3e2fc9669364083f0c55535a56a842a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[실리카겔 / 정규 2집 POWER ANDRE 99 (Vinyl, 2LP) *예약상품 (8월 20일 발매 예정) (김밥레코즈 ─ Pre-Order)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=25260&amp;cate_no=42&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=25260&amp;cate_no=42&amp;display_group=1</guid>
@@ -470,22 +486,6 @@
             <pubDate>Sun, 19 May 2024 07:07:38 GMT</pubDate>
             <content:encoded><![CDATA[66,800원]]></content:encoded>
             <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202404/1f7c562ed386c5e8bf421fe9c6d1f4e4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Various Artists / Tokyo Riddim 1976-1985 (Vinyl) *예약상품 (5월말 배송 예정) (김밥레코즈 ─ Pre-Order)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=25319&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=25319&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Sat, 18 May 2024 10:08:22 GMT</pubDate>
-            <content:encoded><![CDATA[45,000원]]></content:encoded>
-            <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202405/0d2ce5a9339abd4b9ce8a0d181d45a57.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Various Artists / Nippon Acid Folk 1970​-​1980 (Vinyl) *예약상품 (5월말 배송 예정) (김밥레코즈 ─ Pre-Order)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=25320&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=25320&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Sat, 18 May 2024 10:08:22 GMT</pubDate>
-            <content:encoded><![CDATA[45,000원]]></content:encoded>
-            <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202405/455a1e5e19cc77aafd62c28a29dddefd.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Jacques Brel & Georges Brassens / Les Voisins Magnifiques (5CD) *2023 블랙프라이데이 할인 (김밥레코즈 ─ Bargain Bin)]]></title>
