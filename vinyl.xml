@@ -4,7 +4,7 @@
         <title>김밥레코즈 ─ Vinyl</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 May 2024 08:13:41 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 May 2024 09:13:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,14 +30,6 @@
             <pubDate>Thu, 23 May 2024 08:11:41 GMT</pubDate>
             <content:encoded><![CDATA[44,600원]]></content:encoded>
             <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202405/7d01913cbf023dfd41d8eaf126ae92c3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Blur / Parklife (30th Anniversary Zoetrope Picture Disc, 2024 RSD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=25407&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=25407&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Thu, 23 May 2024 08:11:41 GMT</pubDate>
-            <content:encoded><![CDATA[42,900원]]></content:encoded>
-            <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/201607/4856_shop1_930465.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Ashnikko / Demidevil (Pink Transparent Vinyl, Special Edition, 2024 RSD)]]></title>
@@ -102,6 +94,14 @@
             <pubDate>Wed, 22 May 2024 09:09:59 GMT</pubDate>
             <content:encoded><![CDATA[60,100원]]></content:encoded>
             <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202405/8a8df71edddc68887d2197c9ee41107d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Gerry Mulligan / Night Lights (180g Vinyl, Acoustic Sounds Series, Tip-On Gatefold, QRP Pressings)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=25398&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=25398&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Thu, 23 May 2024 09:11:03 GMT</pubDate>
+            <content:encoded><![CDATA[57,200원]]></content:encoded>
+            <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202405/e7312b42617e8214454d4af9339f64d5.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
