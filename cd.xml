@@ -4,9 +4,25 @@
         <title>김밥레코즈 ─ CD</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 May 2024 07:10:15 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 May 2024 08:13:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[보수동쿨러 / 정규 2집 의자에 앉아 (CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=25412&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=25412&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Thu, 23 May 2024 08:11:33 GMT</pubDate>
+            <content:encoded><![CDATA[24,900원]]></content:encoded>
+            <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202405/164674dd36850666fb694126bb2966c8.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김윤아 / 정규 5집 관능소설 (CD + 사진 & 산문집 200p)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=25411&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=25411&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Thu, 23 May 2024 08:11:33 GMT</pubDate>
+            <content:encoded><![CDATA[35,600원]]></content:encoded>
+            <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202405/5d26821d4820c3ebdf1310073531c7ab.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[John Coltrane / Live At Birdland (CD) *한정수량 할인]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=25397&amp;cate_no=24&amp;display_group=1</link>
@@ -86,22 +102,6 @@
             <pubDate>Tue, 21 May 2024 09:09:08 GMT</pubDate>
             <content:encoded><![CDATA[23,500원]]></content:encoded>
             <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202405/6114abe4bfe218d16e6a6b809927d176.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Peggy Gou / I Hear You (CD) *예약상품 (6월 7일 발매예정)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=25374&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=25374&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Mon, 20 May 2024 06:12:19 GMT</pubDate>
-            <content:encoded><![CDATA[17,700원]]></content:encoded>
-            <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202405/52d89ca7b31dc25f46b6642376ad2852.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sylvan Esso / Sylvan Esso (2CD, 10 Year Anniversary Edition)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=25368&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=25368&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Thu, 16 May 2024 10:08:41 GMT</pubDate>
-            <content:encoded><![CDATA[18,000원]]></content:encoded>
-            <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202405/f045a49d898581a2c074c889c2546646.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
