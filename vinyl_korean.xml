@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ Vinyl ─ Korean</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 May 2024 07:10:43 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 May 2024 08:14:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[BLACKPINK (블랙핑크) / Born Pink (Clear Vinyl, Limited Edition)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=25425&amp;cate_no=52&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=25425&amp;cate_no=52&amp;display_group=1</guid>
+            <pubDate>Fri, 24 May 2024 08:14:13 GMT</pubDate>
+            <content:encoded><![CDATA[56,000원]]></content:encoded>
+            <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202405/c73b7f33ca9c02bac358ff24bfbad55b.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[이자람 / 이자람 트레디션 : 적벽가 (White Vinyl, Limited Edition) *예약상품 (6월 11일 발매 예정)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=25387&amp;cate_no=52&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Wed, 24 Apr 2024 05:11:59 GMT</pubDate>
             <content:encoded><![CDATA[66,800원]]></content:encoded>
             <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202404/1f7c562ed386c5e8bf421fe9c6d1f4e4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[확인(HWAKIN) / 칸(KHAN) (180g White Vinyl, 2024 RSD Korea "First")]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=25128&amp;cate_no=52&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=25128&amp;cate_no=52&amp;display_group=1</guid>
-            <pubDate>Mon, 22 Apr 2024 06:13:02 GMT</pubDate>
-            <content:encoded><![CDATA[49,000원]]></content:encoded>
-            <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202404/dbd4257467cb4d91d70e8c59b95c3acc.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
