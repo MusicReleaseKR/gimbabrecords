@@ -4,7 +4,7 @@
         <title>김밥레코즈 ─ Vinyl</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 May 2024 13:11:49 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 May 2024 14:11:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -64,14 +64,6 @@
             <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202405/7e3b9d77aae52b6c62bab9bc4543d614.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[OST (Jerskin Fendrix) / Poor Things 가여운 것들 (Blue Translucent w/ Pink And Dark Blue Marble Vinyl, Deluxe Edition)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=25428&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=25428&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Fri, 24 May 2024 08:11:58 GMT</pubDate>
-            <content:encoded><![CDATA[69,500원]]></content:encoded>
-            <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202405/e3cb25719a8563596dae7afa0cb5d519.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Transmission Towers / Transmission One (Vinyl)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=25427&amp;cate_no=25&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=25427&amp;cate_no=25&amp;display_group=1</guid>
@@ -102,6 +94,14 @@
             <pubDate>Fri, 24 May 2024 08:11:58 GMT</pubDate>
             <content:encoded><![CDATA[46,000원]]></content:encoded>
             <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202401/a4d8b1e3fda6e6040600b998e3bda8be.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Orb / U.F.Orb (Ultra Blue Vinyl, 2LP, 30th Anniversary Limited Edition)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=25423&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=25423&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Fri, 24 May 2024 14:09:09 GMT</pubDate>
+            <content:encoded><![CDATA[56,500원]]></content:encoded>
+            <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202405/7f384dbe42f1a04a420dba331ac71800.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
