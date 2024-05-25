@@ -4,7 +4,7 @@
         <title>김밥레코즈 ─ Vinyl</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 25 May 2024 05:10:37 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 May 2024 06:13:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -56,14 +56,6 @@
             <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202405/96f849c9232380bbcfc48eee122971e1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Beth Gibbons / Lives Outgrown (180g Vinyl + 12p Scrapbook + Download Code, Deluxe Edition, Limited Edition, Tip-on Gatefold)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=25429&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=25429&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Fri, 24 May 2024 08:11:58 GMT</pubDate>
-            <content:encoded><![CDATA[53,000원]]></content:encoded>
-            <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202405/7e3b9d77aae52b6c62bab9bc4543d614.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Transmission Towers / Transmission One (Vinyl)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=25427&amp;cate_no=25&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=25427&amp;cate_no=25&amp;display_group=1</guid>
@@ -102,6 +94,14 @@
             <pubDate>Fri, 24 May 2024 14:09:09 GMT</pubDate>
             <content:encoded><![CDATA[56,500원]]></content:encoded>
             <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202405/7f384dbe42f1a04a420dba331ac71800.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Keane / Hopes And Fears 20 (Blue Vinyl, 2LP, 20th Anniversary Limited Edtion)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=25422&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=25422&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Sat, 25 May 2024 06:11:54 GMT</pubDate>
+            <content:encoded><![CDATA[62,500원]]></content:encoded>
+            <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202405/3afca8dc95359137b39fad0d4c457f92.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
