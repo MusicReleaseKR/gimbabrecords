@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ Vinyl</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 25 May 2024 12:16:55 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 May 2024 13:10:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Kyoto Jazz Sextet Feat. Takeo Moriyama  森山威男 / Succession (Vinyl, 2LP)  *예약상품 (8월 중순 배송 예정)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=25447&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=25447&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Sat, 25 May 2024 13:08:18 GMT</pubDate>
+            <content:encoded><![CDATA[58,000원]]></content:encoded>
+            <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202405/36f471126c31a1d2f3a03eae0f461c8d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Barber In The Living Room / Moon & Palms (Limited Pink Vinyl) *예약상품 (8월 중순 배송 예정)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=25446&amp;cate_no=25&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Fri, 24 May 2024 10:09:12 GMT</pubDate>
             <content:encoded><![CDATA[49,900원]]></content:encoded>
             <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202403/ae8d802842db97d78e6ea569bc155efb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Benny Sings / Sailing (7" Vinyl, Limited Edition, 45RPM)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=25433&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=25433&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Fri, 24 May 2024 10:09:12 GMT</pubDate>
-            <content:encoded><![CDATA[22,500원]]></content:encoded>
-            <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202405/8e010a46b5442d07152be39847929c60.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
