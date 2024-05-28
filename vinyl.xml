@@ -4,9 +4,25 @@
         <title>김밥레코즈 ─ Vinyl</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 May 2024 07:12:41 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 May 2024 08:15:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Chet Baker / Chet Baker's Last Recording As Quartet (White Vinyl, 2LP, 35th Anniversary Limited Numbered Edition) *한정수량 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=25449&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=25449&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Tue, 28 May 2024 08:12:45 GMT</pubDate>
+            <content:encoded><![CDATA[39,900원]]></content:encoded>
+            <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202405/865cce901bed4a06b2dbc1d5473f0df7.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Buddy Guy & Junior Wells / Last Time Around - Live At Legends (Blue & Red Marbled Vinyl, 25th Anniversary Limited Numbered Edition) *한정수량 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=25448&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=25448&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Tue, 28 May 2024 08:12:45 GMT</pubDate>
+            <content:encoded><![CDATA[37,000원]]></content:encoded>
+            <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202405/60143a3668ffc076d4b4f842766aed4b.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Kyoto Jazz Sextet Feat. Takeo Moriyama  森山威男 / Succession (Vinyl, 2LP)  *예약상품 (8월 중순 배송 예정)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=25447&amp;cate_no=25&amp;display_group=1</link>
@@ -86,22 +102,6 @@
             <pubDate>Sat, 25 May 2024 07:08:13 GMT</pubDate>
             <content:encoded><![CDATA[45,500원]]></content:encoded>
             <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202405/009474f2ae4b5b26e554e69d656d539f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Mndsgn / Snaxxx (Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=25436&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=25436&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Fri, 24 May 2024 10:09:12 GMT</pubDate>
-            <content:encoded><![CDATA[39,500원]]></content:encoded>
-            <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202405/dada0205c9c4e864c5158b2cb5cbd185.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Kiefer / It's Ok B U (Moon Yellow Vinyl, 2LP, Indie Exclusive Limited Edition) *내한기념 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=25434&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=25434&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Fri, 24 May 2024 10:09:12 GMT</pubDate>
-            <content:encoded><![CDATA[49,900원]]></content:encoded>
-            <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202403/ae8d802842db97d78e6ea569bc155efb.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
