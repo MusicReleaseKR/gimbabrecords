@@ -4,9 +4,25 @@
         <title>김밥레코즈 ─ Vinyl</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 May 2024 06:15:09 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 May 2024 07:11:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Jethro Tull / 50th Anniversary Collection (Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=25465&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=25465&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Thu, 30 May 2024 07:09:55 GMT</pubDate>
+            <content:encoded><![CDATA[31,500원]]></content:encoded>
+            <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202405/8d9030b2396d6491f41a1a0faa046cbc.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Justin Bieber / Justice (Vinyl, 2LP)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=25464&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=25464&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Thu, 30 May 2024 07:09:55 GMT</pubDate>
+            <content:encoded><![CDATA[57,000원]]></content:encoded>
+            <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202405/ca0dbaf8ffef7106d3920ad1883d8939.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Various Artists / Sensational Jazz '70 Vol.1/ 2 (Vinyl, 2LP) *예약상품 (9월 중순 배송 예정입니다.)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=25458&amp;cate_no=25&amp;display_group=1</link>
@@ -86,22 +102,6 @@
             <pubDate>Tue, 28 May 2024 08:12:45 GMT</pubDate>
             <content:encoded><![CDATA[37,000원]]></content:encoded>
             <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202405/60143a3668ffc076d4b4f842766aed4b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Kyoto Jazz Sextet Feat. Takeo Moriyama  森山威男 / Succession (Vinyl, 2LP)  *예약상품 (8월 중순 배송 예정)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=25447&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=25447&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Sat, 25 May 2024 13:08:18 GMT</pubDate>
-            <content:encoded><![CDATA[58,000원]]></content:encoded>
-            <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202405/36f471126c31a1d2f3a03eae0f461c8d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Barber In The Living Room / Moon & Palms (Limited Pink Vinyl) *예약상품 (8월 중순 배송 예정)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=25446&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=25446&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Sat, 25 May 2024 12:14:56 GMT</pubDate>
-            <content:encoded><![CDATA[49,000원]]></content:encoded>
-            <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202405/71b4112acda34fef7ada97c8cb1de513.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
