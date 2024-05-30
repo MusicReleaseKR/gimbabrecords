@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ Pre-Order</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 May 2024 08:14:17 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 May 2024 09:13:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Peggy Gou / I Hear You (Vinyl, Limited Korean Edition, 포토카드 수록) *예약상품 (6월 7일 발매예정) / 1인 1매만 구매 가능]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=25372&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=25372&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Thu, 30 May 2024 09:11:45 GMT</pubDate>
+            <content:encoded><![CDATA[44,900원]]></content:encoded>
+            <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202405/54fa27109bd16f65711aad6b8681d2c8.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[신중현 (Shin Joong Hyun) / 아름다운 강산: 대한민국 신중현의 싸이키델릭 록 사운드  Beautiful Rivers And Mountains: The Psychedelic Rock Sound Of South Korea's Shin Joong Hyun 1958-74 (2LP Splatter Colored Vinyl) *예약상품 (6월 중순 배송 예정)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=13819&amp;cate_no=42&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Tue, 28 May 2024 09:09:18 GMT</pubDate>
             <content:encoded><![CDATA[45,000원]]></content:encoded>
             <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202405/2a54e7d4aeb086e1e0a18613d8c116f9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Cho Co Pa Co Cho Co Quin Quin / Tradition (Vinyl) *예약상품 (6월 초 배송 예정)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=25349&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=25349&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Thu, 30 May 2024 07:10:13 GMT</pubDate>
-            <content:encoded><![CDATA[49,000원]]></content:encoded>
-            <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202405/e986c357dd0f9288b9b281ccf9e6b9ab.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
