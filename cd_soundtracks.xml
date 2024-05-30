@@ -4,9 +4,25 @@
         <title>김밥레코즈 ─ CD ─ Soundtracks</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 May 2024 05:11:08 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 May 2024 06:15:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[OST / Indiana Jones and the Temple of Doom 인디아나 존스2: 마궁의 사원 (CD) *한정수량 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=25461&amp;cate_no=48&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=25461&amp;cate_no=48&amp;display_group=1</guid>
+            <pubDate>Thu, 30 May 2024 06:14:26 GMT</pubDate>
+            <content:encoded><![CDATA[15,500원]]></content:encoded>
+            <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202405/cc04abbaae583af322ab7c641716bd23.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[OST / Indiana Jones and the Last Crusade 인디아나 존스: 최후의 성전 (CD) *한정수량 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=25460&amp;cate_no=48&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=25460&amp;cate_no=48&amp;display_group=1</guid>
+            <pubDate>Thu, 30 May 2024 06:14:26 GMT</pubDate>
+            <content:encoded><![CDATA[15,500원]]></content:encoded>
+            <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202405/2fd0ca656993acf56485cc466929cd8d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Various / Ultimate Disney (디즈니 히트곡 컴필레이션) (3CD) *한정수량 할인]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=25051&amp;cate_no=48&amp;display_group=1</link>
@@ -86,22 +102,6 @@
             <pubDate>Tue, 12 Mar 2024 10:09:41 GMT</pubDate>
             <content:encoded><![CDATA[19,000원]]></content:encoded>
             <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202402/aa154b779237347bc9c26e90dab7ed10.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[OST (Hans Zimmer and James Newton Howard) / Batman Begins 배트맨 비긴즈 (CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=24359&amp;cate_no=48&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=24359&amp;cate_no=48&amp;display_group=1</guid>
-            <pubDate>Thu, 14 Mar 2024 08:12:13 GMT</pubDate>
-            <content:encoded><![CDATA[18,700원]]></content:encoded>
-            <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202402/9e5e6f5e55b1cef00418141a6efac972.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[OST (Clint Mansell) / Stoker 스토커 (CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=24358&amp;cate_no=48&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=24358&amp;cate_no=48&amp;display_group=1</guid>
-            <pubDate>Thu, 14 Mar 2024 08:12:13 GMT</pubDate>
-            <content:encoded><![CDATA[24,000원]]></content:encoded>
-            <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202402/f67de6cfeef6b56d86fdc910885e9ecd.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
