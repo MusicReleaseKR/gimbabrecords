@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ Vinyl</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 31 May 2024 08:14:12 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 May 2024 09:12:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[멋진인생 / 2집 쿠빌라이 칸 (180g Vinyl, Limited Edition) *예약상품 (8월 22일 발매)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=25493&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=25493&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Fri, 31 May 2024 09:10:33 GMT</pubDate>
+            <content:encoded><![CDATA[44,600원]]></content:encoded>
+            <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202405/26dd2e9f9090f418a7d2f2679ecfa242.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Beth Gibbons / Lives Outgrown (Vinyl, Standard 1LP)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=25486&amp;cate_no=25&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Thu, 30 May 2024 09:11:23 GMT</pubDate>
             <content:encoded><![CDATA[49,500원]]></content:encoded>
             <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202405/952766fb37033b7a7363c205e9ca1185.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Amy Winehouse & Various Artists / Back to Black: Songs from the Original Motion Picture (Vinyl, 1LP)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=25474&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=25474&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Thu, 30 May 2024 09:11:23 GMT</pubDate>
-            <content:encoded><![CDATA[47,500원]]></content:encoded>
-            <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202405/30a292b2cbee12bdfc44c5442556186e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
