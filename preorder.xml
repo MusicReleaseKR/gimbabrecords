@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ Pre-Order</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 31 May 2024 09:12:36 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 May 2024 10:11:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Asako Toki (土岐麻子) / Peppermint Time ～20th Anniversary VINYL Best～ (Vinyl) *예약상품 (8월 중순 배송 예정)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=25438&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=25438&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Fri, 31 May 2024 05:09:57 GMT</pubDate>
+            <content:encoded><![CDATA[47,000원]]></content:encoded>
+            <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202405/0ea6ce3d629a4728fd2300e3a4b29152.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[멋진인생 / 2집 쿠빌라이 칸 (180g Vinyl, Limited Edition) *예약상품 (8월 22일 발매)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=25493&amp;cate_no=42&amp;display_group=1</link>
@@ -70,14 +78,6 @@
             <pubDate>Fri, 31 May 2024 05:09:57 GMT</pubDate>
             <content:encoded><![CDATA[59,500원]]></content:encoded>
             <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202405/eec3da7e3c03cea97ff304989a67faa9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Asako Toki (土岐麻子) / Peppermint Time ～20th Anniversary VINYL Best～ (Vinyl) *예약상품 (8월 중순 배송 예정)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=25438&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=25438&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Fri, 31 May 2024 05:09:57 GMT</pubDate>
-            <content:encoded><![CDATA[47,000원]]></content:encoded>
-            <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202405/0ea6ce3d629a4728fd2300e3a4b29152.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Barber In The Living Room / Moon & Palms (Limited Pink Vinyl) *예약상품 (8월 중순 배송 예정)]]></title>
