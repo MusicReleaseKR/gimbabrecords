@@ -4,7 +4,7 @@
         <title>김밥레코즈 ─ Vinyl ─ Korean</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 02 Jun 2024 05:10:38 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 02 Jun 2024 06:15:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,14 +14,6 @@
             <pubDate>Fri, 31 May 2024 09:12:29 GMT</pubDate>
             <content:encoded><![CDATA[44,600원]]></content:encoded>
             <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202405/26dd2e9f9090f418a7d2f2679ecfa242.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[n@di (나디) / n@di (10" Ice Blue Vinyl, 45RPM)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=25457&amp;cate_no=52&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=25457&amp;cate_no=52&amp;display_group=1</guid>
-            <pubDate>Thu, 30 May 2024 05:11:02 GMT</pubDate>
-            <content:encoded><![CDATA[34,000원]]></content:encoded>
-            <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202405/e3eb466b59f5143d3bdfdc373329a4f8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[BLACKPINK (블랙핑크) / Born Pink (Clear Vinyl, Limited Edition)]]></title>
@@ -102,6 +94,14 @@
             <pubDate>Sat, 01 Jun 2024 13:10:09 GMT</pubDate>
             <content:encoded><![CDATA[46,000원]]></content:encoded>
             <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202404/b7daa1442a460ac885bf6ca99936d15c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[천진우 / 굴다리 (12" Marble Colored Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=25217&amp;cate_no=52&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=25217&amp;cate_no=52&amp;display_group=1</guid>
+            <pubDate>Sun, 02 Jun 2024 06:15:06 GMT</pubDate>
+            <content:encoded><![CDATA[38,000원]]></content:encoded>
+            <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202404/e0c52f3b2fc3fc55793a43bef27cb09c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
