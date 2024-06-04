@@ -4,9 +4,57 @@
         <title>김밥레코즈 ─ CD</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Jun 2024 06:14:31 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Jun 2024 07:13:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[No Party For Cao Dong / The Clod (CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=25501&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=25501&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Tue, 04 Jun 2024 07:11:30 GMT</pubDate>
+            <content:encoded><![CDATA[28,000원]]></content:encoded>
+            <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202406/57581965a62325d9c423cc0acc501949.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[No Party For Cao Dong / The Servile (CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=25500&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=25500&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Tue, 04 Jun 2024 07:11:30 GMT</pubDate>
+            <content:encoded><![CDATA[25,000원]]></content:encoded>
+            <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202406/cd9b427f8df6a3541953002aeef45c24.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[KIKI / Metamorphosis: Final Stage (CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=25499&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=25499&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Tue, 04 Jun 2024 07:11:30 GMT</pubDate>
+            <content:encoded><![CDATA[18,000원]]></content:encoded>
+            <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202406/aa3a088759154a8b6c9b9fdd9eec2757.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[KIKI / Post-existential Crisis (CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=25498&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=25498&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Tue, 04 Jun 2024 07:11:30 GMT</pubDate>
+            <content:encoded><![CDATA[18,000원]]></content:encoded>
+            <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202406/77dbac8a212ef6dfc3a1f391f960aae2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[never young beach / Arigato (CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=25497&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=25497&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Tue, 04 Jun 2024 07:11:30 GMT</pubDate>
+            <content:encoded><![CDATA[22,000원]]></content:encoded>
+            <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202307/37be5f24c44377a7386ce3b9d979bb62.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[never young beach /  fam fam (CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=25496&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=25496&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Tue, 04 Jun 2024 07:11:30 GMT</pubDate>
+            <content:encoded><![CDATA[25,000원]]></content:encoded>
+            <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202406/5fb2752b66f3f55e8b5e1f81d9ba1ef5.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[왑띠 / 우리의 친구 머피처럼 (Like Our Friend Murphy) (CD) *예약상품 (6월 10일 발송)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=25495&amp;cate_no=24&amp;display_group=1</link>
@@ -54,54 +102,6 @@
             <pubDate>Thu, 30 May 2024 06:12:45 GMT</pubDate>
             <content:encoded><![CDATA[15,500원]]></content:encoded>
             <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202405/b4d90a0864a04bdbb7c4091f6c319052.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[OST / Indiana Jones and the Temple of Doom 인디아나 존스2: 마궁의 사원 (CD) *한정수량 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=25461&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=25461&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Thu, 30 May 2024 06:12:45 GMT</pubDate>
-            <content:encoded><![CDATA[15,500원]]></content:encoded>
-            <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202405/cc04abbaae583af322ab7c641716bd23.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[OST / Indiana Jones and the Last Crusade 인디아나 존스: 최후의 성전 (CD) *한정수량 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=25460&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=25460&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Thu, 30 May 2024 06:12:45 GMT</pubDate>
-            <content:encoded><![CDATA[15,500원]]></content:encoded>
-            <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202405/2fd0ca656993acf56485cc466929cd8d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Air Supply / The Collection (CD) *한정수량 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=25459&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=25459&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Thu, 30 May 2024 06:12:45 GMT</pubDate>
-            <content:encoded><![CDATA[12,500원]]></content:encoded>
-            <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202405/ef201e9f0e0134f61d1079a7d8a1f80c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[evenif (이븐이프) / 정규 3집 Invitation From Space (CD + 예약 특전 포스터) *예약상품 (6월 12일부터 발송, 6월 11일 주문 마감)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=25452&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=25452&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Thu, 30 May 2024 05:09:16 GMT</pubDate>
-            <content:encoded><![CDATA[21,000원]]></content:encoded>
-            <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202405/a4f8c6d860d445c4f549c9991dcf97c0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Kurt Rosenwinkel / Undercover : Live At The Village Vanguard) (CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=25421&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=25421&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Fri, 31 May 2024 14:08:04 GMT</pubDate>
-            <content:encoded><![CDATA[25,500원]]></content:encoded>
-            <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202311/5615c0f960c2c6ef70c4fdaa27daab28.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Oasis / Definitely Maybe (30th Anniversary 2CD) *예약상품 (9월 6일~12일 사이 배송 예정)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=25418&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=25418&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Tue, 04 Jun 2024 00:37:55 GMT</pubDate>
-            <content:encoded><![CDATA[32,000원]]></content:encoded>
-            <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202405/a897a73bd5c51bf1d7e8708da5691eb3.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
