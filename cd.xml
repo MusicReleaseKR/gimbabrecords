@@ -4,7 +4,7 @@
         <title>김밥레코즈 ─ CD</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 03 Jun 2024 23:10:36 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Jun 2024 00:40:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,14 +22,6 @@
             <pubDate>Fri, 31 May 2024 06:12:04 GMT</pubDate>
             <content:encoded><![CDATA[20,800원]]></content:encoded>
             <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202405/70f8163563d3188d52720b6434c7269b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Snoop Doggy Dogg / Doggystyle (CD, 30th Anniversary Edition)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=25491&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=25491&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Fri, 31 May 2024 06:12:04 GMT</pubDate>
-            <content:encoded><![CDATA[23,100원]]></content:encoded>
-            <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202405/8b267acd1d668422e431c0ad68ed4d91.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Elliott Smith / New Moon (2CD, 국내반)]]></title>
@@ -102,6 +94,14 @@
             <pubDate>Fri, 31 May 2024 14:08:04 GMT</pubDate>
             <content:encoded><![CDATA[25,500원]]></content:encoded>
             <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202311/5615c0f960c2c6ef70c4fdaa27daab28.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Oasis / Definitely Maybe (30th Anniversary 2CD) *예약상품 (9월 6일~12일 사이 배송 예정)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=25418&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=25418&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Tue, 04 Jun 2024 00:37:55 GMT</pubDate>
+            <content:encoded><![CDATA[32,000원]]></content:encoded>
+            <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202405/a897a73bd5c51bf1d7e8708da5691eb3.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
