@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Jun 2024 10:11:05 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Jun 2024 11:11:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -184,20 +184,20 @@
             <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/201510/1444_shop1_555648.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Arild Andersen & Daniel Sommer & Rob Luft / As Time Passes (Vinyl) (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=25476&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=25476&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Thu, 30 May 2024 09:11:23 GMT</pubDate>
-            <content:encoded><![CDATA[39,500원]]></content:encoded>
-            <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202405/c06f620b6b661ef8c0d839957f2fcaaf.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Various Artists / Now That's What I Call 80s Dancefloor: R&B & Funk (Red & White Vinyl, 2LP, Limited Edition) (김밥레코즈 ─ Vinyl)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=25475&amp;cate_no=25&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=25475&amp;cate_no=25&amp;display_group=1</guid>
             <pubDate>Thu, 30 May 2024 09:11:23 GMT</pubDate>
             <content:encoded><![CDATA[49,500원]]></content:encoded>
             <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202405/952766fb37033b7a7363c205e9ca1185.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Amy Winehouse & Various Artists / Back to Black: Songs from the Original Motion Picture (Vinyl, 1LP) (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=25474&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=25474&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Tue, 04 Jun 2024 11:09:20 GMT</pubDate>
+            <content:encoded><![CDATA[47,500원]]></content:encoded>
+            <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202405/30a292b2cbee12bdfc44c5442556186e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Kiefer / It's Ok B U (Cassette) (김밥레코즈 ─ Cassette)]]></title>
