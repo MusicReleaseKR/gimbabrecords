@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ CD ─ Korean</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 04 Jun 2024 08:14:16 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Jun 2024 09:12:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Marv (마브) / Souly. (deluxe) (CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=25504&amp;cate_no=29&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=25504&amp;cate_no=29&amp;display_group=1</guid>
+            <pubDate>Tue, 04 Jun 2024 09:11:33 GMT</pubDate>
+            <content:encoded><![CDATA[15,000원]]></content:encoded>
+            <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202406/c7d8fbf66edde760ef271ff1c8d4d153.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[QM (큐엠) / 정규 4집 개미 (CD)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=25503&amp;cate_no=29&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Fri, 03 May 2024 11:07:53 GMT</pubDate>
             <content:encoded><![CDATA[33,800원]]></content:encoded>
             <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202405/cd7b653349e09ed834d34a29361f01d8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Soulman / Echoes (CD, Digipak)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=25179&amp;cate_no=29&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=25179&amp;cate_no=29&amp;display_group=1</guid>
-            <pubDate>Wed, 24 Apr 2024 05:10:38 GMT</pubDate>
-            <content:encoded><![CDATA[16,900원]]></content:encoded>
-            <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202404/344d3bb23f393ef3c1d0241b3f83dab0.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
