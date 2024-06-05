@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ Vinyl</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 05 Jun 2024 06:15:08 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Jun 2024 07:11:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Kirinji / Steppin' Out (Vinyl, Limited Edition)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=25506&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=25506&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Wed, 05 Jun 2024 07:09:05 GMT</pubDate>
+            <content:encoded><![CDATA[47,000원]]></content:encoded>
+            <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202406/4f09d137a70a60fe13d8c6df794ec62e.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[지셀 (Jiselle) / Therapy Session Deluxe (Limited Colored Vinyl) *예약상품 (9월말 배송 예정) / 한정 기간 할인]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=25502&amp;cate_no=25&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Thu, 30 May 2024 09:11:23 GMT</pubDate>
             <content:encoded><![CDATA[49,500원]]></content:encoded>
             <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202405/952766fb37033b7a7363c205e9ca1185.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Amy Winehouse & Various Artists / Back to Black: Songs from the Original Motion Picture (Vinyl, 1LP)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=25474&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=25474&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Tue, 04 Jun 2024 11:09:20 GMT</pubDate>
-            <content:encoded><![CDATA[47,500원]]></content:encoded>
-            <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202405/30a292b2cbee12bdfc44c5442556186e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

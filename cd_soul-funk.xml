@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ CD ─ R&amp;B/Soul/Funk</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 05 Jun 2024 06:15:08 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Jun 2024 07:11:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Various Artists / City Music Tokyo: Transit (CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=25505&amp;cate_no=44&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=25505&amp;cate_no=44&amp;display_group=1</guid>
+            <pubDate>Wed, 05 Jun 2024 07:09:58 GMT</pubDate>
+            <content:encoded><![CDATA[30,000원]]></content:encoded>
+            <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202406/60a9a5580726b3e85d08010f64731d8d.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Jordan Rakei / The Loop (CD, Paper Sleeve, Gatefold)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=25395&amp;cate_no=44&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Fri, 26 Apr 2024 11:09:02 GMT</pubDate>
             <content:encoded><![CDATA[12,000원]]></content:encoded>
             <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202404/e3f032246f87b3c1a65c3b89599c4ded.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Debarge / Rhythm Of The Night (CD, Disco Fever Series, JPN Import)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=25218&amp;cate_no=44&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=25218&amp;cate_no=44&amp;display_group=1</guid>
-            <pubDate>Fri, 26 Apr 2024 11:09:02 GMT</pubDate>
-            <content:encoded><![CDATA[13,000원]]></content:encoded>
-            <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202404/05fd0d12ccff995864fd66c27fdfa2c3.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
