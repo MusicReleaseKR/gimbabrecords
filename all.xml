@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 05 Jun 2024 15:11:18 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Jun 2024 16:13:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[John Scofield / John Scofield (1978) (CD, Jazz Legends In Japan) (김밥레코즈 ─ CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=25513&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=25513&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Wed, 05 Jun 2024 16:11:07 GMT</pubDate>
+            <content:encoded><![CDATA[13,000원]]></content:encoded>
+            <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202406/474abbd329687a0166bd3dc55ebd2da9.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Richard "Groove" Holmes / Six Million Dollar Man (CD, Jazz Giants Series) (김밥레코즈 ─ CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=25512&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=25512&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Wed, 05 Jun 2024 16:11:07 GMT</pubDate>
+            <content:encoded><![CDATA[13,000원]]></content:encoded>
+            <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202406/c2ce79f546837db66763a3dc76e80a3f.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Various Artists / City Music Tokyo: Transit (CD) (김밥레코즈 ─ CD)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=25505&amp;cate_no=24&amp;display_group=1</link>
@@ -86,22 +102,6 @@
             <pubDate>Mon, 03 Jun 2024 08:12:14 GMT</pubDate>
             <content:encoded><![CDATA[15,000원]]></content:encoded>
             <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202406/5f2b592828b90a3903c7594b06f498c2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[에몬 / 정규앨범 모으는 사람 (CD) (김밥레코즈 ─ CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=25492&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=25492&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Fri, 31 May 2024 06:12:04 GMT</pubDate>
-            <content:encoded><![CDATA[20,800원]]></content:encoded>
-            <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202405/70f8163563d3188d52720b6434c7269b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Elliott Smith / New Moon (2CD, 국내반) (김밥레코즈 ─ CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=25490&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=25490&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Fri, 31 May 2024 06:12:04 GMT</pubDate>
-            <content:encoded><![CDATA[13,400원]]></content:encoded>
-            <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202405/80af5db43bd19f2241aa95729b86d8a9.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Glen Check / Bleach (Limited White Colored Vinyl, 보너스트랙 1곡 추가) *예약상품 (10월 중순 배송 예정) (김밥레코즈 ─ Vinyl)]]></title>
@@ -392,6 +392,14 @@
             <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202207/259f81db7940fa9ac47aa9922c2786dd.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
+            <title><![CDATA[Portishead / Roseland NYC Live (Remastered Red Vinyl, 2LP, 25th Anniversary Deluxe Edition) *한정수량 할인 / 예약상품 (6월 중순 추가 도착분) (김밥레코즈 ─ Pre-Order)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=25266&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=25266&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Wed, 05 Jun 2024 16:11:37 GMT</pubDate>
+            <content:encoded><![CDATA[62,500원]]></content:encoded>
+            <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/201711/664_shop1_437860.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[지셀 (Jiselle) / Therapy Session Deluxe (Limited Colored Vinyl) *예약상품 (9월말 배송 예정) / 한정 기간 할인 (김밥레코즈 ─ Pre-Order)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=25502&amp;cate_no=42&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=25502&amp;cate_no=42&amp;display_group=1</guid>
@@ -478,14 +486,6 @@
             <pubDate>Fri, 31 May 2024 09:10:56 GMT</pubDate>
             <content:encoded><![CDATA[44,600원]]></content:encoded>
             <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202405/26dd2e9f9090f418a7d2f2679ecfa242.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Dabeull / Analog Love (Vinyl) *예약상품 (7월초 배송 예정) (김밥레코즈 ─ Pre-Order)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=24873&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=24873&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Fri, 31 May 2024 06:12:33 GMT</pubDate>
-            <content:encoded><![CDATA[44,500원]]></content:encoded>
-            <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202403/723ca30b3bdb158b5cfe94f94fbdd268.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Jacques Brel & Georges Brassens / Les Voisins Magnifiques (5CD) *2023 블랙프라이데이 할인 (김밥레코즈 ─ Bargain Bin)]]></title>
@@ -1064,6 +1064,22 @@
             <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202403/ca7b5f3c28a1f19fae4cd7b729e1b0ba.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[John Scofield / John Scofield (1978) (CD, Jazz Legends In Japan) (김밥레코즈 ─ CD ─ Jazz)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=25513&amp;cate_no=46&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=25513&amp;cate_no=46&amp;display_group=1</guid>
+            <pubDate>Wed, 05 Jun 2024 16:12:23 GMT</pubDate>
+            <content:encoded><![CDATA[13,000원]]></content:encoded>
+            <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202406/474abbd329687a0166bd3dc55ebd2da9.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Richard "Groove" Holmes / Six Million Dollar Man (CD, Jazz Giants Series) (김밥레코즈 ─ CD ─ Jazz)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=25512&amp;cate_no=46&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=25512&amp;cate_no=46&amp;display_group=1</guid>
+            <pubDate>Wed, 05 Jun 2024 16:12:23 GMT</pubDate>
+            <content:encoded><![CDATA[13,000원]]></content:encoded>
+            <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202406/c2ce79f546837db66763a3dc76e80a3f.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Kurt Rosenwinkel / Undercover : Live At The Village Vanguard) (CD) (김밥레코즈 ─ CD ─ Jazz)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=25421&amp;cate_no=46&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=25421&amp;cate_no=46&amp;display_group=1</guid>
@@ -1142,22 +1158,6 @@
             <pubDate>Tue, 30 Apr 2024 10:10:44 GMT</pubDate>
             <content:encoded><![CDATA[18,000원]]></content:encoded>
             <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202404/6e1d95375d6b4ca2a0a9e17251c68104.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Fred Hersch / Silent, Listening (CD) (김밥레코즈 ─ CD ─ Jazz)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=25251&amp;cate_no=46&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=25251&amp;cate_no=46&amp;display_group=1</guid>
-            <pubDate>Tue, 30 Apr 2024 10:10:44 GMT</pubDate>
-            <content:encoded><![CDATA[21,000원]]></content:encoded>
-            <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202404/5a2e6e353be062c6ec0aacca02be4c67.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sun Ra / Singles (The Definitive 45s Collection) (3CD) *온라인 매장 한정 할인 (김밥레코즈 ─ CD ─ Jazz)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=25239&amp;cate_no=46&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=25239&amp;cate_no=46&amp;display_group=1</guid>
-            <pubDate>Sat, 27 Apr 2024 16:09:35 GMT</pubDate>
-            <content:encoded><![CDATA[25,000원]]></content:encoded>
-            <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202404/04534e39839f2c15386d1b992b113108.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[The Lions / Soul Riot (CD) (김밥레코즈 ─ CD ─ Reggae)]]></title>

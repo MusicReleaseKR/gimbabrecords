@@ -4,9 +4,25 @@
         <title>김밥레코즈 ─ CD ─ Jazz</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 05 Jun 2024 15:11:18 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Jun 2024 16:13:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[John Scofield / John Scofield (1978) (CD, Jazz Legends In Japan)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=25513&amp;cate_no=46&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=25513&amp;cate_no=46&amp;display_group=1</guid>
+            <pubDate>Wed, 05 Jun 2024 16:12:23 GMT</pubDate>
+            <content:encoded><![CDATA[13,000원]]></content:encoded>
+            <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202406/474abbd329687a0166bd3dc55ebd2da9.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Richard "Groove" Holmes / Six Million Dollar Man (CD, Jazz Giants Series)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=25512&amp;cate_no=46&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=25512&amp;cate_no=46&amp;display_group=1</guid>
+            <pubDate>Wed, 05 Jun 2024 16:12:23 GMT</pubDate>
+            <content:encoded><![CDATA[13,000원]]></content:encoded>
+            <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202406/c2ce79f546837db66763a3dc76e80a3f.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Kurt Rosenwinkel / Undercover : Live At The Village Vanguard) (CD)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=25421&amp;cate_no=46&amp;display_group=1</link>
@@ -86,22 +102,6 @@
             <pubDate>Tue, 30 Apr 2024 10:10:44 GMT</pubDate>
             <content:encoded><![CDATA[18,000원]]></content:encoded>
             <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202404/6e1d95375d6b4ca2a0a9e17251c68104.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Fred Hersch / Silent, Listening (CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=25251&amp;cate_no=46&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=25251&amp;cate_no=46&amp;display_group=1</guid>
-            <pubDate>Tue, 30 Apr 2024 10:10:44 GMT</pubDate>
-            <content:encoded><![CDATA[21,000원]]></content:encoded>
-            <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202404/5a2e6e353be062c6ec0aacca02be4c67.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sun Ra / Singles (The Definitive 45s Collection) (3CD) *온라인 매장 한정 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=25239&amp;cate_no=46&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=25239&amp;cate_no=46&amp;display_group=1</guid>
-            <pubDate>Sat, 27 Apr 2024 16:09:35 GMT</pubDate>
-            <content:encoded><![CDATA[25,000원]]></content:encoded>
-            <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202404/04534e39839f2c15386d1b992b113108.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
