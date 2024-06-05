@@ -4,16 +4,24 @@
         <title>김밥레코즈 ─ Vinyl</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 05 Jun 2024 08:13:09 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Jun 2024 09:13:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[Various Artists (Jim O'Rourke 외) / All Kinds Of People ~Love Burt Bacharach~ (Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=25508&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=25508&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Wed, 05 Jun 2024 08:11:24 GMT</pubDate>
-            <content:encoded><![CDATA[49,000원]]></content:encoded>
-            <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202404/1ec85d827cbc645dfe546be8fad4e427.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[Amancio D'Silva / Reflections (The Romantic Guitar Of Amancio D'Silva) (Clear Vinyl, 2024 RSD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=25510&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=25510&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Wed, 05 Jun 2024 09:11:21 GMT</pubDate>
+            <content:encoded><![CDATA[40,300원]]></content:encoded>
+            <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202406/78fc421c5935aab19eb89daa6a3222bb.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[OST (Francis Lai) / Un Homme Et Une Femme 남과 여 (Vinyl, 2024 RSD Japan Exclusive)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=25509&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=25509&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Wed, 05 Jun 2024 09:11:21 GMT</pubDate>
+            <content:encoded><![CDATA[54,000원]]></content:encoded>
+            <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202406/9b3a915589332bd0d41dfa24ae11c11e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Kirinji / Steppin' Out (Vinyl, Limited Edition) *할인상품 (쟈켓 모서리 한쪽에 작은 눌림이 있습니다.)]]></title>
@@ -94,14 +102,6 @@
             <pubDate>Fri, 31 May 2024 06:12:13 GMT</pubDate>
             <content:encoded><![CDATA[99,500원]]></content:encoded>
             <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202405/abfb59582dcef2b373139fce959869ba.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Public Image Ltd. / First Issue (Metallic Silver Vinyl, LITA New 2024 Edition)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=25480&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=25480&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Thu, 30 May 2024 10:09:50 GMT</pubDate>
-            <content:encoded><![CDATA[47,500원]]></content:encoded>
-            <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202405/75a812ef0f72d65865374977cdf077f2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ Cassette</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 05 Jun 2024 08:13:09 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Jun 2024 09:13:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Various Artists (Jim O'Rourke 외) / All Kinds Of People ~Love Burt Bacharach~ (Cassette)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=25508&amp;cate_no=26&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=25508&amp;cate_no=26&amp;display_group=1</guid>
+            <pubDate>Wed, 05 Jun 2024 09:11:31 GMT</pubDate>
+            <content:encoded><![CDATA[28,000원]]></content:encoded>
+            <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202406/223fe2bfe78ddaa5b1763cf7e0aee3a2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Kiefer / It's Ok B U (Cassette)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=25435&amp;cate_no=26&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Thu, 30 May 2024 15:09:28 GMT</pubDate>
             <content:encoded><![CDATA[17,500원]]></content:encoded>
             <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202402/305655ff1eb3486b5544b17f82ed8d12.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Yeule / Glitch Princess (Cassette, Clear Shell)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=24527&amp;cate_no=26&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=24527&amp;cate_no=26&amp;display_group=1</guid>
-            <pubDate>Sun, 02 Jun 2024 07:09:53 GMT</pubDate>
-            <content:encoded><![CDATA[14,300원]]></content:encoded>
-            <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202402/deb8acccf41684d1a46d58040bf08d48.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
