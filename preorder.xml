@@ -4,9 +4,25 @@
         <title>김밥레코즈 ─ Pre-Order</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 05 Jun 2024 16:13:15 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Jun 2024 17:11:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Mayumi Kuroki / 12 no Rakugaki (Vinyl) *예약상품 (8월 중순 배송 예정)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=25441&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=25441&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Wed, 05 Jun 2024 17:09:30 GMT</pubDate>
+            <content:encoded><![CDATA[55,000원]]></content:encoded>
+            <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202405/ee6f5a5eaeaeb2a50087a35905369490.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Various Artists / Sensational Jazz '70 Vol.1/ 2 (Vinyl, 2LP) *예약상품 (9월 중순 배송 예정입니다.)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=25458&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=25458&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Wed, 05 Jun 2024 17:09:30 GMT</pubDate>
+            <content:encoded><![CDATA[61,000원]]></content:encoded>
+            <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202405/38e01f6510de2bf6422dc0fec67c6c8f.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Portishead / Roseland NYC Live (Remastered Red Vinyl, 2LP, 25th Anniversary Deluxe Edition) *한정수량 할인 / 예약상품 (6월 중순 추가 도착분)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=25266&amp;cate_no=42&amp;display_group=1</link>
@@ -86,22 +102,6 @@
             <pubDate>Mon, 03 Jun 2024 07:09:40 GMT</pubDate>
             <content:encoded><![CDATA[46,000원]]></content:encoded>
             <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202406/32850c450baf2829991c832a63b99f3a.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Asako Toki (土岐麻子) / Peppermint Time ～20th Anniversary VINYL Best～ (Vinyl) *예약상품 (8월 중순 배송 예정)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=25438&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=25438&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Fri, 31 May 2024 05:09:57 GMT</pubDate>
-            <content:encoded><![CDATA[47,000원]]></content:encoded>
-            <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202405/0ea6ce3d629a4728fd2300e3a4b29152.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[멋진인생 / 2집 쿠빌라이 칸 (180g Vinyl, Limited Edition) *예약상품 (8월 22일 발매)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=25493&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=25493&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Fri, 31 May 2024 09:10:56 GMT</pubDate>
-            <content:encoded><![CDATA[44,600원]]></content:encoded>
-            <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202405/26dd2e9f9090f418a7d2f2679ecfa242.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
