@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ Vinyl</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 05 Jun 2024 10:11:23 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Jun 2024 11:09:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Glen Check / Bleach (Limited White Colored Vinyl, 보너스트랙 1곡 추가) *예약상품 (10월 중순 배송 예정)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=25511&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=25511&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Wed, 05 Jun 2024 11:07:24 GMT</pubDate>
+            <content:encoded><![CDATA[49,500원]]></content:encoded>
+            <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202406/d1d227051e2bd2733689e4fd07942bf6.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Amancio D'Silva / Reflections (The Romantic Guitar Of Amancio D'Silva) (Clear Vinyl, 2024 RSD)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=25510&amp;cate_no=25&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Fri, 31 May 2024 06:12:13 GMT</pubDate>
             <content:encoded><![CDATA[36,700원]]></content:encoded>
             <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202201/856bd88ef7c10e5d8e6ebd28d1957aa7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Doors / Live at Konserthuset, Stockholm September 20, 1968 (Vinyl, 3LP, 2024 RSD Exclusive)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=25482&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=25482&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Fri, 31 May 2024 06:12:13 GMT</pubDate>
-            <content:encoded><![CDATA[99,500원]]></content:encoded>
-            <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202405/abfb59582dcef2b373139fce959869ba.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
