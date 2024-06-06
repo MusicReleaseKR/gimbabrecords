@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 06 Jun 2024 05:14:03 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Jun 2024 06:14:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -56,14 +56,6 @@
             <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202406/aa3a088759154a8b6c9b9fdd9eec2757.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[KIKI / Post-existential Crisis (CD) (김밥레코즈 ─ CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=25498&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=25498&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Tue, 04 Jun 2024 07:11:30 GMT</pubDate>
-            <content:encoded><![CDATA[18,000원]]></content:encoded>
-            <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202406/77dbac8a212ef6dfc3a1f391f960aae2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[never young beach / Arigato (CD) (김밥레코즈 ─ CD)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=25497&amp;cate_no=24&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=25497&amp;cate_no=24&amp;display_group=1</guid>
@@ -102,6 +94,22 @@
             <pubDate>Thu, 06 Jun 2024 00:37:35 GMT</pubDate>
             <content:encoded><![CDATA[13,400원]]></content:encoded>
             <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202405/80af5db43bd19f2241aa95729b86d8a9.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Cat Power / Cat Power Sings Dylan: The 1966 Royal Albert Hall Concert (2CD) (김밥레코즈 ─ CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=25489&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=25489&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Thu, 06 Jun 2024 06:12:06 GMT</pubDate>
+            <content:encoded><![CDATA[23,100원]]></content:encoded>
+            <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202405/f9273d033cd7be6f02217aab0587b168.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Pictured Resort / Overdreamt (Vinyl) *예약상품 (8월초 배송 예정) (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=25514&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=25514&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Thu, 06 Jun 2024 06:12:13 GMT</pubDate>
+            <content:encoded><![CDATA[41,500원]]></content:encoded>
+            <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202406/b4c0cea514136aa965c8bec9c9c4d0d5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Glen Check / Bleach (Limited White Colored Vinyl, 보너스트랙 1곡 추가) *예약상품 (10월 중순 배송 예정) (김밥레코즈 ─ Vinyl)]]></title>
@@ -190,14 +198,6 @@
             <pubDate>Fri, 31 May 2024 06:12:13 GMT</pubDate>
             <content:encoded><![CDATA[56,600원]]></content:encoded>
             <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202405/cc8a85b077fca8ff2451fb27f35899f6.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Idles / Crawler (Eco-mix Random Coloured Vinyl, Limited Edition) (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=25483&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=25483&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Fri, 31 May 2024 06:12:13 GMT</pubDate>
-            <content:encoded><![CDATA[36,700원]]></content:encoded>
-            <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202201/856bd88ef7c10e5d8e6ebd28d1957aa7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Various Artists (Jim O'Rourke 외) / All Kinds Of People ~Love Burt Bacharach~ (Cassette) (김밥레코즈 ─ Cassette)]]></title>
@@ -392,6 +392,14 @@
             <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202207/259f81db7940fa9ac47aa9922c2786dd.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
+            <title><![CDATA[Pictured Resort / Overdreamt (Vinyl) *예약상품 (8월초 배송 예정) (김밥레코즈 ─ Pre-Order)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=25514&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=25514&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Thu, 06 Jun 2024 06:12:33 GMT</pubDate>
+            <content:encoded><![CDATA[41,500원]]></content:encoded>
+            <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202406/b4c0cea514136aa965c8bec9c9c4d0d5.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Mayumi Kuroki / 12 no Rakugaki (Vinyl) *예약상품 (8월 중순 배송 예정) (김밥레코즈 ─ Pre-Order)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=25441&amp;cate_no=42&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=25441&amp;cate_no=42&amp;display_group=1</guid>
@@ -478,14 +486,6 @@
             <pubDate>Mon, 03 Jun 2024 08:12:42 GMT</pubDate>
             <content:encoded><![CDATA[15,000원]]></content:encoded>
             <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202406/5f2b592828b90a3903c7594b06f498c2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Soul delivery (소울 딜리버리) / 정규 2집 Peninsula Park (Vinyl, Limited Edition) *6월 10일부터 발송 (김밥레코즈 ─ Pre-Order)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=25494&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=25494&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Mon, 03 Jun 2024 07:09:40 GMT</pubDate>
-            <content:encoded><![CDATA[46,000원]]></content:encoded>
-            <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202406/32850c450baf2829991c832a63b99f3a.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[Jacques Brel & Georges Brassens / Les Voisins Magnifiques (5CD) *2023 블랙프라이데이 할인 (김밥레코즈 ─ Bargain Bin)]]></title>
