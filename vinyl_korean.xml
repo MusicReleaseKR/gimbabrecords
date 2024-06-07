@@ -4,7 +4,7 @@
         <title>김밥레코즈 ─ Vinyl ─ Korean</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 07 Jun 2024 14:12:35 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Jun 2024 15:11:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -56,14 +56,6 @@
             <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202405/575a3fdaf674f45ab24ab929097d33b3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Peggy Gou / I Hear You (Blue Vinyl, Indie Store Exclusive) / 1인 1매만 구매 가능]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=25373&amp;cate_no=52&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=25373&amp;cate_no=52&amp;display_group=1</guid>
-            <pubDate>Mon, 20 May 2024 06:14:21 GMT</pubDate>
-            <content:encoded><![CDATA[40,800원]]></content:encoded>
-            <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202405/20b7c272d3201fa993371f6a9d4e32be.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
             <title><![CDATA[Peggy Gou / I Hear You (Vinyl, Limited Korean Edition, 포토카드 수록) / 1인 1매만 구매 가능]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=25372&amp;cate_no=52&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=25372&amp;cate_no=52&amp;display_group=1</guid>
@@ -102,6 +94,14 @@
             <pubDate>Thu, 02 May 2024 06:13:41 GMT</pubDate>
             <content:encoded><![CDATA[77,200원]]></content:encoded>
             <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202405/e1053af806df8a24c99fabfe9e4a5a56.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[김뜻돌 / EP 1집 COBALT (Pink Marble Colored Vinyl, 45RPM) *예약상품 (8월 22일 발매 예정, 5월 13일 주문 마감)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=25257&amp;cate_no=52&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=25257&amp;cate_no=52&amp;display_group=1</guid>
+            <pubDate>Fri, 07 Jun 2024 15:11:36 GMT</pubDate>
+            <content:encoded><![CDATA[44,600원]]></content:encoded>
+            <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202404/61277c5cbef6036c1a8c452bc19c1555.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
