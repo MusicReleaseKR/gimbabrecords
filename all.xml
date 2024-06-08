@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 08 Jun 2024 15:10:50 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 08 Jun 2024 16:13:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -128,14 +128,6 @@
             <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202010/879ead666027f27475f82fc59ef63c6c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[The Marias / Submarine (Iridescent Blue Vinyl, Gatefold) (김밥레코즈 ─ Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=25519&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=25519&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Fri, 07 Jun 2024 11:08:59 GMT</pubDate>
-            <content:encoded><![CDATA[48,500원]]></content:encoded>
-            <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202406/f4a96bd540de9dac43caf3dacc773ec0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Anohni and the Johnsons / My Back Was A Bridge For You To Cross (Black Vinyl) *한정수량 할인 (김밥레코즈 ─ Vinyl)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=25518&amp;cate_no=25&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=25518&amp;cate_no=25&amp;display_group=1</guid>
@@ -198,6 +190,14 @@
             <pubDate>Wed, 05 Jun 2024 09:11:21 GMT</pubDate>
             <content:encoded><![CDATA[54,000원]]></content:encoded>
             <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202406/9b3a915589332bd0d41dfa24ae11c11e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Kirinji / Steppin' Out (Vinyl, Limited Edition) *할인상품 (쟈켓 모서리 한쪽에 미세한 눌림 자국이 있습니다.) (김밥레코즈 ─ Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=25507&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=25507&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Sat, 08 Jun 2024 16:11:40 GMT</pubDate>
+            <content:encoded><![CDATA[46,000원]]></content:encoded>
+            <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202406/4f09d137a70a60fe13d8c6df794ec62e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Various Artists (Jim O'Rourke 외) / All Kinds Of People ~Love Burt Bacharach~ (Cassette) (김밥레코즈 ─ Cassette)]]></title>
@@ -392,6 +392,14 @@
             <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202207/259f81db7940fa9ac47aa9922c2786dd.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
+            <title><![CDATA[Stevie Wonder / Songs In The Key Of Life (2LP + Bonus 7" Vinyl) *예약상품 (6월말 배송 예정) (김밥레코즈 ─ Pre-Order)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=14699&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=14699&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Sat, 08 Jun 2024 16:11:57 GMT</pubDate>
+            <content:encoded><![CDATA[62,000원]]></content:encoded>
+            <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/20200331/fdaf7aed54c1400058cd1065d262c325.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Portishead / Roseland NYC Live (Remastered Red Vinyl, 2LP, 25th Anniversary Deluxe Edition) *한정수량 할인 / 예약상품 (6월 중순 추가 도착분) (김밥레코즈 ─ Pre-Order)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=25266&amp;cate_no=42&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=25266&amp;cate_no=42&amp;display_group=1</guid>
@@ -478,14 +486,6 @@
             <pubDate>Fri, 07 Jun 2024 09:09:42 GMT</pubDate>
             <content:encoded><![CDATA[45,000원]]></content:encoded>
             <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202308/364da1b862543b8f2382353ec84c590d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[왑띠 / 우리의 친구 머피처럼 (Like Our Friend Murphy) (CD) *예약상품 (6월 10일 발송) (김밥레코즈 ─ Pre-Order)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=25495&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=25495&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Fri, 07 Jun 2024 09:09:42 GMT</pubDate>
-            <content:encoded><![CDATA[15,000원]]></content:encoded>
-            <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202406/5f2b592828b90a3903c7594b06f498c2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Jacques Brel & Georges Brassens / Les Voisins Magnifiques (5CD) *2023 블랙프라이데이 할인 (김밥레코즈 ─ Bargain Bin)]]></title>
