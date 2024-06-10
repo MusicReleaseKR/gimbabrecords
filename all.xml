@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 10 Jun 2024 05:11:55 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Jun 2024 06:16:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -64,7 +64,7 @@
             <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202406/5fb2752b66f3f55e8b5e1f81d9ba1ef5.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[왑띠 / 우리의 친구 머피처럼 (Like Our Friend Murphy) (CD) *예약상품 (6월 10일 발송) (김밥레코즈 ─ CD)]]></title>
+            <title><![CDATA[왑띠 / 우리의 친구 머피처럼 (Like Our Friend Murphy) (CD) (김밥레코즈 ─ CD)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=25495&amp;cate_no=24&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=25495&amp;cate_no=24&amp;display_group=1</guid>
             <pubDate>Mon, 03 Jun 2024 08:12:14 GMT</pubDate>
@@ -600,7 +600,7 @@
             <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202406/68db242978619c0a3e5bb36bcf716c3b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[왑띠 / 우리의 친구 머피처럼 (Like Our Friend Murphy) (CD) *예약상품 (6월 10일 발송) (김밥레코즈 ─ CD ─ Korean)]]></title>
+            <title><![CDATA[왑띠 / 우리의 친구 머피처럼 (Like Our Friend Murphy) (CD) (김밥레코즈 ─ CD ─ Korean)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=25495&amp;cate_no=29&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=25495&amp;cate_no=29&amp;display_group=1</guid>
             <pubDate>Mon, 03 Jun 2024 08:12:56 GMT</pubDate>
@@ -1768,6 +1768,14 @@
             <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202405/26dd2e9f9090f418a7d2f2679ecfa242.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[신중현 Shin Joong Hyun / From Where To Where: 1970-79 ("Yellow Jacket" Colored Vinyl) (김밥레코즈 ─ Vinyl ─ Korean)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=25453&amp;cate_no=52&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=25453&amp;cate_no=52&amp;display_group=1</guid>
+            <pubDate>Mon, 10 Jun 2024 06:15:54 GMT</pubDate>
+            <content:encoded><![CDATA[47,500원]]></content:encoded>
+            <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202405/5f34f5c82f270780ae92a3a7bded9e06.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[BLACKPINK (블랙핑크) / Born Pink (Clear Vinyl, Limited Edition) (김밥레코즈 ─ Vinyl ─ Korean)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=25425&amp;cate_no=52&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=25425&amp;cate_no=52&amp;display_group=1</guid>
@@ -1822,14 +1830,6 @@
             <pubDate>Thu, 02 May 2024 06:13:41 GMT</pubDate>
             <content:encoded><![CDATA[77,200원]]></content:encoded>
             <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202405/e1053af806df8a24c99fabfe9e4a5a56.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[김뜻돌 / EP 1집 COBALT (Pink Marble Colored Vinyl, 45RPM) *예약상품 (8월 22일 발매 예정, 5월 13일 주문 마감) (김밥레코즈 ─ Vinyl ─ Korean)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=25257&amp;cate_no=52&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=25257&amp;cate_no=52&amp;display_group=1</guid>
-            <pubDate>Fri, 07 Jun 2024 15:11:36 GMT</pubDate>
-            <content:encoded><![CDATA[44,600원]]></content:encoded>
-            <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202404/61277c5cbef6036c1a8c452bc19c1555.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Roy Orbison / Black & White Night (DVD, NTSC) *한정수량 할인 (김밥레코즈 ─ Movies/Merch ─ DVD/Blu-Ray)]]></title>
