@@ -4,17 +4,9 @@
         <title>김밥레코즈 ─ CD</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 11 Jun 2024 09:12:42 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Jun 2024 10:12:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[Kaneko Ayano / タオルケットは穏やかな (밴드녹음, CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=25553&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=25553&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Tue, 11 Jun 2024 07:09:24 GMT</pubDate>
-            <content:encoded><![CDATA[28,400원]]></content:encoded>
-            <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202406/91ce67416b346692149877589e906499.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[Kaneko Ayano / タオルケットは穏やかな (솔로녹음, CD)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=25552&amp;cate_no=24&amp;display_group=1</link>
@@ -102,6 +94,14 @@
             <pubDate>Tue, 11 Jun 2024 08:12:08 GMT</pubDate>
             <content:encoded><![CDATA[15,000원]]></content:encoded>
             <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202406/5f2b592828b90a3903c7594b06f498c2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[에몬 / 정규앨범 모으는 사람 (CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=25492&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=25492&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Tue, 11 Jun 2024 10:10:13 GMT</pubDate>
+            <content:encoded><![CDATA[20,800원]]></content:encoded>
+            <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202405/70f8163563d3188d52720b6434c7269b.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
