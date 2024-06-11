@@ -4,7 +4,7 @@
         <title>김밥레코즈 ─ Vinyl</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 11 Jun 2024 14:11:35 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Jun 2024 15:10:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -64,14 +64,6 @@
             <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202406/95edb44769eb6baba9b4aa0f53851427.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[OST (Ray Parker Jr. & Run-DMC) Ghostbusters 고스트버스터즈 Stay Puft Edition (12" White Vinyl, 푹신한 마시멜로우 같은 소재의 쟈켓)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=25541&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=25541&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Mon, 10 Jun 2024 10:10:36 GMT</pubDate>
-            <content:encoded><![CDATA[62,000원]]></content:encoded>
-            <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202406/853abc85345f1c28c73fd155fc252917.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Twenty One Pilots / Clancy (Indie Exclusive Clear w/Opaque Red Splatter Vinyl)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=25540&amp;cate_no=25&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=25540&amp;cate_no=25&amp;display_group=1</guid>
@@ -102,6 +94,14 @@
             <pubDate>Mon, 10 Jun 2024 10:10:36 GMT</pubDate>
             <content:encoded><![CDATA[39,900원]]></content:encoded>
             <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202406/a943d91eb530e9e9dee58e3fe15565c6.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Phoenix / Ti Amo (Black Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=25536&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=25536&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Tue, 11 Jun 2024 15:09:07 GMT</pubDate>
+            <content:encoded><![CDATA[45,500원]]></content:encoded>
+            <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/201706/7425_shop1_766945.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
