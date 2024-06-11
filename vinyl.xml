@@ -4,9 +4,25 @@
         <title>김밥레코즈 ─ Vinyl</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 11 Jun 2024 04:12:56 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Jun 2024 05:12:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Maya Hawke / Chaos Angel (Vinyl + Poster)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=25550&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=25550&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Tue, 11 Jun 2024 05:10:29 GMT</pubDate>
+            <content:encoded><![CDATA[39,500원]]></content:encoded>
+            <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202406/22f2e97c6803a5f70f9bb4838f371709.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Elephant Gym / Dreams (180g Orange Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=25549&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=25549&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Tue, 11 Jun 2024 05:10:29 GMT</pubDate>
+            <content:encoded><![CDATA[36,500원]]></content:encoded>
+            <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202406/e78f4dd95fd13a6c7f070b571fca127c.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Gordon Lightfoot / Now Playing (Vinyl)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=25546&amp;cate_no=25&amp;display_group=1</link>
@@ -86,22 +102,6 @@
             <pubDate>Mon, 10 Jun 2024 10:10:36 GMT</pubDate>
             <content:encoded><![CDATA[39,900원]]></content:encoded>
             <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202406/a943d91eb530e9e9dee58e3fe15565c6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Phoenix / Ti Amo (Black Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=25536&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=25536&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Mon, 10 Jun 2024 10:10:36 GMT</pubDate>
-            <content:encoded><![CDATA[45,500원]]></content:encoded>
-            <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/201706/7425_shop1_766945.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Pet Shop Boys / Nonetheless (Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=25535&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=25535&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Mon, 10 Jun 2024 10:10:36 GMT</pubDate>
-            <content:encoded><![CDATA[51,500원]]></content:encoded>
-            <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202406/4ed1678fe7db85e5204308bbbcbb1229.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
