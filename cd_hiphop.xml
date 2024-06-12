@@ -4,9 +4,25 @@
         <title>김밥레코즈 ─ CD ─ Hip Hop</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Jun 2024 07:11:06 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Jun 2024 08:14:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Snoop Dogg / The Best Of Snoop Dogg (CD) *한정수량 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=25571&amp;cate_no=45&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=25571&amp;cate_no=45&amp;display_group=1</guid>
+            <pubDate>Wed, 12 Jun 2024 08:13:36 GMT</pubDate>
+            <content:encoded><![CDATA[15,500원]]></content:encoded>
+            <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202406/6b44e62de61c3c9e1e20331b03c27b16.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[N.W.A. / The Best Of N.W.A: The Strength Of Street Knowledge (CD) *한정수량 할인]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=25570&amp;cate_no=45&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=25570&amp;cate_no=45&amp;display_group=1</guid>
+            <pubDate>Wed, 12 Jun 2024 08:13:36 GMT</pubDate>
+            <content:encoded><![CDATA[15,000원]]></content:encoded>
+            <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202406/53a659579f84f4c7be1bae47ce79f051.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Snoop Doggy Dogg / Doggystyle (CD, 30th Anniversary Edition)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=25491&amp;cate_no=45&amp;display_group=1</link>
@@ -86,22 +102,6 @@
             <pubDate>Mon, 25 Mar 2024 08:13:10 GMT</pubDate>
             <content:encoded><![CDATA[24,000원]]></content:encoded>
             <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202403/507a35c4d8125e0af4cd631ab048bfce.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Kiefer / It's Ok B U (CD, US Import)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=24867&amp;cate_no=45&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=24867&amp;cate_no=45&amp;display_group=1</guid>
-            <pubDate>Fri, 15 Mar 2024 10:09:19 GMT</pubDate>
-            <content:encoded><![CDATA[20,500원]]></content:encoded>
-            <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202403/ae8d802842db97d78e6ea569bc155efb.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Czarface / Czartificial Intelligence (CD, US Import)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=24866&amp;cate_no=45&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=24866&amp;cate_no=45&amp;display_group=1</guid>
-            <pubDate>Fri, 15 Mar 2024 10:09:19 GMT</pubDate>
-            <content:encoded><![CDATA[23,500원]]></content:encoded>
-            <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202403/ca7b5f3c28a1f19fae4cd7b729e1b0ba.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
