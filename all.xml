@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Jun 2024 04:12:46 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Jun 2024 05:12:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -88,7 +88,7 @@
             <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202406/ed7ab17412e6fcd4fbd9572d5ae805cb.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Grateful Dead / The Best of the Grateful Dead Live: 1969-1977 (2CD) *한정수량 할인 (김밥레코즈 ─ CD)]]></title>
+            <title><![CDATA[Grateful Dead / The Best of the Grateful Dead Live: 1969-1977 (2CD) (김밥레코즈 ─ CD)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=25562&amp;cate_no=24&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=25562&amp;cate_no=24&amp;display_group=1</guid>
             <pubDate>Wed, 12 Jun 2024 07:08:54 GMT</pubDate>
@@ -736,7 +736,7 @@
             <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202406/ed7ab17412e6fcd4fbd9572d5ae805cb.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Grateful Dead / The Best of the Grateful Dead Live: 1969-1977 (2CD) *한정수량 할인 (김밥레코즈 ─ CD ─ Pop/Rock)]]></title>
+            <title><![CDATA[Grateful Dead / The Best of the Grateful Dead Live: 1969-1977 (2CD) (김밥레코즈 ─ CD ─ Pop/Rock)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=25562&amp;cate_no=30&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=25562&amp;cate_no=30&amp;display_group=1</guid>
             <pubDate>Wed, 12 Jun 2024 07:09:42 GMT</pubDate>
