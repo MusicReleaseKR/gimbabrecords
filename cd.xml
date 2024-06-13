@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ CD</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Jun 2024 05:12:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Jun 2024 06:14:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[피타입 (P-TYPE) / 5집 Hardboiled Café (CD) *예약상품 (6월 17일부터 발송)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=25579&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=25579&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Thu, 13 Jun 2024 06:12:17 GMT</pubDate>
+            <content:encoded><![CDATA[17,800원]]></content:encoded>
+            <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202406/6fa448a467c81bb3226123962c66fa95.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Margo Guryan / Words & Music (2CD + 20p Booklet, Numero 085)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=25572&amp;cate_no=24&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Wed, 12 Jun 2024 07:08:54 GMT</pubDate>
             <content:encoded><![CDATA[22,600원]]></content:encoded>
             <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202406/dd923dcb5a0d6ba1c19ac37358a8d3fc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Eagles / Live From The Forum MMXVIII (2CD + Blu-ray) *한정수량 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=25561&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=25561&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Wed, 12 Jun 2024 07:08:54 GMT</pubDate>
-            <content:encoded><![CDATA[30,500원]]></content:encoded>
-            <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202406/93771a38475fa70a64b7abcafe5203bd.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

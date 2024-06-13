@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ CD ─ Korean</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Jun 2024 05:12:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Jun 2024 06:14:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[피타입 (P-TYPE) / 5집 Hardboiled Café (CD) *예약상품 (6월 17일부터 발송)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=25579&amp;cate_no=29&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=25579&amp;cate_no=29&amp;display_group=1</guid>
+            <pubDate>Thu, 13 Jun 2024 06:12:52 GMT</pubDate>
+            <content:encoded><![CDATA[17,800원]]></content:encoded>
+            <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202406/6fa448a467c81bb3226123962c66fa95.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[Marv (마브) / Souly. (deluxe) (CD)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=25504&amp;cate_no=29&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Thu, 09 May 2024 06:11:51 GMT</pubDate>
             <content:encoded><![CDATA[23,800원]]></content:encoded>
             <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202405/d9a0d18063eea4a079dd277deb007bcc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Taylor Swift  / The Tortured Poets Department  (CD + 2-sided poster & handwritten lyrics)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=25267&amp;cate_no=29&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=25267&amp;cate_no=29&amp;display_group=1</guid>
-            <pubDate>Fri, 03 May 2024 11:07:53 GMT</pubDate>
-            <content:encoded><![CDATA[33,800원]]></content:encoded>
-            <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202405/cd7b653349e09ed834d34a29361f01d8.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
