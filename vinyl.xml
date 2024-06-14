@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ Vinyl</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 14 Jun 2024 10:11:40 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Jun 2024 11:09:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[개인 결제창 (권*영님)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=25597&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=25597&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Fri, 14 Jun 2024 11:07:49 GMT</pubDate>
+            <content:encoded><![CDATA[48,500원]]></content:encoded>
+            <enclosure url="http://img.echosting.cafe24.com/thumb/img_product_medium.gif" length="0" type="image/gif"/>
+        </item>
         <item>
             <title><![CDATA[Lonnie Smith / Funk Reaction (Vinyl, Gatefold, Mr. Bongo)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=25596&amp;cate_no=25&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Fri, 14 Jun 2024 10:09:42 GMT</pubDate>
             <content:encoded><![CDATA[31,500원]]></content:encoded>
             <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202110/0ad95495bd85fa923468d4d10920ba0c.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Marty Friedman / Drama (Vinyl, 2LP)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=25585&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=25585&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Fri, 14 Jun 2024 10:09:42 GMT</pubDate>
-            <content:encoded><![CDATA[55,000원]]></content:encoded>
-            <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202406/1be9e22e43e861100bed3a03670f3e0c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
