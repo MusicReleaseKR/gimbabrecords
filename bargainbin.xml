@@ -4,7 +4,7 @@
         <title>김밥레코즈 ─ Bargain Bin</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 14 Jun 2024 05:11:03 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Jun 2024 06:14:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,14 +22,6 @@
             <pubDate>Thu, 11 Apr 2024 10:09:54 GMT</pubDate>
             <content:encoded><![CDATA[25,500원]]></content:encoded>
             <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202404/e3f0ed785200eb0a42ec7404e119193c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Manic Street Preachers / This Is My Truth Tell Me Yours: 20 Year Collectors' Edition (3CD Set + 32p 하드커버 포토북) *한정수량 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=25033&amp;cate_no=43&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=25033&amp;cate_no=43&amp;display_group=1</guid>
-            <pubDate>Thu, 11 Apr 2024 10:09:54 GMT</pubDate>
-            <content:encoded><![CDATA[37,000원]]></content:encoded>
-            <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202404/632d67812b396bebae3ebb78156729b8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[The Clash / London Calling: 40th Anniversary Scrapbook Edition (120p 하드커버 스크랩북 + Deluxe CD) *한정수량 할인]]></title>
@@ -102,6 +94,14 @@
             <pubDate>Tue, 14 May 2024 10:10:34 GMT</pubDate>
             <content:encoded><![CDATA[14,500원]]></content:encoded>
             <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202403/535e2b2185410c485a675b078bd7538c.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[OST (Various) / O Brother, Where Art Thou? 오! 형제여 어디에 있는가 (CD, 한정수량 할인)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=24806&amp;cate_no=43&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=24806&amp;cate_no=43&amp;display_group=1</guid>
+            <pubDate>Fri, 14 Jun 2024 06:13:26 GMT</pubDate>
+            <content:encoded><![CDATA[14,500원]]></content:encoded>
+            <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202403/05754a4f59d7bd26c985360b97502bf4.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

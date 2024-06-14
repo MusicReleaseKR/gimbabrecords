@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 14 Jun 2024 05:11:03 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Jun 2024 06:14:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -240,6 +240,14 @@
             <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202403/ae8d802842db97d78e6ea569bc155efb.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Peggy Gou / I Hear You (Cassette) (김밥레코즈 ─ Cassette)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=25375&amp;cate_no=26&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=25375&amp;cate_no=26&amp;display_group=1</guid>
+            <pubDate>Fri, 14 Jun 2024 06:13:05 GMT</pubDate>
+            <content:encoded><![CDATA[17,700원]]></content:encoded>
+            <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202405/fa8cc76f0a37222599e0b05a7c53dbeb.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
             <title><![CDATA[Ruru 루루 / 나의 XX을 도와줘 (Cassette, Red Shell) (김밥레코즈 ─ Cassette)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=25247&amp;cate_no=26&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=25247&amp;cate_no=26&amp;display_group=1</guid>
@@ -286,14 +294,6 @@
             <pubDate>Tue, 12 Mar 2024 10:08:36 GMT</pubDate>
             <content:encoded><![CDATA[25,500원]]></content:encoded>
             <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202402/4f7fb06a79911e921ee77104a1bd3330.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[Sam Wilkes / One Theme & Subsequent Improvisation (Cassette,Clear Shell) (김밥레코즈 ─ Cassette)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=24535&amp;cate_no=26&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=24535&amp;cate_no=26&amp;display_group=1</guid>
-            <pubDate>Tue, 12 Mar 2024 10:08:36 GMT</pubDate>
-            <content:encoded><![CDATA[25,500원]]></content:encoded>
-            <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202402/8d0e12d83e202a8d66137fdc0ef5a352.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[Audio Technica Turntable - AT-SB727 YE (옐로우 색상) 휴대용 무선 블루투스 턴테이블 (선착순 5대 한정 결제가 완료된 주문에 한해 15,000원을 추가 적립해드립니다.) (김밥레코즈 ─ Movies/Merch)]]></title>
@@ -392,20 +392,20 @@
             <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202207/259f81db7940fa9ac47aa9922c2786dd.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[피타입 (P-TYPE) / 1집 Heavy Bass (Cassette) *예약상품 (6월 17일부터 발송) (김밥레코즈 ─ Pre-Order)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=25580&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=25580&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Thu, 13 Jun 2024 06:12:41 GMT</pubDate>
-            <content:encoded><![CDATA[20,800원]]></content:encoded>
-            <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202406/bf0322a24c47a0d45829c9b91068622e.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
             <title><![CDATA[피타입 (P-TYPE) / 5집 Hardboiled Café (Vinyl, 2LP, 사인반, Limited Edition) *예약상품 (6월 17일부터 발송) (김밥레코즈 ─ Pre-Order)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=25578&amp;cate_no=42&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=25578&amp;cate_no=42&amp;display_group=1</guid>
             <pubDate>Thu, 13 Jun 2024 06:12:41 GMT</pubDate>
             <content:encoded><![CDATA[80,200원]]></content:encoded>
             <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202406/e076cbb990a596ef281692414d09a7a3.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[피타입 (P-TYPE) / 1집 Heavy Bass (Cassette) *예약상품 (6월 17일부터 발송) (김밥레코즈 ─ Pre-Order)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=25580&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=25580&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Thu, 13 Jun 2024 06:12:41 GMT</pubDate>
+            <content:encoded><![CDATA[20,800원]]></content:encoded>
+            <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202406/bf0322a24c47a0d45829c9b91068622e.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[피타입 (P-TYPE) / 2집 The Vintage (Cassette) *예약상품 (6월 17일부터 발송) (김밥레코즈 ─ Pre-Order)]]></title>
@@ -504,14 +504,6 @@
             <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202404/e3f0ed785200eb0a42ec7404e119193c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Manic Street Preachers / This Is My Truth Tell Me Yours: 20 Year Collectors' Edition (3CD Set + 32p 하드커버 포토북) *한정수량 할인 (김밥레코즈 ─ Bargain Bin)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=25033&amp;cate_no=43&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=25033&amp;cate_no=43&amp;display_group=1</guid>
-            <pubDate>Thu, 11 Apr 2024 10:09:54 GMT</pubDate>
-            <content:encoded><![CDATA[37,000원]]></content:encoded>
-            <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202404/632d67812b396bebae3ebb78156729b8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[The Clash / London Calling: 40th Anniversary Scrapbook Edition (120p 하드커버 스크랩북 + Deluxe CD) *한정수량 할인 (김밥레코즈 ─ Bargain Bin)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=25032&amp;cate_no=43&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=25032&amp;cate_no=43&amp;display_group=1</guid>
@@ -582,6 +574,14 @@
             <pubDate>Tue, 14 May 2024 10:10:34 GMT</pubDate>
             <content:encoded><![CDATA[14,500원]]></content:encoded>
             <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202403/535e2b2185410c485a675b078bd7538c.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[OST (Various) / O Brother, Where Art Thou? 오! 형제여 어디에 있는가 (CD, 한정수량 할인) (김밥레코즈 ─ Bargain Bin)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=24806&amp;cate_no=43&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=24806&amp;cate_no=43&amp;display_group=1</guid>
+            <pubDate>Fri, 14 Jun 2024 06:13:26 GMT</pubDate>
+            <content:encoded><![CDATA[14,500원]]></content:encoded>
+            <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202403/05754a4f59d7bd26c985360b97502bf4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[피타입 (P-TYPE) / 5집 Hardboiled Café (CD) *예약상품 (6월 17일부터 발송) (김밥레코즈 ─ CD ─ Korean)]]></title>
