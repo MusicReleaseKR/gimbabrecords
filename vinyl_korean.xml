@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ Vinyl ─ Korean</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 14 Jun 2024 09:11:34 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Jun 2024 10:11:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[BLACKPINK (블랙핑크) / THE ALBUM (Pink Opaque Vinyl, Gatefold)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=25587&amp;cate_no=52&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=25587&amp;cate_no=52&amp;display_group=1</guid>
+            <pubDate>Fri, 14 Jun 2024 10:11:34 GMT</pubDate>
+            <content:encoded><![CDATA[50,000원]]></content:encoded>
+            <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202406/cf6e0785071a37ebce156ecc80d68107.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[피타입 (P-TYPE) / 5집 Hardboiled Café (Vinyl, 2LP, 사인반, Limited Edition) *예약상품 (6월 17일부터 발송)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=25578&amp;cate_no=52&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Tue, 21 May 2024 10:11:10 GMT</pubDate>
             <content:encoded><![CDATA[49,000원]]></content:encoded>
             <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202405/575a3fdaf674f45ab24ab929097d33b3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Peggy Gou / I Hear You (Vinyl, Limited Korean Edition, 포토카드 수록) / 1인 1매만 구매 가능]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=25372&amp;cate_no=52&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=25372&amp;cate_no=52&amp;display_group=1</guid>
-            <pubDate>Thu, 30 May 2024 09:13:22 GMT</pubDate>
-            <content:encoded><![CDATA[44,900원]]></content:encoded>
-            <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202405/54fa27109bd16f65711aad6b8681d2c8.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
