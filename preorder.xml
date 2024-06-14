@@ -4,9 +4,57 @@
         <title>김밥레코즈 ─ Pre-Order</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 14 Jun 2024 13:13:10 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Jun 2024 14:12:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[toe / Hear You (CD) *예약상품 (7월초 배송 예정)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=25605&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=25605&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Fri, 14 Jun 2024 14:10:49 GMT</pubDate>
+            <content:encoded><![CDATA[30,000원]]></content:encoded>
+            <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202406/29a6e68b92f92ab2ab42692df1e51573.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[toe / The Book About My Idle Plot On A Vague Anxiety (CD) *예약상품 (7월초 배송 예정)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=25604&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=25604&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Fri, 14 Jun 2024 14:10:49 GMT</pubDate>
+            <content:encoded><![CDATA[26,500원]]></content:encoded>
+            <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202406/e38076e80dba87f1571fecc774bfa4a3.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[toe / Songs, Ideas, We Forgot (CD) *예약상품 (7월초 배송 예정)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=25603&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=25603&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Fri, 14 Jun 2024 14:10:49 GMT</pubDate>
+            <content:encoded><![CDATA[17,700원]]></content:encoded>
+            <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202406/131dc23b66ae60d041c17059a9ea271f.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[toe / The Future Is Now (CD) *예약상품 (7월초 배송 예정)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=25602&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=25602&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Fri, 14 Jun 2024 14:10:49 GMT</pubDate>
+            <content:encoded><![CDATA[19,900원]]></content:encoded>
+            <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202406/17db5ed45d83c6ad57fdc6dd72130a7b.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[toe / For Long Tomorrow (CD) *예약상품 (7월초 배송 예정)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=25601&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=25601&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Fri, 14 Jun 2024 14:10:49 GMT</pubDate>
+            <content:encoded><![CDATA[28,500원]]></content:encoded>
+            <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202406/18d9fd17eac0f75bce003f5d3d4be5b5.jpeg" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[toe / New Sentimentality (CD) *예약상품 (7월초 배송 예정)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=25600&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=25600&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Fri, 14 Jun 2024 14:10:49 GMT</pubDate>
+            <content:encoded><![CDATA[19,000원]]></content:encoded>
+            <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202406/e0701caabe7eac7fb55000b7e647d4c9.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[피타입 (P-TYPE) / 5집 Hardboiled Café (Vinyl, 2LP, 사인반, Limited Edition) *예약상품 (6월 17일부터 발송)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=25578&amp;cate_no=42&amp;display_group=1</link>
@@ -54,54 +102,6 @@
             <pubDate>Wed, 12 Jun 2024 05:09:37 GMT</pubDate>
             <content:encoded><![CDATA[58,000원]]></content:encoded>
             <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202405/36f471126c31a1d2f3a03eae0f461c8d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Oasis / Definitely Maybe (30th Anniversary Deluxe 4LP) *예약상품 (9월 6일~12일 사이 배송 예정)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=25420&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=25420&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Tue, 11 Jun 2024 10:10:52 GMT</pubDate>
-            <content:encoded><![CDATA[106,500원]]></content:encoded>
-            <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202405/b3d8e0d8d99dc0ccf81ecd04fc74ca18.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Oasis / Definitely Maybe (30th Anniversary 2CD) *예약상품 (9월 6일~12일 사이 배송 예정)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=25418&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=25418&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Tue, 11 Jun 2024 10:10:52 GMT</pubDate>
-            <content:encoded><![CDATA[32,000원]]></content:encoded>
-            <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202405/a897a73bd5c51bf1d7e8708da5691eb3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Oasis / Definitely Maybe (30th Anniversary, Limited Strawberries and Cream Vinyl 2LP) *예약상품 (9월 6일~12일 사이 배송 예정)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=25419&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=25419&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Tue, 11 Jun 2024 10:10:52 GMT</pubDate>
-            <content:encoded><![CDATA[63,500원]]></content:encoded>
-            <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202405/24bf781854dd0e420d2b6cce310a7421.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Stevie Wonder / Songs In The Key Of Life (2LP + Bonus 7" Vinyl) *예약상품 (6월말 배송 예정)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=14699&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=14699&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Sat, 08 Jun 2024 16:11:57 GMT</pubDate>
-            <content:encoded><![CDATA[62,000원]]></content:encoded>
-            <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/20200331/fdaf7aed54c1400058cd1065d262c325.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Pictured Resort / Overdreamt (White Colored Vinyl) *예약상품 (8월초 배송 예정)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=25514&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=25514&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Thu, 06 Jun 2024 06:12:33 GMT</pubDate>
-            <content:encoded><![CDATA[41,500원]]></content:encoded>
-            <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202406/b4c0cea514136aa965c8bec9c9c4d0d5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Various Artists / W3NG (Coast to Coast Clear Vinyl) *예약상품 (6월 20일 이후 배송 예정)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=25363&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=25363&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Tue, 11 Jun 2024 04:11:16 GMT</pubDate>
-            <content:encoded><![CDATA[35,500원]]></content:encoded>
-            <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202405/1269b0158d4bd87cc9e141743d731e44.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
