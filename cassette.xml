@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ Cassette</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 14 Jun 2024 14:12:40 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Jun 2024 15:11:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[toe  / Mother (Feat. Bosstino, 5lack) (Limited Cassette) *예약상품 (7월초 배송 예정)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=25599&amp;cate_no=26&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=25599&amp;cate_no=26&amp;display_group=1</guid>
+            <pubDate>Fri, 14 Jun 2024 15:09:38 GMT</pubDate>
+            <content:encoded><![CDATA[22,500원]]></content:encoded>
+            <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202406/258fc8e46256717d1e2fec90b4550105.jpeg" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[피타입 (P-TYPE) / 2집 The Vintage (Cassette) *예약상품 (6월 17일부터 발송)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=25581&amp;cate_no=26&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Fri, 23 Feb 2024 06:11:48 GMT</pubDate>
             <content:encoded><![CDATA[15,000원]]></content:encoded>
             <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202402/b4e22d4cc50af6079e896d5796b98c24.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[J Foerster, N Kramer / Habitat (Cassette)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=24536&amp;cate_no=26&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=24536&amp;cate_no=26&amp;display_group=1</guid>
-            <pubDate>Tue, 12 Mar 2024 10:08:36 GMT</pubDate>
-            <content:encoded><![CDATA[25,500원]]></content:encoded>
-            <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202402/4f7fb06a79911e921ee77104a1bd3330.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
