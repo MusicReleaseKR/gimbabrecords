@@ -4,7 +4,7 @@
         <title>김밥레코즈 ─ Vinyl</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 15 Jun 2024 15:11:11 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 15 Jun 2024 16:13:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,14 +14,6 @@
             <pubDate>Fri, 14 Jun 2024 15:09:31 GMT</pubDate>
             <content:encoded><![CDATA[30,500원]]></content:encoded>
             <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202406/2f443f1c4bf98cd5a2820887fbb8b197.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Various Artists / Mr Bongo Record Club Volume 6 (Black Vinyl, 2LP)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=25595&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=25595&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Fri, 14 Jun 2024 10:09:42 GMT</pubDate>
-            <content:encoded><![CDATA[45,000원]]></content:encoded>
-            <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202406/bf62b588dcf91c13fa1238fa98a32a1d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Raul Gomez / Raul Gomez (Vinyl)]]></title>
@@ -64,14 +56,6 @@
             <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202406/394ee4b9fbb79e154a52c39364ff2cb3.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Counting Crows / August And Everything After (Vinyl, 2LP) *한정수량 할인]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=25589&amp;cate_no=25&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=25589&amp;cate_no=25&amp;display_group=1</guid>
-            <pubDate>Fri, 14 Jun 2024 10:09:42 GMT</pubDate>
-            <content:encoded><![CDATA[56,500원]]></content:encoded>
-            <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202406/8299c7f337fc5ac3af3149de9871ad9d.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Slash / Orgy Of The Damned (Vinyl, 2LP)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=25588&amp;cate_no=25&amp;display_group=1</link>
             <guid>http://gimbabrecords.com/product/detail.html?product_no=25588&amp;cate_no=25&amp;display_group=1</guid>
@@ -102,6 +86,22 @@
             <pubDate>Sat, 15 Jun 2024 04:10:42 GMT</pubDate>
             <content:encoded><![CDATA[55,000원]]></content:encoded>
             <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202406/1be9e22e43e861100bed3a03670f3e0c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Modest Mouse / Good News For People Who Love Bad News (Opaque Baby Pink & Opaque Spring Green Vinyl, 2LP, 20th Anniversary Deluxe Edition)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=25584&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=25584&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Sat, 15 Jun 2024 16:11:37 GMT</pubDate>
+            <content:encoded><![CDATA[57,500원]]></content:encoded>
+            <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202406/47df8fd57dbaaf914c1291d79c11c2e8.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Mdou Moctar / Funeral For Justice (Vinyl)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=25583&amp;cate_no=25&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=25583&amp;cate_no=25&amp;display_group=1</guid>
+            <pubDate>Sat, 15 Jun 2024 16:11:37 GMT</pubDate>
+            <content:encoded><![CDATA[44,500원]]></content:encoded>
+            <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202406/838fbb948bd68508cc5e5d6b3f60d0f5.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
