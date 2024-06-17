@@ -4,7 +4,7 @@
         <title>김밥레코즈 ─ Vinyl ─ Korean</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 17 Jun 2024 03:12:50 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Jun 2024 04:14:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Fri, 14 Jun 2024 10:11:34 GMT</pubDate>
             <content:encoded><![CDATA[50,000원]]></content:encoded>
             <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202406/cf6e0785071a37ebce156ecc80d68107.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[피타입 (P-TYPE) / 5집 Hardboiled Café (Vinyl, 2LP, 사인반, Limited Edition) *예약상품 (6월 17일부터 발송)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=25578&amp;cate_no=52&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=25578&amp;cate_no=52&amp;display_group=1</guid>
+            <pubDate>Mon, 17 Jun 2024 04:14:43 GMT</pubDate>
+            <content:encoded><![CDATA[80,200원]]></content:encoded>
+            <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202406/e076cbb990a596ef281692414d09a7a3.jpeg" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[어떤날 / 2집 어떤날 II (1960-1965 (2019 조동익 Remastered) (Clear Vinyl) *예약상품 (6월 25일 발매 예정, 6월 21일 주문 마감)]]></title>
@@ -94,14 +102,6 @@
             <pubDate>Sat, 15 Jun 2024 16:13:30 GMT</pubDate>
             <content:encoded><![CDATA[44,900원]]></content:encoded>
             <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202405/54fa27109bd16f65711aad6b8681d2c8.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[Various Artists / 여름 [JAMESRECORD COMPILATION] (White Rabbit Transparent Colored Vinyl)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=25371&amp;cate_no=52&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=25371&amp;cate_no=52&amp;display_group=1</guid>
-            <pubDate>Sun, 16 Jun 2024 05:11:55 GMT</pubDate>
-            <content:encoded><![CDATA[45,000원]]></content:encoded>
-            <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202405/f055ffbce0104d42ba72462b966bafca.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
