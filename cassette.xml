@@ -4,9 +4,17 @@
         <title>김밥레코즈 ─ Cassette</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 20 Jun 2024 07:10:58 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Jun 2024 08:14:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Alvvays / Blue Rev (Cassette)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=25638&amp;cate_no=26&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=25638&amp;cate_no=26&amp;display_group=1</guid>
+            <pubDate>Thu, 20 Jun 2024 08:12:06 GMT</pubDate>
+            <content:encoded><![CDATA[19,000원]]></content:encoded>
+            <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202406/9e9897913e4537659058d76b0da64cc2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[피타입 (P-TYPE) / 2집 The Vintage (Cassette)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=25581&amp;cate_no=26&amp;display_group=1</link>
@@ -94,14 +102,6 @@
             <pubDate>Fri, 23 Feb 2024 06:11:48 GMT</pubDate>
             <content:encoded><![CDATA[15,000원]]></content:encoded>
             <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202402/b4e22d4cc50af6079e896d5796b98c24.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sam Wilkes / One Theme & Subsequent Improvisation (Cassette,Clear Shell)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=24535&amp;cate_no=26&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=24535&amp;cate_no=26&amp;display_group=1</guid>
-            <pubDate>Tue, 18 Jun 2024 05:10:13 GMT</pubDate>
-            <content:encoded><![CDATA[25,500원]]></content:encoded>
-            <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202402/8d0e12d83e202a8d66137fdc0ef5a352.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
