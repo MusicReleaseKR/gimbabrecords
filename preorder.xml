@@ -4,9 +4,25 @@
         <title>김밥레코즈 ─ Pre-Order</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 20 Jun 2024 14:10:18 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Jun 2024 15:11:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[어떤날 / 1집 어떤날Ⅰ1960-1965 (2019 조동익 Remastered) (Clear Vinyl) *예약상품 (6월 25일 발매 예정, 6월 21일 주문 마감)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=25527&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=25527&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Thu, 20 Jun 2024 15:10:09 GMT</pubDate>
+            <content:encoded><![CDATA[44,000원]]></content:encoded>
+            <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202406/272d6b159f4c4042344b7f3224567995.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[어떤날 / 2집 어떤날 II (1960-1965 (2019 조동익 Remastered) (Clear Vinyl) *예약상품 (6월 25일 발매 예정, 6월 21일 주문 마감)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=25528&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=25528&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Thu, 20 Jun 2024 15:10:09 GMT</pubDate>
+            <content:encoded><![CDATA[44,000원]]></content:encoded>
+            <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202406/39c881b2e37757229aae1356ddf11ca3.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Various Artists / SCA2 (Vinyl) *예약상품 (6월 26일 이후 발송 예정)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=25654&amp;cate_no=42&amp;display_group=1</link>
@@ -86,22 +102,6 @@
             <pubDate>Tue, 18 Jun 2024 05:10:25 GMT</pubDate>
             <content:encoded><![CDATA[17,700원]]></content:encoded>
             <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202406/131dc23b66ae60d041c17059a9ea271f.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[toe / The Book About My Idle Plot On A Vague Anxiety (CD) *예약상품 (7월초 배송 예정)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=25604&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=25604&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Tue, 18 Jun 2024 05:10:25 GMT</pubDate>
-            <content:encoded><![CDATA[26,500원]]></content:encoded>
-            <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202406/e38076e80dba87f1571fecc774bfa4a3.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[toe / Hear You (CD) *예약상품 (7월초 배송 예정)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=25605&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=25605&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Tue, 18 Jun 2024 05:10:25 GMT</pubDate>
-            <content:encoded><![CDATA[30,000원]]></content:encoded>
-            <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202406/29a6e68b92f92ab2ab42692df1e51573.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
