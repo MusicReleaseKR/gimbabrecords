@@ -4,9 +4,25 @@
         <title>김밥레코즈 ─ Pre-Order</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 20 Jun 2024 10:11:41 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Jun 2024 11:09:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Various Artists / SCA2 (Vinyl) *예약상품 (6월 26일 이후 발송 예정)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=25654&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=25654&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Thu, 20 Jun 2024 11:08:07 GMT</pubDate>
+            <content:encoded><![CDATA[38,000원]]></content:encoded>
+            <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202406/b5b2ae5f4a0f07e0f22eae0f38804c81.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Wona / Happy Trippy Creepy (12’’ Single Vinyl) *예약상품 (6월 26일 이후 발송 예정)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=25653&amp;cate_no=42&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=25653&amp;cate_no=42&amp;display_group=1</guid>
+            <pubDate>Thu, 20 Jun 2024 11:08:07 GMT</pubDate>
+            <content:encoded><![CDATA[32,000원]]></content:encoded>
+            <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202406/d63677a61fd5d35f2bd88c5fe0e6b6be.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[키드밀리 (Kid Milli) / 정규 2집 BEIGE (2LP, 초도 한정 아티스트 친필사인반) *예약상품 (7월 31일 발매 예정)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=25180&amp;cate_no=42&amp;display_group=1</link>
@@ -86,22 +102,6 @@
             <pubDate>Tue, 18 Jun 2024 05:10:25 GMT</pubDate>
             <content:encoded><![CDATA[30,000원]]></content:encoded>
             <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202406/29a6e68b92f92ab2ab42692df1e51573.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[toe / That's Another Story (CD) *예약상품 (7월초 배송 예정입니다.)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=25606&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=25606&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Fri, 14 Jun 2024 15:09:51 GMT</pubDate>
-            <content:encoded><![CDATA[28,000원]]></content:encoded>
-            <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202406/934b6c3e33872f6bf4d14fb812a28754.jpeg" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[toe / Our Latest Number (CD) *예약상품 (7월초 배송 예정)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=25607&amp;cate_no=42&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=25607&amp;cate_no=42&amp;display_group=1</guid>
-            <pubDate>Fri, 14 Jun 2024 15:09:51 GMT</pubDate>
-            <content:encoded><![CDATA[22,000원]]></content:encoded>
-            <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202406/d88a2ae2291c5d24c2d8e0d59885a468.jpeg" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
