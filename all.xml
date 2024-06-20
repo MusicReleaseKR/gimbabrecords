@@ -4,17 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 20 Jun 2024 04:12:39 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Jun 2024 05:10:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[Raul Gomez / Raul Gomez (CD) (김밥레코즈 ─ CD)]]></title>
-            <link>http://gimbabrecords.com/product/detail.html?product_no=25637&amp;cate_no=24&amp;display_group=1</link>
-            <guid>http://gimbabrecords.com/product/detail.html?product_no=25637&amp;cate_no=24&amp;display_group=1</guid>
-            <pubDate>Wed, 19 Jun 2024 08:11:48 GMT</pubDate>
-            <content:encoded><![CDATA[28,000원]]></content:encoded>
-            <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202406/3f8dd71893bc081d846b01fe9e41239e.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[Joe Henderson, Chick Corea, Ron Carter, Billy Higgins / Mirror, Mirror (CD, HQ Analogue Remastering) (김밥레코즈 ─ CD)]]></title>
             <link>http://gimbabrecords.com/product/detail.html?product_no=25635&amp;cate_no=24&amp;display_group=1</link>
@@ -102,6 +94,14 @@
             <pubDate>Wed, 19 Jun 2024 14:08:25 GMT</pubDate>
             <content:encoded><![CDATA[28,500원]]></content:encoded>
             <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202406/8358f9709bd7b97dd501f9064356c935.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[King Crimson / The Elements (2015 Tour Box) (2CD + 24p 부클릿, 하드커버 책자) *한정수량 할인 (김밥레코즈 ─ CD)]]></title>
+            <link>http://gimbabrecords.com/product/detail.html?product_no=25622&amp;cate_no=24&amp;display_group=1</link>
+            <guid>http://gimbabrecords.com/product/detail.html?product_no=25622&amp;cate_no=24&amp;display_group=1</guid>
+            <pubDate>Thu, 20 Jun 2024 05:08:52 GMT</pubDate>
+            <content:encoded><![CDATA[30,000원]]></content:encoded>
+            <enclosure url="https://cafe24img.poxo.com/gimbabrecords/web/product/medium/202406/45e0df3ee4058f3d3e8a9cfdef07fd93.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[OST / Water Boys 워터보이즈 (극장판) OST (Vinyl) *예약상품 (10월초 배송 예정) (김밥레코즈 ─ Vinyl)]]></title>
